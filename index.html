@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>经济学产业政策前沿追踪</title>
+  <meta name="description" content="追踪经济学顶刊、field top 期刊和 NBER Working Papers 中关于产业政策、创新、绿色发展与人工智能的最新研究。">
+  <link rel="stylesheet" href="assets/css/site.css">
+  <script src="assets/js/app.js" defer></script>
+</head>
+<body>
+  <header class="topbar">
+    <div class="topbar-inner">
+      <div>
+        <p class="eyebrow">Econ Policy Frontier Tracker</p>
+        <h1>经济学顶刊 + Field Top + NBER 主题追踪</h1>
+        <p class="subtitle">聚焦产业政策、创新、绿色发展与人工智能，按最新期目录和 NBER 新近工作论文自动筛选。</p>
+      </div>
+      <div class="topbar-actions">
+        <span id="update-time">加载中...</span>
+        <button id="refresh-btn" type="button">刷新数据</button>
+        <a href="data/policy_frontier.json" target="_blank" rel="noopener">JSON</a>
+      </div>
+    </div>
+  </header>
+
+  <main class="layout">
+    <section class="toolbar" aria-label="筛选条件">
+      <label class="field">
+        <span>主题</span>
+        <select id="topic-filter">
+          <option value="">全部主题</option>
+        </select>
+      </label>
+
+      <label class="field">
+        <span>来源类型</span>
+        <select id="source-type-filter">
+          <option value="">全部来源</option>
+          <option value="journal">期刊</option>
+          <option value="nber">NBER</option>
+        </select>
+      </label>
+
+      <label class="field">
+        <span>期刊/来源</span>
+        <select id="source-filter">
+          <option value="">全部期刊/来源</option>
+        </select>
+      </label>
+
+      <label class="field field-search">
+        <span>关键词</span>
+        <input id="search-input" type="search" placeholder="industrial policy / innovation / green / AI">
+      </label>
+    </section>
+
+    <section id="summary-cards" class="summary-cards" aria-live="polite"></section>
+    <section id="topic-strip" class="topic-strip" aria-live="polite"></section>
+    <section id="error-box" class="error-box" hidden></section>
+    <section id="source-list" class="source-list" aria-live="polite"></section>
+  </main>
+</body>
+</html>
+
