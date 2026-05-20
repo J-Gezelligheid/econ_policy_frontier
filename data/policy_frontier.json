@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-18 10:53:27",
+  "updated_at": "2026-05-20 14:48:57",
   "schema_version": 1,
   "translation": {
     "engine": "kimi",
@@ -270,18 +270,6 @@
         "total_in_issue": 14,
         "papers": [
           {
-            "title_en": "The Complexity of Multidimensional Learning in Agriculture",
-            "title_zh": "",
-            "url": "https://doi.org/10.3982/ecta22974",
-            "authors": "Rachid Laajaj, Karen Macours",
-            "date": "2026-01-01",
-            "abstract_en": "Studies on agricultural technology adoption often focus on one input, practice, or package, which is analytically useful, but may overlook the complexities involved with multidimensional learning needed for a lot of agricultural decisions. In Kenya, we study farmers' dynamic learning (from oneself and others) and adoption decisions over six seasons after randomly inviting them to participate in agronomic research trials, comparing different combinations of inputs during three consecutive seasons. As a response to the trials, adoption increases steadily despite the absence of positive profits multiple seasons after exposure to the trials. Know‐how increases rapidly and faster for high skill farmers who experiment the most, at the cost of making new mistakes. The findings are consistent with a theoretical model with multidimensionality of input and practice decisions and differential learning from one's own experience by skills, where complementarities imply that adoption of an input requires finding how to re‐optimize other dimensions, which adds to the cost of adoption.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新"
-            ]
-          },
-          {
             "title_en": "Firm Accommodation After Workplace Disability: Labor Market Impacts and Implications for Subsidy Design",
             "title_zh": "",
             "url": "https://doi.org/10.3982/ecta22565",
@@ -291,6 +279,18 @@
             "abstract_zh": "",
             "matched_topics": [
               "产业政策"
+            ]
+          },
+          {
+            "title_en": "The Complexity of Multidimensional Learning in Agriculture",
+            "title_zh": "",
+            "url": "https://doi.org/10.3982/ecta22974",
+            "authors": "Rachid Laajaj, Karen Macours",
+            "date": "2026-01-01",
+            "abstract_en": "Studies on agricultural technology adoption often focus on one input, practice, or package, which is analytically useful, but may overlook the complexities involved with multidimensional learning needed for a lot of agricultural decisions. In Kenya, we study farmers' dynamic learning (from oneself and others) and adoption decisions over six seasons after randomly inviting them to participate in agronomic research trials, comparing different combinations of inputs during three consecutive seasons. As a response to the trials, adoption increases steadily despite the absence of positive profits multiple seasons after exposure to the trials. Know‐how increases rapidly and faster for high skill farmers who experiment the most, at the cost of making new mistakes. The findings are consistent with a theoretical model with multidimensionality of input and practice decisions and differential learning from one's own experience by skills, where complementarities imply that adoption of an input requires finding how to re‐optimize other dimensions, which adds to the cost of adoption.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新"
             ]
           },
           {
@@ -588,7 +588,7 @@
         "issue_title": "Published 2026-06",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-development-economics",
         "matched_count": 0,
-        "total_in_issue": 43,
+        "total_in_issue": 47,
         "papers": [],
         "error": null
       },
@@ -781,14 +781,26 @@
         "resolved_name": "Research Policy",
         "issue_title": "Volume 55, Issue 8",
         "issue_url": "https://www.sciencedirect.com/journal/research-policy",
-        "matched_count": 2,
-        "total_in_issue": 4,
+        "matched_count": 3,
+        "total_in_issue": 5,
         "papers": [
           {
             "title_en": "Making sense of wickedness: Directionality heuristics for challenge-led innovation policy",
             "title_zh": "",
             "url": "https://doi.org/10.1016/j.respol.2026.105513",
             "authors": "Matthias Mueller, Michael P. Schlaile, Stephanie Lang, Matthijs J. Janssen, Iris Wanzenböck, Kristina Bogner, Jana Zscheischler, Michael Schramm, et al.",
+            "date": "2026-10-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新"
+            ]
+          },
+          {
+            "title_en": "Greening but concentrating? The unintended effects of China's voluntary participatory environmental regulations on firms' innovation portfolios",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.respol.2026.105531",
+            "authors": "Dongyang Zhang, Dingchuan Bai, Yurun He, Rui Guo",
             "date": "2026-10-01",
             "abstract_en": "",
             "abstract_zh": "",
@@ -1121,7 +1133,7 @@
         "issue_title": "Published 2026-06",
         "issue_url": "https://www.sciencedirect.com/journal/energy-economics",
         "matched_count": 12,
-        "total_in_issue": 32,
+        "total_in_issue": 34,
         "papers": [
           {
             "title_en": "Decreasing energy-related carbon inequality in inter-provincial trade: Evidence from carbon emissions embodied in Beijing-Tianjin-Hebei region and its surrounding areas",
@@ -1161,10 +1173,10 @@
             ]
           },
           {
-            "title_en": "Does climate change affect the economic adaptability of community “SGLS” systems?",
+            "title_en": "Corrigendum to ‘Optimal flexible power deployment strategies in China considering the emission trading system’ [Energy Economics, 153, (2026), 109099]",
             "title_zh": "",
-            "url": "https://doi.org/10.1016/j.eneco.2026.109374",
-            "authors": "Weidong Chen, Sihao Chen",
+            "url": "https://doi.org/10.1016/j.eneco.2026.109370",
+            "authors": "Zhiwei Liu, Boqiang Lin",
             "date": "2026-06-01",
             "abstract_en": "",
             "abstract_zh": "",
@@ -1173,10 +1185,10 @@
             ]
           },
           {
-            "title_en": "Corrigendum to ‘Optimal flexible power deployment strategies in China considering the emission trading system’ [Energy Economics, 153, (2026), 109099]",
+            "title_en": "Does climate change affect the economic adaptability of community “SGLS” systems?",
             "title_zh": "",
-            "url": "https://doi.org/10.1016/j.eneco.2026.109370",
-            "authors": "Zhiwei Liu, Boqiang Lin",
+            "url": "https://doi.org/10.1016/j.eneco.2026.109374",
+            "authors": "Weidong Chen, Sihao Chen",
             "date": "2026-06-01",
             "abstract_en": "",
             "abstract_zh": "",
@@ -1257,10 +1269,10 @@
             ]
           },
           {
-            "title_en": "Spread of supply risks in the trade network of critical metals for energy transition: A case study of manganese ore",
+            "title_en": "A machine-learning approach to identifying drivers of CO₂ emissions in China's computing power infrastructure",
             "title_zh": "",
-            "url": "https://doi.org/10.1016/j.eneco.2026.109337",
-            "authors": "Yuxin Ji, Xiaoqing Hao, Zhouhao Pang",
+            "url": "https://doi.org/10.1016/j.eneco.2026.109346",
+            "authors": "Pin Li, Gejirifu De, Jinsuo Zhang, Shaohui Zou, Hong Liu, Yaxin Li",
             "date": "2026-06-01",
             "abstract_en": "",
             "abstract_zh": "",
@@ -1289,11 +1301,81 @@
         "source_type": "nber",
         "name": "NBER Working Papers",
         "category": "Working papers",
-        "issue_title": "Recent NBER Working Papers through 2026-05-15",
+        "issue_title": "Recent NBER Working Papers through 2026-05-21",
         "issue_url": "https://www.nber.org/papers",
         "matched_count": 12,
         "total_recent_considered": 220,
         "papers": [
+          {
+            "title_en": "Scaling Point-in-Time Language Models",
+            "title_zh": "",
+            "url": "https://www.nber.org/papers/w35247",
+            "authors": "Bryan T. Kelly, Semyon Malamud, Johannes Schwab, Teng Andrea Xu",
+            "date": "2026-05-21",
+            "abstract_en": "Large language models trained on unrestricted internet corpora inevitably embed information from the future, introducing lookahead bias that compromises the validity of backtests and causal inference in finance and the social sciences. Point-in-time language modelsâtrained exclusively on text available up to each calendar dateâeliminate this leakage by construction, but existing efforts typically produce models that lag substantially behind their unconstrained counterparts. We show that this performance gap can be narrowed through scale. Training decoder-only transformers with up to 4 billion parameters on 1 trillion chronologically filtered tokens from FineWeb, we construct a sequence of monthly model checkpoints spanning 2013â2024. Across a range of common-sense reasoning and language understanding benchmarks, our models approach the performance of leading open-weight models of comparable size (such as Gemma-3-4B and LLaMA-7B) trained on temporally unrestricted data, although a performance gap remains on several tasks. Finally, in a strict out-of-sample economic evaluation task, portfolios built from point-in-time embeddings achieve robust positive Sharpe ratios and perform close to full-sample counterparts that violate temporal validity, indicating that chronologically consistent language models can extract economically meaningful signals without relying on look-ahead bias. We release the complete pipelineâincluding dataset construction, training infrastructure, and evaluation codeâto enable reproducible point-in-time language modeling and to support research applications that require strict temporal validity.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "人工智能"
+            ],
+            "paper_id": "w35247",
+            "programs": []
+          },
+          {
+            "title_en": "Preference for Explainable AI",
+            "title_zh": "",
+            "url": "https://www.nber.org/papers/w35240",
+            "authors": "Alex Chan",
+            "date": "2026-05-21",
+            "abstract_en": "Participants acted as loan officers deciding whether to approve real $10,000-loans issued by a private U.S. lender using an AIâs default-risk predictions. When explanations revealed that the AI penalized non-White or female borrowers, participants were more likely to override the AIâs profit-maximizing recommendation. When their bonuses depended on repayment, however, they sought predictions but avoided explanations, consistent with willful ignorance; this effect faded when explanations were framed as purely financial or demographics were hidden. A secondary experiment reveals a novel bias: participants failed to reason contingently and undervalued explanations even when these complemented private information and improved decision accuracy.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "人工智能"
+            ],
+            "paper_id": "w35240",
+            "programs": []
+          },
+          {
+            "title_en": "The (Lack of) Efficacy of Social Belonging and Growth Mindset Interventions Among College Students",
+            "title_zh": "",
+            "url": "https://www.nber.org/papers/w35230",
+            "authors": "Abid N. Alam, Philip Oreopoulos, Uros Petronijevic",
+            "date": "2026-05-21",
+            "abstract_en": "Using four large-scale experiments across two major Canadian universities, we experimentally evaluate the effects of growth mindset and social belonging interventions on student outcomes. In a sample of nearly 12,000 students, we find no immediate or dynamic effects on student grades and no effect on persistence through university. We further combine survey and administrative data with machine learning methods to explore treatment effect heterogeneity, finding no evidence of meaningful variation in treatment effects across student subgroups. Despite the recent promise of these light-touch interventions, our findings indicate further research is required to identify the contexts in which their benefits generalize.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "人工智能"
+            ],
+            "paper_id": "w35230",
+            "programs": []
+          },
+          {
+            "title_en": "The Limits of Targeted Hiring Subsidies: Evidence from the Work Opportunity Tax Credit",
+            "title_zh": "",
+            "url": "https://www.nber.org/papers/w35229",
+            "authors": "Manisha Jain, Corina Mommaerts, Jeffrey Weaver",
+            "date": "2026-05-21",
+            "abstract_en": "Employer-side wage subsidies are widely used to promote employment among disadvantaged workers. We study how such subsidies translate into firm hiring behavior using the federal Work Opportunity Tax Credit, which subsidizes up to 40% of first-year wages and covers over two million hires annually. Using linked administrative data from Wisconsin and multiple quasi-experimental designs, we find consistent and precise null effects on hiring, earnings, retention, and related outcomes across designs and firm types. Original data on firm hiring practices suggest two mechanisms that can limit employer-side subsidy efficacy: perceived legal risks discourage eligibility screening and organizational frictions attenuate decision-makersâ responsiveness.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "产业政策"
+            ],
+            "paper_id": "w35229",
+            "programs": []
+          },
+          {
+            "title_en": "The Optimal Use of AI in Financial Regulation",
+            "title_zh": "",
+            "url": "https://www.nber.org/papers/w35227",
+            "authors": "Christopher Clayton, Antonio Coppola",
+            "date": "2026-05-21",
+            "abstract_en": "We study whether AI methods applied to large-scale portfolio holdings data can improve macroprudential financial regulation. We build a graph-based deep learning model tailored to security-level data on the holdings of financial intermediaries. The architecture incorporates economic priors and learns latent representations of both assets and investors from the network structure of portfolio positions. Applied to the universe of non-bank financial intermediaries, covering nearly $40 trillion in wealth, the model substantially outperforms existing approaches in out-of-sample forecasts of intermediary trading behavior, including in crisis episodes. The model has more than ten times the explanatory power for the cross-sectional variation in asset returns during stress events compared to traditional approaches, and it outperforms existing systemic risk metrics at the institution level. Its learned representations show that the holdings network encodes rich, economically interpretable information about fire- sale vulnerability. The architecture is fully inductive, producing informative estimates even when entire asset classes or investors are withheld from training. We embed our empirical approach into a macroprudential optimal policy framework to formalize why these objects matter for policy and welfare. We show that even in an equilibrium environment subject to the Lucas critique, the predictive information from the model improves welfare by sharpening the cross-sectional targeting of policy interventions, and we demonstrate a complementarity between prediction and structural knowledge.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "人工智能"
+            ],
+            "paper_id": "w35227",
+            "programs": []
+          },
           {
             "title_en": "California Billionaires: Wealth, Taxes, and Wealth Tax Revenue Estimates",
             "title_zh": "",
@@ -1392,77 +1474,6 @@
               "绿色发展"
             ],
             "paper_id": "w35202",
-            "programs": []
-          },
-          {
-            "title_en": "Intertemporal Arbitrage and Optimal Operation of Pumped Hydro Energy Storage",
-            "title_zh": "",
-            "url": "https://www.nber.org/papers/w35201",
-            "authors": "Isabel Figuerola-Ferretti, Eduardo S. Schwartz",
-            "date": "2026-05-14",
-            "abstract_en": "Hydropower is a renewable and flexible energy source that provides essential storage capacity and enhances grid stability. Among storage technologies, pumped hydro energy storage (PHES) remains the most cost-effective solution for long-duration energy storage and plays a key role in power systems with increasing penetration of variable renewable energy. As electricity prices become more relevant under the energy transition, understanding the optimal operation and valuation of PHES assets is increasingly important from a financial perspective. This paper develops a market-based framework that models a PHES facility as a profit-maximizing asset operating in liberalized electricity markets. Using an optimal control approach calibrated with real life technical and operational parameters of the La Muela pumped storage plant and observed electricity prices from the Spanish wholesale market, the model derives an economically intuitive trigger (switching) price governing optimal pumping and generation decisions while accounting for reservoir water inventory dynamics and electricity price uncertainty. The results show that inventory dynamics and electricity price seasonality are central to PHES valuation and optimal operation.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "绿色发展"
-            ],
-            "paper_id": "w35201",
-            "programs": []
-          },
-          {
-            "title_en": "Global Policy Spillovers: How Environmental Policies Propagate through Product Attributes",
-            "title_zh": "",
-            "url": "https://www.nber.org/papers/w35197",
-            "authors": "Koichiro Ito, James M. Sallee, Jonathan (Andrew) Smith",
-            "date": "2026-05-14",
-            "abstract_en": "How should policymakers evaluate policy impacts when firms design products for global markets? Standard economic analyses typically focus on domestic outcomes, implicitly assuming that policies affect only the jurisdiction in which they are enacted. Yet multinational firms often harmonize product design across markets, creating the potential for policies implemented in one country to generate global spillovers through changes in product attributes. We call this phenomenon \"attribute propagation\" and develop a framework to measure and assess its quantitative importance. Applying this framework to an environmental policy affecting automobiles, we find that a fuel-economy subsidy in Japan led to significant improvements in the fuel economy of vehicles sold in the United States. We then develop a model of multinational automobile markets featuring cross-market cost complementarity as a key mechanism driving attribute propagation. Using the estimated model, we conduct counterfactual simulations to quantify environmental benefits accounting for the policyâs global spillover effects. We find that global spillover effects are first-orderâa majority of the CO2 emissions reductions induced by the Japanese policy arise through its impact on the U.S. automobile market. These findings suggest that standard economic analyses that abstract from attribute propagation can substantially understate the full policy impact. More broadly, attribute propagation provides a new lens for evaluating environmental, safety, antitrust, and technology policies in a global economy.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "产业政策",
-              "绿色发展"
-            ],
-            "paper_id": "w35197",
-            "programs": []
-          },
-          {
-            "title_en": "Data Centers and Local Economies in the Age of AI: A Shift--Share Approach",
-            "title_zh": "",
-            "url": "https://www.nber.org/papers/w35194",
-            "authors": "Fernando E. Alvarez, David Argente, Joyce Chow, Diana Van Patten",
-            "date": "2026-05-08",
-            "abstract_en": "Data centers are the physical infrastructure behind cloud computing, artificial intelligence, and enterprise software. The rapid diffusion of artificial intelligence (AI) is intensifying demand for compute, accelerating investment in data centers, and raising concerns about the local economic and environmental footprint of these facilities. Their expansion creates a local policy tradeoff. A data center can bring capital investment, construction activity, and specialized employment, but it can also increase demand for electricity, land, and grid capacity. This paper studies these effects at the U.S. county level. We assemble a facility-level panel of global data centers with precise coordinates, scale metrics, and annualized revenue. We map facilities to U.S. counties and combine them with County Business Patterns, county-level IRS income, county-level house prices, and electricity prices. To address endogenous siting, we instrument for data center growth using two shift-share instruments, which leverage pre-existing proximity to InterTubes long-haul fiber nodes and the 1980 county share of U.S. urban college population as shares, and both Chinese and rest-of-the-world data center revenue growth as shifts. The IV estimates show positive effects on total employment, data-processing employment, construction employment, establishments, house prices, and electricity prices at different horizons after data center growth. We also find positive effects on tax returns, adjusted gross income, and wages, while annual payroll responds less robustly. The results suggest that data centers create measurable local activity, increase house prices, and affect local electricity markets through higher prices.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "人工智能"
-            ],
-            "paper_id": "w35194",
-            "programs": []
-          },
-          {
-            "title_en": "Algorithmic Credentialism",
-            "title_zh": "",
-            "url": "https://www.nber.org/papers/w35192",
-            "authors": "Peter Q. Blair, Rui Guo",
-            "date": "2026-05-07",
-            "abstract_en": "The paper develops a framework for evaluating credential-coded algorithmic screens under existing civil rights law. AI-powered hiring tools trained on historical data often encode and automate bachelor's degree requirements as a proxy for worker skill, producing what this paper terms algorithmic credentialism. Drawing on labor economics research on workers Skilled Through Alternative Routes (STARs), disability theory's critique of the medical model, and disparate-impact doctrine from Griggs v. Duke Power Co. through the Civil Rights Act of 1991, it argues that such screens misidentify the source of hiring exclusion, locating it in the worker rather than in the design of the selection system. This institutional-design problem is amenable to evaluation under the existing disparate-impact doctrine. Under the paper's proposed framework, a credential-coded screen producing disparate impact triggers a legal obligation to validate the screen as job-related and consistent with business necessity, with skills-based hiring supplying the less-discriminatory alternative. The paper further argues that the efficiency rationale historically offered for degree screens is weakened, not strengthened, by AI. The same computational power that automates credentialism at scale can instead match applicants to jobs on multidimensional skill profiles, making the bachelor's degree a less necessary (and less legally defensible) proxy than it was in the pre-AI labor market.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "人工智能"
-            ],
-            "paper_id": "w35192",
-            "programs": []
-          },
-          {
-            "title_en": "Deep Research on a Loop: Using AI Agents to Construct Economic Datasets",
-            "title_zh": "",
-            "url": "https://www.nber.org/papers/w35188",
-            "authors": "Santiago Afonso, Sebastian Galiani, Ramiro H. GÃ¡lvez, Raul A. Sosa",
-            "date": "2026-05-07",
-            "abstract_en": "Constructing datasets from primary sources is one of the costliest tasks in empirical economics. We propose Deep Research on a Loop (DRIL), a methodology that uses AI agents to assemble datasets from publicly available sources. DRIL applies a fixed research instrument across a mapped unit space (e.g., countries by years), with a two-stage architecture separating design from implementation. The instrument specifies variables and coding rules, an evidence policy governs sources and citations, and data quality mechanisms track gaps and uncertainty explicitly. We exercise DRIL on a 2025 update of the Global Tax Expenditures Database for eight Latin American and Caribbean countries. The run produces 129 sources and 136 evidence records, covering 22 qualitative fields fully and 6 quantitative estimate types with documented gaps, at the cost of a standard LLM subscription comparable to a few hours of research-assistant work. We argue that even partial automation of dataset construction can shift the production function of empirical economics.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "人工智能"
-            ],
-            "paper_id": "w35188",
             "programs": []
           }
         ],
@@ -1587,18 +1598,6 @@
         "total_in_issue": 14,
         "papers": [
           {
-            "title_en": "The Complexity of Multidimensional Learning in Agriculture",
-            "title_zh": "",
-            "url": "https://doi.org/10.3982/ecta22974",
-            "authors": "Rachid Laajaj, Karen Macours",
-            "date": "2026-01-01",
-            "abstract_en": "Studies on agricultural technology adoption often focus on one input, practice, or package, which is analytically useful, but may overlook the complexities involved with multidimensional learning needed for a lot of agricultural decisions. In Kenya, we study farmers' dynamic learning (from oneself and others) and adoption decisions over six seasons after randomly inviting them to participate in agronomic research trials, comparing different combinations of inputs during three consecutive seasons. As a response to the trials, adoption increases steadily despite the absence of positive profits multiple seasons after exposure to the trials. Know‐how increases rapidly and faster for high skill farmers who experiment the most, at the cost of making new mistakes. The findings are consistent with a theoretical model with multidimensionality of input and practice decisions and differential learning from one's own experience by skills, where complementarities imply that adoption of an input requires finding how to re‐optimize other dimensions, which adds to the cost of adoption.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新"
-            ]
-          },
-          {
             "title_en": "Firm Accommodation After Workplace Disability: Labor Market Impacts and Implications for Subsidy Design",
             "title_zh": "",
             "url": "https://doi.org/10.3982/ecta22565",
@@ -1608,6 +1607,18 @@
             "abstract_zh": "",
             "matched_topics": [
               "产业政策"
+            ]
+          },
+          {
+            "title_en": "The Complexity of Multidimensional Learning in Agriculture",
+            "title_zh": "",
+            "url": "https://doi.org/10.3982/ecta22974",
+            "authors": "Rachid Laajaj, Karen Macours",
+            "date": "2026-01-01",
+            "abstract_en": "Studies on agricultural technology adoption often focus on one input, practice, or package, which is analytically useful, but may overlook the complexities involved with multidimensional learning needed for a lot of agricultural decisions. In Kenya, we study farmers' dynamic learning (from oneself and others) and adoption decisions over six seasons after randomly inviting them to participate in agronomic research trials, comparing different combinations of inputs during three consecutive seasons. As a response to the trials, adoption increases steadily despite the absence of positive profits multiple seasons after exposure to the trials. Know‐how increases rapidly and faster for high skill farmers who experiment the most, at the cost of making new mistakes. The findings are consistent with a theoretical model with multidimensionality of input and practice decisions and differential learning from one's own experience by skills, where complementarities imply that adoption of an input requires finding how to re‐optimize other dimensions, which adds to the cost of adoption.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新"
             ]
           },
           {
@@ -1905,7 +1916,7 @@
         "issue_title": "Published 2026-06",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-development-economics",
         "matched_count": 0,
-        "total_in_issue": 43,
+        "total_in_issue": 47,
         "papers": [],
         "error": null
       },
@@ -2098,14 +2109,26 @@
         "resolved_name": "Research Policy",
         "issue_title": "Volume 55, Issue 8",
         "issue_url": "https://www.sciencedirect.com/journal/research-policy",
-        "matched_count": 2,
-        "total_in_issue": 4,
+        "matched_count": 3,
+        "total_in_issue": 5,
         "papers": [
           {
             "title_en": "Making sense of wickedness: Directionality heuristics for challenge-led innovation policy",
             "title_zh": "",
             "url": "https://doi.org/10.1016/j.respol.2026.105513",
             "authors": "Matthias Mueller, Michael P. Schlaile, Stephanie Lang, Matthijs J. Janssen, Iris Wanzenböck, Kristina Bogner, Jana Zscheischler, Michael Schramm, et al.",
+            "date": "2026-10-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新"
+            ]
+          },
+          {
+            "title_en": "Greening but concentrating? The unintended effects of China's voluntary participatory environmental regulations on firms' innovation portfolios",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.respol.2026.105531",
+            "authors": "Dongyang Zhang, Dingchuan Bai, Yurun He, Rui Guo",
             "date": "2026-10-01",
             "abstract_en": "",
             "abstract_zh": "",
@@ -2438,7 +2461,7 @@
         "issue_title": "Published 2026-06",
         "issue_url": "https://www.sciencedirect.com/journal/energy-economics",
         "matched_count": 12,
-        "total_in_issue": 32,
+        "total_in_issue": 34,
         "papers": [
           {
             "title_en": "Decreasing energy-related carbon inequality in inter-provincial trade: Evidence from carbon emissions embodied in Beijing-Tianjin-Hebei region and its surrounding areas",
@@ -2478,10 +2501,10 @@
             ]
           },
           {
-            "title_en": "Does climate change affect the economic adaptability of community “SGLS” systems?",
+            "title_en": "Corrigendum to ‘Optimal flexible power deployment strategies in China considering the emission trading system’ [Energy Economics, 153, (2026), 109099]",
             "title_zh": "",
-            "url": "https://doi.org/10.1016/j.eneco.2026.109374",
-            "authors": "Weidong Chen, Sihao Chen",
+            "url": "https://doi.org/10.1016/j.eneco.2026.109370",
+            "authors": "Zhiwei Liu, Boqiang Lin",
             "date": "2026-06-01",
             "abstract_en": "",
             "abstract_zh": "",
@@ -2490,10 +2513,10 @@
             ]
           },
           {
-            "title_en": "Corrigendum to ‘Optimal flexible power deployment strategies in China considering the emission trading system’ [Energy Economics, 153, (2026), 109099]",
+            "title_en": "Does climate change affect the economic adaptability of community “SGLS” systems?",
             "title_zh": "",
-            "url": "https://doi.org/10.1016/j.eneco.2026.109370",
-            "authors": "Zhiwei Liu, Boqiang Lin",
+            "url": "https://doi.org/10.1016/j.eneco.2026.109374",
+            "authors": "Weidong Chen, Sihao Chen",
             "date": "2026-06-01",
             "abstract_en": "",
             "abstract_zh": "",
@@ -2574,10 +2597,10 @@
             ]
           },
           {
-            "title_en": "Spread of supply risks in the trade network of critical metals for energy transition: A case study of manganese ore",
+            "title_en": "A machine-learning approach to identifying drivers of CO₂ emissions in China's computing power infrastructure",
             "title_zh": "",
-            "url": "https://doi.org/10.1016/j.eneco.2026.109337",
-            "authors": "Yuxin Ji, Xiaoqing Hao, Zhouhao Pang",
+            "url": "https://doi.org/10.1016/j.eneco.2026.109346",
+            "authors": "Pin Li, Gejirifu De, Jinsuo Zhang, Shaohui Zou, Hong Liu, Yaxin Li",
             "date": "2026-06-01",
             "abstract_en": "",
             "abstract_zh": "",
@@ -2607,11 +2630,81 @@
       "source_type": "nber",
       "name": "NBER Working Papers",
       "category": "Working papers",
-      "issue_title": "Recent NBER Working Papers through 2026-05-15",
+      "issue_title": "Recent NBER Working Papers through 2026-05-21",
       "issue_url": "https://www.nber.org/papers",
       "matched_count": 12,
       "total_recent_considered": 220,
       "papers": [
+        {
+          "title_en": "Scaling Point-in-Time Language Models",
+          "title_zh": "",
+          "url": "https://www.nber.org/papers/w35247",
+          "authors": "Bryan T. Kelly, Semyon Malamud, Johannes Schwab, Teng Andrea Xu",
+          "date": "2026-05-21",
+          "abstract_en": "Large language models trained on unrestricted internet corpora inevitably embed information from the future, introducing lookahead bias that compromises the validity of backtests and causal inference in finance and the social sciences. Point-in-time language modelsâtrained exclusively on text available up to each calendar dateâeliminate this leakage by construction, but existing efforts typically produce models that lag substantially behind their unconstrained counterparts. We show that this performance gap can be narrowed through scale. Training decoder-only transformers with up to 4 billion parameters on 1 trillion chronologically filtered tokens from FineWeb, we construct a sequence of monthly model checkpoints spanning 2013â2024. Across a range of common-sense reasoning and language understanding benchmarks, our models approach the performance of leading open-weight models of comparable size (such as Gemma-3-4B and LLaMA-7B) trained on temporally unrestricted data, although a performance gap remains on several tasks. Finally, in a strict out-of-sample economic evaluation task, portfolios built from point-in-time embeddings achieve robust positive Sharpe ratios and perform close to full-sample counterparts that violate temporal validity, indicating that chronologically consistent language models can extract economically meaningful signals without relying on look-ahead bias. We release the complete pipelineâincluding dataset construction, training infrastructure, and evaluation codeâto enable reproducible point-in-time language modeling and to support research applications that require strict temporal validity.",
+          "abstract_zh": "",
+          "matched_topics": [
+            "人工智能"
+          ],
+          "paper_id": "w35247",
+          "programs": []
+        },
+        {
+          "title_en": "Preference for Explainable AI",
+          "title_zh": "",
+          "url": "https://www.nber.org/papers/w35240",
+          "authors": "Alex Chan",
+          "date": "2026-05-21",
+          "abstract_en": "Participants acted as loan officers deciding whether to approve real $10,000-loans issued by a private U.S. lender using an AIâs default-risk predictions. When explanations revealed that the AI penalized non-White or female borrowers, participants were more likely to override the AIâs profit-maximizing recommendation. When their bonuses depended on repayment, however, they sought predictions but avoided explanations, consistent with willful ignorance; this effect faded when explanations were framed as purely financial or demographics were hidden. A secondary experiment reveals a novel bias: participants failed to reason contingently and undervalued explanations even when these complemented private information and improved decision accuracy.",
+          "abstract_zh": "",
+          "matched_topics": [
+            "人工智能"
+          ],
+          "paper_id": "w35240",
+          "programs": []
+        },
+        {
+          "title_en": "The (Lack of) Efficacy of Social Belonging and Growth Mindset Interventions Among College Students",
+          "title_zh": "",
+          "url": "https://www.nber.org/papers/w35230",
+          "authors": "Abid N. Alam, Philip Oreopoulos, Uros Petronijevic",
+          "date": "2026-05-21",
+          "abstract_en": "Using four large-scale experiments across two major Canadian universities, we experimentally evaluate the effects of growth mindset and social belonging interventions on student outcomes. In a sample of nearly 12,000 students, we find no immediate or dynamic effects on student grades and no effect on persistence through university. We further combine survey and administrative data with machine learning methods to explore treatment effect heterogeneity, finding no evidence of meaningful variation in treatment effects across student subgroups. Despite the recent promise of these light-touch interventions, our findings indicate further research is required to identify the contexts in which their benefits generalize.",
+          "abstract_zh": "",
+          "matched_topics": [
+            "人工智能"
+          ],
+          "paper_id": "w35230",
+          "programs": []
+        },
+        {
+          "title_en": "The Limits of Targeted Hiring Subsidies: Evidence from the Work Opportunity Tax Credit",
+          "title_zh": "",
+          "url": "https://www.nber.org/papers/w35229",
+          "authors": "Manisha Jain, Corina Mommaerts, Jeffrey Weaver",
+          "date": "2026-05-21",
+          "abstract_en": "Employer-side wage subsidies are widely used to promote employment among disadvantaged workers. We study how such subsidies translate into firm hiring behavior using the federal Work Opportunity Tax Credit, which subsidizes up to 40% of first-year wages and covers over two million hires annually. Using linked administrative data from Wisconsin and multiple quasi-experimental designs, we find consistent and precise null effects on hiring, earnings, retention, and related outcomes across designs and firm types. Original data on firm hiring practices suggest two mechanisms that can limit employer-side subsidy efficacy: perceived legal risks discourage eligibility screening and organizational frictions attenuate decision-makersâ responsiveness.",
+          "abstract_zh": "",
+          "matched_topics": [
+            "产业政策"
+          ],
+          "paper_id": "w35229",
+          "programs": []
+        },
+        {
+          "title_en": "The Optimal Use of AI in Financial Regulation",
+          "title_zh": "",
+          "url": "https://www.nber.org/papers/w35227",
+          "authors": "Christopher Clayton, Antonio Coppola",
+          "date": "2026-05-21",
+          "abstract_en": "We study whether AI methods applied to large-scale portfolio holdings data can improve macroprudential financial regulation. We build a graph-based deep learning model tailored to security-level data on the holdings of financial intermediaries. The architecture incorporates economic priors and learns latent representations of both assets and investors from the network structure of portfolio positions. Applied to the universe of non-bank financial intermediaries, covering nearly $40 trillion in wealth, the model substantially outperforms existing approaches in out-of-sample forecasts of intermediary trading behavior, including in crisis episodes. The model has more than ten times the explanatory power for the cross-sectional variation in asset returns during stress events compared to traditional approaches, and it outperforms existing systemic risk metrics at the institution level. Its learned representations show that the holdings network encodes rich, economically interpretable information about fire- sale vulnerability. The architecture is fully inductive, producing informative estimates even when entire asset classes or investors are withheld from training. We embed our empirical approach into a macroprudential optimal policy framework to formalize why these objects matter for policy and welfare. We show that even in an equilibrium environment subject to the Lucas critique, the predictive information from the model improves welfare by sharpening the cross-sectional targeting of policy interventions, and we demonstrate a complementarity between prediction and structural knowledge.",
+          "abstract_zh": "",
+          "matched_topics": [
+            "人工智能"
+          ],
+          "paper_id": "w35227",
+          "programs": []
+        },
         {
           "title_en": "California Billionaires: Wealth, Taxes, and Wealth Tax Revenue Estimates",
           "title_zh": "",
@@ -2711,82 +2804,11 @@
           ],
           "paper_id": "w35202",
           "programs": []
-        },
-        {
-          "title_en": "Intertemporal Arbitrage and Optimal Operation of Pumped Hydro Energy Storage",
-          "title_zh": "",
-          "url": "https://www.nber.org/papers/w35201",
-          "authors": "Isabel Figuerola-Ferretti, Eduardo S. Schwartz",
-          "date": "2026-05-14",
-          "abstract_en": "Hydropower is a renewable and flexible energy source that provides essential storage capacity and enhances grid stability. Among storage technologies, pumped hydro energy storage (PHES) remains the most cost-effective solution for long-duration energy storage and plays a key role in power systems with increasing penetration of variable renewable energy. As electricity prices become more relevant under the energy transition, understanding the optimal operation and valuation of PHES assets is increasingly important from a financial perspective. This paper develops a market-based framework that models a PHES facility as a profit-maximizing asset operating in liberalized electricity markets. Using an optimal control approach calibrated with real life technical and operational parameters of the La Muela pumped storage plant and observed electricity prices from the Spanish wholesale market, the model derives an economically intuitive trigger (switching) price governing optimal pumping and generation decisions while accounting for reservoir water inventory dynamics and electricity price uncertainty. The results show that inventory dynamics and electricity price seasonality are central to PHES valuation and optimal operation.",
-          "abstract_zh": "",
-          "matched_topics": [
-            "绿色发展"
-          ],
-          "paper_id": "w35201",
-          "programs": []
-        },
-        {
-          "title_en": "Global Policy Spillovers: How Environmental Policies Propagate through Product Attributes",
-          "title_zh": "",
-          "url": "https://www.nber.org/papers/w35197",
-          "authors": "Koichiro Ito, James M. Sallee, Jonathan (Andrew) Smith",
-          "date": "2026-05-14",
-          "abstract_en": "How should policymakers evaluate policy impacts when firms design products for global markets? Standard economic analyses typically focus on domestic outcomes, implicitly assuming that policies affect only the jurisdiction in which they are enacted. Yet multinational firms often harmonize product design across markets, creating the potential for policies implemented in one country to generate global spillovers through changes in product attributes. We call this phenomenon \"attribute propagation\" and develop a framework to measure and assess its quantitative importance. Applying this framework to an environmental policy affecting automobiles, we find that a fuel-economy subsidy in Japan led to significant improvements in the fuel economy of vehicles sold in the United States. We then develop a model of multinational automobile markets featuring cross-market cost complementarity as a key mechanism driving attribute propagation. Using the estimated model, we conduct counterfactual simulations to quantify environmental benefits accounting for the policyâs global spillover effects. We find that global spillover effects are first-orderâa majority of the CO2 emissions reductions induced by the Japanese policy arise through its impact on the U.S. automobile market. These findings suggest that standard economic analyses that abstract from attribute propagation can substantially understate the full policy impact. More broadly, attribute propagation provides a new lens for evaluating environmental, safety, antitrust, and technology policies in a global economy.",
-          "abstract_zh": "",
-          "matched_topics": [
-            "产业政策",
-            "绿色发展"
-          ],
-          "paper_id": "w35197",
-          "programs": []
-        },
-        {
-          "title_en": "Data Centers and Local Economies in the Age of AI: A Shift--Share Approach",
-          "title_zh": "",
-          "url": "https://www.nber.org/papers/w35194",
-          "authors": "Fernando E. Alvarez, David Argente, Joyce Chow, Diana Van Patten",
-          "date": "2026-05-08",
-          "abstract_en": "Data centers are the physical infrastructure behind cloud computing, artificial intelligence, and enterprise software. The rapid diffusion of artificial intelligence (AI) is intensifying demand for compute, accelerating investment in data centers, and raising concerns about the local economic and environmental footprint of these facilities. Their expansion creates a local policy tradeoff. A data center can bring capital investment, construction activity, and specialized employment, but it can also increase demand for electricity, land, and grid capacity. This paper studies these effects at the U.S. county level. We assemble a facility-level panel of global data centers with precise coordinates, scale metrics, and annualized revenue. We map facilities to U.S. counties and combine them with County Business Patterns, county-level IRS income, county-level house prices, and electricity prices. To address endogenous siting, we instrument for data center growth using two shift-share instruments, which leverage pre-existing proximity to InterTubes long-haul fiber nodes and the 1980 county share of U.S. urban college population as shares, and both Chinese and rest-of-the-world data center revenue growth as shifts. The IV estimates show positive effects on total employment, data-processing employment, construction employment, establishments, house prices, and electricity prices at different horizons after data center growth. We also find positive effects on tax returns, adjusted gross income, and wages, while annual payroll responds less robustly. The results suggest that data centers create measurable local activity, increase house prices, and affect local electricity markets through higher prices.",
-          "abstract_zh": "",
-          "matched_topics": [
-            "人工智能"
-          ],
-          "paper_id": "w35194",
-          "programs": []
-        },
-        {
-          "title_en": "Algorithmic Credentialism",
-          "title_zh": "",
-          "url": "https://www.nber.org/papers/w35192",
-          "authors": "Peter Q. Blair, Rui Guo",
-          "date": "2026-05-07",
-          "abstract_en": "The paper develops a framework for evaluating credential-coded algorithmic screens under existing civil rights law. AI-powered hiring tools trained on historical data often encode and automate bachelor's degree requirements as a proxy for worker skill, producing what this paper terms algorithmic credentialism. Drawing on labor economics research on workers Skilled Through Alternative Routes (STARs), disability theory's critique of the medical model, and disparate-impact doctrine from Griggs v. Duke Power Co. through the Civil Rights Act of 1991, it argues that such screens misidentify the source of hiring exclusion, locating it in the worker rather than in the design of the selection system. This institutional-design problem is amenable to evaluation under the existing disparate-impact doctrine. Under the paper's proposed framework, a credential-coded screen producing disparate impact triggers a legal obligation to validate the screen as job-related and consistent with business necessity, with skills-based hiring supplying the less-discriminatory alternative. The paper further argues that the efficiency rationale historically offered for degree screens is weakened, not strengthened, by AI. The same computational power that automates credentialism at scale can instead match applicants to jobs on multidimensional skill profiles, making the bachelor's degree a less necessary (and less legally defensible) proxy than it was in the pre-AI labor market.",
-          "abstract_zh": "",
-          "matched_topics": [
-            "人工智能"
-          ],
-          "paper_id": "w35192",
-          "programs": []
-        },
-        {
-          "title_en": "Deep Research on a Loop: Using AI Agents to Construct Economic Datasets",
-          "title_zh": "",
-          "url": "https://www.nber.org/papers/w35188",
-          "authors": "Santiago Afonso, Sebastian Galiani, Ramiro H. GÃ¡lvez, Raul A. Sosa",
-          "date": "2026-05-07",
-          "abstract_en": "Constructing datasets from primary sources is one of the costliest tasks in empirical economics. We propose Deep Research on a Loop (DRIL), a methodology that uses AI agents to assemble datasets from publicly available sources. DRIL applies a fixed research instrument across a mapped unit space (e.g., countries by years), with a two-stage architecture separating design from implementation. The instrument specifies variables and coding rules, an evidence policy governs sources and citations, and data quality mechanisms track gaps and uncertainty explicitly. We exercise DRIL on a 2025 update of the Global Tax Expenditures Database for eight Latin American and Caribbean countries. The run produces 129 sources and 136 evidence records, covering 22 qualitative fields fully and 6 quantitative estimate types with documented gaps, at the cost of a standard LLM subscription comparable to a few hours of research-assistant work. We argue that even partial automation of dataset construction can shift the production function of empirical economics.",
-          "abstract_zh": "",
-          "matched_topics": [
-            "人工智能"
-          ],
-          "paper_id": "w35188",
-          "programs": []
         }
       ],
       "error": null
     },
-    "total_matches": 79,
+    "total_matches": 80,
     "note": "Latest issue TOCs from economics top journals and field-top journals plus recent NBER Working Papers, filtered by title/abstract keywords for industrial policy, innovation, green development, and artificial intelligence."
   }
 }
