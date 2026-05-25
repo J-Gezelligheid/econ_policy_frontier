@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-05-20 15:03:27",
+  "updated_at": "2026-05-25 19:59:36",
   "schema_version": 1,
   "translation": {
     "engine": "kimi",
     "model": "moonshot-v1-8k",
     "enabled": true,
-    "success_count": 131,
+    "success_count": 3,
     "fail_count": 0,
     "failed_examples": [],
     "note": "Set KIMI_API_KEY to enable Chinese translation."
@@ -270,18 +270,6 @@
         "total_in_issue": 14,
         "papers": [
           {
-            "title_en": "Firm Accommodation After Workplace Disability: Labor Market Impacts and Implications for Subsidy Design",
-            "title_zh": "工作场所残疾后的企业适应：对劳动市场的影响及对补贴设计的含义",
-            "url": "https://doi.org/10.3982/ecta22565",
-            "authors": "Naoki Aizawa, Corina Mommaerts, Stephanie Rennane",
-            "date": "2026-01-01",
-            "abstract_en": "This paper studies the labor market impacts of firm accommodation decisions after workplace disability and assesses implications for the design of firm subsidies. We leverage a workers' compensation (WC) program in Oregon that provides wage subsidies to firms for accommodating workers with workplace disabilities. Leveraging rich administrative data and a policy change to the wage subsidy, we show that accommodation rates respond to the subsidy rate and that receipt of accommodation leads to a significant increase in employment and earnings a year later. To explore welfare implications, we develop and estimate a frictional labor market model of accommodation as a form of human capital investment. Worker turnover and imperfect experience rating in WC lead to underaccommodation and inefficient labor market outcomes after workplace disability. Counterfactual simulations show that subsidizing accommodation not only improves long‐run labor market outcomes of workers experiencing work‐related disability but also yields welfare gains for most workers.",
-            "abstract_zh": "本文研究了工作场所残疾后企业适应性决策对劳动力市场的影响，并评估了对企业补贴设计的影响。我们利用俄勒冈州的一项工人赔偿（WC）计划，该计划为企业适应工作场所残疾的工人提供工资补贴。利用丰富的行政数据和对工资补贴政策的变更，我们展示了适应率对补贴率的响应，以及接受适应性调整导致一年后就业和收入显著增加。为了探索福利含义，我们开发并估计了一个摩擦性劳动力市场的适应性模型，将适应性作为一种人力资本投资形式。WC中的工人流动和不完善的经验评级导致工作场所残疾后适应性不足和劳动力市场效率低下。反事实模拟表明，补贴适应性不仅可以改善经历工作相关残疾的工人的长期劳动力市场结果，而且还能为大多数工人带来福利收益。",
-            "matched_topics": [
-              "产业政策"
-            ]
-          },
-          {
             "title_en": "The Complexity of Multidimensional Learning in Agriculture",
             "title_zh": "农业中多维学习的复杂性",
             "url": "https://doi.org/10.3982/ecta22974",
@@ -291,6 +279,18 @@
             "abstract_zh": "研究农业技术采纳往往关注单一投入、实践或一揽子方案，这在分析上是有用的，但可能忽视了农业决策中多维学习所需的复杂性。在肯尼亚，我们研究了农民在随机邀请参加农艺研究试验后六个季节的动态学习（自我学习和向他人学习）和采纳决策，比较了三个连续季节中不同投入组合的效果。作为对试验的响应，尽管在接触试验后多个季节没有获得正利润，采纳率仍在稳步提高。知识技能增长迅速，对于技能较高的农民来说增长更快，他们进行的实验最多，但代价是犯新错误。这些发现与一个理论模型一致，该模型考虑了投入和实践决策的多维性以及不同技能水平下从个人经验中学习的差异性，其中互补性意味着采纳一种投入需要找到如何重新优化其他维度的方法，这增加了采纳的成本。",
             "matched_topics": [
               "创新"
+            ]
+          },
+          {
+            "title_en": "Firm Accommodation After Workplace Disability: Labor Market Impacts and Implications for Subsidy Design",
+            "title_zh": "工作场所残疾后的企业适应：对劳动市场的影响及对补贴设计的含义",
+            "url": "https://doi.org/10.3982/ecta22565",
+            "authors": "Naoki Aizawa, Corina Mommaerts, Stephanie Rennane",
+            "date": "2026-01-01",
+            "abstract_en": "This paper studies the labor market impacts of firm accommodation decisions after workplace disability and assesses implications for the design of firm subsidies. We leverage a workers' compensation (WC) program in Oregon that provides wage subsidies to firms for accommodating workers with workplace disabilities. Leveraging rich administrative data and a policy change to the wage subsidy, we show that accommodation rates respond to the subsidy rate and that receipt of accommodation leads to a significant increase in employment and earnings a year later. To explore welfare implications, we develop and estimate a frictional labor market model of accommodation as a form of human capital investment. Worker turnover and imperfect experience rating in WC lead to underaccommodation and inefficient labor market outcomes after workplace disability. Counterfactual simulations show that subsidizing accommodation not only improves long‐run labor market outcomes of workers experiencing work‐related disability but also yields welfare gains for most workers.",
+            "abstract_zh": "本文研究了工作场所残疾后企业适应性决策对劳动力市场的影响，并评估了对企业补贴设计的影响。我们利用俄勒冈州的一项工人赔偿（WC）计划，该计划为企业适应工作场所残疾的工人提供工资补贴。利用丰富的行政数据和对工资补贴政策的变更，我们展示了适应率对补贴率的响应，以及接受适应性调整导致一年后就业和收入显著增加。为了探索福利含义，我们开发并估计了一个摩擦性劳动力市场的适应性模型，将适应性作为一种人力资本投资形式。WC中的工人流动和不完善的经验评级导致工作场所残疾后适应性不足和劳动力市场效率低下。反事实模拟表明，补贴适应性不仅可以改善经历工作相关残疾的工人的长期劳动力市场结果，而且还能为大多数工人带来福利收益。",
+            "matched_topics": [
+              "产业政策"
             ]
           },
           {
@@ -561,7 +561,7 @@
         "issue_title": "Published 2026-07",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-public-economics",
         "matched_count": 1,
-        "total_in_issue": 10,
+        "total_in_issue": 13,
         "papers": [
           {
             "title_en": "How do bureaucrats respond to hybrid incentive contract? Evidence from China’s air pollution controls",
@@ -587,9 +587,22 @@
         "resolved_name": "Journal of Development Economics",
         "issue_title": "Published 2026-06",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-development-economics",
-        "matched_count": 0,
-        "total_in_issue": 47,
-        "papers": [],
+        "matched_count": 1,
+        "total_in_issue": 50,
+        "papers": [
+          {
+            "title_en": "Product quality, the scope of export destinations and skill demand for sustainable development: An investigation for China",
+            "title_zh": "产品质量、出口目的地范围与可持续发展技能需求：中国的一项调查",
+            "url": "https://doi.org/10.1016/j.jdeveco.2026.103794",
+            "authors": "Zhuangxiong Yu, Yang Yang, Jiemiao Dong, Pundarik Mukhopadhaya",
+            "date": "2026-06-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "绿色发展"
+            ]
+          }
+        ],
         "error": null
       },
       {
@@ -602,7 +615,7 @@
         "issue_title": "Published 2026-08",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-international-economics",
         "matched_count": 1,
-        "total_in_issue": 4,
+        "total_in_issue": 6,
         "papers": [
           {
             "title_en": "Burn now or never? Climate policy exposure and investment of fossil fuel firms",
@@ -740,36 +753,11 @@
         "category": "Industrial organization",
         "issn": "0167-7187",
         "resolved_name": "International Journal of Industrial Organization",
-        "issue_title": "Published 2026-06",
+        "issue_title": "Published 2026-08",
         "issue_url": "https://www.sciencedirect.com/journal/international-journal-of-industrial-organization",
-        "matched_count": 2,
-        "total_in_issue": 8,
-        "papers": [
-          {
-            "title_en": "Legalization and innovation in the cannabis market",
-            "title_zh": "大麻市场的合法化与创新",
-            "url": "https://doi.org/10.1016/j.ijindorg.2026.103272",
-            "authors": "Lucy Xiaolu Wang, Nathan W. Chan",
-            "date": "2026-06-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新"
-            ]
-          },
-          {
-            "title_en": "Algorithmic collusion under sequential pricing and stochastic costs",
-            "title_zh": "算法合谋下的顺序定价与随机成本",
-            "url": "https://doi.org/10.1016/j.ijindorg.2026.103281",
-            "authors": "Gonzalo Ballestero",
-            "date": "2026-06-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "人工智能"
-            ]
-          }
-        ],
+        "matched_count": 0,
+        "total_in_issue": 1,
+        "papers": [],
         "error": null
       },
       {
@@ -781,14 +769,26 @@
         "resolved_name": "Research Policy",
         "issue_title": "Volume 55, Issue 8",
         "issue_url": "https://www.sciencedirect.com/journal/research-policy",
-        "matched_count": 3,
-        "total_in_issue": 5,
+        "matched_count": 4,
+        "total_in_issue": 8,
         "papers": [
           {
             "title_en": "Making sense of wickedness: Directionality heuristics for challenge-led innovation policy",
             "title_zh": "理解顽疾：面向挑战引领型创新政策的方向性启发式",
             "url": "https://doi.org/10.1016/j.respol.2026.105513",
             "authors": "Matthias Mueller, Michael P. Schlaile, Stephanie Lang, Matthijs J. Janssen, Iris Wanzenböck, Kristina Bogner, Jana Zscheischler, Michael Schramm, et al.",
+            "date": "2026-10-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新"
+            ]
+          },
+          {
+            "title_en": "Utility model patent regimes around the world and over time: Strictness, usage, and economic development",
+            "title_zh": "全球及不同时期实用新型专利制度：严格性、使用情况与经济发展",
+            "url": "https://doi.org/10.1016/j.respol.2026.105517",
+            "authors": "Dan Prud’homme, Zitai Hu, Wenlong He, Curba Morris Lampert",
             "date": "2026-10-01",
             "abstract_en": "",
             "abstract_zh": "",
@@ -992,114 +992,17 @@
         "category": "Environment",
         "issn": "0095-0696",
         "resolved_name": "Journal of Environmental Economics and Management",
-        "issue_title": "Published 2026-06",
+        "issue_title": "Published 2026-08",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-environmental-economics-and-management",
-        "matched_count": 9,
-        "total_in_issue": 39,
+        "matched_count": 1,
+        "total_in_issue": 1,
         "papers": [
           {
-            "title_en": "Upstreamness, foreign environmental regulation and CO2 emissions in Indian manufacturing firms",
-            "title_zh": "上游性、外国环境规制与印度制造企业的二氧化碳排放",
-            "url": "https://doi.org/10.1016/j.jeem.2026.103324",
-            "authors": "Finn Ole Semrau",
-            "date": "2026-06-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "绿色发展"
-            ]
-          },
-          {
-            "title_en": "Environmental regulation informed by biased stakeholders",
-            "title_zh": "受偏见利益相关者影响的环境规制",
-            "url": "https://doi.org/10.1016/j.jeem.2026.103334",
-            "authors": "Stefan Ambec, Jessica Coria",
-            "date": "2026-06-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "绿色发展"
-            ]
-          },
-          {
-            "title_en": "Fog or smog? The impact of uncensored reporting on pollution on individuals’ environmental preferences",
-            "title_zh": "标题：迷雾还是雾霾？未审查报道对污染对个人环境偏好的影响",
-            "url": "https://doi.org/10.1016/j.jeem.2026.103325",
-            "authors": "Sven A. Hartmann",
-            "date": "2026-06-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "绿色发展"
-            ]
-          },
-          {
-            "title_en": "Negative externalities of temporary reductions in cognition: Evidence from particulate matter pollution and fatal car crashes",
-            "title_zh": "标题：认知能力暂时下降的负外部性：来自颗粒物污染与致命车祸的证据",
-            "url": "https://doi.org/10.1016/j.jeem.2026.103310",
-            "authors": "Anne M. Burton, Travis Roach",
-            "date": "2026-06-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "绿色发展"
-            ]
-          },
-          {
-            "title_en": "Evaluating the effectiveness of mobile emission standards: Evidence from California’s LEV program",
-            "title_zh": "评估移动排放标准的有效性：来自加州LEV计划的证据",
-            "url": "https://doi.org/10.1016/j.jeem.2026.103356",
-            "authors": "Yuxian Xiao",
-            "date": "2026-06-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "绿色发展"
-            ]
-          },
-          {
-            "title_en": "Does the media respond to political messaging? Evidence from local newspaper coverage of climate change",
-            "title_zh": "媒体是否响应政治信息？来自地方报纸对气候变化报道的证据",
-            "url": "https://doi.org/10.1016/j.jeem.2026.103349",
-            "authors": "Graham Beattie, Andrew Meyer",
-            "date": "2026-06-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "绿色发展"
-            ]
-          },
-          {
-            "title_en": "The macroeconomics of clean energy subsidies",
-            "title_zh": "清洁能源补贴的宏观经济学",
-            "url": "https://doi.org/10.1016/j.jeem.2026.103311",
-            "authors": "Gregory Casey, Woongchan Jeon, Christian Traeger",
-            "date": "2026-06-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "产业政策",
-              "绿色发展"
-            ]
-          },
-          {
-            "title_en": "Option pricing in a cap-and-trade market: Evidence from New Zealand fisheries",
-            "title_zh": "标题：限额交易市场中的期权定价：来自新西兰渔业的证据",
-            "url": "https://doi.org/10.1016/j.jeem.2026.103326",
-            "authors": "Cameron Birchall, Thomas M. Anderson, James N. Sanchirico",
-            "date": "2026-06-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "绿色发展"
-            ]
-          },
-          {
-            "title_en": "Compliance, environmental regulation, and quota markets",
-            "title_zh": "合规性、环境规制与配额市场",
-            "url": "https://doi.org/10.1016/j.jeem.2026.103345",
-            "authors": "Florian Diekert, Yuanhao Li, Linda Nøstbakken, Andries Richter",
-            "date": "2026-06-01",
+            "title_en": "Impact of air pollution on birth outcomes: Causal evidence from India",
+            "title_zh": "空气污染对出生结果的影响：来自印度的因果证据",
+            "url": "https://doi.org/10.1016/j.jeem.2026.103360",
+            "authors": "Shashank Misra, Shobhit Kulshreshtha",
+            "date": "2026-08-01",
             "abstract_en": "",
             "abstract_zh": "",
             "matched_topics": [
@@ -1133,7 +1036,7 @@
         "issue_title": "Published 2026-06",
         "issue_url": "https://www.sciencedirect.com/journal/energy-economics",
         "matched_count": 12,
-        "total_in_issue": 32,
+        "total_in_issue": 33,
         "papers": [
           {
             "title_en": "Decreasing energy-related carbon inequality in inter-provincial trade: Evidence from carbon emissions embodied in Beijing-Tianjin-Hebei region and its surrounding areas",
@@ -1293,7 +1196,7 @@
         "issue_title": "Published 2026-08",
         "issue_url": "https://www.sciencedirect.com/journal/resource-and-energy-economics",
         "matched_count": 0,
-        "total_in_issue": 1,
+        "total_in_issue": 2,
         "papers": [],
         "error": null
       },
@@ -1301,7 +1204,7 @@
         "source_type": "nber",
         "name": "NBER Working Papers",
         "category": "Working papers",
-        "issue_title": "Recent NBER Working Papers through 2026-05-21",
+        "issue_title": "Recent NBER Working Papers through 2026-05-22",
         "issue_url": "https://www.nber.org/papers",
         "matched_count": 12,
         "total_recent_considered": 220,
@@ -1598,18 +1501,6 @@
         "total_in_issue": 14,
         "papers": [
           {
-            "title_en": "Firm Accommodation After Workplace Disability: Labor Market Impacts and Implications for Subsidy Design",
-            "title_zh": "工作场所残疾后的企业适应：对劳动市场的影响及对补贴设计的含义",
-            "url": "https://doi.org/10.3982/ecta22565",
-            "authors": "Naoki Aizawa, Corina Mommaerts, Stephanie Rennane",
-            "date": "2026-01-01",
-            "abstract_en": "This paper studies the labor market impacts of firm accommodation decisions after workplace disability and assesses implications for the design of firm subsidies. We leverage a workers' compensation (WC) program in Oregon that provides wage subsidies to firms for accommodating workers with workplace disabilities. Leveraging rich administrative data and a policy change to the wage subsidy, we show that accommodation rates respond to the subsidy rate and that receipt of accommodation leads to a significant increase in employment and earnings a year later. To explore welfare implications, we develop and estimate a frictional labor market model of accommodation as a form of human capital investment. Worker turnover and imperfect experience rating in WC lead to underaccommodation and inefficient labor market outcomes after workplace disability. Counterfactual simulations show that subsidizing accommodation not only improves long‐run labor market outcomes of workers experiencing work‐related disability but also yields welfare gains for most workers.",
-            "abstract_zh": "本文研究了工作场所残疾后企业适应性决策对劳动力市场的影响，并评估了对企业补贴设计的影响。我们利用俄勒冈州的一项工人赔偿（WC）计划，该计划为企业适应工作场所残疾的工人提供工资补贴。利用丰富的行政数据和对工资补贴政策的变更，我们展示了适应率对补贴率的响应，以及接受适应性调整导致一年后就业和收入显著增加。为了探索福利含义，我们开发并估计了一个摩擦性劳动力市场的适应性模型，将适应性作为一种人力资本投资形式。WC中的工人流动和不完善的经验评级导致工作场所残疾后适应性不足和劳动力市场效率低下。反事实模拟表明，补贴适应性不仅可以改善经历工作相关残疾的工人的长期劳动力市场结果，而且还能为大多数工人带来福利收益。",
-            "matched_topics": [
-              "产业政策"
-            ]
-          },
-          {
             "title_en": "The Complexity of Multidimensional Learning in Agriculture",
             "title_zh": "农业中多维学习的复杂性",
             "url": "https://doi.org/10.3982/ecta22974",
@@ -1619,6 +1510,18 @@
             "abstract_zh": "研究农业技术采纳往往关注单一投入、实践或一揽子方案，这在分析上是有用的，但可能忽视了农业决策中多维学习所需的复杂性。在肯尼亚，我们研究了农民在随机邀请参加农艺研究试验后六个季节的动态学习（自我学习和向他人学习）和采纳决策，比较了三个连续季节中不同投入组合的效果。作为对试验的响应，尽管在接触试验后多个季节没有获得正利润，采纳率仍在稳步提高。知识技能增长迅速，对于技能较高的农民来说增长更快，他们进行的实验最多，但代价是犯新错误。这些发现与一个理论模型一致，该模型考虑了投入和实践决策的多维性以及不同技能水平下从个人经验中学习的差异性，其中互补性意味着采纳一种投入需要找到如何重新优化其他维度的方法，这增加了采纳的成本。",
             "matched_topics": [
               "创新"
+            ]
+          },
+          {
+            "title_en": "Firm Accommodation After Workplace Disability: Labor Market Impacts and Implications for Subsidy Design",
+            "title_zh": "工作场所残疾后的企业适应：对劳动市场的影响及对补贴设计的含义",
+            "url": "https://doi.org/10.3982/ecta22565",
+            "authors": "Naoki Aizawa, Corina Mommaerts, Stephanie Rennane",
+            "date": "2026-01-01",
+            "abstract_en": "This paper studies the labor market impacts of firm accommodation decisions after workplace disability and assesses implications for the design of firm subsidies. We leverage a workers' compensation (WC) program in Oregon that provides wage subsidies to firms for accommodating workers with workplace disabilities. Leveraging rich administrative data and a policy change to the wage subsidy, we show that accommodation rates respond to the subsidy rate and that receipt of accommodation leads to a significant increase in employment and earnings a year later. To explore welfare implications, we develop and estimate a frictional labor market model of accommodation as a form of human capital investment. Worker turnover and imperfect experience rating in WC lead to underaccommodation and inefficient labor market outcomes after workplace disability. Counterfactual simulations show that subsidizing accommodation not only improves long‐run labor market outcomes of workers experiencing work‐related disability but also yields welfare gains for most workers.",
+            "abstract_zh": "本文研究了工作场所残疾后企业适应性决策对劳动力市场的影响，并评估了对企业补贴设计的影响。我们利用俄勒冈州的一项工人赔偿（WC）计划，该计划为企业适应工作场所残疾的工人提供工资补贴。利用丰富的行政数据和对工资补贴政策的变更，我们展示了适应率对补贴率的响应，以及接受适应性调整导致一年后就业和收入显著增加。为了探索福利含义，我们开发并估计了一个摩擦性劳动力市场的适应性模型，将适应性作为一种人力资本投资形式。WC中的工人流动和不完善的经验评级导致工作场所残疾后适应性不足和劳动力市场效率低下。反事实模拟表明，补贴适应性不仅可以改善经历工作相关残疾的工人的长期劳动力市场结果，而且还能为大多数工人带来福利收益。",
+            "matched_topics": [
+              "产业政策"
             ]
           },
           {
@@ -1889,7 +1792,7 @@
         "issue_title": "Published 2026-07",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-public-economics",
         "matched_count": 1,
-        "total_in_issue": 10,
+        "total_in_issue": 13,
         "papers": [
           {
             "title_en": "How do bureaucrats respond to hybrid incentive contract? Evidence from China’s air pollution controls",
@@ -1915,9 +1818,22 @@
         "resolved_name": "Journal of Development Economics",
         "issue_title": "Published 2026-06",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-development-economics",
-        "matched_count": 0,
-        "total_in_issue": 47,
-        "papers": [],
+        "matched_count": 1,
+        "total_in_issue": 50,
+        "papers": [
+          {
+            "title_en": "Product quality, the scope of export destinations and skill demand for sustainable development: An investigation for China",
+            "title_zh": "产品质量、出口目的地范围与可持续发展技能需求：中国的一项调查",
+            "url": "https://doi.org/10.1016/j.jdeveco.2026.103794",
+            "authors": "Zhuangxiong Yu, Yang Yang, Jiemiao Dong, Pundarik Mukhopadhaya",
+            "date": "2026-06-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "绿色发展"
+            ]
+          }
+        ],
         "error": null
       },
       {
@@ -1930,7 +1846,7 @@
         "issue_title": "Published 2026-08",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-international-economics",
         "matched_count": 1,
-        "total_in_issue": 4,
+        "total_in_issue": 6,
         "papers": [
           {
             "title_en": "Burn now or never? Climate policy exposure and investment of fossil fuel firms",
@@ -2068,36 +1984,11 @@
         "category": "Industrial organization",
         "issn": "0167-7187",
         "resolved_name": "International Journal of Industrial Organization",
-        "issue_title": "Published 2026-06",
+        "issue_title": "Published 2026-08",
         "issue_url": "https://www.sciencedirect.com/journal/international-journal-of-industrial-organization",
-        "matched_count": 2,
-        "total_in_issue": 8,
-        "papers": [
-          {
-            "title_en": "Legalization and innovation in the cannabis market",
-            "title_zh": "大麻市场的合法化与创新",
-            "url": "https://doi.org/10.1016/j.ijindorg.2026.103272",
-            "authors": "Lucy Xiaolu Wang, Nathan W. Chan",
-            "date": "2026-06-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新"
-            ]
-          },
-          {
-            "title_en": "Algorithmic collusion under sequential pricing and stochastic costs",
-            "title_zh": "算法合谋下的顺序定价与随机成本",
-            "url": "https://doi.org/10.1016/j.ijindorg.2026.103281",
-            "authors": "Gonzalo Ballestero",
-            "date": "2026-06-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "人工智能"
-            ]
-          }
-        ],
+        "matched_count": 0,
+        "total_in_issue": 1,
+        "papers": [],
         "error": null
       },
       {
@@ -2109,14 +2000,26 @@
         "resolved_name": "Research Policy",
         "issue_title": "Volume 55, Issue 8",
         "issue_url": "https://www.sciencedirect.com/journal/research-policy",
-        "matched_count": 3,
-        "total_in_issue": 5,
+        "matched_count": 4,
+        "total_in_issue": 8,
         "papers": [
           {
             "title_en": "Making sense of wickedness: Directionality heuristics for challenge-led innovation policy",
             "title_zh": "理解顽疾：面向挑战引领型创新政策的方向性启发式",
             "url": "https://doi.org/10.1016/j.respol.2026.105513",
             "authors": "Matthias Mueller, Michael P. Schlaile, Stephanie Lang, Matthijs J. Janssen, Iris Wanzenböck, Kristina Bogner, Jana Zscheischler, Michael Schramm, et al.",
+            "date": "2026-10-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新"
+            ]
+          },
+          {
+            "title_en": "Utility model patent regimes around the world and over time: Strictness, usage, and economic development",
+            "title_zh": "全球及不同时期实用新型专利制度：严格性、使用情况与经济发展",
+            "url": "https://doi.org/10.1016/j.respol.2026.105517",
+            "authors": "Dan Prud’homme, Zitai Hu, Wenlong He, Curba Morris Lampert",
             "date": "2026-10-01",
             "abstract_en": "",
             "abstract_zh": "",
@@ -2320,114 +2223,17 @@
         "category": "Environment",
         "issn": "0095-0696",
         "resolved_name": "Journal of Environmental Economics and Management",
-        "issue_title": "Published 2026-06",
+        "issue_title": "Published 2026-08",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-environmental-economics-and-management",
-        "matched_count": 9,
-        "total_in_issue": 39,
+        "matched_count": 1,
+        "total_in_issue": 1,
         "papers": [
           {
-            "title_en": "Upstreamness, foreign environmental regulation and CO2 emissions in Indian manufacturing firms",
-            "title_zh": "上游性、外国环境规制与印度制造企业的二氧化碳排放",
-            "url": "https://doi.org/10.1016/j.jeem.2026.103324",
-            "authors": "Finn Ole Semrau",
-            "date": "2026-06-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "绿色发展"
-            ]
-          },
-          {
-            "title_en": "Environmental regulation informed by biased stakeholders",
-            "title_zh": "受偏见利益相关者影响的环境规制",
-            "url": "https://doi.org/10.1016/j.jeem.2026.103334",
-            "authors": "Stefan Ambec, Jessica Coria",
-            "date": "2026-06-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "绿色发展"
-            ]
-          },
-          {
-            "title_en": "Fog or smog? The impact of uncensored reporting on pollution on individuals’ environmental preferences",
-            "title_zh": "标题：迷雾还是雾霾？未审查报道对污染对个人环境偏好的影响",
-            "url": "https://doi.org/10.1016/j.jeem.2026.103325",
-            "authors": "Sven A. Hartmann",
-            "date": "2026-06-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "绿色发展"
-            ]
-          },
-          {
-            "title_en": "Negative externalities of temporary reductions in cognition: Evidence from particulate matter pollution and fatal car crashes",
-            "title_zh": "标题：认知能力暂时下降的负外部性：来自颗粒物污染与致命车祸的证据",
-            "url": "https://doi.org/10.1016/j.jeem.2026.103310",
-            "authors": "Anne M. Burton, Travis Roach",
-            "date": "2026-06-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "绿色发展"
-            ]
-          },
-          {
-            "title_en": "Evaluating the effectiveness of mobile emission standards: Evidence from California’s LEV program",
-            "title_zh": "评估移动排放标准的有效性：来自加州LEV计划的证据",
-            "url": "https://doi.org/10.1016/j.jeem.2026.103356",
-            "authors": "Yuxian Xiao",
-            "date": "2026-06-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "绿色发展"
-            ]
-          },
-          {
-            "title_en": "Does the media respond to political messaging? Evidence from local newspaper coverage of climate change",
-            "title_zh": "媒体是否响应政治信息？来自地方报纸对气候变化报道的证据",
-            "url": "https://doi.org/10.1016/j.jeem.2026.103349",
-            "authors": "Graham Beattie, Andrew Meyer",
-            "date": "2026-06-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "绿色发展"
-            ]
-          },
-          {
-            "title_en": "The macroeconomics of clean energy subsidies",
-            "title_zh": "清洁能源补贴的宏观经济学",
-            "url": "https://doi.org/10.1016/j.jeem.2026.103311",
-            "authors": "Gregory Casey, Woongchan Jeon, Christian Traeger",
-            "date": "2026-06-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "产业政策",
-              "绿色发展"
-            ]
-          },
-          {
-            "title_en": "Option pricing in a cap-and-trade market: Evidence from New Zealand fisheries",
-            "title_zh": "标题：限额交易市场中的期权定价：来自新西兰渔业的证据",
-            "url": "https://doi.org/10.1016/j.jeem.2026.103326",
-            "authors": "Cameron Birchall, Thomas M. Anderson, James N. Sanchirico",
-            "date": "2026-06-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "绿色发展"
-            ]
-          },
-          {
-            "title_en": "Compliance, environmental regulation, and quota markets",
-            "title_zh": "合规性、环境规制与配额市场",
-            "url": "https://doi.org/10.1016/j.jeem.2026.103345",
-            "authors": "Florian Diekert, Yuanhao Li, Linda Nøstbakken, Andries Richter",
-            "date": "2026-06-01",
+            "title_en": "Impact of air pollution on birth outcomes: Causal evidence from India",
+            "title_zh": "空气污染对出生结果的影响：来自印度的因果证据",
+            "url": "https://doi.org/10.1016/j.jeem.2026.103360",
+            "authors": "Shashank Misra, Shobhit Kulshreshtha",
+            "date": "2026-08-01",
             "abstract_en": "",
             "abstract_zh": "",
             "matched_topics": [
@@ -2461,7 +2267,7 @@
         "issue_title": "Published 2026-06",
         "issue_url": "https://www.sciencedirect.com/journal/energy-economics",
         "matched_count": 12,
-        "total_in_issue": 32,
+        "total_in_issue": 33,
         "papers": [
           {
             "title_en": "Decreasing energy-related carbon inequality in inter-provincial trade: Evidence from carbon emissions embodied in Beijing-Tianjin-Hebei region and its surrounding areas",
@@ -2621,7 +2427,7 @@
         "issue_title": "Published 2026-08",
         "issue_url": "https://www.sciencedirect.com/journal/resource-and-energy-economics",
         "matched_count": 0,
-        "total_in_issue": 1,
+        "total_in_issue": 2,
         "papers": [],
         "error": null
       }
@@ -2630,7 +2436,7 @@
       "source_type": "nber",
       "name": "NBER Working Papers",
       "category": "Working papers",
-      "issue_title": "Recent NBER Working Papers through 2026-05-21",
+      "issue_title": "Recent NBER Working Papers through 2026-05-22",
       "issue_url": "https://www.nber.org/papers",
       "matched_count": 12,
       "total_recent_considered": 220,
@@ -2808,7 +2614,7 @@
       ],
       "error": null
     },
-    "total_matches": 80,
+    "total_matches": 72,
     "note": "Latest issue TOCs from economics top journals and field-top journals plus recent NBER Working Papers, filtered by title/abstract keywords for industrial policy, innovation, green development, and artificial intelligence."
   }
 }
