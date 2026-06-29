@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-06-22 21:35:57",
+  "updated_at": "2026-06-29 20:41:07",
   "schema_version": 1,
   "translation": {
     "engine": "kimi",
     "model": "moonshot-v1-8k",
     "enabled": true,
     "success_count": 0,
-    "fail_count": 72,
+    "fail_count": 79,
     "failed_examples": [
       "Existence of Myopic‐Farsighted Stable Sets in Matching Markets :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, please recharge your ",
       "In the context of one‐to‐one matching markets, we study myopic‐farsighted stable sets , wh :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, please recharge your ",
       "Comment on <i>‘Fisher–Schultz Lecture: Contracting Over Pharmaceutical Formularies and Reb :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, please recharge your ",
       "Biopharmaceuticals advance health and economic growth. Unlike central bargaining abroad, t :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, please recharge your ",
       "Evaluating the environmental and economic implications of curbing transboundary pollution: :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, please recharge your ",
+      "More power outages, more CO2 emissions: Evidence from self-generation in China's manufactu :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, please recharge your ",
       "Patents, Antitrust, and Innovation: Evidence From the Xerox Case :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, please recharge your ",
-      "ABSTRACT How does antitrust enforcement affect innovation when patents are the main barrie :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, please recharge your ",
-      "Hub‐and‐Spoke Collusion With a Third‐Party Pricing Algorithm :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, please recharge your "
+      "ABSTRACT How does antitrust enforcement affect innovation when patents are the main barrie :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, please recharge your "
     ],
     "note": "Set KIMI_API_KEY to enable Chinese translation."
   },
@@ -271,24 +271,11 @@
         "category": "Top 5",
         "issn": "0022-3808",
         "resolved_name": "Journal of Political Economy",
-        "issue_title": "Volume 134, Issue 6",
+        "issue_title": "Volume 134, Issue 7",
         "issue_url": "https://www.journals.uchicago.edu/journals/jpe",
-        "matched_count": 1,
-        "total_in_issue": 9,
-        "papers": [
-          {
-            "title_en": "On the Nature of Entrepreneurship",
-            "title_zh": "关于创业的本质",
-            "url": "https://doi.org/10.1086/739823",
-            "authors": "Anmol Bhandari, Tobey Kass, Thomas J. May, Ellen R. McGrattan, Evan Schulz",
-            "date": "2026-06-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新"
-            ]
-          }
-        ],
+        "matched_count": 0,
+        "total_in_issue": 10,
+        "papers": [],
         "error": null
       },
       {
@@ -388,24 +375,11 @@
         "category": "AEJ / applied",
         "issn": "1945-7782",
         "resolved_name": "American Economic Journal Applied Economics",
-        "issue_title": "Volume 18, Issue 2",
+        "issue_title": "Volume 18, Issue 3",
         "issue_url": "https://www.aeaweb.org/journals/app",
-        "matched_count": 1,
-        "total_in_issue": 13,
-        "papers": [
-          {
-            "title_en": "Information Frictions and Employee Sorting between Start-ups",
-            "title_zh": "信息摩擦与员工在初创企业间的筛选",
-            "url": "https://doi.org/10.1257/app.20240722",
-            "authors": "Kevin A. Bryan, Mitchell Hoffman, Amir Sariri",
-            "date": "2026-04-01",
-            "abstract_en": "Would workers apply to better firms if they were more informed about firm quality? Collaborating with 26 science-based start-ups, we create a custom job board and invite business school alumni to apply. The job board randomizes across applicants to show coarse expert ratings of all start-ups' science and/or business model quality. Making ratings visible strongly reallocates applications toward higher-rated firms. This reallocation holds, restricting to high-quality workers. Treatments operate in part by shifting worker beliefs about firms' right-tail outcomes. Despite these benefits, workers make posttreatment bets indicating highly overoptimistic beliefs about start-up success, suggesting a problem of broader informational deficits. (JEL D22, D83, J22, J23, J24, M13, M51)",
-            "abstract_zh": "如果工人对公司质量了解更多，他们会选择更好的公司吗？我们与26家基于科学的初创公司合作，创建了一个定制的招聘板，并邀请商学院校友申请。招聘板随机向申请者展示所有初创公司科学和/或商业模式质量的粗略专家评级。使评级可见显著地重新分配了申请，使其倾向于评级更高的公司。这种重新分配在限制到高质量工人时仍然成立。处理部分通过改变工人对公司右尾结果的信念来运作。尽管有这些好处，工人在治疗后做出的赌注表明，他们对初创公司成功的信念过于乐观，这表明存在更广泛的信息赤字问题。（JEL D22, D83, J22, J23, J24, M13, M51）",
-            "matched_topics": [
-              "创新"
-            ]
-          }
-        ],
+        "matched_count": 0,
+        "total_in_issue": 11,
+        "papers": [],
         "error": null
       },
       {
@@ -535,7 +509,7 @@
         "issue_title": "Published 2026-08",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-public-economics",
         "matched_count": 0,
-        "total_in_issue": 11,
+        "total_in_issue": 17,
         "papers": [],
         "error": null
       },
@@ -548,14 +522,26 @@
         "resolved_name": "Journal of Development Economics",
         "issue_title": "Published 2026-09",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-development-economics",
-        "matched_count": 1,
-        "total_in_issue": 17,
+        "matched_count": 2,
+        "total_in_issue": 22,
         "papers": [
           {
             "title_en": "Evaluating the environmental and economic implications of curbing transboundary pollution: Evidence from China",
             "title_zh": "",
             "url": "https://doi.org/10.1016/j.jdeveco.2026.103854",
             "authors": "Zeyang Zhang, Yuanyi Xu, Dunhu Chang, Dingding Shao, Xin Wang",
+            "date": "2026-09-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "绿色发展"
+            ]
+          },
+          {
+            "title_en": "More power outages, more CO2 emissions: Evidence from self-generation in China's manufacturing firms",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jdeveco.2026.103866",
+            "authors": "Panbing Wan, Mian Yang, Bing Zhang",
             "date": "2026-09-01",
             "abstract_en": "",
             "abstract_zh": "",
@@ -576,7 +562,7 @@
         "issue_title": "Published 2026-08",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-international-economics",
         "matched_count": 1,
-        "total_in_issue": 20,
+        "total_in_issue": 22,
         "papers": [
           {
             "title_en": "Burn now or never? Climate policy exposure and investment of fossil fuel firms",
@@ -716,8 +702,8 @@
         "resolved_name": "International Journal of Industrial Organization",
         "issue_title": "Published 2026-08",
         "issue_url": "https://www.sciencedirect.com/journal/international-journal-of-industrial-organization",
-        "matched_count": 1,
-        "total_in_issue": 4,
+        "matched_count": 3,
+        "total_in_issue": 10,
         "papers": [
           {
             "title_en": "Designing emissions trading schemes for a price-regulated and concentrated industry: Insights from China’s power sector",
@@ -729,6 +715,30 @@
             "abstract_zh": "",
             "matched_topics": [
               "绿色发展"
+            ]
+          },
+          {
+            "title_en": "Does pollution prevention enhance firm efficiency? Insights from U.S. manufacturing firms",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.ijindorg.2026.103305",
+            "authors": "Sumaya Falak Memon, Subal Kumbhakar, Yingjun Su",
+            "date": "2026-08-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "绿色发展"
+            ]
+          },
+          {
+            "title_en": "Innovation and startup acquisition",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.ijindorg.2026.103307",
+            "authors": "Marc Bourreau, Axel Gautier",
+            "date": "2026-08-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新"
             ]
           }
         ],
@@ -744,7 +754,7 @@
         "issue_title": "Volume 55, Issue 8",
         "issue_url": "https://www.sciencedirect.com/journal/research-policy",
         "matched_count": 12,
-        "total_in_issue": 16,
+        "total_in_issue": 18,
         "papers": [
           {
             "title_en": "‘Systems of use’: A lens to more deeply study user innovation",
@@ -844,6 +854,18 @@
             ]
           },
           {
+            "title_en": "Hope, signals, and silicon: A game-theoretic model of the pre-doctoral academic labor market in the age of AI",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.respol.2026.105568",
+            "authors": "Shaohui Wang",
+            "date": "2026-10-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "人工智能"
+            ]
+          },
+          {
             "title_en": "Patent pledging as collateral: Navigating the strategic dilemma from patents' private-market values",
             "title_zh": "标题：专利质押作为抵押品：从专利的私有市场价值中导航战略困境",
             "url": "https://doi.org/10.1016/j.respol.2026.105538",
@@ -873,18 +895,6 @@
             "title_zh": "",
             "url": "https://doi.org/10.1016/j.respol.2026.105533",
             "authors": "Maria Schmidt, Aoife Brophy, Philipp Trotter",
-            "date": "2026-10-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新"
-            ]
-          },
-          {
-            "title_en": "Problematic persistence of innovation: Breakdowns and sociotechnical maintenance of the world's most enduring herbicide technology",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.respol.2026.105543",
-            "authors": "Shane Hamilton, Beatrice D'Ippolito",
             "date": "2026-10-01",
             "abstract_en": "",
             "abstract_zh": "",
@@ -1090,9 +1100,33 @@
         "resolved_name": "Journal of Environmental Economics and Management",
         "issue_title": "Published 2026-08",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-environmental-economics-and-management",
-        "matched_count": 7,
-        "total_in_issue": 21,
+        "matched_count": 10,
+        "total_in_issue": 26,
         "papers": [
+          {
+            "title_en": "The heterogeneous effects of climate policy on households: Evidence from 88 countries",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jeem.2026.103382",
+            "authors": "Leonard Missbach, Jan Christoph Steckel",
+            "date": "2026-08-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "绿色发展"
+            ]
+          },
+          {
+            "title_en": "Headwind in sight? Wind turbine visibility spillovers and support for renewable energy policy",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jeem.2026.103386",
+            "authors": "Vincent F. Stegmaier, Melanie Krause",
+            "date": "2026-08-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "绿色发展"
+            ]
+          },
           {
             "title_en": "Cost-effective and equitable targeting of corrective subsidies: Differentiated green subsidies for new and existing homes",
             "title_zh": "",
@@ -1106,10 +1140,10 @@
             ]
           },
           {
-            "title_en": "Amplified challenges for the joint reduction of emissions and inequality, considering the missing-rich",
-            "title_zh": "标题：考虑富裕群体缺失时，联合减少排放和不平等的放大挑战",
-            "url": "https://doi.org/10.1016/j.jeem.2026.103353",
-            "authors": "Markus Nabernegg, Stefan Nabernegg, Thomas Kopp",
+            "title_en": "Occupational affiliation and the incidence of environmental regulation",
+            "title_zh": "职业归属与环境规制的影响",
+            "url": "https://doi.org/10.1016/j.jeem.2026.103361",
+            "authors": "Alex L. Marten, Andrew Schreiber, Ann Wolverton",
             "date": "2026-08-01",
             "abstract_en": "",
             "abstract_zh": "",
@@ -1118,10 +1152,10 @@
             ]
           },
           {
-            "title_en": "Occupational affiliation and the incidence of environmental regulation",
-            "title_zh": "职业归属与环境规制的影响",
-            "url": "https://doi.org/10.1016/j.jeem.2026.103361",
-            "authors": "Alex L. Marten, Andrew Schreiber, Ann Wolverton",
+            "title_en": "Amplified challenges for the joint reduction of emissions and inequality, considering the missing-rich",
+            "title_zh": "标题：考虑富裕群体缺失时，联合减少排放和不平等的放大挑战",
+            "url": "https://doi.org/10.1016/j.jeem.2026.103353",
+            "authors": "Markus Nabernegg, Stefan Nabernegg, Thomas Kopp",
             "date": "2026-08-01",
             "abstract_en": "",
             "abstract_zh": "",
@@ -1146,6 +1180,18 @@
             "title_zh": "",
             "url": "https://doi.org/10.1016/j.jeem.2026.103374",
             "authors": "Haiqiang Chen, Shihe Fu, Zhuoyang Lyu",
+            "date": "2026-08-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "绿色发展"
+            ]
+          },
+          {
+            "title_en": "Trade and the scopes of pollution: Evidence from China’s world market integration",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jeem.2026.103378",
+            "authors": "Stefano Carattini, Hanwei Huang, Frank Pisch, Tejendra Pratap Singh",
             "date": "2026-08-01",
             "abstract_en": "",
             "abstract_zh": "",
@@ -1204,7 +1250,7 @@
         "issue_title": "Published 2026-08",
         "issue_url": "https://www.sciencedirect.com/journal/energy-economics",
         "matched_count": 12,
-        "total_in_issue": 23,
+        "total_in_issue": 20,
         "papers": [
           {
             "title_en": "Analyzing different energy transition patterns and their drivers using clustering and machine learning models: unveiling the role of digital technological innovation",
@@ -1221,10 +1267,35 @@
             ]
           },
           {
+            "title_en": "Firm characteristics, climate policy shocks, and climate risk exposures: Evidence of feedback loops from a quasi-experiment in GCC countries",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.eneco.2026.109457",
+            "authors": "Quyen Pham, Huy Pham, Hanh Le, Chune Young Chung, Huy Truong",
+            "date": "2026-08-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "绿色发展"
+            ]
+          },
+          {
             "title_en": "Low-carbon transformation of iron and steel: Combined effects of green hydrogen subsidy and carbon emissions trading under uncertain environments",
             "title_zh": "",
             "url": "https://doi.org/10.1016/j.eneco.2026.109418",
             "authors": "Chunrui Liu, Mei Sun, Yibo Li, Dun Han, Wei Xu",
+            "date": "2026-08-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "产业政策",
+              "绿色发展"
+            ]
+          },
+          {
+            "title_en": "Energy subsidy removal and carbon taxation in Egypt: Economic and distributional impacts",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.eneco.2026.109470",
+            "authors": "Govinda R. Timilsina, Samuel Sebsibie",
             "date": "2026-08-01",
             "abstract_en": "",
             "abstract_zh": "",
@@ -1306,19 +1377,6 @@
             ]
           },
           {
-            "title_en": "Industrial agglomeration and corporate pollution abatement: Evidence from China's eco-industrial park program",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.eneco.2026.109425",
-            "authors": "Yue Cao, Yike Tang, Jie Han, Teng Zhang",
-            "date": "2026-08-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "产业政策",
-              "绿色发展"
-            ]
-          },
-          {
             "title_en": "Eco-innovation strategies in response to energy-related uncertainty and geopolitical risk: Insights from the energy sector",
             "title_zh": "",
             "url": "https://doi.org/10.1016/j.eneco.2026.109414",
@@ -1331,26 +1389,15 @@
             ]
           },
           {
-            "title_en": "The role of managerial risk preferences on effectiveness of wind subsidies",
-            "title_zh": "管理层风险偏好对风能补贴效果的影响",
-            "url": "https://doi.org/10.1016/j.eneco.2026.109421",
-            "authors": "Felipe Gomez-Trejos",
-            "date": "2026-08-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "产业政策"
-            ]
-          },
-          {
-            "title_en": "Coupling a stock-flow consistent macroeconomic model with an energy system optimisation model to study the impacts of the energy transition in Colombia",
+            "title_en": "Industrial agglomeration and corporate pollution abatement: Evidence from China's eco-industrial park program",
             "title_zh": "",
-            "url": "https://doi.org/10.1016/j.eneco.2026.109401",
-            "authors": "Pierre Jacques, Stanislas Augier, Santiago Barbosa, Devrim Yilmaz, Hervé Jeanmart, Antoine Godin",
+            "url": "https://doi.org/10.1016/j.eneco.2026.109425",
+            "authors": "Yue Cao, Yike Tang, Jie Han, Teng Zhang",
             "date": "2026-08-01",
             "abstract_en": "",
             "abstract_zh": "",
             "matched_topics": [
+              "产业政策",
               "绿色发展"
             ]
           }
@@ -1367,7 +1414,7 @@
         "issue_title": "Published 2026-08",
         "issue_url": "https://www.sciencedirect.com/journal/resource-and-energy-economics",
         "matched_count": 0,
-        "total_in_issue": 2,
+        "total_in_issue": 4,
         "papers": [],
         "error": null
       },
@@ -1375,11 +1422,53 @@
         "source_type": "nber",
         "name": "NBER Working Papers",
         "category": "Working papers",
-        "issue_title": "Recent NBER Working Papers through 2026-06-18",
+        "issue_title": "Recent NBER Working Papers through 2026-06-25",
         "issue_url": "https://www.nber.org/papers",
         "matched_count": 12,
         "total_recent_considered": 220,
         "papers": [
+          {
+            "title_en": "Immigration, Innovation, and the Geography of Growth",
+            "title_zh": "",
+            "url": "https://www.nber.org/papers/w35392",
+            "authors": "Costas Arkolakis, Sun Kyoung Lee, Michael Peters",
+            "date": "2026-06-25",
+            "abstract_en": "Between 1880 and 1920, more than 20 million immigrants settled in the United States. We study how this migration wave affected innovation and growth. Using a newly constructed dataset linking individual census records to historical immigration records and the universe of US patents, we highlight a new channel through which immigrants contributed to growth: they disproportionately settled in urban innovation hubs. To quantify the aggregate and regional effects of this mass migration episode, we develop a new spatial growth model in which skilled workers have a comparative advantage in innovation and sort endogenously across space. We find that international arrivals after 1880 raised US income per capita by 8.2% by 1940. Removing the subsequent immigration restrictions of the 1920s would have raised income per capita by a further 1.7% by 2000. Immigrants' skill composition and their concentration in urban hubs are key drivers of these effects.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新"
+            ],
+            "paper_id": "w35392",
+            "programs": []
+          },
+          {
+            "title_en": "Prices Versus Quantities Revisited: What Do Policymakers Need to Know to Set Pigouvian Taxes and Subsidies?",
+            "title_zh": "",
+            "url": "https://www.nber.org/papers/w35376",
+            "authors": "Denise Dipasquale, Edward L. Glaeser, Adam M. Guren, Paul S. Willen",
+            "date": "2026-06-25",
+            "abstract_en": "What information do policymakers need to design Pigouvian taxes or subsidies? Standard logic suggests that it is sufficient to know the size of the externality and unnecessary to know about quantities. Yet this logic is incorrect if interventions have fixed costs, taxes create deadweight losses, or there are distributional concerns. We present a model in which these considerations can make it more valuable for policymakers to learn about equilibrium quantities. We apply the model to congestion pricing, which has high fixed costs, and to a proposed housing subsidy in Boston that features deadweight losses and distributional concerns.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "产业政策"
+            ],
+            "paper_id": "w35376",
+            "programs": []
+          },
+          {
+            "title_en": "A Practitioner's Guide to Using Large Language Models and Generative AI in Economic History",
+            "title_zh": "",
+            "url": "https://www.nber.org/papers/w35374",
+            "authors": "Andreas Ferrara",
+            "date": "2026-06-25",
+            "abstract_en": "Large language models (LLMs) are lowering the entry barriers to working with exciting data sources that used to require strong data science skills, such as handwritten ledgers, text, images, or sound recordings. This guide provides an introduction for researchers who are new to LLMs. It sets out a step-by-step workflow for turning a research idea into working code and data, and describes the four main ways of interacting with an LLM: the chat window, editor-integrated assistants, agentic coding tools, and the API. It then works through the decisions a practitioner meets in sequence, beginning with whether an LLM is the right tool and whether the data are allowed to be sent to one, then how to select models, write prompts, manage context limits, and control costs, and finally how to validate, reproduce, document, and correct LLM-generated measures in regression settings. A review of recent research shows how these tools already extract, link, harmonize, and classify historical data at scale. Four worked examples with replication files illustrate the use of LLMs. They classify emotions in paintings, link census records without names, measure newspaper salience and sentiment around the 1882 Chinese Exclusion Act, and score the emotional delivery of Franklin D. Roosevelt's wartime speeches. The guide also condenses the workflow, the best-practice recommendations, and the preparation of replication packages into summary tables and checklists to aid applied economists.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "人工智能"
+            ],
+            "paper_id": "w35374",
+            "programs": []
+          },
           {
             "title_en": "Empowering Inclusive Work",
             "title_zh": "",
@@ -1506,49 +1595,6 @@
             ],
             "paper_id": "w35344",
             "programs": []
-          },
-          {
-            "title_en": "Blindly Discriminating: The GI Bill and Racial Inequality",
-            "title_zh": "",
-            "url": "https://www.nber.org/papers/w35339",
-            "authors": "Lukas Althoff, Christiane Szerman",
-            "date": "2026-06-11",
-            "abstract_en": "The World War II GI Bill was the largest education subsidy in US history and a cornerstone of the postwar US transition to a knowledge economy. Although formally race-blind, the program's decentralized administration left implementation to local officials and segregated institutions, with sharply different consequences for Black and white veterans. This paper quantifies the GI Bill's impact on Black and white Americans' economic outcomes across two generations, using a regression discontinuity around WWII service eligibility cutoffs and a new data linkage from veterans in the 1940 and 1950 censuses to their sons' neighborhood outcomes between 1990 and 2025. The GI Bill widened racial inequality, doubling white veterans' college completion while steering Black veterans into often-fraudulent vocational programs with no earnings returns. The disparities persisted across generations, increasing the white-Black gap in sons' adult-neighborhood outcomes, including a 5-percentage-point (47 percent) widening of the racial college gap. Unequal returns to the same eligibility account for the intergenerational gap, with no contribution from prewar differences in socioeconomic status or geography. In sum, access to the GI Bill was not nearly the same economic opportunity for Black Americans as it was for white Americans, highlighting that race-blind policy does not guarantee racial equality.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "产业政策"
-            ],
-            "paper_id": "w35339",
-            "programs": []
-          },
-          {
-            "title_en": "Automation and Repression",
-            "title_zh": "",
-            "url": "https://www.nber.org/papers/w35336",
-            "authors": "Daron Acemoglu, A. Arda Gitmez, Mehdi Shadmehr",
-            "date": "2026-06-11",
-            "abstract_en": "We consider a model of automation embedded in a political environment where workers can undertake a revolt (modeled as a global game), and greater inequality between capital and labor increases the likelihood of a revolt. Decentralized automation decisions raise the share of capital in national income and increase the likelihood of a successful revolt. A capitalist state (representing capital-owners) prefers to regulate the level of automation to lessen the threat of a successful revolt. The capitalist state can also redistribute to workers via the tax system or repress political action, thus creating greater room for further automation. We characterize the trade-off between the regulation of automation, redistribution and repression. \\nOur main result is a complementarity between automation and repression. Unless the threat of revolt is quite weak or the capital stock is very low, the capitalist state prefers repression. A higher capital stock in turn encourages more automation and thus more repression. In our full dynamic model with capital accumulation, in the long run the economy tends to repression (again unless the threat of revolt is very weak). We also prove that the same conclusions apply when firms can additionally invest in new labor-intensive tasks. Finally, we show that, starting in a democracy, capital accumulation and thus greater automation encourages the capitalists to support a coup against democracy and set up a repressive system.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "人工智能"
-            ],
-            "paper_id": "w35336",
-            "programs": []
-          },
-          {
-            "title_en": "From Trade War to Green Transition: Optimal Electric Vehicle Tariffs with Revenue-Funded Subsidies",
-            "title_zh": "",
-            "url": "https://www.nber.org/papers/w35334",
-            "authors": "Panle Jia Barwick, Jack Collison, Pinelopi K. Goldberg, Shanjun Li, Yucheng Wang",
-            "date": "2026-06-11",
-            "abstract_en": "We study the optimal design of trade and industrial policy when governments pursue environmental objectives alongside traditional national welfare. Motivated by the global transition to electric vehicles (EVs) and growing concerns about competitiveness, resilience, and the environment, we develop a framework in which policymakers choose tariffs and domestic production subsidies to maximize national welfare, defined as the sum of consumer surplus, domestic profits, environmental benefits, and tariff revenue net of subsidies. We combine a theoretical model of differentiated-product oligopoly with a structural demand model estimated using vehicle-level data from 13 countries during 2004-2023 that together account for the vast majority of global EV sales. Our central finding is that the optimal policy combines a moderate tariff on imported EVs with a subsidy to domestic EV production financed through tariff revenue. This policy substantially outperforms both outright protectionism and laissez-faire. Relative to current policies, it preserves consumer access to affordable EVs, accelerates fleet electrification, supports domestic producers, and remains budget-neutral. For the United States, the optimal policy more than doubles EV market share, generates over $45 billion in annual welfare gains, and avoids approximately 95 million tons of lifetime CO2 emissions. A key mechanism underlying these results is the pass-through of tariffs and subsidies to prices, which depends critically on demand curvature, product substitution, and market structure. More broadly, our results suggest that effective industrial policy requires careful attention to market structure and country-specific conditions, balancing consumer, producer, fiscal, and environmental objectives rather than adhering to ideological prescriptions.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "产业政策",
-              "绿色发展"
-            ],
-            "paper_id": "w35334",
-            "programs": []
           }
         ],
         "error": null
@@ -1664,24 +1710,11 @@
         "category": "Top 5",
         "issn": "0022-3808",
         "resolved_name": "Journal of Political Economy",
-        "issue_title": "Volume 134, Issue 6",
+        "issue_title": "Volume 134, Issue 7",
         "issue_url": "https://www.journals.uchicago.edu/journals/jpe",
-        "matched_count": 1,
-        "total_in_issue": 9,
-        "papers": [
-          {
-            "title_en": "On the Nature of Entrepreneurship",
-            "title_zh": "关于创业的本质",
-            "url": "https://doi.org/10.1086/739823",
-            "authors": "Anmol Bhandari, Tobey Kass, Thomas J. May, Ellen R. McGrattan, Evan Schulz",
-            "date": "2026-06-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新"
-            ]
-          }
-        ],
+        "matched_count": 0,
+        "total_in_issue": 10,
+        "papers": [],
         "error": null
       },
       {
@@ -1781,24 +1814,11 @@
         "category": "AEJ / applied",
         "issn": "1945-7782",
         "resolved_name": "American Economic Journal Applied Economics",
-        "issue_title": "Volume 18, Issue 2",
+        "issue_title": "Volume 18, Issue 3",
         "issue_url": "https://www.aeaweb.org/journals/app",
-        "matched_count": 1,
-        "total_in_issue": 13,
-        "papers": [
-          {
-            "title_en": "Information Frictions and Employee Sorting between Start-ups",
-            "title_zh": "信息摩擦与员工在初创企业间的筛选",
-            "url": "https://doi.org/10.1257/app.20240722",
-            "authors": "Kevin A. Bryan, Mitchell Hoffman, Amir Sariri",
-            "date": "2026-04-01",
-            "abstract_en": "Would workers apply to better firms if they were more informed about firm quality? Collaborating with 26 science-based start-ups, we create a custom job board and invite business school alumni to apply. The job board randomizes across applicants to show coarse expert ratings of all start-ups' science and/or business model quality. Making ratings visible strongly reallocates applications toward higher-rated firms. This reallocation holds, restricting to high-quality workers. Treatments operate in part by shifting worker beliefs about firms' right-tail outcomes. Despite these benefits, workers make posttreatment bets indicating highly overoptimistic beliefs about start-up success, suggesting a problem of broader informational deficits. (JEL D22, D83, J22, J23, J24, M13, M51)",
-            "abstract_zh": "如果工人对公司质量了解更多，他们会选择更好的公司吗？我们与26家基于科学的初创公司合作，创建了一个定制的招聘板，并邀请商学院校友申请。招聘板随机向申请者展示所有初创公司科学和/或商业模式质量的粗略专家评级。使评级可见显著地重新分配了申请，使其倾向于评级更高的公司。这种重新分配在限制到高质量工人时仍然成立。处理部分通过改变工人对公司右尾结果的信念来运作。尽管有这些好处，工人在治疗后做出的赌注表明，他们对初创公司成功的信念过于乐观，这表明存在更广泛的信息赤字问题。（JEL D22, D83, J22, J23, J24, M13, M51）",
-            "matched_topics": [
-              "创新"
-            ]
-          }
-        ],
+        "matched_count": 0,
+        "total_in_issue": 11,
+        "papers": [],
         "error": null
       },
       {
@@ -1928,7 +1948,7 @@
         "issue_title": "Published 2026-08",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-public-economics",
         "matched_count": 0,
-        "total_in_issue": 11,
+        "total_in_issue": 17,
         "papers": [],
         "error": null
       },
@@ -1941,14 +1961,26 @@
         "resolved_name": "Journal of Development Economics",
         "issue_title": "Published 2026-09",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-development-economics",
-        "matched_count": 1,
-        "total_in_issue": 17,
+        "matched_count": 2,
+        "total_in_issue": 22,
         "papers": [
           {
             "title_en": "Evaluating the environmental and economic implications of curbing transboundary pollution: Evidence from China",
             "title_zh": "",
             "url": "https://doi.org/10.1016/j.jdeveco.2026.103854",
             "authors": "Zeyang Zhang, Yuanyi Xu, Dunhu Chang, Dingding Shao, Xin Wang",
+            "date": "2026-09-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "绿色发展"
+            ]
+          },
+          {
+            "title_en": "More power outages, more CO2 emissions: Evidence from self-generation in China's manufacturing firms",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jdeveco.2026.103866",
+            "authors": "Panbing Wan, Mian Yang, Bing Zhang",
             "date": "2026-09-01",
             "abstract_en": "",
             "abstract_zh": "",
@@ -1969,7 +2001,7 @@
         "issue_title": "Published 2026-08",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-international-economics",
         "matched_count": 1,
-        "total_in_issue": 20,
+        "total_in_issue": 22,
         "papers": [
           {
             "title_en": "Burn now or never? Climate policy exposure and investment of fossil fuel firms",
@@ -2109,8 +2141,8 @@
         "resolved_name": "International Journal of Industrial Organization",
         "issue_title": "Published 2026-08",
         "issue_url": "https://www.sciencedirect.com/journal/international-journal-of-industrial-organization",
-        "matched_count": 1,
-        "total_in_issue": 4,
+        "matched_count": 3,
+        "total_in_issue": 10,
         "papers": [
           {
             "title_en": "Designing emissions trading schemes for a price-regulated and concentrated industry: Insights from China’s power sector",
@@ -2122,6 +2154,30 @@
             "abstract_zh": "",
             "matched_topics": [
               "绿色发展"
+            ]
+          },
+          {
+            "title_en": "Does pollution prevention enhance firm efficiency? Insights from U.S. manufacturing firms",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.ijindorg.2026.103305",
+            "authors": "Sumaya Falak Memon, Subal Kumbhakar, Yingjun Su",
+            "date": "2026-08-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "绿色发展"
+            ]
+          },
+          {
+            "title_en": "Innovation and startup acquisition",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.ijindorg.2026.103307",
+            "authors": "Marc Bourreau, Axel Gautier",
+            "date": "2026-08-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新"
             ]
           }
         ],
@@ -2137,7 +2193,7 @@
         "issue_title": "Volume 55, Issue 8",
         "issue_url": "https://www.sciencedirect.com/journal/research-policy",
         "matched_count": 12,
-        "total_in_issue": 16,
+        "total_in_issue": 18,
         "papers": [
           {
             "title_en": "‘Systems of use’: A lens to more deeply study user innovation",
@@ -2237,6 +2293,18 @@
             ]
           },
           {
+            "title_en": "Hope, signals, and silicon: A game-theoretic model of the pre-doctoral academic labor market in the age of AI",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.respol.2026.105568",
+            "authors": "Shaohui Wang",
+            "date": "2026-10-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "人工智能"
+            ]
+          },
+          {
             "title_en": "Patent pledging as collateral: Navigating the strategic dilemma from patents' private-market values",
             "title_zh": "标题：专利质押作为抵押品：从专利的私有市场价值中导航战略困境",
             "url": "https://doi.org/10.1016/j.respol.2026.105538",
@@ -2266,18 +2334,6 @@
             "title_zh": "",
             "url": "https://doi.org/10.1016/j.respol.2026.105533",
             "authors": "Maria Schmidt, Aoife Brophy, Philipp Trotter",
-            "date": "2026-10-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新"
-            ]
-          },
-          {
-            "title_en": "Problematic persistence of innovation: Breakdowns and sociotechnical maintenance of the world's most enduring herbicide technology",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.respol.2026.105543",
-            "authors": "Shane Hamilton, Beatrice D'Ippolito",
             "date": "2026-10-01",
             "abstract_en": "",
             "abstract_zh": "",
@@ -2483,9 +2539,33 @@
         "resolved_name": "Journal of Environmental Economics and Management",
         "issue_title": "Published 2026-08",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-environmental-economics-and-management",
-        "matched_count": 7,
-        "total_in_issue": 21,
+        "matched_count": 10,
+        "total_in_issue": 26,
         "papers": [
+          {
+            "title_en": "The heterogeneous effects of climate policy on households: Evidence from 88 countries",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jeem.2026.103382",
+            "authors": "Leonard Missbach, Jan Christoph Steckel",
+            "date": "2026-08-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "绿色发展"
+            ]
+          },
+          {
+            "title_en": "Headwind in sight? Wind turbine visibility spillovers and support for renewable energy policy",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jeem.2026.103386",
+            "authors": "Vincent F. Stegmaier, Melanie Krause",
+            "date": "2026-08-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "绿色发展"
+            ]
+          },
           {
             "title_en": "Cost-effective and equitable targeting of corrective subsidies: Differentiated green subsidies for new and existing homes",
             "title_zh": "",
@@ -2499,10 +2579,10 @@
             ]
           },
           {
-            "title_en": "Amplified challenges for the joint reduction of emissions and inequality, considering the missing-rich",
-            "title_zh": "标题：考虑富裕群体缺失时，联合减少排放和不平等的放大挑战",
-            "url": "https://doi.org/10.1016/j.jeem.2026.103353",
-            "authors": "Markus Nabernegg, Stefan Nabernegg, Thomas Kopp",
+            "title_en": "Occupational affiliation and the incidence of environmental regulation",
+            "title_zh": "职业归属与环境规制的影响",
+            "url": "https://doi.org/10.1016/j.jeem.2026.103361",
+            "authors": "Alex L. Marten, Andrew Schreiber, Ann Wolverton",
             "date": "2026-08-01",
             "abstract_en": "",
             "abstract_zh": "",
@@ -2511,10 +2591,10 @@
             ]
           },
           {
-            "title_en": "Occupational affiliation and the incidence of environmental regulation",
-            "title_zh": "职业归属与环境规制的影响",
-            "url": "https://doi.org/10.1016/j.jeem.2026.103361",
-            "authors": "Alex L. Marten, Andrew Schreiber, Ann Wolverton",
+            "title_en": "Amplified challenges for the joint reduction of emissions and inequality, considering the missing-rich",
+            "title_zh": "标题：考虑富裕群体缺失时，联合减少排放和不平等的放大挑战",
+            "url": "https://doi.org/10.1016/j.jeem.2026.103353",
+            "authors": "Markus Nabernegg, Stefan Nabernegg, Thomas Kopp",
             "date": "2026-08-01",
             "abstract_en": "",
             "abstract_zh": "",
@@ -2539,6 +2619,18 @@
             "title_zh": "",
             "url": "https://doi.org/10.1016/j.jeem.2026.103374",
             "authors": "Haiqiang Chen, Shihe Fu, Zhuoyang Lyu",
+            "date": "2026-08-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "绿色发展"
+            ]
+          },
+          {
+            "title_en": "Trade and the scopes of pollution: Evidence from China’s world market integration",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jeem.2026.103378",
+            "authors": "Stefano Carattini, Hanwei Huang, Frank Pisch, Tejendra Pratap Singh",
             "date": "2026-08-01",
             "abstract_en": "",
             "abstract_zh": "",
@@ -2597,7 +2689,7 @@
         "issue_title": "Published 2026-08",
         "issue_url": "https://www.sciencedirect.com/journal/energy-economics",
         "matched_count": 12,
-        "total_in_issue": 23,
+        "total_in_issue": 20,
         "papers": [
           {
             "title_en": "Analyzing different energy transition patterns and their drivers using clustering and machine learning models: unveiling the role of digital technological innovation",
@@ -2614,10 +2706,35 @@
             ]
           },
           {
+            "title_en": "Firm characteristics, climate policy shocks, and climate risk exposures: Evidence of feedback loops from a quasi-experiment in GCC countries",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.eneco.2026.109457",
+            "authors": "Quyen Pham, Huy Pham, Hanh Le, Chune Young Chung, Huy Truong",
+            "date": "2026-08-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "绿色发展"
+            ]
+          },
+          {
             "title_en": "Low-carbon transformation of iron and steel: Combined effects of green hydrogen subsidy and carbon emissions trading under uncertain environments",
             "title_zh": "",
             "url": "https://doi.org/10.1016/j.eneco.2026.109418",
             "authors": "Chunrui Liu, Mei Sun, Yibo Li, Dun Han, Wei Xu",
+            "date": "2026-08-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "产业政策",
+              "绿色发展"
+            ]
+          },
+          {
+            "title_en": "Energy subsidy removal and carbon taxation in Egypt: Economic and distributional impacts",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.eneco.2026.109470",
+            "authors": "Govinda R. Timilsina, Samuel Sebsibie",
             "date": "2026-08-01",
             "abstract_en": "",
             "abstract_zh": "",
@@ -2699,19 +2816,6 @@
             ]
           },
           {
-            "title_en": "Industrial agglomeration and corporate pollution abatement: Evidence from China's eco-industrial park program",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.eneco.2026.109425",
-            "authors": "Yue Cao, Yike Tang, Jie Han, Teng Zhang",
-            "date": "2026-08-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "产业政策",
-              "绿色发展"
-            ]
-          },
-          {
             "title_en": "Eco-innovation strategies in response to energy-related uncertainty and geopolitical risk: Insights from the energy sector",
             "title_zh": "",
             "url": "https://doi.org/10.1016/j.eneco.2026.109414",
@@ -2724,26 +2828,15 @@
             ]
           },
           {
-            "title_en": "The role of managerial risk preferences on effectiveness of wind subsidies",
-            "title_zh": "管理层风险偏好对风能补贴效果的影响",
-            "url": "https://doi.org/10.1016/j.eneco.2026.109421",
-            "authors": "Felipe Gomez-Trejos",
-            "date": "2026-08-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "产业政策"
-            ]
-          },
-          {
-            "title_en": "Coupling a stock-flow consistent macroeconomic model with an energy system optimisation model to study the impacts of the energy transition in Colombia",
+            "title_en": "Industrial agglomeration and corporate pollution abatement: Evidence from China's eco-industrial park program",
             "title_zh": "",
-            "url": "https://doi.org/10.1016/j.eneco.2026.109401",
-            "authors": "Pierre Jacques, Stanislas Augier, Santiago Barbosa, Devrim Yilmaz, Hervé Jeanmart, Antoine Godin",
+            "url": "https://doi.org/10.1016/j.eneco.2026.109425",
+            "authors": "Yue Cao, Yike Tang, Jie Han, Teng Zhang",
             "date": "2026-08-01",
             "abstract_en": "",
             "abstract_zh": "",
             "matched_topics": [
+              "产业政策",
               "绿色发展"
             ]
           }
@@ -2760,7 +2853,7 @@
         "issue_title": "Published 2026-08",
         "issue_url": "https://www.sciencedirect.com/journal/resource-and-energy-economics",
         "matched_count": 0,
-        "total_in_issue": 2,
+        "total_in_issue": 4,
         "papers": [],
         "error": null
       }
@@ -2769,11 +2862,53 @@
       "source_type": "nber",
       "name": "NBER Working Papers",
       "category": "Working papers",
-      "issue_title": "Recent NBER Working Papers through 2026-06-18",
+      "issue_title": "Recent NBER Working Papers through 2026-06-25",
       "issue_url": "https://www.nber.org/papers",
       "matched_count": 12,
       "total_recent_considered": 220,
       "papers": [
+        {
+          "title_en": "Immigration, Innovation, and the Geography of Growth",
+          "title_zh": "",
+          "url": "https://www.nber.org/papers/w35392",
+          "authors": "Costas Arkolakis, Sun Kyoung Lee, Michael Peters",
+          "date": "2026-06-25",
+          "abstract_en": "Between 1880 and 1920, more than 20 million immigrants settled in the United States. We study how this migration wave affected innovation and growth. Using a newly constructed dataset linking individual census records to historical immigration records and the universe of US patents, we highlight a new channel through which immigrants contributed to growth: they disproportionately settled in urban innovation hubs. To quantify the aggregate and regional effects of this mass migration episode, we develop a new spatial growth model in which skilled workers have a comparative advantage in innovation and sort endogenously across space. We find that international arrivals after 1880 raised US income per capita by 8.2% by 1940. Removing the subsequent immigration restrictions of the 1920s would have raised income per capita by a further 1.7% by 2000. Immigrants' skill composition and their concentration in urban hubs are key drivers of these effects.",
+          "abstract_zh": "",
+          "matched_topics": [
+            "创新"
+          ],
+          "paper_id": "w35392",
+          "programs": []
+        },
+        {
+          "title_en": "Prices Versus Quantities Revisited: What Do Policymakers Need to Know to Set Pigouvian Taxes and Subsidies?",
+          "title_zh": "",
+          "url": "https://www.nber.org/papers/w35376",
+          "authors": "Denise Dipasquale, Edward L. Glaeser, Adam M. Guren, Paul S. Willen",
+          "date": "2026-06-25",
+          "abstract_en": "What information do policymakers need to design Pigouvian taxes or subsidies? Standard logic suggests that it is sufficient to know the size of the externality and unnecessary to know about quantities. Yet this logic is incorrect if interventions have fixed costs, taxes create deadweight losses, or there are distributional concerns. We present a model in which these considerations can make it more valuable for policymakers to learn about equilibrium quantities. We apply the model to congestion pricing, which has high fixed costs, and to a proposed housing subsidy in Boston that features deadweight losses and distributional concerns.",
+          "abstract_zh": "",
+          "matched_topics": [
+            "产业政策"
+          ],
+          "paper_id": "w35376",
+          "programs": []
+        },
+        {
+          "title_en": "A Practitioner's Guide to Using Large Language Models and Generative AI in Economic History",
+          "title_zh": "",
+          "url": "https://www.nber.org/papers/w35374",
+          "authors": "Andreas Ferrara",
+          "date": "2026-06-25",
+          "abstract_en": "Large language models (LLMs) are lowering the entry barriers to working with exciting data sources that used to require strong data science skills, such as handwritten ledgers, text, images, or sound recordings. This guide provides an introduction for researchers who are new to LLMs. It sets out a step-by-step workflow for turning a research idea into working code and data, and describes the four main ways of interacting with an LLM: the chat window, editor-integrated assistants, agentic coding tools, and the API. It then works through the decisions a practitioner meets in sequence, beginning with whether an LLM is the right tool and whether the data are allowed to be sent to one, then how to select models, write prompts, manage context limits, and control costs, and finally how to validate, reproduce, document, and correct LLM-generated measures in regression settings. A review of recent research shows how these tools already extract, link, harmonize, and classify historical data at scale. Four worked examples with replication files illustrate the use of LLMs. They classify emotions in paintings, link census records without names, measure newspaper salience and sentiment around the 1882 Chinese Exclusion Act, and score the emotional delivery of Franklin D. Roosevelt's wartime speeches. The guide also condenses the workflow, the best-practice recommendations, and the preparation of replication packages into summary tables and checklists to aid applied economists.",
+          "abstract_zh": "",
+          "matched_topics": [
+            "人工智能"
+          ],
+          "paper_id": "w35374",
+          "programs": []
+        },
         {
           "title_en": "Empowering Inclusive Work",
           "title_zh": "",
@@ -2900,54 +3035,11 @@
           ],
           "paper_id": "w35344",
           "programs": []
-        },
-        {
-          "title_en": "Blindly Discriminating: The GI Bill and Racial Inequality",
-          "title_zh": "",
-          "url": "https://www.nber.org/papers/w35339",
-          "authors": "Lukas Althoff, Christiane Szerman",
-          "date": "2026-06-11",
-          "abstract_en": "The World War II GI Bill was the largest education subsidy in US history and a cornerstone of the postwar US transition to a knowledge economy. Although formally race-blind, the program's decentralized administration left implementation to local officials and segregated institutions, with sharply different consequences for Black and white veterans. This paper quantifies the GI Bill's impact on Black and white Americans' economic outcomes across two generations, using a regression discontinuity around WWII service eligibility cutoffs and a new data linkage from veterans in the 1940 and 1950 censuses to their sons' neighborhood outcomes between 1990 and 2025. The GI Bill widened racial inequality, doubling white veterans' college completion while steering Black veterans into often-fraudulent vocational programs with no earnings returns. The disparities persisted across generations, increasing the white-Black gap in sons' adult-neighborhood outcomes, including a 5-percentage-point (47 percent) widening of the racial college gap. Unequal returns to the same eligibility account for the intergenerational gap, with no contribution from prewar differences in socioeconomic status or geography. In sum, access to the GI Bill was not nearly the same economic opportunity for Black Americans as it was for white Americans, highlighting that race-blind policy does not guarantee racial equality.",
-          "abstract_zh": "",
-          "matched_topics": [
-            "产业政策"
-          ],
-          "paper_id": "w35339",
-          "programs": []
-        },
-        {
-          "title_en": "Automation and Repression",
-          "title_zh": "",
-          "url": "https://www.nber.org/papers/w35336",
-          "authors": "Daron Acemoglu, A. Arda Gitmez, Mehdi Shadmehr",
-          "date": "2026-06-11",
-          "abstract_en": "We consider a model of automation embedded in a political environment where workers can undertake a revolt (modeled as a global game), and greater inequality between capital and labor increases the likelihood of a revolt. Decentralized automation decisions raise the share of capital in national income and increase the likelihood of a successful revolt. A capitalist state (representing capital-owners) prefers to regulate the level of automation to lessen the threat of a successful revolt. The capitalist state can also redistribute to workers via the tax system or repress political action, thus creating greater room for further automation. We characterize the trade-off between the regulation of automation, redistribution and repression. \\nOur main result is a complementarity between automation and repression. Unless the threat of revolt is quite weak or the capital stock is very low, the capitalist state prefers repression. A higher capital stock in turn encourages more automation and thus more repression. In our full dynamic model with capital accumulation, in the long run the economy tends to repression (again unless the threat of revolt is very weak). We also prove that the same conclusions apply when firms can additionally invest in new labor-intensive tasks. Finally, we show that, starting in a democracy, capital accumulation and thus greater automation encourages the capitalists to support a coup against democracy and set up a repressive system.",
-          "abstract_zh": "",
-          "matched_topics": [
-            "人工智能"
-          ],
-          "paper_id": "w35336",
-          "programs": []
-        },
-        {
-          "title_en": "From Trade War to Green Transition: Optimal Electric Vehicle Tariffs with Revenue-Funded Subsidies",
-          "title_zh": "",
-          "url": "https://www.nber.org/papers/w35334",
-          "authors": "Panle Jia Barwick, Jack Collison, Pinelopi K. Goldberg, Shanjun Li, Yucheng Wang",
-          "date": "2026-06-11",
-          "abstract_en": "We study the optimal design of trade and industrial policy when governments pursue environmental objectives alongside traditional national welfare. Motivated by the global transition to electric vehicles (EVs) and growing concerns about competitiveness, resilience, and the environment, we develop a framework in which policymakers choose tariffs and domestic production subsidies to maximize national welfare, defined as the sum of consumer surplus, domestic profits, environmental benefits, and tariff revenue net of subsidies. We combine a theoretical model of differentiated-product oligopoly with a structural demand model estimated using vehicle-level data from 13 countries during 2004-2023 that together account for the vast majority of global EV sales. Our central finding is that the optimal policy combines a moderate tariff on imported EVs with a subsidy to domestic EV production financed through tariff revenue. This policy substantially outperforms both outright protectionism and laissez-faire. Relative to current policies, it preserves consumer access to affordable EVs, accelerates fleet electrification, supports domestic producers, and remains budget-neutral. For the United States, the optimal policy more than doubles EV market share, generates over $45 billion in annual welfare gains, and avoids approximately 95 million tons of lifetime CO2 emissions. A key mechanism underlying these results is the pass-through of tariffs and subsidies to prices, which depends critically on demand curvature, product substitution, and market structure. More broadly, our results suggest that effective industrial policy requires careful attention to market structure and country-specific conditions, balancing consumer, producer, fiscal, and environmental objectives rather than adhering to ideological prescriptions.",
-          "abstract_zh": "",
-          "matched_topics": [
-            "产业政策",
-            "绿色发展"
-          ],
-          "paper_id": "w35334",
-          "programs": []
         }
       ],
       "error": null
     },
-    "total_matches": 85,
+    "total_matches": 89,
     "note": "Latest issue TOCs from economics top journals and field-top journals plus recent NBER Working Papers, filtered by title/abstract keywords for industrial policy, innovation, green development, and artificial intelligence."
   }
 }
