@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-06-29 20:41:07",
+  "updated_at": "2026-07-06 20:44:15",
   "schema_version": 1,
   "translation": {
     "engine": "kimi",
     "model": "moonshot-v1-8k",
     "enabled": true,
     "success_count": 0,
-    "fail_count": 79,
+    "fail_count": 85,
     "failed_examples": [
+      "A Welfare Analysis of Policies Impacting Climate Change :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, please recharge your ",
+      "We study the welfare impacts of 96 climate-related tax and spending policies. We extend an :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, please recharge your ",
+      "Nobel Lecture: The Past and Future of Innovation: Can Progress Be Sustained? :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, please recharge your ",
       "Existence of Myopic‐Farsighted Stable Sets in Matching Markets :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, please recharge your ",
       "In the context of one‐to‐one matching markets, we study myopic‐farsighted stable sets , wh :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, please recharge your ",
       "Comment on <i>‘Fisher–Schultz Lecture: Contracting Over Pharmaceutical Formularies and Reb :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, please recharge your ",
       "Biopharmaceuticals advance health and economic growth. Unlike central bargaining abroad, t :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, please recharge your ",
-      "Evaluating the environmental and economic implications of curbing transboundary pollution: :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, please recharge your ",
-      "More power outages, more CO2 emissions: Evidence from self-generation in China's manufactu :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, please recharge your ",
-      "Patents, Antitrust, and Innovation: Evidence From the Xerox Case :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, please recharge your ",
-      "ABSTRACT How does antitrust enforcement affect innovation when patents are the main barrie :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, please recharge your "
+      "Evaluating the environmental and economic implications of curbing transboundary pollution: :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, please recharge your "
     ],
     "note": "Set KIMI_API_KEY to enable Chinese translation."
   },
@@ -169,33 +169,34 @@
         "category": "Top 5",
         "issn": "0002-8282",
         "resolved_name": "American Economic Review",
-        "issue_title": "Volume 116, Issue 6",
+        "issue_title": "Volume 116, Issue 7",
         "issue_url": "https://www.aeaweb.org/journals/aer",
         "matched_count": 2,
-        "total_in_issue": 10,
+        "total_in_issue": 15,
         "papers": [
           {
-            "title_en": "Mergers, Foreign Competition, and Jobs: Evidence from the US Appliance Industry",
-            "title_zh": "标题：并购、外国竞争与就业：来自美国家电行业的证据",
-            "url": "https://doi.org/10.1257/aer.20230017",
-            "authors": "Felix Montag",
-            "date": "2026-06-01",
-            "abstract_en": "Policy choices often create trade-offs between workers and consumers. I examine how foreign competition alters the consumer welfare and domestic employment effects of mergers. I construct a model incorporating consumer demand, endogenous product portfolios, and employment decisions. Applying the model to Whirlpool’s acquisition of Maytag in the appliance industry, I compare the observed merger to a counterfactual acquisition by a foreign buyer. Although Whirlpool’s acquisition decreased consumer welfare by $271 million annually, it preserved 797 domestic jobs. These jobs must therefore be valued at more than $344, 000 per year for the domestic employment benefits to offset the consumer harm. (JEL E24, F23, G34, J30, L13, L68, R23)",
-            "abstract_zh": "类型：摘要 文本： 政策选择常常在工人和消费者之间造成权衡。我研究了外国竞争如何改变并购对消费者福利和国内就业的影响。我构建了一个包含消费者需求、内生产品组合和就业决策的模型。将该模型应用于惠而浦收购美泰克的家电行业案例，我比较了实际发生的并购与一个外国买家的反事实收购。尽管惠而浦的收购每年减少了2.71亿美元的消费者福利，但它保留了797个国内工作岗位。因此，这些工作岗位每年必须被估值超过34.4万美元，才能使国内就业利益抵消对消费者的损害。（JEL E24, F23, G34, J30, L13, L68, R23）",
+            "title_en": "A Welfare Analysis of Policies Impacting Climate Change",
+            "title_zh": "",
+            "url": "https://doi.org/10.1257/aer.20250166",
+            "authors": "Robert W. Hahn, Nathaniel Hendren, Robert D. Metcalfe, Ben Sprung-Keyser",
+            "date": "2026-07-01",
+            "abstract_en": "We study the welfare impacts of 96 climate-related tax and spending policies. We extend and apply the marginal value of public funds (MVPF) framework, most notably providing a new method for incorporating learning-by-doing spillovers. We find subsidies for the production of clean energy (such as wind production tax credits) have higher MVPFs than all other subsidies in our sample, including EV subsidies. Conservation nudges have large MVPFs when targeting regions with dirty grids. Fuel taxes and cap-and-trade policies are highly efficient means of raising revenue. We also construct traditional cost-per-ton estimates and compare and contrast the lessons they provide. (JEL D83, H23, H25, L62, Q42, Q54, Q58)",
+            "abstract_zh": "",
             "matched_topics": [
-              "产业政策"
+              "产业政策",
+              "绿色发展"
             ]
           },
           {
-            "title_en": "Quality Adjustment at Scale: Hedonic versus Exact Demand-Based Price Indices",
-            "title_zh": "大规模质量调整：享乐与基于精确需求的价格指数比较",
-            "url": "https://doi.org/10.1257/aer.20230766",
-            "authors": "Gabriel Ehrlich, John Haltiwanger, Ron Jarmin, David Johnson, Ed Olivares, Luke Pardue, Matthew D. Shapiro, Laura Yi Zhao",
-            "date": "2026-06-01",
-            "abstract_en": "Item-level transactions data yield cost-of-living indices that can account for quality change and consumer substitution. Transactions data require confronting the rapid turnover of items because prices of new and existing products are interrelated in equilibrium. This paper evaluates multiple approaches to measuring quality change at scale. It shows that a hedonic superlative approach—using econometrics or machine learning for hedonic estimation combined with index formulas that require simultaneous observation of item-level price and expenditure—yields improved measures of the cost of living. Accounting for ubiquitous quality change and for consumer substitution yields lower measures of inflation than traditional, official methods. (JEL C43, C45, E31, L15, L81)",
-            "abstract_zh": "项目级交易数据能够产生考虑质量变化和消费者替代的生活成本指数。交易数据需要面对项目快速更迭的问题，因为在均衡中新旧产品的价格是相互关联的。本文评估了多种大规模测量质量变化的方法。研究表明，采用享乐型超优方法——结合计量经济学或机器学习进行享乐型估计，并使用需要同时观察项目级价格和支出的指数公式——能够改善生活成本的度量。考虑普遍的质量变化和消费者替代，得出的通货膨胀度量比传统官方方法要低。（JEL C43, C45, E31, L15, L81）",
+            "title_en": "Nobel Lecture: The Past and Future of Innovation: Can Progress Be Sustained?",
+            "title_zh": "",
+            "url": "https://doi.org/10.1257/aer.116.7.2299",
+            "authors": "Joel Mokyr",
+            "date": "2026-07-01",
+            "abstract_en": "",
+            "abstract_zh": "",
             "matched_topics": [
-              "人工智能"
+              "创新"
             ]
           }
         ],
@@ -288,7 +289,7 @@
         "issue_title": "Volume 94, Issue 3",
         "issue_url": "https://onlinelibrary.wiley.com/journal/14680262",
         "matched_count": 2,
-        "total_in_issue": 17,
+        "total_in_issue": 16,
         "papers": [
           {
             "title_en": "Existence of Myopic‐Farsighted Stable Sets in Matching Markets",
@@ -392,7 +393,7 @@
         "issue_title": "Volume 18, Issue 2",
         "issue_url": "https://www.aeaweb.org/journals/pol",
         "matched_count": 2,
-        "total_in_issue": 17,
+        "total_in_issue": 16,
         "papers": [
           {
             "title_en": "Cooking, Health, and Daily Exposure to Pollution Spikes",
@@ -509,7 +510,7 @@
         "issue_title": "Published 2026-08",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-public-economics",
         "matched_count": 0,
-        "total_in_issue": 17,
+        "total_in_issue": 18,
         "papers": [],
         "error": null
       },
@@ -523,7 +524,7 @@
         "issue_title": "Published 2026-09",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-development-economics",
         "matched_count": 2,
-        "total_in_issue": 22,
+        "total_in_issue": 26,
         "papers": [
           {
             "title_en": "Evaluating the environmental and economic implications of curbing transboundary pollution: Evidence from China",
@@ -562,7 +563,7 @@
         "issue_title": "Published 2026-08",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-international-economics",
         "matched_count": 1,
-        "total_in_issue": 22,
+        "total_in_issue": 23,
         "papers": [
           {
             "title_en": "Burn now or never? Climate policy exposure and investment of fossil fuel firms",
@@ -754,13 +755,25 @@
         "issue_title": "Volume 55, Issue 8",
         "issue_url": "https://www.sciencedirect.com/journal/research-policy",
         "matched_count": 12,
-        "total_in_issue": 18,
+        "total_in_issue": 17,
         "papers": [
           {
             "title_en": "‘Systems of use’: A lens to more deeply study user innovation",
             "title_zh": "",
             "url": "https://doi.org/10.1016/j.respol.2026.105534",
             "authors": "Eric von Hippel",
+            "date": "2026-10-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新"
+            ]
+          },
+          {
+            "title_en": "Can FinTech innovate green finance? Scrutinising the financial ecologies and innovation dynamics of FinTech for forest restoration",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.respol.2026.105564",
+            "authors": "Jack L. Harris, Felicia Liu, Benjamin S. Thompson",
             "date": "2026-10-01",
             "abstract_en": "",
             "abstract_zh": "",
@@ -782,6 +795,31 @@
             ]
           },
           {
+            "title_en": "Scaling innovation through public procurement: Market acceleration, building, and transformation",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.respol.2026.105563",
+            "authors": "Maria Merisalo, Matti Pihlajamaa, Elvira Uyarra, Ville Valovirta, Juha Oksanen",
+            "date": "2026-10-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "产业政策",
+              "创新"
+            ]
+          },
+          {
+            "title_en": "Discontinuous but not disruptive: Lessons from green steel on sustainability innovation pathways for foundation industries",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.respol.2026.105541",
+            "authors": "Viktor M. Salenius, Richard Cuthbertson, Jennifer Howard-Grenville",
+            "date": "2026-10-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新"
+            ]
+          },
+          {
             "title_en": "At cross purposes? Housing markets and innovation in American Political Economy",
             "title_zh": "",
             "url": "https://doi.org/10.1016/j.respol.2026.105561",
@@ -794,10 +832,10 @@
             ]
           },
           {
-            "title_en": "Discontinuous but not disruptive: Lessons from green steel on sustainability innovation pathways for foundation industries",
+            "title_en": "Do public credit guarantees boost R&amp;D and innovation?",
             "title_zh": "",
-            "url": "https://doi.org/10.1016/j.respol.2026.105541",
-            "authors": "Viktor M. Salenius, Richard Cuthbertson, Jennifer Howard-Grenville",
+            "url": "https://doi.org/10.1016/j.respol.2026.105560",
+            "authors": "Ahmet Deryol, Leone Leonida, Gulcin Ozkan",
             "date": "2026-10-01",
             "abstract_en": "",
             "abstract_zh": "",
@@ -830,6 +868,18 @@
             ]
           },
           {
+            "title_en": "Patent protection and software firm financing",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.respol.2026.105571",
+            "authors": "Christian Helmers, Brian J. Love",
+            "date": "2026-10-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新"
+            ]
+          },
+          {
             "title_en": "Utility model patent regimes around the world and over time: Strictness, usage, and economic development",
             "title_zh": "全球及不同时期实用新型专利制度：严格性、使用情况与经济发展",
             "url": "https://doi.org/10.1016/j.respol.2026.105517",
@@ -846,55 +896,6 @@
             "title_zh": "",
             "url": "https://doi.org/10.1016/j.respol.2026.105542",
             "authors": "Catherine Magelssen, Luis Ballesteros, Casidhe Troyer",
-            "date": "2026-10-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新"
-            ]
-          },
-          {
-            "title_en": "Hope, signals, and silicon: A game-theoretic model of the pre-doctoral academic labor market in the age of AI",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.respol.2026.105568",
-            "authors": "Shaohui Wang",
-            "date": "2026-10-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "人工智能"
-            ]
-          },
-          {
-            "title_en": "Patent pledging as collateral: Navigating the strategic dilemma from patents' private-market values",
-            "title_zh": "标题：专利质押作为抵押品：从专利的私有市场价值中导航战略困境",
-            "url": "https://doi.org/10.1016/j.respol.2026.105538",
-            "authors": "Yuandi Wang, Zi Li, Qianbin Dou, Jiashun Huang, Zhao Zhou, Toby Li",
-            "date": "2026-10-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新"
-            ]
-          },
-          {
-            "title_en": "Business model innovation pathways: Digital transformation after disruption at The New York Times and The Washington Post",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.respol.2026.105536",
-            "authors": "Paolo Aversa, Alessio Cozzolino, Amy Basil",
-            "date": "2026-10-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新",
-              "人工智能"
-            ]
-          },
-          {
-            "title_en": "Business model innovation for disruptive sustainability: A theorizing review on how interdependencies between business model components reshape the problem-solution nexus",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.respol.2026.105533",
-            "authors": "Maria Schmidt, Aoife Brophy, Philipp Trotter",
             "date": "2026-10-01",
             "abstract_en": "",
             "abstract_zh": "",
@@ -999,93 +1000,154 @@
         "category": "Innovation / AI",
         "issn": "0025-1909",
         "resolved_name": "Management Science",
-        "issue_title": "Volume 72, Issue 6",
+        "issue_title": "Volume 72, Issue 7",
         "issue_url": "https://pubsonline.informs.org/journal/mnsc",
-        "matched_count": 7,
-        "total_in_issue": 45,
+        "matched_count": 12,
+        "total_in_issue": 37,
         "papers": [
           {
-            "title_en": "Venture Capital and Private M&amp;A Contracting",
+            "title_en": "Model Aggregation for Risk Evaluation and Robust Optimization",
             "title_zh": "",
-            "url": "https://doi.org/10.1287/mnsc.2023.00654",
-            "authors": "Lauren J. Vollon",
-            "date": "2026-06-01",
-            "abstract_en": "This study investigates the role of venture capital (VC) firms in private mergers and acquisitions (M&A) contracting, particularly in reducing information asymmetry. Analyzing a proprietary data set of 851 startup acquisitions from 2015 to 2020, I find that M&A contracts are significantly less likely to include earnouts, mechanisms designed to mitigate information asymmetry, when a VC is involved in the transaction. Further analysis reveals that earnouts are more likely in transactions with high information asymmetry between the VC and the buyer. The study also examines the effect of prior relationships between VCs and buyers, showing that these connections not only increase the chances of repeat transactions but also further reduce the reliance on earnouts. These findings suggest that VCs play a crucial role in mitigating information asymmetry, reducing the need for earnouts, and ultimately improving M&A outcomes. This paper was accepted by Bo Becker, finance. Funding: Research funding was provided by the University of Chicago Booth School of Business. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.00654 .",
+            "url": "https://doi.org/10.1287/mnsc.2023.03523",
+            "authors": "Tiantian Mao, Ruodu Wang, Qinyu Wu",
+            "date": "2026-07-01",
+            "abstract_en": "We introduce a new approach for prudent risk evaluation based on stochastic dominance, and it is called the model aggregation (MA) approach. In contrast to the classic worst case risk (WR) approach, the MA approach produces not only a robust value of risk evaluation but also a robust distributional model, independent of any specific risk measure. The MA risk evaluation can be computed through explicit formulas in the lattice theory of stochastic dominance, and under some standard assumptions, the MA robust optimization admits a convex program reformulation. The MA approach for Wasserstein and mean-variance uncertainty sets admits explicit formulas for the obtained robust models. Via an equivalence property between the MA and WR approaches, new axiomatic characterizations are obtained for the value at risk and the expected shortfall (also known as conditional value at risk). The new approach is illustrated with various risk measures and examples from portfolio optimization. This paper was accepted by Chung Piaw Teo, optimization. Funding: This research was supported by the National Natural Science Foundation of China [Grants 12371476, 71921001, 71671176, 71871208], the Natural Sciences and Engineering Research Council of Canada [Grants CRC-2022-00141, RGPIN-2024-03728, RGPAS-2018-522590, RGPIN-2018-03823], and the Society of Actuaries Center of Actuarial Excellence Research Grant. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.03523 .",
             "abstract_zh": "",
             "matched_topics": [
               "创新"
             ]
           },
           {
-            "title_en": "Financial Shocks and Firm Innovation in Supply Chain Networks",
+            "title_en": "The Competitive Ratio of Threshold Policies for Online Unit-Density Knapsack Problems",
             "title_zh": "",
-            "url": "https://doi.org/10.1287/mnsc.2023.03601",
-            "authors": "Emanuele Brancati, Raoul Minetti, Susan Chun Zhu",
-            "date": "2026-06-01",
-            "abstract_en": "We study the influence of supply chains on the transmission of financial shocks to firms’ innovation. Using matched Italian firm-bank data over the 2007–2017 period, we find that firms’ engagement in supply chains enhanced the resilience of innovation activities to the banking shock caused by the “twin financial crises” (Great Financial Crisis and sovereign debt crisis). The results suggest that, amid the banking shock, supply chains facilitated purchases of innovative intermediates through trade credit provision and helped to sustain firms’ joint research and development efforts. The estimates imply, however, that the support offered by supply chains did not extend to radical product advances. This paper was accepted by Bo Becker, finance. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.03601 .",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新"
-            ]
-          },
-          {
-            "title_en": "Takeover Threats and Mandatory Disclosure Avoidance: Evidence from Contract Redactions",
-            "title_zh": "",
-            "url": "https://doi.org/10.1287/mnsc.2024.05948",
-            "authors": "Dichu Bao, Lixin (Nancy) Su, Chris X. Zhao, Gaoguang (Stephen) Zhou",
-            "date": "2026-06-01",
-            "abstract_en": "Mandatory disclosure is a primary source of public information available to acquirers, yet little is known about how potential target managers respond to takeover threats by avoiding mandatory disclosure. This study focuses on redactions in material contracts as a setting of mandatory disclosure avoidance. We find that managers facing takeover threats are more likely to redact material contracts than other managers. To better differentiate the motives for redactions, we classify redacted contracts into nine different categories and examine managers’ redaction decisions on the three most prominently redacted types. We find managers facing takeover threats redact research and development contracts more heavily when firms possess trade secrecy, as a strategy to thwart technological acquisitions aiming at innovation combinations. By contrast, managers redact purchase and sales contracts and license and royalty contracts more heavily when they have greater private control benefits. Overall, our results highlight new tactics that managers use when they face takeover threats, especially under threats of technological acquisitions. This paper was accepted by Suraj Srinivasan, accounting. Funding: L. (N.) Su acknowledges the financial support from the Faculty of Business, The Hong Kong Polytechnic University. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.05948 .",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新"
-            ]
-          },
-          {
-            "title_en": "A Global Optimization Algorithm for <i>K</i> -Center Clustering of One Billion Samples",
-            "title_zh": "",
-            "url": "https://doi.org/10.1287/mnsc.2023.00218",
-            "authors": "Jiayang Ren, Ningning You, Kaixun Hua, Chaojie Ji, Yankai Cao",
-            "date": "2026-06-01",
-            "abstract_en": "This paper presents a practical global optimization algorithm for the K-center clustering problem, which aims to select K samples as the cluster centers to minimize the maximum within-cluster distance. Specifically, we propose a reduced-space branch and bound scheme that guarantees convergence to the global optimum in a finite number of steps by only branching on the regions of centers. To improve efficiency, we design a two-stage decomposable lower bound, the solution of which can be derived in a closed form. In addition, we also propose several structure-exploiting acceleration techniques to narrow down the region of centers, including bounds tightening, sample reduction, and parallelization. Extensive studies on synthetic and real-world data sets have demonstrated that our algorithm can solve the K-center problems to global optimal within four hours for 10 million samples in the serial mode and 1 billion samples in the parallel mode, whereas existing studies can only address small-scale problems (e.g., thousands of samples). Moreover, compared with the state-of-the-art heuristic methods, the global optimum obtained by our algorithm reduces the objective function by an average of 25.8% on these synthetic and real-world data sets. This paper was accepted by Chung Piaw Teo, optimization. Funding: This work was supported by the Natural Sciences and Engineering Research Council of Canada [Grant RGPIN-2019-05499]. Supplemental Material: The data files are available at https://doi.org/10.1287/mnsc.2023.00218 .",
+            "url": "https://doi.org/10.1287/mnsc.2023.01577",
+            "authors": "Will Ma, David Simchi-Levi, Jinglong Zhao",
+            "date": "2026-07-01",
+            "abstract_en": "We study a wholesale supply chain ordering problem. In this problem, the supplier has an initial stock and faces an unpredictable stream of incoming orders, making real-time decisions on whether to accept or reject each order. What makes this wholesale supply chain ordering problem special is its knapsack constraint; that is, we do not allow partially accepting an order or splitting an order. The objective is to maximize the utilized stock. We model this wholesale supply chain ordering problem as an online unit-density knapsack problem. We study randomized threshold algorithms that accept an item as long as its size exceeds the threshold. We derive two optimal threshold distributions, the first is 0.4324-competitive relative to the optimal off-line integral packing, and the second is 0.4285-competitive relative to the optimal off-line fractional packing. Both results require optimizing the cumulative distribution function of the random threshold, which are challenging infinite-dimensional optimization problems. We also consider the generalization to multiple knapsacks, in which an arriving item has a different size in each knapsack. We derive a 0.2142-competitive algorithm for this problem. We also show that any randomized algorithm for this problem cannot be more than 0.4605-competitive. This is the first upper bound strictly less than 0.5, which implies the intrinsic challenge of the knapsack constraint. We show how to naturally implement our optimal threshold distributions in the warehouses of a Latin American chain department store. We run simulations on its order data that demonstrate the efficacy of our proposed algorithms. This paper was accepted by George Shanthikumar, data science. Funding: This work was supported by the Massachusetts Institute of Technology–Accenture Alliance for Business Analytics. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.01577 .",
             "abstract_zh": "",
             "matched_topics": [
               "人工智能"
             ]
           },
           {
-            "title_en": "Measuring Probabilistic Risk Attitudes",
+            "title_en": "Incentivizing Information Exchange Within Groups: The Role of Voting Protocols in U.S. Food and Drug Administration Advisory Committees",
             "title_zh": "",
-            "url": "https://doi.org/10.1287/mnsc.2024.04870",
-            "authors": "Arnaldo Nascimento, Che Tat Ng, Richard Gonzalez",
-            "date": "2026-06-01",
-            "abstract_en": "We introduce formal measures for two psychological factors of probabilistic risk attitudes: attractiveness (motivational factor) and discriminability (cognitive factor). Unlike previous approaches that relied on heuristic proxies, our measures precisely capture these two fundamental factors. Our measures are mathematically tractable, robust to discontinuities, such as in the NEO-additive case, and flexible to be applied to any weighting function, as well as to both small and large probabilities. Additionally, through detailed numerical analysis, we examine to what extent existing weighting function parameters capture the two factors: attractiveness and discriminability. Finally, using these new measures, we provide a formal understanding of the independence between motivational and cognitive factors. This paper was accepted by Jack Soll, behavioral economics and decision analysis. Funding: The research was made possible by the financial support from Brazilian Agency of Research and Innovation (Finep), Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Brasil (CAPES) [Grants PROJ–CAPES PRINT 1033427P] and PUC-Rio. Supplemental Material: The data files are available at https://doi.org/10.1287/mnsc.2024.04870 .",
+            "url": "https://doi.org/10.1287/mnsc.2023.03649",
+            "authors": "Panos Markou, Tian Heong Chan",
+            "date": "2026-07-01",
+            "abstract_en": "Complex and important decisions are often made with advice from a committee of experts. But how do a committee’s “rules of engagement” affect the way individuals discuss, how they vote, and ultimately the quality of their collective recommendation? Compiling verbatim transcripts from U.S. Food and Drug Administration advisory committee meetings, we study how a 2007 switch from sequential to simultaneous voting procedures changed discussions, information exchange, and decision making. Consistent with past findings, we show that, compared with a sequential voting protocol, simultaneous voting led to a reduction in the likelihood of unanimous votes. Importantly, we show novel evidence that the majority of this reduction in unanimity was mediated by changes in discussion patterns—specifically, by the increased diversity of information surfaced during discussions. We also find evidence of behavioral and linguistic changes that support our theory that voting protocols changed the incentives for members to elicit more diverse information from each other: under simultaneous voting, members exhibited greater equality in talking time, directed a greater proportion of questions to each other, and adopted language that was more positive, authentic, and equal in projecting status and confidence. Finally, we show that recommendations under simultaneous voting were more likely to be accurate, as drugs recommended and approved were less likely to encounter safety-related postmarket events. In sum, voting protocols affect the incentives for individuals to engage in robust discussions, leading to marked improvements in how information is exchanged between individuals, and in the process by which groups of experts arrive at joint recommendations. This paper was accepted by Sridhar Tayur, entrepreneurship and innovation. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.03649 .",
             "abstract_zh": "",
             "matched_topics": [
               "创新"
             ]
           },
           {
-            "title_en": "Polluting Public Funds: The Effect of Environmental Regulations on Municipal Bonds",
+            "title_en": "No Gifts Returned: Surprise Bonuses Reduce Productivity in a Natural Field Experiment",
             "title_zh": "",
-            "url": "https://doi.org/10.1287/mnsc.2023.02340",
-            "authors": "Akshaya Jha, Stephen A. Karolyi, Nicholas Z. Muller",
-            "date": "2026-06-01",
-            "abstract_en": "We present two findings on how environmental policy uncertainty impacts municipal bond returns. First, yields increase after a new pollution standard is proposed but decrease after this standard is finalized. Second, after annual announcements of compliance status, yields fall for counties that remain in compliance but increase for newly noncompliant counties. We present suggestive evidence linking these short-run municipal bond market reactions to long-run changes in pollution and housing prices. Our findings suggest that increases in either regulatory stringency or uncertainty over future environmental policy increase the cost of municipal debt raised to fund schools, hospitals, and critical infrastructure. This paper was accepted by Tomasz Piskorski, finance. Supplemental Material: The online appendices and data files are available at https://doi.org/10.1287/mnsc.2023.02340 .",
+            "url": "https://doi.org/10.1287/mnsc.2022.04085",
+            "authors": "Francesco Bogliacino, Gianluca Grimalda, David Pipke",
+            "date": "2026-07-01",
+            "abstract_en": "The gift exchange hypothesis posits that workers reciprocate above-market wages with increased productivity. This paper tests this hypothesis in a natural field experiment where one or both workers in a pair received a discretionary bonus after an initial round of data entry tasks. Bonuses were assigned based on one of three criteria: (i) relative productivity in the initial round, (ii) economic need, or (iii) an arbitrary decision. Two conditions where neither or both workers received a bonus served as the baseline. Contrary to the gift exchange hypothesis, we found a significant decline in postbonus productivity, especially when both workers received the bonus. This result suggests that workers interpreted the bonus as a signal of employer contentment, allowing them to reduce their effort. We conjectured that the postbonus productivity decline may result from either (a) a lower perceived risk of repercussions from slacking, such as early dismissal, or (b) a reduced sense of obligation to reciprocate the employer’s kindness. A follow-up experiment replicated the primary result, providing moderate evidence for the explanation based on reduced fear of dismissal. The main effect of bonuses on productivity was substantial, with effort reductions of 15.1% in the first experiment and 8.4% in the follow-up relative to baseline. In cases where only one worker received a bonus, nonrecipients’ inequality aversion appeared to decrease productivity markedly in the economic need treatment, whereas status-seeking behavior slightly increased productivity by bonus recipients in the productivity treatment. This paper was accepted by Dorothea Kübler, behavioral economics and decision analysis. Funding: F. Bogliacino acknowledges funding from the Fundación Universitaria Konrad Lorenz [Internal Grant 7INV1141], Open Evidence [Research Grant 009], and the Universidad Nacional [Internal Grant 26007]. G. Grimalda and D. Pipke gratefully acknowledge funding for the follow-up experiment from the Kiel Institute for the World Economy. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2022.04085 .",
             "abstract_zh": "",
             "matched_topics": [
-              "绿色发展"
+              "创新"
             ]
           },
           {
-            "title_en": "Rethinking the Value and Emission Implications of Green Bonds",
+            "title_en": "Learning Personalized Treatment Strategies with Predictive and Prognostic Covariates in Adaptive Clinical Trials",
             "title_zh": "",
-            "url": "https://doi.org/10.1287/mnsc.2023.00961",
-            "authors": "Jitendra Aswani, Shivaram Rajgopal",
-            "date": "2026-06-01",
-            "abstract_en": "Our analysis of green bonds issued between 2013 and 2022 reveals a distinctive shareholder preference for such assets, particularly among financial institutions. In the secondary market, the green bonds issued by financial firms’ trade at a “greenium” of 8.2 basis points compared with matched samples, which is attributed potentially to the financial firms’ efforts in channeling funds to green loans. Past work documenting a positive stock price reaction to the issuance of green bonds is isolated to financial firms and to specific issuers. Issuers of green bonds with higher emissions before the green bond issue report an insignificant reduction in such emissions after issuance. Our analysis of the sustainable lending practices of these gatekeepers reveals that the greenium earned in the green bond market does not translate to the green loan market. Furthermore, the borrowers’ performance remains unchanged in the short term, indicating a lack of due diligence by the gatekeepers. This study underscores the complex relationship between financial markets and environmental stewardship. This paper was accepted by Ranjani Krishnan, accounting. Funding: The authors acknowledge financial assistance from Columbia Business School, Fordham University, Harvard University (Program on Corporate Governance), and MIT Sloan (Sustainability Initiative). Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.00961 .",
+            "url": "https://doi.org/10.1287/mnsc.2022.02048",
+            "authors": "Andres Alban, Stephen E. Chick, Spyros I. Zoumpoulis",
+            "date": "2026-07-01",
+            "abstract_en": "Biomedical research may uncover insights regarding the interaction of the treatments of a disease with patient covariates. We show how to use such insights to improve the efficiency of adaptive clinical trials for precision medicine by extending ideas from optimal Bayesian learning. We present a model for response-adaptive multi-arm clinical trials that leverages knowledge about the predictive-prognostic covariate structure to accelerate the learning of personalized treatment strategies that obtain the best expected outcomes for post-trial patients. Our base model is a contextual linear bandit for best-arm identification, and outcomes may be observed with delay. We characterize the optimal policy for sequentially allocating treatments to in-trial patients and, because it is hard to compute, propose several computable heuristics based on Bayesian one-step look-ahead techniques. We prove that several of our proposed heuristics are asymptotically optimal in learning treatment strategies. Numerical results based on two case studies motivated by sepsis management show that our heuristics can significantly improve clinical trial efficiency to learn a treatment strategy for precision medicine. We provide extensions that allow for rewards from outcomes of in-trial patients (resolving the exploration-exploitation tradeoff) and for inferring covariate structure using Lasso when biomedical insights on covariate structure are lacking. Our proposed trial design is of interest to funders, designers, and managers of clinical trials. It may also apply to other contextual bandit problems in settings where insights about covariate-treatment interactions are available. This paper was accepted by Stefan Scholtes, healthcare management. Funding: This work was supported by the Marie Skłodowska-Curie Actions under the European Union’s Horizon 2020 research and innovation programme [Grant 676129]. S. E. Chick gratefully acknowledges the support of Dr Simba Gill and Sabi Dau to the INSEAD Healthcare Management Initiative. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2022.02048 .",
             "abstract_zh": "",
             "matched_topics": [
-              "绿色发展"
+              "创新"
+            ]
+          },
+          {
+            "title_en": "Spillover Effects of Opioid Abuse on Skilled Human Capital and Innovation Activity",
+            "title_zh": "",
+            "url": "https://doi.org/10.1287/mnsc.2023.02976",
+            "authors": "Kimberly Cornaggia, John Hund, Kevin Pisciotta, Zihan Ye",
+            "date": "2026-07-01",
+            "abstract_en": "We document effects of the opioid epidemic on the migration and output of skilled workers who drive corporate innovation. Exploiting geographic variation in opioid abuse unrelated to economic conditions and using both patent and home sales-based measures, we show that inventors and research labs exit affected areas. This displacement is accompanied by declines in the quantity and value of patents of approximately 7% and $10.6 million per year, respectively. Declines in school quality, safety, and other amenities drive the out-migration. Because displaced workers are unlikely to abuse opioids, our results represent spillover effects of opioid abuse on nonusers. This paper was accepted by Camelia Kuhnen, finance. Funding: The project received funding from the University of Kansas’s General Research Fund and Troesh Center Research Grants from the University of Nevada, Las Vegas. Terry-Sanford Award at the University of Georgia. Supplemental Material: The internet appendix and data files are available at https://doi.org/10.1287/mnsc.2023.02976 .",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新"
+            ]
+          },
+          {
+            "title_en": "On Generalization and Regularization via Wasserstein Distributionally Robust Optimization",
+            "title_zh": "",
+            "url": "https://doi.org/10.1287/mnsc.2023.03895",
+            "authors": "Qinyu Wu, Jonathan Yu-Meng Li, Tiantian Mao",
+            "date": "2026-07-01",
+            "abstract_en": "Wasserstein distributionally robust optimization (DRO) has gained prominence in operations research and machine learning as a powerful method for achieving solutions with favorable out-of-sample performance. Two compelling explanations for its success are the generalization bounds derived from Wasserstein DRO and its equivalence to regularization schemes commonly used in machine learning. However, existing results on generalization bounds and regularization equivalence are largely limited to settings where the Wasserstein ball is of a specific type, and the decision criterion takes certain forms of expected functions. In this paper, we show that generalization bounds and regularization equivalence can be obtained in a significantly broader setting, where the Wasserstein ball is of a general type and the decision criterion accommodates any form, including general risk measures. This not only addresses important machine learning and operations management applications but also expands to general decision-theoretical frameworks previously unaddressed by Wasserstein DRO. Our results are strong in that the generalization bounds do not suffer from the curse of dimensionality and the equivalency to regularization is exact. As a by-product, we show that Wasserstein DRO coincides with the recent max-sliced Wasserstein DRO for any decision criterion under affine decision rules, resulting in both being efficiently solvable as convex programs via our general regularization results. These general assurances provide a strong foundation for expanding the application of Wasserstein DRO across diverse domains of data-driven decision problems. This paper was accepted by Chung Piaw Teo, optimization. Funding: This work was supported by the National Natural Science Foundation of China [Grants 12371476 and 71921001] and the Natural Sciences and Engineering Research Council of Canada [Grant RGPIN-2023-05829]. Supplemental Material: The online appendix is available at https://doi.org/10.1287/mnsc.2023.03895 .",
+            "abstract_zh": "",
+            "matched_topics": [
+              "人工智能"
+            ]
+          },
+          {
+            "title_en": "Deep Learning-Based Causal Inference for Large-Scale Combinatorial Experiments: Theory and Empirical Evidence",
+            "title_zh": "",
+            "url": "https://doi.org/10.1287/mnsc.2024.04625",
+            "authors": "Zikun Ye, Zhiqi Zhang, Dennis J. Zhang, Heng Zhang, Renyu Zhang",
+            "date": "2026-07-01",
+            "abstract_en": "Large-scale online platforms launch hundreds of randomized experiments (also known as A/B tests) every day to iterate their operations and marketing strategies. The combinations of these treatments are typically not exhaustively tested, which triggers an important question of both academic and practical interest. Without observing the outcomes of all treatment combinations, how does one estimate the causal effect of any treatment combination and identify the optimal treatment combination? We develop a novel framework combining deep learning and doubly robust estimation to estimate the causal effect of any treatment combination for each user on the platform when observing only a small subset of treatment combinations. Our proposed framework (called debiased deep learning ( DeDL )) exploits Neyman orthogonality and combines interpretable and flexible structural layers in deep learning. We show theoretically that this framework yields efficient, consistent, and asymptotically normal estimators under mild assumptions, thus allowing for identifying the best treatment combination when observing only a few combinations. To empirically validate our method, we collaborated with a large-scale video-sharing platform and implemented our framework for three experiments involving three treatments, where each combination of treatments is tested. When observing only a subset of treatment combinations, our DeDL approach significantly outperforms other benchmarks to accurately estimate and infer the average treatment effect of any treatment combination and to identify the optimal treatment combination. This paper was accepted by Vivek Farias, data science. Funding: R. Zhang is grateful for financial support from the Hong Kong Research Grants Council General Research Fund [Grants 14502722, 14503224, and 14504123]. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.04625 .",
+            "abstract_zh": "",
+            "matched_topics": [
+              "人工智能"
+            ]
+          },
+          {
+            "title_en": "Antitrust Platform Regulation and Entrepreneurship: Evidence from China",
+            "title_zh": "",
+            "url": "https://doi.org/10.1287/mnsc.2024.04397",
+            "authors": "Ke Rong, D. Daniel Sokol, Di Zhou, Feng Zhu",
+            "date": "2026-07-01",
+            "abstract_en": "Many jurisdictions have launched antitrust enforcement and brought in regulation of large tech platforms. The swift and strict implementation of China’s Anti-Monopoly Guidelines for the Platform Economy (Platform Guidelines) provides a quasi-natural experiment to evaluate the impact of antitrust regulation on platform competition. We adopt a difference-in-differences approach to empirically explore the impact of China’s Platform Guidelines on the number of investments and the entry of startups in platform markets. The results show that the Platform Guidelines did not increase entrepreneurship in these affected markets. Rather, entrepreneurship weakened in these markets, with less venture capital investment flowing into them and fewer startups entering these markets. Our study suggests that governments should consider more carefully the potential unintended consequences of antitrust platform regulation. This paper was accepted by D. J. Wu, information systems. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.04397 .",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新"
+            ]
+          },
+          {
+            "title_en": "The ABCs of Who Benefits from Working with AI: Ability, Beliefs, and Calibration",
+            "title_zh": "",
+            "url": "https://doi.org/10.1287/mnsc.2024.08994",
+            "authors": "Andrew Caplin, David Deming, Shangwen Li, Daniel Martin, Philip Marx, Ben Weidmann, Kadachi Jiada Ye",
+            "date": "2026-07-01",
+            "abstract_en": "We use a controlled experiment to show that ability and belief calibration jointly determine the benefits of working with artificial intelligence (AI). AI improves performance more for people with low baseline ability. However, holding ability constant, AI assistance is more valuable for people who are calibrated, meaning they have accurate beliefs about their own ability. People who know they have low ability gain the most from working with AI. In a counterfactual analysis, we show that eliminating miscalibration would cause AI to reduce performance inequality nearly twice as much as it already does. This paper was accepted by Marie Claire Villeval, behavioral economics and decision analysis. Funding: This work was supported by the Alfred P. Sloan Foundation (Cognitive Economics at Work). Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.08994 .",
+            "abstract_zh": "",
+            "matched_topics": [
+              "人工智能"
+            ]
+          },
+          {
+            "title_en": "Care for the Mind amid Chronic Diseases: An Interpretable AI Approach Using IoT",
+            "title_zh": "",
+            "url": "https://doi.org/10.1287/mnsc.2023.04183",
+            "authors": "Jiaheng Xie, Xiaohang Zhao, Xiang Liu, Xiao Fang",
+            "date": "2026-07-01",
+            "abstract_en": "Health sensing for chronic disease management creates immense benefits for social welfare. Existing health sensing studies primarily focus on the prediction of physical chronic diseases. Depression, a widespread complication of chronic diseases is, however, understudied. We draw on the medical literature to support depression detection using motion sensor data. To connect humans in this decision making, safeguard trust, and ensure algorithm transparency, we develop an interpretable deep learning model: temporal prototype network (TempPNet). TempPNet is built on the emergent prototype learning models. To accommodate the temporal characteristic of sensor data and the progressive property of depression, TempPNet differs from existing prototype learning models in its capability of capturing temporal progressions of prototypes. Extensive empirical analyses using real-world motion sensor data show that TempPNet outperforms state-of-the-art benchmarks in depression detection. Moreover, TempPNet interprets its decision by visualizing the temporal progression of depression and its corresponding symptoms detected from sensor data. We further employ a user study and a medical expert panel to demonstrate its superiority over the benchmarks in interpretability. This study offers an algorithmic solution for impactful social good—collaborative care of chronic diseases and depression in health sensing. Methodologically, it contributes to extant literature with a novel interpretable deep learning model for depression detection from sensor data. Patients, doctors, and caregivers can deploy our model on mobile devices to monitor patients’ depression risks in real time. Our model’s interpretability also allows human experts to participate in the decision making by reviewing the interpretation and making informed interventions. This paper was accepted by D. J. Wu, information systems. Funding: J. Xie and X. Fang are supported by the University of Delaware Research Foundation Strategic Initiatives Grant and Alfred Lerner College of Business and Economics Research Grant, X. Zhao acknowledges financial support from the National Natural Science Foundation of China [Grant 72401172] and the Fundamental Research Funds for the Central Universities [Grant 2023110139, 2023110318]. J. Xie and X. Fang did not receive any form of support from, nor do they have any affiliation with, X. Zhao’s funding sources. Supplemental Material: The online appendices and data files are available at https://doi.org/10.1287/mnsc.2023.04183 .",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新",
+              "人工智能"
+            ]
+          },
+          {
+            "title_en": "The Boundary of Open Data: Implications for the Financial Market and Real Efficiency",
+            "title_zh": "",
+            "url": "https://doi.org/10.1287/mnsc.2023.03679",
+            "authors": "Zhigang Qiu, Ziyue Wang",
+            "date": "2026-07-01",
+            "abstract_en": "We analyze the optimal boundary for open data in an economy where financial and real-sector participants access both open and private data. The distinctive features of open access and nonrivalrous usage of open data enable its dual roles as a public information source and innovation input but raise privacy concerns. Our model reveals a novel tradeoff: Although enhanced private data precision and data skills substitute for open data’s information source role, its ability to amplify innovation benefits (via improved investment efficiency) establishes a crucial complementary relationship. This induces a crowding-in effect on the optimal open data boundary under low uncertainty but a crowding-out effect under high uncertainty. The innovation role of open data further generates nonmonotonic effects, yielding complex nonlinear impacts on market and real efficiency. These findings highlight critical policy tradeoffs in balancing innovation, market efficiency, and privacy in the digital age. This paper was accepted by Bo Becker, finance. Funding: Z. Wang acknowledges financing from the National Natural Science Foundation of China [Grants 72442025 and 72272028] and the Graduate Education Reform of Dongbei University of Finance and Economics [Grant yjzd202309]. Z. Qiu acknowledges financing from the Major Program of the National Natural Science Foundation of China [Grant 72192804] and the National Key Research and Development Program of China [Grant 2023YFC3304701]. Supplemental Material: The online appendices are available at https://doi.org/10.1287/mnsc.2023.03679 .",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新"
             ]
           }
         ],
@@ -1100,14 +1162,26 @@
         "resolved_name": "Journal of Environmental Economics and Management",
         "issue_title": "Published 2026-08",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-environmental-economics-and-management",
-        "matched_count": 10,
-        "total_in_issue": 26,
+        "matched_count": 12,
+        "total_in_issue": 27,
         "papers": [
           {
             "title_en": "The heterogeneous effects of climate policy on households: Evidence from 88 countries",
             "title_zh": "",
             "url": "https://doi.org/10.1016/j.jeem.2026.103382",
             "authors": "Leonard Missbach, Jan Christoph Steckel",
+            "date": "2026-08-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "绿色发展"
+            ]
+          },
+          {
+            "title_en": "The welfare impacts of carbon taxes and labels on food demand",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jeem.2026.103387",
+            "authors": "Marco Tomasi, Michela Faccioli, Carlo Fezzi, Ian J. Bateman",
             "date": "2026-08-01",
             "abstract_en": "",
             "abstract_zh": "",
@@ -1137,6 +1211,18 @@
             "abstract_zh": "",
             "matched_topics": [
               "产业政策"
+            ]
+          },
+          {
+            "title_en": "Do common shocks drive changes in aggregate emissions intensity?",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jeem.2026.103384",
+            "authors": "Xiyu Ren, Fulvia Marotta, François Lafond",
+            "date": "2026-08-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "绿色发展"
             ]
           },
           {
@@ -1200,10 +1286,10 @@
             ]
           },
           {
-            "title_en": "Environmental benefits of renewable energy: Evidence from coal mining-induced deforestation and air pollution emissions",
-            "title_zh": "标题：可再生能源的环境效益：来自煤炭开采引发的森林砍伐和空气污染排放的证据",
-            "url": "https://doi.org/10.1016/j.jeem.2026.103363",
-            "authors": "Lin Yang, Wenjie Luo",
+            "title_en": "Impact of air pollution on birth outcomes: Causal evidence from India",
+            "title_zh": "空气污染对出生结果的影响：来自印度的因果证据",
+            "url": "https://doi.org/10.1016/j.jeem.2026.103360",
+            "authors": "Shashank Misra, Shobhit Kulshreshtha",
             "date": "2026-08-01",
             "abstract_en": "",
             "abstract_zh": "",
@@ -1212,10 +1298,10 @@
             ]
           },
           {
-            "title_en": "Impact of air pollution on birth outcomes: Causal evidence from India",
-            "title_zh": "空气污染对出生结果的影响：来自印度的因果证据",
-            "url": "https://doi.org/10.1016/j.jeem.2026.103360",
-            "authors": "Shashank Misra, Shobhit Kulshreshtha",
+            "title_en": "Environmental benefits of renewable energy: Evidence from coal mining-induced deforestation and air pollution emissions",
+            "title_zh": "标题：可再生能源的环境效益：来自煤炭开采引发的森林砍伐和空气污染排放的证据",
+            "url": "https://doi.org/10.1016/j.jeem.2026.103363",
+            "authors": "Lin Yang, Wenjie Luo",
             "date": "2026-08-01",
             "abstract_en": "",
             "abstract_zh": "",
@@ -1247,31 +1333,17 @@
         "category": "Environment / energy",
         "issn": "0140-9883",
         "resolved_name": "Energy Economics",
-        "issue_title": "Published 2026-08",
+        "issue_title": "Published 2026-09",
         "issue_url": "https://www.sciencedirect.com/journal/energy-economics",
-        "matched_count": 12,
-        "total_in_issue": 20,
+        "matched_count": 2,
+        "total_in_issue": 3,
         "papers": [
           {
-            "title_en": "Analyzing different energy transition patterns and their drivers using clustering and machine learning models: unveiling the role of digital technological innovation",
+            "title_en": "Reciprocal tariffs will increase global emission: Evidence and numerical simulation results",
             "title_zh": "",
-            "url": "https://doi.org/10.1016/j.eneco.2026.109428",
-            "authors": "Yang Chen, Shiwen Cai, Jinyi He, Xiao Wen",
-            "date": "2026-08-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新",
-              "绿色发展",
-              "人工智能"
-            ]
-          },
-          {
-            "title_en": "Firm characteristics, climate policy shocks, and climate risk exposures: Evidence of feedback loops from a quasi-experiment in GCC countries",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.eneco.2026.109457",
-            "authors": "Quyen Pham, Huy Pham, Hanh Le, Chune Young Chung, Huy Truong",
-            "date": "2026-08-01",
+            "url": "https://doi.org/10.1016/j.eneco.2026.109462",
+            "authors": "Chunding LI, Meng LI, Jing LIU, Qiyuan XU",
+            "date": "2026-09-01",
             "abstract_en": "",
             "abstract_zh": "",
             "matched_topics": [
@@ -1279,125 +1351,14 @@
             ]
           },
           {
-            "title_en": "Low-carbon transformation of iron and steel: Combined effects of green hydrogen subsidy and carbon emissions trading under uncertain environments",
+            "title_en": "The value of dispatchability and earnings-at-risk of electricity generators in the energy transition",
             "title_zh": "",
-            "url": "https://doi.org/10.1016/j.eneco.2026.109418",
-            "authors": "Chunrui Liu, Mei Sun, Yibo Li, Dun Han, Wei Xu",
-            "date": "2026-08-01",
+            "url": "https://doi.org/10.1016/j.eneco.2026.109458",
+            "authors": "Lin Han, Nino Kordzakhia, Stefan Trück",
+            "date": "2026-09-01",
             "abstract_en": "",
             "abstract_zh": "",
             "matched_topics": [
-              "产业政策",
-              "绿色发展"
-            ]
-          },
-          {
-            "title_en": "Energy subsidy removal and carbon taxation in Egypt: Economic and distributional impacts",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.eneco.2026.109470",
-            "authors": "Govinda R. Timilsina, Samuel Sebsibie",
-            "date": "2026-08-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "产业政策",
-              "绿色发展"
-            ]
-          },
-          {
-            "title_en": "Can renewable energy development alleviate household energy poverty? Evidence from household survey data in China",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.eneco.2026.109420",
-            "authors": "Jing-Yue Liu, Yu-Yang Jiang, Richard T. Woodward, Yue-Jun Zhang",
-            "date": "2026-08-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "绿色发展"
-            ]
-          },
-          {
-            "title_en": "Foreign divestment as a catalyst for indigenous innovation and manufacturing upgrading: Evidence from China's power sector",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.eneco.2026.109455",
-            "authors": "Xiaoping He, Jiahui Chen, Wenbo Dai, Yuxuan Yu",
-            "date": "2026-08-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新"
-            ]
-          },
-          {
-            "title_en": "Demand-side energy efficiency, demand response, and carbon tax",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.eneco.2026.109449",
-            "authors": "Yukihide Kurakawa, Makoto Tanaka",
-            "date": "2026-08-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "绿色发展"
-            ]
-          },
-          {
-            "title_en": "Climate change, environmental policies in the housing sector of Italy, and the impact on social welfare",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.eneco.2024.108058",
-            "authors": "Alberto Massacci, Shajara Ul-Durar, Noman Arshed, Arshian Sharif",
-            "date": "2026-08-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "绿色发展"
-            ]
-          },
-          {
-            "title_en": "Climate change economics in Vietnam: Redefining economic impact",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.eneco.2026.109390",
-            "authors": "Christian Otto, Christoph Schult, Thomas Vogt",
-            "date": "2026-08-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "绿色发展"
-            ]
-          },
-          {
-            "title_en": "Carbon neutrality through industry 4.0: A decision-making approach for sustainable energy efficient logistics operations",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.eneco.2026.109417",
-            "authors": "Devesh Kumar, Surya Prakash, Gunjan Soni, Sachin Kumar Mangla, Alessio Ishizaka",
-            "date": "2026-08-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "绿色发展"
-            ]
-          },
-          {
-            "title_en": "Eco-innovation strategies in response to energy-related uncertainty and geopolitical risk: Insights from the energy sector",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.eneco.2026.109414",
-            "authors": "Vu Quang Trinh, Tam Huy Nguyen, Minh-Lý Liêu, Mai Quynh Pham, Thuy Dao",
-            "date": "2026-08-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新"
-            ]
-          },
-          {
-            "title_en": "Industrial agglomeration and corporate pollution abatement: Evidence from China's eco-industrial park program",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.eneco.2026.109425",
-            "authors": "Yue Cao, Yike Tang, Jie Han, Teng Zhang",
-            "date": "2026-08-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "产业政策",
               "绿色发展"
             ]
           }
@@ -1422,11 +1383,139 @@
         "source_type": "nber",
         "name": "NBER Working Papers",
         "category": "Working papers",
-        "issue_title": "Recent NBER Working Papers through 2026-06-25",
+        "issue_title": "Recent NBER Working Papers through 2026-07-02",
         "issue_url": "https://www.nber.org/papers",
         "matched_count": 12,
         "total_recent_considered": 220,
         "papers": [
+          {
+            "title_en": "Beyond Mean Exposure: How Exposure Variance Shapes Air Pollution Mortality Risk",
+            "title_zh": "",
+            "url": "https://www.nber.org/papers/w35428",
+            "authors": "Bissan Ghaddar, Kimberly Singer Babiarz, Hongbin Li, Lingsheng Meng, Lynn Hildemann, Han Hong, Alvise Scarabosio, Meili Wang, Aprajit Mahajan, Peng Yin, Maigeng Zhou, Grant Miller",
+            "date": "2026-07-02",
+            "abstract_en": "Ambient air pollution contributes substantially to premature mortality globally, and the effectiveness of policies addressing it depends critically on the shape of the dose-response relationship, which remains poorly understood. Linking hourly air pollution data with daily vital statistics from 251 Chinese cities over four years, we show this relationship depends not only on the mean, but also on the variance of within-period exposure. At a 7-day mean of 150 Î¼g/mÂ³, predicted mortality varies more across observed hourly PM2.5 distributions than across mean exposure differences of 100 Î¼g/mÂ³. The sign of this variance effect also depends on the mean: at low mean concentrations (a convex region), higher variance is associated with modestly higher mortality. At higher concentrations (a concave region), greater variance is associated with lower mortality â implying constant exposure is more harmful than fluctuating exposure for a given mean. These findings reveal important relationships masked using temporally aggregated air pollution data.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "绿色发展"
+            ],
+            "paper_id": "w35428",
+            "programs": []
+          },
+          {
+            "title_en": "Is Money Overrated? Misperceived Satisfaction from Income",
+            "title_zh": "",
+            "url": "https://www.nber.org/papers/w35423",
+            "authors": "Ricardo Perez-Truglia, Rafael Macedo RubiÃ£o",
+            "date": "2026-07-02",
+            "abstract_en": "People often make important choices in pursuit of higher income, but do they place too much weight on income when deciding what path to take? We propose a simple model of misspecified learning in which individuals overestimate the marginal satisfaction from incomeâthe expected effect of an income increase on overall life satisfactionâand therefore give income too much importance in their decisions. Guided by this model, we designed a pre-registered experiment that elicits beliefs about the marginal satisfaction from income and randomly assigns scientific evidence about it. Respondents substantially overestimate the marginal satisfaction from income both for themselves and for others, but especially for themselves. These biases shrink when respondents are exposed to scientific evidence, and the effects persist one month later. To study whether these beliefs matter for behavior, we measure income-versus-non-income trade-offs using job-choice scenarios tailored to each respondent and a real-world decision the respondent is facing. To elicit the latter, we make a methodological contribution: an AI-led interview method that moves beyond static, predefined survey instruments by combining the flexibility of qualitative interviewing with the discipline of closed-ended survey measurement. We find that biased beliefs are consequential: after learning that income matters less for life satisfaction than they initially thought, respondents place less weight on income in their decisions.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "人工智能"
+            ],
+            "paper_id": "w35423",
+            "programs": []
+          },
+          {
+            "title_en": "Competition and Misconduct in Certification Markets with Externalities",
+            "title_zh": "",
+            "url": "https://www.nber.org/papers/w35422",
+            "authors": "Nano Barahona, Juan-Pablo Montero, Pedro Skorin",
+            "date": "2026-07-02",
+            "abstract_en": "Vehicle inspectionsâcommonly known as smog and safety checksâare often delegated to private agents, much like other quality certification markets. When these agents compete, they face incentives to misreport qualityâespecially when consumers do not internalize the external costs of misreporting. Theory and evidence from Chileâs concentrated vehicle-inspection markets suggest that these incentives are significant: misreporting emerges as soon as competition is introduced. We find that delegating each market to a single agent proves effective in reducing approval rates, without compromising service quality or the ex-ante competition for the market, while delivering substantial and permanent reductions in vehicle emissions.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "绿色发展"
+            ],
+            "paper_id": "w35422",
+            "programs": []
+          },
+          {
+            "title_en": "Tax Incentives and Venture Capital Risk-Taking: Evidence from the QSBS Program",
+            "title_zh": "",
+            "url": "https://www.nber.org/papers/w35418",
+            "authors": "Murillo Campello, Guilherme Junqueira",
+            "date": "2026-07-02",
+            "abstract_en": "Do tax subsidies prompt investors to take on risk? We address this question by looking at investors' responses to changes to the Qualified Small Business Stock (QSBS) program, which reduces capital gains taxes on startup investing. We do so under a framework in which some startup investors â venture capitalists (VCs) â combine outside funding with incentive-based compensation, while others invest their own funds. Using bunching, triple-differences, and matching designs that exploit industry eligibility, investment vintage, and holding-period requirements, we analyze data from 158 thousand investorâfirm pairings over two decades. We identify strategic investment timing, with subsidies prompting bunching at tax-eligible holding-period thresholds. Most notably, when and where tax subsidies apply, VCs shift their project selection toward riskier ventures: they invest more in pre-commercial stage startups, become more likely to provide startups with their initial capital, and invest more in startups with pre-existing debt, while becoming less likely to co-syndicate their investments. Tax-subsidized VC-backed ventures show higher failure rates, but on the flip side, attain higher valuations at exit and are more likely to reach \"unicorn status.\" None of these patterns are observed for comparable non-VC investors in startups exposed to the same tax subsidies. Our tests further show that tax incentives lead to reallocation toward more innovative industries, yielding more impactful patents. Our study is the first to show that tax policy can shift entrepreneurial financing toward riskier, more innovative, and valuable startups.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "产业政策",
+              "创新"
+            ],
+            "paper_id": "w35418",
+            "programs": []
+          },
+          {
+            "title_en": "Optimal Flood Insurance in a Second-Best World: Fiscal Spillovers, Reclassification Risk and Moral Hazard",
+            "title_zh": "",
+            "url": "https://www.nber.org/papers/w35408",
+            "authors": "Jonathan Gruber, Adam Solomon",
+            "date": "2026-07-02",
+            "abstract_en": "Intensifying climate change makes protection against natural disaster risk â either through ex ante insurance or ex post aid â a first-order public policy issue. Flood risk protection in the U.S. traditionally featured ex post aid through FEMA and heavily subsidized insurance through the National Flood Insurance Program (NFIP). In an effort to correct subsidy-induced overbuilding and under-mitigation in flood-prone areas, the NFIP recently moved to actuarially fair insurance premiums. But this change has two unintended consequences: a fiscal spillover onto FEMA disaster aid as insurance coverage declines in flood-prone areas, and household exposure to uninsurable reclassification risk from uncertain climate projections. We develop a model of optimal flood insurance that incorporates the static and dynamic tradeoffs of subsidizing premiums. We then use a variety of identification strategies and data to estimate the five key parameters needed to implement this model. We find that the fiscal spillover and reclassification risk protection benefits significantly outweigh the moral hazard costs, and that the optimal subsidy to flood insurance is 52%, comparable to the level of subsidization before the recent reform.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "产业政策",
+              "绿色发展"
+            ],
+            "paper_id": "w35408",
+            "programs": []
+          },
+          {
+            "title_en": "The Use and Misuse of Average and Marginal Energy Prices: Implications for Climate Policy",
+            "title_zh": "",
+            "url": "https://www.nber.org/papers/w35406",
+            "authors": "Jonathan T. Hawkins-Pierot, Katherine R.H. Wagner",
+            "date": "2026-07-02",
+            "abstract_en": "Many governments and institutions use marginal price signals, such as fuel and carbon taxes, to meet emission reduction targets. However, the responses of firms and individuals to these price signals are often calculated using average prices commonly reported in economic data, rather than marginal prices. This paper first documents that the marginal price of electricity paid by U.S. manufacturing plants is 50% lower than the average price. To do so, we construct a novel dataset of both average and marginal electricity prices, and the wedge between these, using plant-level microdata from the U.S. Census and utility-level electricity rate schedules for over two hundred utilities. Second, we provide guidance on when average prices are an appropriate proxy for marginal prices in price elasticities by identifying economic and geographic characteristics that predict variation in this wedge. Overall, the magnitude of this wedge suggests that the standard use of average energy prices to calculate responses to carbon taxes may underestimate the energy price increases needed to meet emissions targets by 50%.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "绿色发展"
+            ],
+            "paper_id": "w35406",
+            "programs": []
+          },
+          {
+            "title_en": "Growth, Firm Scale, and the Energy Intensity of Production",
+            "title_zh": "",
+            "url": "https://www.nber.org/papers/w35405",
+            "authors": "Kathryn McDonald, NoÃ©mie Pinardon-Touati, Conor Walsh",
+            "date": "2026-07-02",
+            "abstract_en": "We uncover a new mechanism that links growth and a decline in the energy intensity of production, observed globally since 1990. Using microdata from India and a causal research design, we demonstrate that the expenditure share of energy declines steeply with firm scale, due both to physical scaling laws and technology investment. Given that average firm size increases with growth, this scale dependence implies that production endogenously becomes less energy-intensive along the growth path. We develop a model of this mechanism in general equilibrium, and quantify significant reductions in aggregate energy intensity as low-income countries like India grow. We conclude with a discussion of the future path of emissions in India.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "绿色发展"
+            ],
+            "paper_id": "w35405",
+            "programs": []
+          },
+          {
+            "title_en": "Baby Busts and Growth Booms: Demographic Change and the Macroeconomy",
+            "title_zh": "",
+            "url": "https://www.nber.org/papers/w35401",
+            "authors": "Daron Acemoglu, David Autor, Keelan Beirne, Andrew Scott",
+            "date": "2026-07-02",
+            "abstract_en": "The secular decline in birth rates across the globe over the past seven decades has slowed population growth, raised average ages, and reshaped labor markets and the macroeconomy. Contrary to the widespread expectation that these trends hamper economic growth, we find lower birth rates are associated with higher growth in GDP per working-age adult across countries and higher wage growth across US commuting zones, with no negative impact on aggregate GDP or earnings. These patterns are not explained by educational upgrading, rising female labor force participation, the declining importance of agriculture, or neoclassical-Solow mechanisms. We argue that they reflect the endogenous, labor-saving response of technology to the scarcity of younger workers. Consistent with this interpretation, countries and regions with lower birth rates exhibit more labor-saving patents and growing high-tech activity. There is also higher TFP growth across countries and industries. Exploiting cross-country variation in WWII military and civilian deaths, we find that declines in younger population, rather than population size per se, drive our results.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新"
+            ],
+            "paper_id": "w35401",
+            "programs": []
+          },
+          {
+            "title_en": "Letâs Chat: Leveraging Chatbot Outreach for Improved Course Performance",
+            "title_zh": "",
+            "url": "https://www.nber.org/papers/w35397",
+            "authors": "Katharine E. Meyer, Lindsay C. Page, Catherine Mata, Eric Smith, Brendan Tyler Walsh, Candice L. Fifield, Michelle Tyson, Amy E. Eremionkhale, Michael Evans, Shelby Frost, Eye Eoun Jung",
+            "date": "2026-07-02",
+            "abstract_en": "This study provides pre-registered, experimental evidence on the use of non-generative artificial intelligence (AI) chatbots to support students in large-enrollment undergraduate courses. We find the chatbot messaging increased studentsâ final grades and engagement with academic supports, such as tutoring. Treatment effects were generally consistent across student demographics, with the exception of treated women in a Microeconomics course, who earned final grades that were seven percentage points higher than women in the control group. This study provides evidence that integrating AI-enabled outreach and communication to students in their college courses can enhance student engagement, learning, and course performance.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "人工智能"
+            ],
+            "paper_id": "w35397",
+            "programs": []
+          },
           {
             "title_en": "Immigration, Innovation, and the Geography of Growth",
             "title_zh": "",
@@ -1468,133 +1557,6 @@
             ],
             "paper_id": "w35374",
             "programs": []
-          },
-          {
-            "title_en": "Empowering Inclusive Work",
-            "title_zh": "",
-            "url": "https://www.nber.org/papers/w35372",
-            "authors": "Yanyou Chen, Mitchell Hoffman, Huilan Xu, Zhe Yuan",
-            "date": "2026-06-18",
-            "abstract_en": "Can AI improve workplace outcomes for workers with disabilities? We examine the relative performance of deaf or hard of hearing (DHH) workers on one of China's largest food-delivery platforms. Pre-AI, DHH workers are slower than non-disabled workers and have worse customer ratings, although they supply more hours to the platform and are less likely to quit. Midway through our data, the platform suddenly introduces an AI-based intelligent outbound calling system designed to improve customer communication for DHH workers. Using a difference-in-differences design comparing DHH and non-disabled workers before and after the AI tool, we find that AI increases the speed and productivity of DHH workers, especially on tasks involving customer interaction; substantially reduces negative customer ratings; and increases labor supply and retention. AI eliminates one-third of the disability hourly pay gap and significantly increases the profitability of DHH workers for the platform.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "人工智能"
-            ],
-            "paper_id": "w35372",
-            "programs": []
-          },
-          {
-            "title_en": "Air Pollution and Early Childhood Outcomes: Evidence from Georgia Childcare Providers",
-            "title_zh": "",
-            "url": "https://www.nber.org/papers/w35367",
-            "authors": "Mahta Ghafarianghadim, Garth Heutel",
-            "date": "2026-06-18",
-            "abstract_en": "Many effects of pollution exposure on health and education outcomes of children have been identified, but little is known about education effects on preschool-aged children. We estimate the effect of particulate matter air pollution on preschool attendance using restricted administrative data from the state of Georgia. We use thermal inversions, weather phenomena that trap pollutants, as an instrumental variable for pollution. A one-unit increase in the county-week average ambient particulate pollution level decreases attendance by around 2 percentage points. Effects seem to be larger for racial minorities and for children with working parents.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "绿色发展"
-            ],
-            "paper_id": "w35367",
-            "programs": []
-          },
-          {
-            "title_en": "Information Provision and Demand-Side Barriers to Healthcare Innovation: Experimental Evidence on Shared Medical Appointments in Menopause Care",
-            "title_zh": "",
-            "url": "https://www.nber.org/papers/w35357",
-            "authors": "Soledad Giardili, Monika Heller, Sanjay Jain, Amalia R. Miller, Kamalini Ramdas",
-            "date": "2026-06-18",
-            "abstract_en": "Alternative care delivery models may offer benefits to patients and providers, but adoption often remains low. We study whether brief narrative testimonials shift willingness to attend virtual shared medical appointments (SMAs), a relatively little-used care format in which 5-15 patients with a shared non-urgent health condition meet simultaneously with a clinician. Using a pre-registered field experiment with over 4,000 women aged 45â60 in the UK, we randomly assigned participants to view only standard descriptive information about menopause appointment options (the control group) or to receive testimonials about SMAs from either previous patients or a clinician (treatment groups). Testimonials more than doubled the share of women choosing an SMA: when appointments were offered with a 6-8 week wait, 11% of the control group chose an SMA compared to 26% in the peer testimonials arm and 24% in the clinician testimonials arm. Shorter waiting times further increase uptake. When the SMA wait was reduced to one week, the share of women ever choosing an SMA rose by 14-19 percentage points across arms, reaching nearly 40% in the testimonial groups. Treatment effects are systematically larger among women with greater information-processing capacity: university education, higher baseline menopause knowledge, and broader information-seeking. Our findings suggest that womenâs reluctance to choose SMAs is driven primarily by demand-side barriers, including unfamiliarity and uncertainty about their benefits, rather than deep-seated aversion to group-based care. Testimonials appear sufficient to meaningfully reduce these barriers.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新"
-            ],
-            "paper_id": "w35357",
-            "programs": []
-          },
-          {
-            "title_en": "Trading Frictions in Dynamic Cap-and-Trade Markets",
-            "title_zh": "",
-            "url": "https://www.nber.org/papers/w35356",
-            "authors": "Nicola Borri, Yukun Liu, Aleh Tsyvinski, Xi Wu",
-            "date": "2026-06-18",
-            "abstract_en": "We develop a dynamic stochastic model of markets with an externality and multiple trading frictions, and cap-and-trade as the leading application. Slow participation, limited intermediation, and heterogeneous information interact in equilibrium: agents choose costly market access, access determines residual compliance demand, intermediary constraints translate residual demand into a surrender-month premium, and the premium feeds back into access incentives. These interactions shape how effectively the market corrects the externality. We characterize access choices in closed form, prove that the equilibrium premium is unique, and show that endogenous access dampens the response to each friction in isolation, while the interaction of multiple frictions is non-additive and can amplify the price response. We quantify the model using 2.7 million EU ETS registry transactions and compliance records from 2005â2021. About 40% of operators do not trade annually, purchases concentrate in April when returns are systematically high, and operator flow predicts future returns.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "绿色发展"
-            ],
-            "paper_id": "w35356",
-            "programs": []
-          },
-          {
-            "title_en": "Task-Specific Technical Change and Comparative Advantage",
-            "title_zh": "",
-            "url": "https://www.nber.org/papers/w35353",
-            "authors": "Lukas Althoff, Hugo Reichardt",
-            "date": "2026-06-18",
-            "abstract_en": "Artificial intelligence (AI) reshapes workersâ comparative advantage by altering the tasks they perform and the skills those tasks require. We develop a dynamic task-based model to quantify the general-equilibrium effects of task-specific technical change. Workers have multidimensional skills, choose occupations, and accumulate skills on the job; occupations combine tasks, and productivity depends on how workersâ skills match task requirements. We develop a computationally efficient procedure to estimate the model using panel data and a new database of task-level skill requirements. We apply the model to AI, allowing it to augment, automate, and simplify tasks. We find that AI narrows wage inequality and raises average wages across scenarios ranging from slow to rapid AI progress. The key equalizing force is simplification: by lowering tasksâ skill requirements, AI lets lower-skill workers compete for previously inaccessible jobs. Adoption costs, highest for lower-skill workers, dampen but do not eliminate the decline in inequality.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "人工智能"
-            ],
-            "paper_id": "w35353",
-            "programs": []
-          },
-          {
-            "title_en": "Planning Capital and Discovery-Based Learning-by-Doing: Investment as Staged Discovery in the Hyperscale Era",
-            "title_zh": "",
-            "url": "https://www.nber.org/papers/w35349",
-            "authors": "Andrew Caplin",
-            "date": "2026-06-18",
-            "abstract_en": "This paper treats frontier investment as staged discovery. Firms invest through sequences of costly inquiry stages before deciding whether and how to realize value. At each stage, a firm may sharpen its diagnostic understanding, choose what question to ask, embody that question in a costly action, and interpret the answer that action produces. The answer changes what the firm knows, what it can do next, and how costly future inquiry will be. Successful histories can also carry over to later related problems, making the firm a better learner beyond the current investment path.\\nThe paper calls the resulting asset planning capital in firm form. Planning capital is the accumulated diagnostic understanding a firm has built through costly inquiry and operation: understanding of technologies, processes, customers, tools, partners, failures, constraints, and opportunities, together with the capacity to keep learning. It becomes valuable because it helps the firm choose what to investigate, make the question answerable, interpret what happened, and carry what it learned into later investment stages. Building on classical investment theory, R&D models, real-options theory, venture-capital models, classical learning-by-doing, the paper develops a model of investment as staged discovery. \\nThe AI and semiconductor frontier makes this asset visible. Firms are being valued and funded for more than the physical capacity they already own. Chips, fabs, data centers, cloud platforms, power commitments, and model systems matter because they carry traces of accumulated learning and because their use generates more learning. They let firms train models, test demand, expose bottlenecks, improve yields, qualify customers, integrate tools, and discover which complements are missing. The current buildout is therefore investment in capacity and in the institutional learning system that makes capacity more valuable over time.\\nThe framework explains why production systems, tool systems, research paths, sovereign capability programs, and infrastructure sponsorship belong in the same analysis. They are different institutional forms through which planning capital is accumulated. The paper treats terminal realization value in reduced form and focuses on the discovery process that precedes it: how institutions build capacity, learn from using it, and turn accumulated diagnostic understanding into an advantage in the next round of investment.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新",
-              "人工智能"
-            ],
-            "paper_id": "w35349",
-            "programs": []
-          },
-          {
-            "title_en": "The Informed Insider: A Leading Measure of Quality",
-            "title_zh": "",
-            "url": "https://www.nber.org/papers/w35348",
-            "authors": "Wei Cai, Dennis Campbell, Yaxuan Chen, Yufei Chen, Andrea Prat",
-            "date": "2026-06-18",
-            "abstract_en": "Product and service quality is fundamental to firm value creation, yet it is well recognized as difficult to observe ex ante. Existing quality proxies are limited in coverage, lack cross-firm comparability, and primarily rely on lagging indicators that capture product or service failures only after they materialize. Exploiting employeesâ informational advantage as informed insiders and firsthand observers of firmsâ internal operations, we develop and validate a novel, forward-looking measure of firm-year-level product and service quality using over 4.3 million employee reviews on Glassdoor. Leveraging machine learning models trained on a subset of firms with third-party customer satisfaction data, we construct quality indices for S&P 1500 firms spanning 2008 to 2023. The resulting quality measures exhibit meaningful variation across firms and within firms over time. In out-of-sample tests, our quality indices demonstrate strong predictive power for future quality provision, emerging as the single most important predictor relative to firm fundamentals and Glassdoor ratings. We validate our measure by examining its association with alternative quality metrics. We show that our quality measures are useful in predicting important quality-related firm outcomes such as product recalls, brand value, and profitability. We also construct an alternative set of quality measures using a zero-shot prompt-based approach and a supervised fine-tuning approach with GPT models to assess the potential of LLMs and generative AI in capturing firm-level quality provision. Our paper shows the value of employee voices as a powerful, forward-looking, and scalable signal of firm quality provision. The paper offers implications for stakeholders seeking to identify quality-related risks and opportunities before they become externally visible.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "人工智能"
-            ],
-            "paper_id": "w35348",
-            "programs": []
-          },
-          {
-            "title_en": "AI Diffusion Gaps: Unequal Integration of AI Across K-12 Schools",
-            "title_zh": "",
-            "url": "https://www.nber.org/papers/w35347",
-            "authors": "Christopher Campos, John D. Singleton",
-            "date": "2026-06-18",
-            "abstract_en": "Although use of generative AI tools has quickly become widespread in education settings, emerging evidence suggests that effects on learning will depend on how that use is supported and guided. This paper reports findings from an original national survey of K-12 school principals designed to measure institutional integration of AI in schools through policies, teacher training, guidance for student use, leadership engagement, and the availability of AI-enabled tools. We find that AI use has spread rapidly across schools, largely as a productivity aid. Students mainly use AI for homework help and writing, while educators primarily use it for lesson planning and administrative tasks. The development of teacher training, guidance, and school policies has lagged adoption. We next document two diffusion gaps across schools: First, lower AI integration is associated with a higher share of disadvantaged students (a one standard deviation increase in disadvantage is associated with a 0.07-0.11 SD lower score on an index of AI integration); Second, private and charter schools score 0.23-0.44 SD lower on the AI integration index than traditional public schools. Although several surveyed school-level factors strongly predict AI integration, they do little to explain these gaps. Differences in district size account for roughly one-third of the disadvantage gap between public schools. These findings suggest that the factors associated with greater AI integration differ from those needed to narrow disparities in how schools support and guide AI use.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "人工智能"
-            ],
-            "paper_id": "w35347",
-            "programs": []
-          },
-          {
-            "title_en": "AI and the Collapse of the www",
-            "title_zh": "",
-            "url": "https://www.nber.org/papers/w35344",
-            "authors": "Alex Chan",
-            "date": "2026-06-12",
-            "abstract_en": "This paper studies market design for generative AI intermediation. AI answer systems can improve user experience while diverting visits that finance publisher content and generate source-level quality signals. I show that an AI platform that underinternalizes future content reproduction retains too little referral traffic and can make costly open-web information subcritical, even with truthful content, accurate answers, and rational users. The mechanism can be self-reinforcing: less source-level measurement weakens conventional search, inducing further AI reliance. Sustainable repair requires replacing displaced revenue and deleted measurement through visitor-replacement royalties, audited provenance, human-information audits, and keystone-topic compensation.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "人工智能"
-            ],
-            "paper_id": "w35344",
-            "programs": []
           }
         ],
         "error": null
@@ -1608,33 +1570,34 @@
         "category": "Top 5",
         "issn": "0002-8282",
         "resolved_name": "American Economic Review",
-        "issue_title": "Volume 116, Issue 6",
+        "issue_title": "Volume 116, Issue 7",
         "issue_url": "https://www.aeaweb.org/journals/aer",
         "matched_count": 2,
-        "total_in_issue": 10,
+        "total_in_issue": 15,
         "papers": [
           {
-            "title_en": "Mergers, Foreign Competition, and Jobs: Evidence from the US Appliance Industry",
-            "title_zh": "标题：并购、外国竞争与就业：来自美国家电行业的证据",
-            "url": "https://doi.org/10.1257/aer.20230017",
-            "authors": "Felix Montag",
-            "date": "2026-06-01",
-            "abstract_en": "Policy choices often create trade-offs between workers and consumers. I examine how foreign competition alters the consumer welfare and domestic employment effects of mergers. I construct a model incorporating consumer demand, endogenous product portfolios, and employment decisions. Applying the model to Whirlpool’s acquisition of Maytag in the appliance industry, I compare the observed merger to a counterfactual acquisition by a foreign buyer. Although Whirlpool’s acquisition decreased consumer welfare by $271 million annually, it preserved 797 domestic jobs. These jobs must therefore be valued at more than $344, 000 per year for the domestic employment benefits to offset the consumer harm. (JEL E24, F23, G34, J30, L13, L68, R23)",
-            "abstract_zh": "类型：摘要 文本： 政策选择常常在工人和消费者之间造成权衡。我研究了外国竞争如何改变并购对消费者福利和国内就业的影响。我构建了一个包含消费者需求、内生产品组合和就业决策的模型。将该模型应用于惠而浦收购美泰克的家电行业案例，我比较了实际发生的并购与一个外国买家的反事实收购。尽管惠而浦的收购每年减少了2.71亿美元的消费者福利，但它保留了797个国内工作岗位。因此，这些工作岗位每年必须被估值超过34.4万美元，才能使国内就业利益抵消对消费者的损害。（JEL E24, F23, G34, J30, L13, L68, R23）",
+            "title_en": "A Welfare Analysis of Policies Impacting Climate Change",
+            "title_zh": "",
+            "url": "https://doi.org/10.1257/aer.20250166",
+            "authors": "Robert W. Hahn, Nathaniel Hendren, Robert D. Metcalfe, Ben Sprung-Keyser",
+            "date": "2026-07-01",
+            "abstract_en": "We study the welfare impacts of 96 climate-related tax and spending policies. We extend and apply the marginal value of public funds (MVPF) framework, most notably providing a new method for incorporating learning-by-doing spillovers. We find subsidies for the production of clean energy (such as wind production tax credits) have higher MVPFs than all other subsidies in our sample, including EV subsidies. Conservation nudges have large MVPFs when targeting regions with dirty grids. Fuel taxes and cap-and-trade policies are highly efficient means of raising revenue. We also construct traditional cost-per-ton estimates and compare and contrast the lessons they provide. (JEL D83, H23, H25, L62, Q42, Q54, Q58)",
+            "abstract_zh": "",
             "matched_topics": [
-              "产业政策"
+              "产业政策",
+              "绿色发展"
             ]
           },
           {
-            "title_en": "Quality Adjustment at Scale: Hedonic versus Exact Demand-Based Price Indices",
-            "title_zh": "大规模质量调整：享乐与基于精确需求的价格指数比较",
-            "url": "https://doi.org/10.1257/aer.20230766",
-            "authors": "Gabriel Ehrlich, John Haltiwanger, Ron Jarmin, David Johnson, Ed Olivares, Luke Pardue, Matthew D. Shapiro, Laura Yi Zhao",
-            "date": "2026-06-01",
-            "abstract_en": "Item-level transactions data yield cost-of-living indices that can account for quality change and consumer substitution. Transactions data require confronting the rapid turnover of items because prices of new and existing products are interrelated in equilibrium. This paper evaluates multiple approaches to measuring quality change at scale. It shows that a hedonic superlative approach—using econometrics or machine learning for hedonic estimation combined with index formulas that require simultaneous observation of item-level price and expenditure—yields improved measures of the cost of living. Accounting for ubiquitous quality change and for consumer substitution yields lower measures of inflation than traditional, official methods. (JEL C43, C45, E31, L15, L81)",
-            "abstract_zh": "项目级交易数据能够产生考虑质量变化和消费者替代的生活成本指数。交易数据需要面对项目快速更迭的问题，因为在均衡中新旧产品的价格是相互关联的。本文评估了多种大规模测量质量变化的方法。研究表明，采用享乐型超优方法——结合计量经济学或机器学习进行享乐型估计，并使用需要同时观察项目级价格和支出的指数公式——能够改善生活成本的度量。考虑普遍的质量变化和消费者替代，得出的通货膨胀度量比传统官方方法要低。（JEL C43, C45, E31, L15, L81）",
+            "title_en": "Nobel Lecture: The Past and Future of Innovation: Can Progress Be Sustained?",
+            "title_zh": "",
+            "url": "https://doi.org/10.1257/aer.116.7.2299",
+            "authors": "Joel Mokyr",
+            "date": "2026-07-01",
+            "abstract_en": "",
+            "abstract_zh": "",
             "matched_topics": [
-              "人工智能"
+              "创新"
             ]
           }
         ],
@@ -1727,7 +1690,7 @@
         "issue_title": "Volume 94, Issue 3",
         "issue_url": "https://onlinelibrary.wiley.com/journal/14680262",
         "matched_count": 2,
-        "total_in_issue": 17,
+        "total_in_issue": 16,
         "papers": [
           {
             "title_en": "Existence of Myopic‐Farsighted Stable Sets in Matching Markets",
@@ -1831,7 +1794,7 @@
         "issue_title": "Volume 18, Issue 2",
         "issue_url": "https://www.aeaweb.org/journals/pol",
         "matched_count": 2,
-        "total_in_issue": 17,
+        "total_in_issue": 16,
         "papers": [
           {
             "title_en": "Cooking, Health, and Daily Exposure to Pollution Spikes",
@@ -1948,7 +1911,7 @@
         "issue_title": "Published 2026-08",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-public-economics",
         "matched_count": 0,
-        "total_in_issue": 17,
+        "total_in_issue": 18,
         "papers": [],
         "error": null
       },
@@ -1962,7 +1925,7 @@
         "issue_title": "Published 2026-09",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-development-economics",
         "matched_count": 2,
-        "total_in_issue": 22,
+        "total_in_issue": 26,
         "papers": [
           {
             "title_en": "Evaluating the environmental and economic implications of curbing transboundary pollution: Evidence from China",
@@ -2001,7 +1964,7 @@
         "issue_title": "Published 2026-08",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-international-economics",
         "matched_count": 1,
-        "total_in_issue": 22,
+        "total_in_issue": 23,
         "papers": [
           {
             "title_en": "Burn now or never? Climate policy exposure and investment of fossil fuel firms",
@@ -2193,13 +2156,25 @@
         "issue_title": "Volume 55, Issue 8",
         "issue_url": "https://www.sciencedirect.com/journal/research-policy",
         "matched_count": 12,
-        "total_in_issue": 18,
+        "total_in_issue": 17,
         "papers": [
           {
             "title_en": "‘Systems of use’: A lens to more deeply study user innovation",
             "title_zh": "",
             "url": "https://doi.org/10.1016/j.respol.2026.105534",
             "authors": "Eric von Hippel",
+            "date": "2026-10-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新"
+            ]
+          },
+          {
+            "title_en": "Can FinTech innovate green finance? Scrutinising the financial ecologies and innovation dynamics of FinTech for forest restoration",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.respol.2026.105564",
+            "authors": "Jack L. Harris, Felicia Liu, Benjamin S. Thompson",
             "date": "2026-10-01",
             "abstract_en": "",
             "abstract_zh": "",
@@ -2221,6 +2196,31 @@
             ]
           },
           {
+            "title_en": "Scaling innovation through public procurement: Market acceleration, building, and transformation",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.respol.2026.105563",
+            "authors": "Maria Merisalo, Matti Pihlajamaa, Elvira Uyarra, Ville Valovirta, Juha Oksanen",
+            "date": "2026-10-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "产业政策",
+              "创新"
+            ]
+          },
+          {
+            "title_en": "Discontinuous but not disruptive: Lessons from green steel on sustainability innovation pathways for foundation industries",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.respol.2026.105541",
+            "authors": "Viktor M. Salenius, Richard Cuthbertson, Jennifer Howard-Grenville",
+            "date": "2026-10-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新"
+            ]
+          },
+          {
             "title_en": "At cross purposes? Housing markets and innovation in American Political Economy",
             "title_zh": "",
             "url": "https://doi.org/10.1016/j.respol.2026.105561",
@@ -2233,10 +2233,10 @@
             ]
           },
           {
-            "title_en": "Discontinuous but not disruptive: Lessons from green steel on sustainability innovation pathways for foundation industries",
+            "title_en": "Do public credit guarantees boost R&amp;D and innovation?",
             "title_zh": "",
-            "url": "https://doi.org/10.1016/j.respol.2026.105541",
-            "authors": "Viktor M. Salenius, Richard Cuthbertson, Jennifer Howard-Grenville",
+            "url": "https://doi.org/10.1016/j.respol.2026.105560",
+            "authors": "Ahmet Deryol, Leone Leonida, Gulcin Ozkan",
             "date": "2026-10-01",
             "abstract_en": "",
             "abstract_zh": "",
@@ -2269,6 +2269,18 @@
             ]
           },
           {
+            "title_en": "Patent protection and software firm financing",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.respol.2026.105571",
+            "authors": "Christian Helmers, Brian J. Love",
+            "date": "2026-10-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新"
+            ]
+          },
+          {
             "title_en": "Utility model patent regimes around the world and over time: Strictness, usage, and economic development",
             "title_zh": "全球及不同时期实用新型专利制度：严格性、使用情况与经济发展",
             "url": "https://doi.org/10.1016/j.respol.2026.105517",
@@ -2285,55 +2297,6 @@
             "title_zh": "",
             "url": "https://doi.org/10.1016/j.respol.2026.105542",
             "authors": "Catherine Magelssen, Luis Ballesteros, Casidhe Troyer",
-            "date": "2026-10-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新"
-            ]
-          },
-          {
-            "title_en": "Hope, signals, and silicon: A game-theoretic model of the pre-doctoral academic labor market in the age of AI",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.respol.2026.105568",
-            "authors": "Shaohui Wang",
-            "date": "2026-10-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "人工智能"
-            ]
-          },
-          {
-            "title_en": "Patent pledging as collateral: Navigating the strategic dilemma from patents' private-market values",
-            "title_zh": "标题：专利质押作为抵押品：从专利的私有市场价值中导航战略困境",
-            "url": "https://doi.org/10.1016/j.respol.2026.105538",
-            "authors": "Yuandi Wang, Zi Li, Qianbin Dou, Jiashun Huang, Zhao Zhou, Toby Li",
-            "date": "2026-10-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新"
-            ]
-          },
-          {
-            "title_en": "Business model innovation pathways: Digital transformation after disruption at The New York Times and The Washington Post",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.respol.2026.105536",
-            "authors": "Paolo Aversa, Alessio Cozzolino, Amy Basil",
-            "date": "2026-10-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新",
-              "人工智能"
-            ]
-          },
-          {
-            "title_en": "Business model innovation for disruptive sustainability: A theorizing review on how interdependencies between business model components reshape the problem-solution nexus",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.respol.2026.105533",
-            "authors": "Maria Schmidt, Aoife Brophy, Philipp Trotter",
             "date": "2026-10-01",
             "abstract_en": "",
             "abstract_zh": "",
@@ -2438,93 +2401,154 @@
         "category": "Innovation / AI",
         "issn": "0025-1909",
         "resolved_name": "Management Science",
-        "issue_title": "Volume 72, Issue 6",
+        "issue_title": "Volume 72, Issue 7",
         "issue_url": "https://pubsonline.informs.org/journal/mnsc",
-        "matched_count": 7,
-        "total_in_issue": 45,
+        "matched_count": 12,
+        "total_in_issue": 37,
         "papers": [
           {
-            "title_en": "Venture Capital and Private M&amp;A Contracting",
+            "title_en": "Model Aggregation for Risk Evaluation and Robust Optimization",
             "title_zh": "",
-            "url": "https://doi.org/10.1287/mnsc.2023.00654",
-            "authors": "Lauren J. Vollon",
-            "date": "2026-06-01",
-            "abstract_en": "This study investigates the role of venture capital (VC) firms in private mergers and acquisitions (M&A) contracting, particularly in reducing information asymmetry. Analyzing a proprietary data set of 851 startup acquisitions from 2015 to 2020, I find that M&A contracts are significantly less likely to include earnouts, mechanisms designed to mitigate information asymmetry, when a VC is involved in the transaction. Further analysis reveals that earnouts are more likely in transactions with high information asymmetry between the VC and the buyer. The study also examines the effect of prior relationships between VCs and buyers, showing that these connections not only increase the chances of repeat transactions but also further reduce the reliance on earnouts. These findings suggest that VCs play a crucial role in mitigating information asymmetry, reducing the need for earnouts, and ultimately improving M&A outcomes. This paper was accepted by Bo Becker, finance. Funding: Research funding was provided by the University of Chicago Booth School of Business. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.00654 .",
+            "url": "https://doi.org/10.1287/mnsc.2023.03523",
+            "authors": "Tiantian Mao, Ruodu Wang, Qinyu Wu",
+            "date": "2026-07-01",
+            "abstract_en": "We introduce a new approach for prudent risk evaluation based on stochastic dominance, and it is called the model aggregation (MA) approach. In contrast to the classic worst case risk (WR) approach, the MA approach produces not only a robust value of risk evaluation but also a robust distributional model, independent of any specific risk measure. The MA risk evaluation can be computed through explicit formulas in the lattice theory of stochastic dominance, and under some standard assumptions, the MA robust optimization admits a convex program reformulation. The MA approach for Wasserstein and mean-variance uncertainty sets admits explicit formulas for the obtained robust models. Via an equivalence property between the MA and WR approaches, new axiomatic characterizations are obtained for the value at risk and the expected shortfall (also known as conditional value at risk). The new approach is illustrated with various risk measures and examples from portfolio optimization. This paper was accepted by Chung Piaw Teo, optimization. Funding: This research was supported by the National Natural Science Foundation of China [Grants 12371476, 71921001, 71671176, 71871208], the Natural Sciences and Engineering Research Council of Canada [Grants CRC-2022-00141, RGPIN-2024-03728, RGPAS-2018-522590, RGPIN-2018-03823], and the Society of Actuaries Center of Actuarial Excellence Research Grant. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.03523 .",
             "abstract_zh": "",
             "matched_topics": [
               "创新"
             ]
           },
           {
-            "title_en": "Financial Shocks and Firm Innovation in Supply Chain Networks",
+            "title_en": "The Competitive Ratio of Threshold Policies for Online Unit-Density Knapsack Problems",
             "title_zh": "",
-            "url": "https://doi.org/10.1287/mnsc.2023.03601",
-            "authors": "Emanuele Brancati, Raoul Minetti, Susan Chun Zhu",
-            "date": "2026-06-01",
-            "abstract_en": "We study the influence of supply chains on the transmission of financial shocks to firms’ innovation. Using matched Italian firm-bank data over the 2007–2017 period, we find that firms’ engagement in supply chains enhanced the resilience of innovation activities to the banking shock caused by the “twin financial crises” (Great Financial Crisis and sovereign debt crisis). The results suggest that, amid the banking shock, supply chains facilitated purchases of innovative intermediates through trade credit provision and helped to sustain firms’ joint research and development efforts. The estimates imply, however, that the support offered by supply chains did not extend to radical product advances. This paper was accepted by Bo Becker, finance. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.03601 .",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新"
-            ]
-          },
-          {
-            "title_en": "Takeover Threats and Mandatory Disclosure Avoidance: Evidence from Contract Redactions",
-            "title_zh": "",
-            "url": "https://doi.org/10.1287/mnsc.2024.05948",
-            "authors": "Dichu Bao, Lixin (Nancy) Su, Chris X. Zhao, Gaoguang (Stephen) Zhou",
-            "date": "2026-06-01",
-            "abstract_en": "Mandatory disclosure is a primary source of public information available to acquirers, yet little is known about how potential target managers respond to takeover threats by avoiding mandatory disclosure. This study focuses on redactions in material contracts as a setting of mandatory disclosure avoidance. We find that managers facing takeover threats are more likely to redact material contracts than other managers. To better differentiate the motives for redactions, we classify redacted contracts into nine different categories and examine managers’ redaction decisions on the three most prominently redacted types. We find managers facing takeover threats redact research and development contracts more heavily when firms possess trade secrecy, as a strategy to thwart technological acquisitions aiming at innovation combinations. By contrast, managers redact purchase and sales contracts and license and royalty contracts more heavily when they have greater private control benefits. Overall, our results highlight new tactics that managers use when they face takeover threats, especially under threats of technological acquisitions. This paper was accepted by Suraj Srinivasan, accounting. Funding: L. (N.) Su acknowledges the financial support from the Faculty of Business, The Hong Kong Polytechnic University. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.05948 .",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新"
-            ]
-          },
-          {
-            "title_en": "A Global Optimization Algorithm for <i>K</i> -Center Clustering of One Billion Samples",
-            "title_zh": "",
-            "url": "https://doi.org/10.1287/mnsc.2023.00218",
-            "authors": "Jiayang Ren, Ningning You, Kaixun Hua, Chaojie Ji, Yankai Cao",
-            "date": "2026-06-01",
-            "abstract_en": "This paper presents a practical global optimization algorithm for the K-center clustering problem, which aims to select K samples as the cluster centers to minimize the maximum within-cluster distance. Specifically, we propose a reduced-space branch and bound scheme that guarantees convergence to the global optimum in a finite number of steps by only branching on the regions of centers. To improve efficiency, we design a two-stage decomposable lower bound, the solution of which can be derived in a closed form. In addition, we also propose several structure-exploiting acceleration techniques to narrow down the region of centers, including bounds tightening, sample reduction, and parallelization. Extensive studies on synthetic and real-world data sets have demonstrated that our algorithm can solve the K-center problems to global optimal within four hours for 10 million samples in the serial mode and 1 billion samples in the parallel mode, whereas existing studies can only address small-scale problems (e.g., thousands of samples). Moreover, compared with the state-of-the-art heuristic methods, the global optimum obtained by our algorithm reduces the objective function by an average of 25.8% on these synthetic and real-world data sets. This paper was accepted by Chung Piaw Teo, optimization. Funding: This work was supported by the Natural Sciences and Engineering Research Council of Canada [Grant RGPIN-2019-05499]. Supplemental Material: The data files are available at https://doi.org/10.1287/mnsc.2023.00218 .",
+            "url": "https://doi.org/10.1287/mnsc.2023.01577",
+            "authors": "Will Ma, David Simchi-Levi, Jinglong Zhao",
+            "date": "2026-07-01",
+            "abstract_en": "We study a wholesale supply chain ordering problem. In this problem, the supplier has an initial stock and faces an unpredictable stream of incoming orders, making real-time decisions on whether to accept or reject each order. What makes this wholesale supply chain ordering problem special is its knapsack constraint; that is, we do not allow partially accepting an order or splitting an order. The objective is to maximize the utilized stock. We model this wholesale supply chain ordering problem as an online unit-density knapsack problem. We study randomized threshold algorithms that accept an item as long as its size exceeds the threshold. We derive two optimal threshold distributions, the first is 0.4324-competitive relative to the optimal off-line integral packing, and the second is 0.4285-competitive relative to the optimal off-line fractional packing. Both results require optimizing the cumulative distribution function of the random threshold, which are challenging infinite-dimensional optimization problems. We also consider the generalization to multiple knapsacks, in which an arriving item has a different size in each knapsack. We derive a 0.2142-competitive algorithm for this problem. We also show that any randomized algorithm for this problem cannot be more than 0.4605-competitive. This is the first upper bound strictly less than 0.5, which implies the intrinsic challenge of the knapsack constraint. We show how to naturally implement our optimal threshold distributions in the warehouses of a Latin American chain department store. We run simulations on its order data that demonstrate the efficacy of our proposed algorithms. This paper was accepted by George Shanthikumar, data science. Funding: This work was supported by the Massachusetts Institute of Technology–Accenture Alliance for Business Analytics. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.01577 .",
             "abstract_zh": "",
             "matched_topics": [
               "人工智能"
             ]
           },
           {
-            "title_en": "Measuring Probabilistic Risk Attitudes",
+            "title_en": "Incentivizing Information Exchange Within Groups: The Role of Voting Protocols in U.S. Food and Drug Administration Advisory Committees",
             "title_zh": "",
-            "url": "https://doi.org/10.1287/mnsc.2024.04870",
-            "authors": "Arnaldo Nascimento, Che Tat Ng, Richard Gonzalez",
-            "date": "2026-06-01",
-            "abstract_en": "We introduce formal measures for two psychological factors of probabilistic risk attitudes: attractiveness (motivational factor) and discriminability (cognitive factor). Unlike previous approaches that relied on heuristic proxies, our measures precisely capture these two fundamental factors. Our measures are mathematically tractable, robust to discontinuities, such as in the NEO-additive case, and flexible to be applied to any weighting function, as well as to both small and large probabilities. Additionally, through detailed numerical analysis, we examine to what extent existing weighting function parameters capture the two factors: attractiveness and discriminability. Finally, using these new measures, we provide a formal understanding of the independence between motivational and cognitive factors. This paper was accepted by Jack Soll, behavioral economics and decision analysis. Funding: The research was made possible by the financial support from Brazilian Agency of Research and Innovation (Finep), Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Brasil (CAPES) [Grants PROJ–CAPES PRINT 1033427P] and PUC-Rio. Supplemental Material: The data files are available at https://doi.org/10.1287/mnsc.2024.04870 .",
+            "url": "https://doi.org/10.1287/mnsc.2023.03649",
+            "authors": "Panos Markou, Tian Heong Chan",
+            "date": "2026-07-01",
+            "abstract_en": "Complex and important decisions are often made with advice from a committee of experts. But how do a committee’s “rules of engagement” affect the way individuals discuss, how they vote, and ultimately the quality of their collective recommendation? Compiling verbatim transcripts from U.S. Food and Drug Administration advisory committee meetings, we study how a 2007 switch from sequential to simultaneous voting procedures changed discussions, information exchange, and decision making. Consistent with past findings, we show that, compared with a sequential voting protocol, simultaneous voting led to a reduction in the likelihood of unanimous votes. Importantly, we show novel evidence that the majority of this reduction in unanimity was mediated by changes in discussion patterns—specifically, by the increased diversity of information surfaced during discussions. We also find evidence of behavioral and linguistic changes that support our theory that voting protocols changed the incentives for members to elicit more diverse information from each other: under simultaneous voting, members exhibited greater equality in talking time, directed a greater proportion of questions to each other, and adopted language that was more positive, authentic, and equal in projecting status and confidence. Finally, we show that recommendations under simultaneous voting were more likely to be accurate, as drugs recommended and approved were less likely to encounter safety-related postmarket events. In sum, voting protocols affect the incentives for individuals to engage in robust discussions, leading to marked improvements in how information is exchanged between individuals, and in the process by which groups of experts arrive at joint recommendations. This paper was accepted by Sridhar Tayur, entrepreneurship and innovation. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.03649 .",
             "abstract_zh": "",
             "matched_topics": [
               "创新"
             ]
           },
           {
-            "title_en": "Polluting Public Funds: The Effect of Environmental Regulations on Municipal Bonds",
+            "title_en": "No Gifts Returned: Surprise Bonuses Reduce Productivity in a Natural Field Experiment",
             "title_zh": "",
-            "url": "https://doi.org/10.1287/mnsc.2023.02340",
-            "authors": "Akshaya Jha, Stephen A. Karolyi, Nicholas Z. Muller",
-            "date": "2026-06-01",
-            "abstract_en": "We present two findings on how environmental policy uncertainty impacts municipal bond returns. First, yields increase after a new pollution standard is proposed but decrease after this standard is finalized. Second, after annual announcements of compliance status, yields fall for counties that remain in compliance but increase for newly noncompliant counties. We present suggestive evidence linking these short-run municipal bond market reactions to long-run changes in pollution and housing prices. Our findings suggest that increases in either regulatory stringency or uncertainty over future environmental policy increase the cost of municipal debt raised to fund schools, hospitals, and critical infrastructure. This paper was accepted by Tomasz Piskorski, finance. Supplemental Material: The online appendices and data files are available at https://doi.org/10.1287/mnsc.2023.02340 .",
+            "url": "https://doi.org/10.1287/mnsc.2022.04085",
+            "authors": "Francesco Bogliacino, Gianluca Grimalda, David Pipke",
+            "date": "2026-07-01",
+            "abstract_en": "The gift exchange hypothesis posits that workers reciprocate above-market wages with increased productivity. This paper tests this hypothesis in a natural field experiment where one or both workers in a pair received a discretionary bonus after an initial round of data entry tasks. Bonuses were assigned based on one of three criteria: (i) relative productivity in the initial round, (ii) economic need, or (iii) an arbitrary decision. Two conditions where neither or both workers received a bonus served as the baseline. Contrary to the gift exchange hypothesis, we found a significant decline in postbonus productivity, especially when both workers received the bonus. This result suggests that workers interpreted the bonus as a signal of employer contentment, allowing them to reduce their effort. We conjectured that the postbonus productivity decline may result from either (a) a lower perceived risk of repercussions from slacking, such as early dismissal, or (b) a reduced sense of obligation to reciprocate the employer’s kindness. A follow-up experiment replicated the primary result, providing moderate evidence for the explanation based on reduced fear of dismissal. The main effect of bonuses on productivity was substantial, with effort reductions of 15.1% in the first experiment and 8.4% in the follow-up relative to baseline. In cases where only one worker received a bonus, nonrecipients’ inequality aversion appeared to decrease productivity markedly in the economic need treatment, whereas status-seeking behavior slightly increased productivity by bonus recipients in the productivity treatment. This paper was accepted by Dorothea Kübler, behavioral economics and decision analysis. Funding: F. Bogliacino acknowledges funding from the Fundación Universitaria Konrad Lorenz [Internal Grant 7INV1141], Open Evidence [Research Grant 009], and the Universidad Nacional [Internal Grant 26007]. G. Grimalda and D. Pipke gratefully acknowledge funding for the follow-up experiment from the Kiel Institute for the World Economy. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2022.04085 .",
             "abstract_zh": "",
             "matched_topics": [
-              "绿色发展"
+              "创新"
             ]
           },
           {
-            "title_en": "Rethinking the Value and Emission Implications of Green Bonds",
+            "title_en": "Learning Personalized Treatment Strategies with Predictive and Prognostic Covariates in Adaptive Clinical Trials",
             "title_zh": "",
-            "url": "https://doi.org/10.1287/mnsc.2023.00961",
-            "authors": "Jitendra Aswani, Shivaram Rajgopal",
-            "date": "2026-06-01",
-            "abstract_en": "Our analysis of green bonds issued between 2013 and 2022 reveals a distinctive shareholder preference for such assets, particularly among financial institutions. In the secondary market, the green bonds issued by financial firms’ trade at a “greenium” of 8.2 basis points compared with matched samples, which is attributed potentially to the financial firms’ efforts in channeling funds to green loans. Past work documenting a positive stock price reaction to the issuance of green bonds is isolated to financial firms and to specific issuers. Issuers of green bonds with higher emissions before the green bond issue report an insignificant reduction in such emissions after issuance. Our analysis of the sustainable lending practices of these gatekeepers reveals that the greenium earned in the green bond market does not translate to the green loan market. Furthermore, the borrowers’ performance remains unchanged in the short term, indicating a lack of due diligence by the gatekeepers. This study underscores the complex relationship between financial markets and environmental stewardship. This paper was accepted by Ranjani Krishnan, accounting. Funding: The authors acknowledge financial assistance from Columbia Business School, Fordham University, Harvard University (Program on Corporate Governance), and MIT Sloan (Sustainability Initiative). Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.00961 .",
+            "url": "https://doi.org/10.1287/mnsc.2022.02048",
+            "authors": "Andres Alban, Stephen E. Chick, Spyros I. Zoumpoulis",
+            "date": "2026-07-01",
+            "abstract_en": "Biomedical research may uncover insights regarding the interaction of the treatments of a disease with patient covariates. We show how to use such insights to improve the efficiency of adaptive clinical trials for precision medicine by extending ideas from optimal Bayesian learning. We present a model for response-adaptive multi-arm clinical trials that leverages knowledge about the predictive-prognostic covariate structure to accelerate the learning of personalized treatment strategies that obtain the best expected outcomes for post-trial patients. Our base model is a contextual linear bandit for best-arm identification, and outcomes may be observed with delay. We characterize the optimal policy for sequentially allocating treatments to in-trial patients and, because it is hard to compute, propose several computable heuristics based on Bayesian one-step look-ahead techniques. We prove that several of our proposed heuristics are asymptotically optimal in learning treatment strategies. Numerical results based on two case studies motivated by sepsis management show that our heuristics can significantly improve clinical trial efficiency to learn a treatment strategy for precision medicine. We provide extensions that allow for rewards from outcomes of in-trial patients (resolving the exploration-exploitation tradeoff) and for inferring covariate structure using Lasso when biomedical insights on covariate structure are lacking. Our proposed trial design is of interest to funders, designers, and managers of clinical trials. It may also apply to other contextual bandit problems in settings where insights about covariate-treatment interactions are available. This paper was accepted by Stefan Scholtes, healthcare management. Funding: This work was supported by the Marie Skłodowska-Curie Actions under the European Union’s Horizon 2020 research and innovation programme [Grant 676129]. S. E. Chick gratefully acknowledges the support of Dr Simba Gill and Sabi Dau to the INSEAD Healthcare Management Initiative. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2022.02048 .",
             "abstract_zh": "",
             "matched_topics": [
-              "绿色发展"
+              "创新"
+            ]
+          },
+          {
+            "title_en": "Spillover Effects of Opioid Abuse on Skilled Human Capital and Innovation Activity",
+            "title_zh": "",
+            "url": "https://doi.org/10.1287/mnsc.2023.02976",
+            "authors": "Kimberly Cornaggia, John Hund, Kevin Pisciotta, Zihan Ye",
+            "date": "2026-07-01",
+            "abstract_en": "We document effects of the opioid epidemic on the migration and output of skilled workers who drive corporate innovation. Exploiting geographic variation in opioid abuse unrelated to economic conditions and using both patent and home sales-based measures, we show that inventors and research labs exit affected areas. This displacement is accompanied by declines in the quantity and value of patents of approximately 7% and $10.6 million per year, respectively. Declines in school quality, safety, and other amenities drive the out-migration. Because displaced workers are unlikely to abuse opioids, our results represent spillover effects of opioid abuse on nonusers. This paper was accepted by Camelia Kuhnen, finance. Funding: The project received funding from the University of Kansas’s General Research Fund and Troesh Center Research Grants from the University of Nevada, Las Vegas. Terry-Sanford Award at the University of Georgia. Supplemental Material: The internet appendix and data files are available at https://doi.org/10.1287/mnsc.2023.02976 .",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新"
+            ]
+          },
+          {
+            "title_en": "On Generalization and Regularization via Wasserstein Distributionally Robust Optimization",
+            "title_zh": "",
+            "url": "https://doi.org/10.1287/mnsc.2023.03895",
+            "authors": "Qinyu Wu, Jonathan Yu-Meng Li, Tiantian Mao",
+            "date": "2026-07-01",
+            "abstract_en": "Wasserstein distributionally robust optimization (DRO) has gained prominence in operations research and machine learning as a powerful method for achieving solutions with favorable out-of-sample performance. Two compelling explanations for its success are the generalization bounds derived from Wasserstein DRO and its equivalence to regularization schemes commonly used in machine learning. However, existing results on generalization bounds and regularization equivalence are largely limited to settings where the Wasserstein ball is of a specific type, and the decision criterion takes certain forms of expected functions. In this paper, we show that generalization bounds and regularization equivalence can be obtained in a significantly broader setting, where the Wasserstein ball is of a general type and the decision criterion accommodates any form, including general risk measures. This not only addresses important machine learning and operations management applications but also expands to general decision-theoretical frameworks previously unaddressed by Wasserstein DRO. Our results are strong in that the generalization bounds do not suffer from the curse of dimensionality and the equivalency to regularization is exact. As a by-product, we show that Wasserstein DRO coincides with the recent max-sliced Wasserstein DRO for any decision criterion under affine decision rules, resulting in both being efficiently solvable as convex programs via our general regularization results. These general assurances provide a strong foundation for expanding the application of Wasserstein DRO across diverse domains of data-driven decision problems. This paper was accepted by Chung Piaw Teo, optimization. Funding: This work was supported by the National Natural Science Foundation of China [Grants 12371476 and 71921001] and the Natural Sciences and Engineering Research Council of Canada [Grant RGPIN-2023-05829]. Supplemental Material: The online appendix is available at https://doi.org/10.1287/mnsc.2023.03895 .",
+            "abstract_zh": "",
+            "matched_topics": [
+              "人工智能"
+            ]
+          },
+          {
+            "title_en": "Deep Learning-Based Causal Inference for Large-Scale Combinatorial Experiments: Theory and Empirical Evidence",
+            "title_zh": "",
+            "url": "https://doi.org/10.1287/mnsc.2024.04625",
+            "authors": "Zikun Ye, Zhiqi Zhang, Dennis J. Zhang, Heng Zhang, Renyu Zhang",
+            "date": "2026-07-01",
+            "abstract_en": "Large-scale online platforms launch hundreds of randomized experiments (also known as A/B tests) every day to iterate their operations and marketing strategies. The combinations of these treatments are typically not exhaustively tested, which triggers an important question of both academic and practical interest. Without observing the outcomes of all treatment combinations, how does one estimate the causal effect of any treatment combination and identify the optimal treatment combination? We develop a novel framework combining deep learning and doubly robust estimation to estimate the causal effect of any treatment combination for each user on the platform when observing only a small subset of treatment combinations. Our proposed framework (called debiased deep learning ( DeDL )) exploits Neyman orthogonality and combines interpretable and flexible structural layers in deep learning. We show theoretically that this framework yields efficient, consistent, and asymptotically normal estimators under mild assumptions, thus allowing for identifying the best treatment combination when observing only a few combinations. To empirically validate our method, we collaborated with a large-scale video-sharing platform and implemented our framework for three experiments involving three treatments, where each combination of treatments is tested. When observing only a subset of treatment combinations, our DeDL approach significantly outperforms other benchmarks to accurately estimate and infer the average treatment effect of any treatment combination and to identify the optimal treatment combination. This paper was accepted by Vivek Farias, data science. Funding: R. Zhang is grateful for financial support from the Hong Kong Research Grants Council General Research Fund [Grants 14502722, 14503224, and 14504123]. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.04625 .",
+            "abstract_zh": "",
+            "matched_topics": [
+              "人工智能"
+            ]
+          },
+          {
+            "title_en": "Antitrust Platform Regulation and Entrepreneurship: Evidence from China",
+            "title_zh": "",
+            "url": "https://doi.org/10.1287/mnsc.2024.04397",
+            "authors": "Ke Rong, D. Daniel Sokol, Di Zhou, Feng Zhu",
+            "date": "2026-07-01",
+            "abstract_en": "Many jurisdictions have launched antitrust enforcement and brought in regulation of large tech platforms. The swift and strict implementation of China’s Anti-Monopoly Guidelines for the Platform Economy (Platform Guidelines) provides a quasi-natural experiment to evaluate the impact of antitrust regulation on platform competition. We adopt a difference-in-differences approach to empirically explore the impact of China’s Platform Guidelines on the number of investments and the entry of startups in platform markets. The results show that the Platform Guidelines did not increase entrepreneurship in these affected markets. Rather, entrepreneurship weakened in these markets, with less venture capital investment flowing into them and fewer startups entering these markets. Our study suggests that governments should consider more carefully the potential unintended consequences of antitrust platform regulation. This paper was accepted by D. J. Wu, information systems. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.04397 .",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新"
+            ]
+          },
+          {
+            "title_en": "The ABCs of Who Benefits from Working with AI: Ability, Beliefs, and Calibration",
+            "title_zh": "",
+            "url": "https://doi.org/10.1287/mnsc.2024.08994",
+            "authors": "Andrew Caplin, David Deming, Shangwen Li, Daniel Martin, Philip Marx, Ben Weidmann, Kadachi Jiada Ye",
+            "date": "2026-07-01",
+            "abstract_en": "We use a controlled experiment to show that ability and belief calibration jointly determine the benefits of working with artificial intelligence (AI). AI improves performance more for people with low baseline ability. However, holding ability constant, AI assistance is more valuable for people who are calibrated, meaning they have accurate beliefs about their own ability. People who know they have low ability gain the most from working with AI. In a counterfactual analysis, we show that eliminating miscalibration would cause AI to reduce performance inequality nearly twice as much as it already does. This paper was accepted by Marie Claire Villeval, behavioral economics and decision analysis. Funding: This work was supported by the Alfred P. Sloan Foundation (Cognitive Economics at Work). Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.08994 .",
+            "abstract_zh": "",
+            "matched_topics": [
+              "人工智能"
+            ]
+          },
+          {
+            "title_en": "Care for the Mind amid Chronic Diseases: An Interpretable AI Approach Using IoT",
+            "title_zh": "",
+            "url": "https://doi.org/10.1287/mnsc.2023.04183",
+            "authors": "Jiaheng Xie, Xiaohang Zhao, Xiang Liu, Xiao Fang",
+            "date": "2026-07-01",
+            "abstract_en": "Health sensing for chronic disease management creates immense benefits for social welfare. Existing health sensing studies primarily focus on the prediction of physical chronic diseases. Depression, a widespread complication of chronic diseases is, however, understudied. We draw on the medical literature to support depression detection using motion sensor data. To connect humans in this decision making, safeguard trust, and ensure algorithm transparency, we develop an interpretable deep learning model: temporal prototype network (TempPNet). TempPNet is built on the emergent prototype learning models. To accommodate the temporal characteristic of sensor data and the progressive property of depression, TempPNet differs from existing prototype learning models in its capability of capturing temporal progressions of prototypes. Extensive empirical analyses using real-world motion sensor data show that TempPNet outperforms state-of-the-art benchmarks in depression detection. Moreover, TempPNet interprets its decision by visualizing the temporal progression of depression and its corresponding symptoms detected from sensor data. We further employ a user study and a medical expert panel to demonstrate its superiority over the benchmarks in interpretability. This study offers an algorithmic solution for impactful social good—collaborative care of chronic diseases and depression in health sensing. Methodologically, it contributes to extant literature with a novel interpretable deep learning model for depression detection from sensor data. Patients, doctors, and caregivers can deploy our model on mobile devices to monitor patients’ depression risks in real time. Our model’s interpretability also allows human experts to participate in the decision making by reviewing the interpretation and making informed interventions. This paper was accepted by D. J. Wu, information systems. Funding: J. Xie and X. Fang are supported by the University of Delaware Research Foundation Strategic Initiatives Grant and Alfred Lerner College of Business and Economics Research Grant, X. Zhao acknowledges financial support from the National Natural Science Foundation of China [Grant 72401172] and the Fundamental Research Funds for the Central Universities [Grant 2023110139, 2023110318]. J. Xie and X. Fang did not receive any form of support from, nor do they have any affiliation with, X. Zhao’s funding sources. Supplemental Material: The online appendices and data files are available at https://doi.org/10.1287/mnsc.2023.04183 .",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新",
+              "人工智能"
+            ]
+          },
+          {
+            "title_en": "The Boundary of Open Data: Implications for the Financial Market and Real Efficiency",
+            "title_zh": "",
+            "url": "https://doi.org/10.1287/mnsc.2023.03679",
+            "authors": "Zhigang Qiu, Ziyue Wang",
+            "date": "2026-07-01",
+            "abstract_en": "We analyze the optimal boundary for open data in an economy where financial and real-sector participants access both open and private data. The distinctive features of open access and nonrivalrous usage of open data enable its dual roles as a public information source and innovation input but raise privacy concerns. Our model reveals a novel tradeoff: Although enhanced private data precision and data skills substitute for open data’s information source role, its ability to amplify innovation benefits (via improved investment efficiency) establishes a crucial complementary relationship. This induces a crowding-in effect on the optimal open data boundary under low uncertainty but a crowding-out effect under high uncertainty. The innovation role of open data further generates nonmonotonic effects, yielding complex nonlinear impacts on market and real efficiency. These findings highlight critical policy tradeoffs in balancing innovation, market efficiency, and privacy in the digital age. This paper was accepted by Bo Becker, finance. Funding: Z. Wang acknowledges financing from the National Natural Science Foundation of China [Grants 72442025 and 72272028] and the Graduate Education Reform of Dongbei University of Finance and Economics [Grant yjzd202309]. Z. Qiu acknowledges financing from the Major Program of the National Natural Science Foundation of China [Grant 72192804] and the National Key Research and Development Program of China [Grant 2023YFC3304701]. Supplemental Material: The online appendices are available at https://doi.org/10.1287/mnsc.2023.03679 .",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新"
             ]
           }
         ],
@@ -2539,14 +2563,26 @@
         "resolved_name": "Journal of Environmental Economics and Management",
         "issue_title": "Published 2026-08",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-environmental-economics-and-management",
-        "matched_count": 10,
-        "total_in_issue": 26,
+        "matched_count": 12,
+        "total_in_issue": 27,
         "papers": [
           {
             "title_en": "The heterogeneous effects of climate policy on households: Evidence from 88 countries",
             "title_zh": "",
             "url": "https://doi.org/10.1016/j.jeem.2026.103382",
             "authors": "Leonard Missbach, Jan Christoph Steckel",
+            "date": "2026-08-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "绿色发展"
+            ]
+          },
+          {
+            "title_en": "The welfare impacts of carbon taxes and labels on food demand",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jeem.2026.103387",
+            "authors": "Marco Tomasi, Michela Faccioli, Carlo Fezzi, Ian J. Bateman",
             "date": "2026-08-01",
             "abstract_en": "",
             "abstract_zh": "",
@@ -2576,6 +2612,18 @@
             "abstract_zh": "",
             "matched_topics": [
               "产业政策"
+            ]
+          },
+          {
+            "title_en": "Do common shocks drive changes in aggregate emissions intensity?",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jeem.2026.103384",
+            "authors": "Xiyu Ren, Fulvia Marotta, François Lafond",
+            "date": "2026-08-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "绿色发展"
             ]
           },
           {
@@ -2639,10 +2687,10 @@
             ]
           },
           {
-            "title_en": "Environmental benefits of renewable energy: Evidence from coal mining-induced deforestation and air pollution emissions",
-            "title_zh": "标题：可再生能源的环境效益：来自煤炭开采引发的森林砍伐和空气污染排放的证据",
-            "url": "https://doi.org/10.1016/j.jeem.2026.103363",
-            "authors": "Lin Yang, Wenjie Luo",
+            "title_en": "Impact of air pollution on birth outcomes: Causal evidence from India",
+            "title_zh": "空气污染对出生结果的影响：来自印度的因果证据",
+            "url": "https://doi.org/10.1016/j.jeem.2026.103360",
+            "authors": "Shashank Misra, Shobhit Kulshreshtha",
             "date": "2026-08-01",
             "abstract_en": "",
             "abstract_zh": "",
@@ -2651,10 +2699,10 @@
             ]
           },
           {
-            "title_en": "Impact of air pollution on birth outcomes: Causal evidence from India",
-            "title_zh": "空气污染对出生结果的影响：来自印度的因果证据",
-            "url": "https://doi.org/10.1016/j.jeem.2026.103360",
-            "authors": "Shashank Misra, Shobhit Kulshreshtha",
+            "title_en": "Environmental benefits of renewable energy: Evidence from coal mining-induced deforestation and air pollution emissions",
+            "title_zh": "标题：可再生能源的环境效益：来自煤炭开采引发的森林砍伐和空气污染排放的证据",
+            "url": "https://doi.org/10.1016/j.jeem.2026.103363",
+            "authors": "Lin Yang, Wenjie Luo",
             "date": "2026-08-01",
             "abstract_en": "",
             "abstract_zh": "",
@@ -2686,31 +2734,17 @@
         "category": "Environment / energy",
         "issn": "0140-9883",
         "resolved_name": "Energy Economics",
-        "issue_title": "Published 2026-08",
+        "issue_title": "Published 2026-09",
         "issue_url": "https://www.sciencedirect.com/journal/energy-economics",
-        "matched_count": 12,
-        "total_in_issue": 20,
+        "matched_count": 2,
+        "total_in_issue": 3,
         "papers": [
           {
-            "title_en": "Analyzing different energy transition patterns and their drivers using clustering and machine learning models: unveiling the role of digital technological innovation",
+            "title_en": "Reciprocal tariffs will increase global emission: Evidence and numerical simulation results",
             "title_zh": "",
-            "url": "https://doi.org/10.1016/j.eneco.2026.109428",
-            "authors": "Yang Chen, Shiwen Cai, Jinyi He, Xiao Wen",
-            "date": "2026-08-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新",
-              "绿色发展",
-              "人工智能"
-            ]
-          },
-          {
-            "title_en": "Firm characteristics, climate policy shocks, and climate risk exposures: Evidence of feedback loops from a quasi-experiment in GCC countries",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.eneco.2026.109457",
-            "authors": "Quyen Pham, Huy Pham, Hanh Le, Chune Young Chung, Huy Truong",
-            "date": "2026-08-01",
+            "url": "https://doi.org/10.1016/j.eneco.2026.109462",
+            "authors": "Chunding LI, Meng LI, Jing LIU, Qiyuan XU",
+            "date": "2026-09-01",
             "abstract_en": "",
             "abstract_zh": "",
             "matched_topics": [
@@ -2718,125 +2752,14 @@
             ]
           },
           {
-            "title_en": "Low-carbon transformation of iron and steel: Combined effects of green hydrogen subsidy and carbon emissions trading under uncertain environments",
+            "title_en": "The value of dispatchability and earnings-at-risk of electricity generators in the energy transition",
             "title_zh": "",
-            "url": "https://doi.org/10.1016/j.eneco.2026.109418",
-            "authors": "Chunrui Liu, Mei Sun, Yibo Li, Dun Han, Wei Xu",
-            "date": "2026-08-01",
+            "url": "https://doi.org/10.1016/j.eneco.2026.109458",
+            "authors": "Lin Han, Nino Kordzakhia, Stefan Trück",
+            "date": "2026-09-01",
             "abstract_en": "",
             "abstract_zh": "",
             "matched_topics": [
-              "产业政策",
-              "绿色发展"
-            ]
-          },
-          {
-            "title_en": "Energy subsidy removal and carbon taxation in Egypt: Economic and distributional impacts",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.eneco.2026.109470",
-            "authors": "Govinda R. Timilsina, Samuel Sebsibie",
-            "date": "2026-08-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "产业政策",
-              "绿色发展"
-            ]
-          },
-          {
-            "title_en": "Can renewable energy development alleviate household energy poverty? Evidence from household survey data in China",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.eneco.2026.109420",
-            "authors": "Jing-Yue Liu, Yu-Yang Jiang, Richard T. Woodward, Yue-Jun Zhang",
-            "date": "2026-08-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "绿色发展"
-            ]
-          },
-          {
-            "title_en": "Foreign divestment as a catalyst for indigenous innovation and manufacturing upgrading: Evidence from China's power sector",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.eneco.2026.109455",
-            "authors": "Xiaoping He, Jiahui Chen, Wenbo Dai, Yuxuan Yu",
-            "date": "2026-08-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新"
-            ]
-          },
-          {
-            "title_en": "Demand-side energy efficiency, demand response, and carbon tax",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.eneco.2026.109449",
-            "authors": "Yukihide Kurakawa, Makoto Tanaka",
-            "date": "2026-08-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "绿色发展"
-            ]
-          },
-          {
-            "title_en": "Climate change, environmental policies in the housing sector of Italy, and the impact on social welfare",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.eneco.2024.108058",
-            "authors": "Alberto Massacci, Shajara Ul-Durar, Noman Arshed, Arshian Sharif",
-            "date": "2026-08-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "绿色发展"
-            ]
-          },
-          {
-            "title_en": "Climate change economics in Vietnam: Redefining economic impact",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.eneco.2026.109390",
-            "authors": "Christian Otto, Christoph Schult, Thomas Vogt",
-            "date": "2026-08-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "绿色发展"
-            ]
-          },
-          {
-            "title_en": "Carbon neutrality through industry 4.0: A decision-making approach for sustainable energy efficient logistics operations",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.eneco.2026.109417",
-            "authors": "Devesh Kumar, Surya Prakash, Gunjan Soni, Sachin Kumar Mangla, Alessio Ishizaka",
-            "date": "2026-08-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "绿色发展"
-            ]
-          },
-          {
-            "title_en": "Eco-innovation strategies in response to energy-related uncertainty and geopolitical risk: Insights from the energy sector",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.eneco.2026.109414",
-            "authors": "Vu Quang Trinh, Tam Huy Nguyen, Minh-Lý Liêu, Mai Quynh Pham, Thuy Dao",
-            "date": "2026-08-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新"
-            ]
-          },
-          {
-            "title_en": "Industrial agglomeration and corporate pollution abatement: Evidence from China's eco-industrial park program",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.eneco.2026.109425",
-            "authors": "Yue Cao, Yike Tang, Jie Han, Teng Zhang",
-            "date": "2026-08-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "产业政策",
               "绿色发展"
             ]
           }
@@ -2862,11 +2785,139 @@
       "source_type": "nber",
       "name": "NBER Working Papers",
       "category": "Working papers",
-      "issue_title": "Recent NBER Working Papers through 2026-06-25",
+      "issue_title": "Recent NBER Working Papers through 2026-07-02",
       "issue_url": "https://www.nber.org/papers",
       "matched_count": 12,
       "total_recent_considered": 220,
       "papers": [
+        {
+          "title_en": "Beyond Mean Exposure: How Exposure Variance Shapes Air Pollution Mortality Risk",
+          "title_zh": "",
+          "url": "https://www.nber.org/papers/w35428",
+          "authors": "Bissan Ghaddar, Kimberly Singer Babiarz, Hongbin Li, Lingsheng Meng, Lynn Hildemann, Han Hong, Alvise Scarabosio, Meili Wang, Aprajit Mahajan, Peng Yin, Maigeng Zhou, Grant Miller",
+          "date": "2026-07-02",
+          "abstract_en": "Ambient air pollution contributes substantially to premature mortality globally, and the effectiveness of policies addressing it depends critically on the shape of the dose-response relationship, which remains poorly understood. Linking hourly air pollution data with daily vital statistics from 251 Chinese cities over four years, we show this relationship depends not only on the mean, but also on the variance of within-period exposure. At a 7-day mean of 150 Î¼g/mÂ³, predicted mortality varies more across observed hourly PM2.5 distributions than across mean exposure differences of 100 Î¼g/mÂ³. The sign of this variance effect also depends on the mean: at low mean concentrations (a convex region), higher variance is associated with modestly higher mortality. At higher concentrations (a concave region), greater variance is associated with lower mortality â implying constant exposure is more harmful than fluctuating exposure for a given mean. These findings reveal important relationships masked using temporally aggregated air pollution data.",
+          "abstract_zh": "",
+          "matched_topics": [
+            "绿色发展"
+          ],
+          "paper_id": "w35428",
+          "programs": []
+        },
+        {
+          "title_en": "Is Money Overrated? Misperceived Satisfaction from Income",
+          "title_zh": "",
+          "url": "https://www.nber.org/papers/w35423",
+          "authors": "Ricardo Perez-Truglia, Rafael Macedo RubiÃ£o",
+          "date": "2026-07-02",
+          "abstract_en": "People often make important choices in pursuit of higher income, but do they place too much weight on income when deciding what path to take? We propose a simple model of misspecified learning in which individuals overestimate the marginal satisfaction from incomeâthe expected effect of an income increase on overall life satisfactionâand therefore give income too much importance in their decisions. Guided by this model, we designed a pre-registered experiment that elicits beliefs about the marginal satisfaction from income and randomly assigns scientific evidence about it. Respondents substantially overestimate the marginal satisfaction from income both for themselves and for others, but especially for themselves. These biases shrink when respondents are exposed to scientific evidence, and the effects persist one month later. To study whether these beliefs matter for behavior, we measure income-versus-non-income trade-offs using job-choice scenarios tailored to each respondent and a real-world decision the respondent is facing. To elicit the latter, we make a methodological contribution: an AI-led interview method that moves beyond static, predefined survey instruments by combining the flexibility of qualitative interviewing with the discipline of closed-ended survey measurement. We find that biased beliefs are consequential: after learning that income matters less for life satisfaction than they initially thought, respondents place less weight on income in their decisions.",
+          "abstract_zh": "",
+          "matched_topics": [
+            "人工智能"
+          ],
+          "paper_id": "w35423",
+          "programs": []
+        },
+        {
+          "title_en": "Competition and Misconduct in Certification Markets with Externalities",
+          "title_zh": "",
+          "url": "https://www.nber.org/papers/w35422",
+          "authors": "Nano Barahona, Juan-Pablo Montero, Pedro Skorin",
+          "date": "2026-07-02",
+          "abstract_en": "Vehicle inspectionsâcommonly known as smog and safety checksâare often delegated to private agents, much like other quality certification markets. When these agents compete, they face incentives to misreport qualityâespecially when consumers do not internalize the external costs of misreporting. Theory and evidence from Chileâs concentrated vehicle-inspection markets suggest that these incentives are significant: misreporting emerges as soon as competition is introduced. We find that delegating each market to a single agent proves effective in reducing approval rates, without compromising service quality or the ex-ante competition for the market, while delivering substantial and permanent reductions in vehicle emissions.",
+          "abstract_zh": "",
+          "matched_topics": [
+            "绿色发展"
+          ],
+          "paper_id": "w35422",
+          "programs": []
+        },
+        {
+          "title_en": "Tax Incentives and Venture Capital Risk-Taking: Evidence from the QSBS Program",
+          "title_zh": "",
+          "url": "https://www.nber.org/papers/w35418",
+          "authors": "Murillo Campello, Guilherme Junqueira",
+          "date": "2026-07-02",
+          "abstract_en": "Do tax subsidies prompt investors to take on risk? We address this question by looking at investors' responses to changes to the Qualified Small Business Stock (QSBS) program, which reduces capital gains taxes on startup investing. We do so under a framework in which some startup investors â venture capitalists (VCs) â combine outside funding with incentive-based compensation, while others invest their own funds. Using bunching, triple-differences, and matching designs that exploit industry eligibility, investment vintage, and holding-period requirements, we analyze data from 158 thousand investorâfirm pairings over two decades. We identify strategic investment timing, with subsidies prompting bunching at tax-eligible holding-period thresholds. Most notably, when and where tax subsidies apply, VCs shift their project selection toward riskier ventures: they invest more in pre-commercial stage startups, become more likely to provide startups with their initial capital, and invest more in startups with pre-existing debt, while becoming less likely to co-syndicate their investments. Tax-subsidized VC-backed ventures show higher failure rates, but on the flip side, attain higher valuations at exit and are more likely to reach \"unicorn status.\" None of these patterns are observed for comparable non-VC investors in startups exposed to the same tax subsidies. Our tests further show that tax incentives lead to reallocation toward more innovative industries, yielding more impactful patents. Our study is the first to show that tax policy can shift entrepreneurial financing toward riskier, more innovative, and valuable startups.",
+          "abstract_zh": "",
+          "matched_topics": [
+            "产业政策",
+            "创新"
+          ],
+          "paper_id": "w35418",
+          "programs": []
+        },
+        {
+          "title_en": "Optimal Flood Insurance in a Second-Best World: Fiscal Spillovers, Reclassification Risk and Moral Hazard",
+          "title_zh": "",
+          "url": "https://www.nber.org/papers/w35408",
+          "authors": "Jonathan Gruber, Adam Solomon",
+          "date": "2026-07-02",
+          "abstract_en": "Intensifying climate change makes protection against natural disaster risk â either through ex ante insurance or ex post aid â a first-order public policy issue. Flood risk protection in the U.S. traditionally featured ex post aid through FEMA and heavily subsidized insurance through the National Flood Insurance Program (NFIP). In an effort to correct subsidy-induced overbuilding and under-mitigation in flood-prone areas, the NFIP recently moved to actuarially fair insurance premiums. But this change has two unintended consequences: a fiscal spillover onto FEMA disaster aid as insurance coverage declines in flood-prone areas, and household exposure to uninsurable reclassification risk from uncertain climate projections. We develop a model of optimal flood insurance that incorporates the static and dynamic tradeoffs of subsidizing premiums. We then use a variety of identification strategies and data to estimate the five key parameters needed to implement this model. We find that the fiscal spillover and reclassification risk protection benefits significantly outweigh the moral hazard costs, and that the optimal subsidy to flood insurance is 52%, comparable to the level of subsidization before the recent reform.",
+          "abstract_zh": "",
+          "matched_topics": [
+            "产业政策",
+            "绿色发展"
+          ],
+          "paper_id": "w35408",
+          "programs": []
+        },
+        {
+          "title_en": "The Use and Misuse of Average and Marginal Energy Prices: Implications for Climate Policy",
+          "title_zh": "",
+          "url": "https://www.nber.org/papers/w35406",
+          "authors": "Jonathan T. Hawkins-Pierot, Katherine R.H. Wagner",
+          "date": "2026-07-02",
+          "abstract_en": "Many governments and institutions use marginal price signals, such as fuel and carbon taxes, to meet emission reduction targets. However, the responses of firms and individuals to these price signals are often calculated using average prices commonly reported in economic data, rather than marginal prices. This paper first documents that the marginal price of electricity paid by U.S. manufacturing plants is 50% lower than the average price. To do so, we construct a novel dataset of both average and marginal electricity prices, and the wedge between these, using plant-level microdata from the U.S. Census and utility-level electricity rate schedules for over two hundred utilities. Second, we provide guidance on when average prices are an appropriate proxy for marginal prices in price elasticities by identifying economic and geographic characteristics that predict variation in this wedge. Overall, the magnitude of this wedge suggests that the standard use of average energy prices to calculate responses to carbon taxes may underestimate the energy price increases needed to meet emissions targets by 50%.",
+          "abstract_zh": "",
+          "matched_topics": [
+            "绿色发展"
+          ],
+          "paper_id": "w35406",
+          "programs": []
+        },
+        {
+          "title_en": "Growth, Firm Scale, and the Energy Intensity of Production",
+          "title_zh": "",
+          "url": "https://www.nber.org/papers/w35405",
+          "authors": "Kathryn McDonald, NoÃ©mie Pinardon-Touati, Conor Walsh",
+          "date": "2026-07-02",
+          "abstract_en": "We uncover a new mechanism that links growth and a decline in the energy intensity of production, observed globally since 1990. Using microdata from India and a causal research design, we demonstrate that the expenditure share of energy declines steeply with firm scale, due both to physical scaling laws and technology investment. Given that average firm size increases with growth, this scale dependence implies that production endogenously becomes less energy-intensive along the growth path. We develop a model of this mechanism in general equilibrium, and quantify significant reductions in aggregate energy intensity as low-income countries like India grow. We conclude with a discussion of the future path of emissions in India.",
+          "abstract_zh": "",
+          "matched_topics": [
+            "绿色发展"
+          ],
+          "paper_id": "w35405",
+          "programs": []
+        },
+        {
+          "title_en": "Baby Busts and Growth Booms: Demographic Change and the Macroeconomy",
+          "title_zh": "",
+          "url": "https://www.nber.org/papers/w35401",
+          "authors": "Daron Acemoglu, David Autor, Keelan Beirne, Andrew Scott",
+          "date": "2026-07-02",
+          "abstract_en": "The secular decline in birth rates across the globe over the past seven decades has slowed population growth, raised average ages, and reshaped labor markets and the macroeconomy. Contrary to the widespread expectation that these trends hamper economic growth, we find lower birth rates are associated with higher growth in GDP per working-age adult across countries and higher wage growth across US commuting zones, with no negative impact on aggregate GDP or earnings. These patterns are not explained by educational upgrading, rising female labor force participation, the declining importance of agriculture, or neoclassical-Solow mechanisms. We argue that they reflect the endogenous, labor-saving response of technology to the scarcity of younger workers. Consistent with this interpretation, countries and regions with lower birth rates exhibit more labor-saving patents and growing high-tech activity. There is also higher TFP growth across countries and industries. Exploiting cross-country variation in WWII military and civilian deaths, we find that declines in younger population, rather than population size per se, drive our results.",
+          "abstract_zh": "",
+          "matched_topics": [
+            "创新"
+          ],
+          "paper_id": "w35401",
+          "programs": []
+        },
+        {
+          "title_en": "Letâs Chat: Leveraging Chatbot Outreach for Improved Course Performance",
+          "title_zh": "",
+          "url": "https://www.nber.org/papers/w35397",
+          "authors": "Katharine E. Meyer, Lindsay C. Page, Catherine Mata, Eric Smith, Brendan Tyler Walsh, Candice L. Fifield, Michelle Tyson, Amy E. Eremionkhale, Michael Evans, Shelby Frost, Eye Eoun Jung",
+          "date": "2026-07-02",
+          "abstract_en": "This study provides pre-registered, experimental evidence on the use of non-generative artificial intelligence (AI) chatbots to support students in large-enrollment undergraduate courses. We find the chatbot messaging increased studentsâ final grades and engagement with academic supports, such as tutoring. Treatment effects were generally consistent across student demographics, with the exception of treated women in a Microeconomics course, who earned final grades that were seven percentage points higher than women in the control group. This study provides evidence that integrating AI-enabled outreach and communication to students in their college courses can enhance student engagement, learning, and course performance.",
+          "abstract_zh": "",
+          "matched_topics": [
+            "人工智能"
+          ],
+          "paper_id": "w35397",
+          "programs": []
+        },
         {
           "title_en": "Immigration, Innovation, and the Geography of Growth",
           "title_zh": "",
@@ -2908,138 +2959,11 @@
           ],
           "paper_id": "w35374",
           "programs": []
-        },
-        {
-          "title_en": "Empowering Inclusive Work",
-          "title_zh": "",
-          "url": "https://www.nber.org/papers/w35372",
-          "authors": "Yanyou Chen, Mitchell Hoffman, Huilan Xu, Zhe Yuan",
-          "date": "2026-06-18",
-          "abstract_en": "Can AI improve workplace outcomes for workers with disabilities? We examine the relative performance of deaf or hard of hearing (DHH) workers on one of China's largest food-delivery platforms. Pre-AI, DHH workers are slower than non-disabled workers and have worse customer ratings, although they supply more hours to the platform and are less likely to quit. Midway through our data, the platform suddenly introduces an AI-based intelligent outbound calling system designed to improve customer communication for DHH workers. Using a difference-in-differences design comparing DHH and non-disabled workers before and after the AI tool, we find that AI increases the speed and productivity of DHH workers, especially on tasks involving customer interaction; substantially reduces negative customer ratings; and increases labor supply and retention. AI eliminates one-third of the disability hourly pay gap and significantly increases the profitability of DHH workers for the platform.",
-          "abstract_zh": "",
-          "matched_topics": [
-            "人工智能"
-          ],
-          "paper_id": "w35372",
-          "programs": []
-        },
-        {
-          "title_en": "Air Pollution and Early Childhood Outcomes: Evidence from Georgia Childcare Providers",
-          "title_zh": "",
-          "url": "https://www.nber.org/papers/w35367",
-          "authors": "Mahta Ghafarianghadim, Garth Heutel",
-          "date": "2026-06-18",
-          "abstract_en": "Many effects of pollution exposure on health and education outcomes of children have been identified, but little is known about education effects on preschool-aged children. We estimate the effect of particulate matter air pollution on preschool attendance using restricted administrative data from the state of Georgia. We use thermal inversions, weather phenomena that trap pollutants, as an instrumental variable for pollution. A one-unit increase in the county-week average ambient particulate pollution level decreases attendance by around 2 percentage points. Effects seem to be larger for racial minorities and for children with working parents.",
-          "abstract_zh": "",
-          "matched_topics": [
-            "绿色发展"
-          ],
-          "paper_id": "w35367",
-          "programs": []
-        },
-        {
-          "title_en": "Information Provision and Demand-Side Barriers to Healthcare Innovation: Experimental Evidence on Shared Medical Appointments in Menopause Care",
-          "title_zh": "",
-          "url": "https://www.nber.org/papers/w35357",
-          "authors": "Soledad Giardili, Monika Heller, Sanjay Jain, Amalia R. Miller, Kamalini Ramdas",
-          "date": "2026-06-18",
-          "abstract_en": "Alternative care delivery models may offer benefits to patients and providers, but adoption often remains low. We study whether brief narrative testimonials shift willingness to attend virtual shared medical appointments (SMAs), a relatively little-used care format in which 5-15 patients with a shared non-urgent health condition meet simultaneously with a clinician. Using a pre-registered field experiment with over 4,000 women aged 45â60 in the UK, we randomly assigned participants to view only standard descriptive information about menopause appointment options (the control group) or to receive testimonials about SMAs from either previous patients or a clinician (treatment groups). Testimonials more than doubled the share of women choosing an SMA: when appointments were offered with a 6-8 week wait, 11% of the control group chose an SMA compared to 26% in the peer testimonials arm and 24% in the clinician testimonials arm. Shorter waiting times further increase uptake. When the SMA wait was reduced to one week, the share of women ever choosing an SMA rose by 14-19 percentage points across arms, reaching nearly 40% in the testimonial groups. Treatment effects are systematically larger among women with greater information-processing capacity: university education, higher baseline menopause knowledge, and broader information-seeking. Our findings suggest that womenâs reluctance to choose SMAs is driven primarily by demand-side barriers, including unfamiliarity and uncertainty about their benefits, rather than deep-seated aversion to group-based care. Testimonials appear sufficient to meaningfully reduce these barriers.",
-          "abstract_zh": "",
-          "matched_topics": [
-            "创新"
-          ],
-          "paper_id": "w35357",
-          "programs": []
-        },
-        {
-          "title_en": "Trading Frictions in Dynamic Cap-and-Trade Markets",
-          "title_zh": "",
-          "url": "https://www.nber.org/papers/w35356",
-          "authors": "Nicola Borri, Yukun Liu, Aleh Tsyvinski, Xi Wu",
-          "date": "2026-06-18",
-          "abstract_en": "We develop a dynamic stochastic model of markets with an externality and multiple trading frictions, and cap-and-trade as the leading application. Slow participation, limited intermediation, and heterogeneous information interact in equilibrium: agents choose costly market access, access determines residual compliance demand, intermediary constraints translate residual demand into a surrender-month premium, and the premium feeds back into access incentives. These interactions shape how effectively the market corrects the externality. We characterize access choices in closed form, prove that the equilibrium premium is unique, and show that endogenous access dampens the response to each friction in isolation, while the interaction of multiple frictions is non-additive and can amplify the price response. We quantify the model using 2.7 million EU ETS registry transactions and compliance records from 2005â2021. About 40% of operators do not trade annually, purchases concentrate in April when returns are systematically high, and operator flow predicts future returns.",
-          "abstract_zh": "",
-          "matched_topics": [
-            "绿色发展"
-          ],
-          "paper_id": "w35356",
-          "programs": []
-        },
-        {
-          "title_en": "Task-Specific Technical Change and Comparative Advantage",
-          "title_zh": "",
-          "url": "https://www.nber.org/papers/w35353",
-          "authors": "Lukas Althoff, Hugo Reichardt",
-          "date": "2026-06-18",
-          "abstract_en": "Artificial intelligence (AI) reshapes workersâ comparative advantage by altering the tasks they perform and the skills those tasks require. We develop a dynamic task-based model to quantify the general-equilibrium effects of task-specific technical change. Workers have multidimensional skills, choose occupations, and accumulate skills on the job; occupations combine tasks, and productivity depends on how workersâ skills match task requirements. We develop a computationally efficient procedure to estimate the model using panel data and a new database of task-level skill requirements. We apply the model to AI, allowing it to augment, automate, and simplify tasks. We find that AI narrows wage inequality and raises average wages across scenarios ranging from slow to rapid AI progress. The key equalizing force is simplification: by lowering tasksâ skill requirements, AI lets lower-skill workers compete for previously inaccessible jobs. Adoption costs, highest for lower-skill workers, dampen but do not eliminate the decline in inequality.",
-          "abstract_zh": "",
-          "matched_topics": [
-            "人工智能"
-          ],
-          "paper_id": "w35353",
-          "programs": []
-        },
-        {
-          "title_en": "Planning Capital and Discovery-Based Learning-by-Doing: Investment as Staged Discovery in the Hyperscale Era",
-          "title_zh": "",
-          "url": "https://www.nber.org/papers/w35349",
-          "authors": "Andrew Caplin",
-          "date": "2026-06-18",
-          "abstract_en": "This paper treats frontier investment as staged discovery. Firms invest through sequences of costly inquiry stages before deciding whether and how to realize value. At each stage, a firm may sharpen its diagnostic understanding, choose what question to ask, embody that question in a costly action, and interpret the answer that action produces. The answer changes what the firm knows, what it can do next, and how costly future inquiry will be. Successful histories can also carry over to later related problems, making the firm a better learner beyond the current investment path.\\nThe paper calls the resulting asset planning capital in firm form. Planning capital is the accumulated diagnostic understanding a firm has built through costly inquiry and operation: understanding of technologies, processes, customers, tools, partners, failures, constraints, and opportunities, together with the capacity to keep learning. It becomes valuable because it helps the firm choose what to investigate, make the question answerable, interpret what happened, and carry what it learned into later investment stages. Building on classical investment theory, R&D models, real-options theory, venture-capital models, classical learning-by-doing, the paper develops a model of investment as staged discovery. \\nThe AI and semiconductor frontier makes this asset visible. Firms are being valued and funded for more than the physical capacity they already own. Chips, fabs, data centers, cloud platforms, power commitments, and model systems matter because they carry traces of accumulated learning and because their use generates more learning. They let firms train models, test demand, expose bottlenecks, improve yields, qualify customers, integrate tools, and discover which complements are missing. The current buildout is therefore investment in capacity and in the institutional learning system that makes capacity more valuable over time.\\nThe framework explains why production systems, tool systems, research paths, sovereign capability programs, and infrastructure sponsorship belong in the same analysis. They are different institutional forms through which planning capital is accumulated. The paper treats terminal realization value in reduced form and focuses on the discovery process that precedes it: how institutions build capacity, learn from using it, and turn accumulated diagnostic understanding into an advantage in the next round of investment.",
-          "abstract_zh": "",
-          "matched_topics": [
-            "创新",
-            "人工智能"
-          ],
-          "paper_id": "w35349",
-          "programs": []
-        },
-        {
-          "title_en": "The Informed Insider: A Leading Measure of Quality",
-          "title_zh": "",
-          "url": "https://www.nber.org/papers/w35348",
-          "authors": "Wei Cai, Dennis Campbell, Yaxuan Chen, Yufei Chen, Andrea Prat",
-          "date": "2026-06-18",
-          "abstract_en": "Product and service quality is fundamental to firm value creation, yet it is well recognized as difficult to observe ex ante. Existing quality proxies are limited in coverage, lack cross-firm comparability, and primarily rely on lagging indicators that capture product or service failures only after they materialize. Exploiting employeesâ informational advantage as informed insiders and firsthand observers of firmsâ internal operations, we develop and validate a novel, forward-looking measure of firm-year-level product and service quality using over 4.3 million employee reviews on Glassdoor. Leveraging machine learning models trained on a subset of firms with third-party customer satisfaction data, we construct quality indices for S&P 1500 firms spanning 2008 to 2023. The resulting quality measures exhibit meaningful variation across firms and within firms over time. In out-of-sample tests, our quality indices demonstrate strong predictive power for future quality provision, emerging as the single most important predictor relative to firm fundamentals and Glassdoor ratings. We validate our measure by examining its association with alternative quality metrics. We show that our quality measures are useful in predicting important quality-related firm outcomes such as product recalls, brand value, and profitability. We also construct an alternative set of quality measures using a zero-shot prompt-based approach and a supervised fine-tuning approach with GPT models to assess the potential of LLMs and generative AI in capturing firm-level quality provision. Our paper shows the value of employee voices as a powerful, forward-looking, and scalable signal of firm quality provision. The paper offers implications for stakeholders seeking to identify quality-related risks and opportunities before they become externally visible.",
-          "abstract_zh": "",
-          "matched_topics": [
-            "人工智能"
-          ],
-          "paper_id": "w35348",
-          "programs": []
-        },
-        {
-          "title_en": "AI Diffusion Gaps: Unequal Integration of AI Across K-12 Schools",
-          "title_zh": "",
-          "url": "https://www.nber.org/papers/w35347",
-          "authors": "Christopher Campos, John D. Singleton",
-          "date": "2026-06-18",
-          "abstract_en": "Although use of generative AI tools has quickly become widespread in education settings, emerging evidence suggests that effects on learning will depend on how that use is supported and guided. This paper reports findings from an original national survey of K-12 school principals designed to measure institutional integration of AI in schools through policies, teacher training, guidance for student use, leadership engagement, and the availability of AI-enabled tools. We find that AI use has spread rapidly across schools, largely as a productivity aid. Students mainly use AI for homework help and writing, while educators primarily use it for lesson planning and administrative tasks. The development of teacher training, guidance, and school policies has lagged adoption. We next document two diffusion gaps across schools: First, lower AI integration is associated with a higher share of disadvantaged students (a one standard deviation increase in disadvantage is associated with a 0.07-0.11 SD lower score on an index of AI integration); Second, private and charter schools score 0.23-0.44 SD lower on the AI integration index than traditional public schools. Although several surveyed school-level factors strongly predict AI integration, they do little to explain these gaps. Differences in district size account for roughly one-third of the disadvantage gap between public schools. These findings suggest that the factors associated with greater AI integration differ from those needed to narrow disparities in how schools support and guide AI use.",
-          "abstract_zh": "",
-          "matched_topics": [
-            "人工智能"
-          ],
-          "paper_id": "w35347",
-          "programs": []
-        },
-        {
-          "title_en": "AI and the Collapse of the www",
-          "title_zh": "",
-          "url": "https://www.nber.org/papers/w35344",
-          "authors": "Alex Chan",
-          "date": "2026-06-12",
-          "abstract_en": "This paper studies market design for generative AI intermediation. AI answer systems can improve user experience while diverting visits that finance publisher content and generate source-level quality signals. I show that an AI platform that underinternalizes future content reproduction retains too little referral traffic and can make costly open-web information subcritical, even with truthful content, accurate answers, and rational users. The mechanism can be self-reinforcing: less source-level measurement weakens conventional search, inducing further AI reliance. Sustainable repair requires replacing displaced revenue and deleted measurement through visitor-replacement royalties, audited provenance, human-information audits, and keystone-topic compensation.",
-          "abstract_zh": "",
-          "matched_topics": [
-            "人工智能"
-          ],
-          "paper_id": "w35344",
-          "programs": []
         }
       ],
       "error": null
     },
-    "total_matches": 89,
+    "total_matches": 86,
     "note": "Latest issue TOCs from economics top journals and field-top journals plus recent NBER Working Papers, filtered by title/abstract keywords for industrial policy, innovation, green development, and artificial intelligence."
   }
 }
