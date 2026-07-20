@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-07-13 20:11:15",
+  "updated_at": "2026-07-20 20:19:03",
   "schema_version": 1,
   "translation": {
     "engine": "kimi",
     "model": "moonshot-v1-8k",
     "enabled": true,
     "success_count": 0,
-    "fail_count": 78,
+    "fail_count": 79,
     "failed_examples": [
       "A Welfare Analysis of Policies Impacting Climate Change :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, please recharge your ",
       "We study the welfare impacts of 96 climate-related tax and spending policies. We extend an :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, please recharge your ",
       "Nobel Lecture: The Past and Future of Innovation: Can Progress Be Sustained? :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, please recharge your ",
       "Collusion with Optimal Information Disclosure :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, please recharge your ",
       "Abstract Motivated by recent concerns surrounding the use of third-party pricing algorithm :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, please recharge your ",
-      "Existence of Myopic‐Farsighted Stable Sets in Matching Markets :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, please recharge your ",
-      "In the context of one‐to‐one matching markets, we study myopic‐farsighted stable sets , wh :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, please recharge your ",
-      "Comment on <i>‘Fisher–Schultz Lecture: Contracting Over Pharmaceutical Formularies and Reb :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, please recharge your "
+      "Walras–Bowley Lecture: Climate Policy in the Wide World :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, please recharge your ",
+      "We construct a dynamic integrated assessment model of climate and the economy with very hi :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, please recharge your ",
+      "All Along the Watchtower: Military Landholders and Serfdom Consolidation in Early Modern R :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, please recharge your "
     ],
     "note": "Set KIMI_API_KEY to enable Chinese translation."
   },
@@ -250,33 +250,21 @@
         "category": "Top 5",
         "issn": "0012-9682",
         "resolved_name": "Econometrica",
-        "issue_title": "Volume 94, Issue 3",
+        "issue_title": "Volume 94, Issue 4",
         "issue_url": "https://onlinelibrary.wiley.com/journal/14680262",
-        "matched_count": 2,
-        "total_in_issue": 17,
+        "matched_count": 1,
+        "total_in_issue": 15,
         "papers": [
           {
-            "title_en": "Existence of Myopic‐Farsighted Stable Sets in Matching Markets",
+            "title_en": "Walras–Bowley Lecture: Climate Policy in the Wide World",
             "title_zh": "",
-            "url": "https://doi.org/10.3982/ecta24060",
-            "authors": "Battal Dogan, Lars Ehlers",
+            "url": "https://doi.org/10.3982/ecta22451",
+            "authors": "John Hassler, Per Krusell, Conny Olovsson",
             "date": "2026-01-01",
-            "abstract_en": "In the context of one‐to‐one matching markets, we study myopic‐farsighted stable sets , which are internally and externally stable when myopic agents consider immediate payoffs from their deviations, while farsighted agents anticipate counter‐deviations and consider final payoffs. We constructively prove the existence of a (rational expectations) myopic‐farsighted stable set, in which farsighted agents receive a single payoff while myopic agents may receive multiple payoffs. Our existence result extends to settings with enforcing coalitions of arbitrary size, yielding coalitional myopic‐farsighted stable sets , and to settings where not all members of an enforcing coalition must strictly gain, yielding myopic‐farsighted weakly stable sets . When all farsighted agents have unit demand, our results also extend to many‐to‐one matching markets. As a key corollary, we provide a foundation for the efficiency‐adjusted deferred acceptance algorithm by showing that its outcome constitutes a singleton myopic‐farsighted stable set when one side is farsighted and the other is myopic.",
+            "abstract_en": "We construct a dynamic integrated assessment model of climate and the economy with very high geographic resolution. Migration is free within, but not allowed across, countries. The model parameterization uses a wealth of data, including the distribution of output, population, energy sources and use, and estimates of the local damages from climate change. It implies very large geographic dispersion in damages from warming. We conduct three kinds of policy experiments. In one, we note that a modest, uniform carbon tax limits global warming and damages around the world substantially. In a second experiment, we let the poorest countries not tax carbon, while the rest compensate by setting higher taxes; the efficiency losses are large. In a final experiment, we find that fast green technology growth alone is a poor substitute for carbon taxes, whether globally available or not.",
             "abstract_zh": "",
             "matched_topics": [
-              "人工智能"
-            ]
-          },
-          {
-            "title_en": "Comment on <i>‘Fisher–Schultz Lecture: Contracting Over Pharmaceutical Formularies and Rebates’ by Kate Ho and Robin Lee</i>",
-            "title_zh": "",
-            "url": "https://doi.org/10.3982/ecta24210",
-            "authors": "Rena M. Conti",
-            "date": "2026-01-01",
-            "abstract_en": "Biopharmaceuticals advance health and economic growth. Unlike central bargaining abroad, the United States uses private firms, pharmacy benefit managers (PBMs), to manage medicine access and spending. Yet, PBMs' roles in advancing efficiency are understudied. Ho and Lee model PBMs' use of tiered formularies, lists of covered medicines, without the use of proprietary data on the price concessions drug makers offer for preferred placement. They find PBMs' use of tiered formularies generate significant payor savings through competition. Complementing Ho and Lee, Feng and Maini (2024) model how patient demand inertia limits PBMs' ability to extract price concessions from drug makers which consequently erodes the efficacy gains of PBM formularies. Conti, Frandsen, Powell, and Rebitzer (2021) model formulary auctions where PBM size drives payor savings, but also spurs endogenously set high list prices, reducing patient access. Future economic research should focus on PBM market entry and vertical integration, pharmacy steering, and effects on innovation.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新"
+              "绿色发展"
             ]
           }
         ],
@@ -483,11 +471,24 @@
         "category": "Public economics",
         "issn": "0047-2727",
         "resolved_name": "Journal of Public Economics",
-        "issue_title": "Published 2026-08",
+        "issue_title": "Published 2026-09",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-public-economics",
-        "matched_count": 0,
-        "total_in_issue": 22,
-        "papers": [],
+        "matched_count": 1,
+        "total_in_issue": 5,
+        "papers": [
+          {
+            "title_en": "The incidence of rent subsidies: Evidence on rents, housing choices and supply",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jpubeco.2026.105718",
+            "authors": "Essi Eerola, Teemu Lyytikäinen, Tuukka Saarimaa, Tuuli Vanhapelto",
+            "date": "2026-09-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "产业政策"
+            ]
+          }
+        ],
         "error": null
       },
       {
@@ -497,36 +498,11 @@
         "category": "Development",
         "issn": "0304-3878",
         "resolved_name": "Journal of Development Economics",
-        "issue_title": "Published 2026-09",
+        "issue_title": "Published 2027-01",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-development-economics",
-        "matched_count": 2,
-        "total_in_issue": 31,
-        "papers": [
-          {
-            "title_en": "Evaluating the environmental and economic implications of curbing transboundary pollution: Evidence from China",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.jdeveco.2026.103854",
-            "authors": "Zeyang Zhang, Yuanyi Xu, Dunhu Chang, Dingding Shao, Xin Wang",
-            "date": "2026-09-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "绿色发展"
-            ]
-          },
-          {
-            "title_en": "More power outages, more CO2 emissions: Evidence from self-generation in China's manufacturing firms",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.jdeveco.2026.103866",
-            "authors": "Panbing Wan, Mian Yang, Bing Zhang",
-            "date": "2026-09-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "绿色发展"
-            ]
-          }
-        ],
+        "matched_count": 0,
+        "total_in_issue": 2,
+        "papers": [],
         "error": null
       },
       {
@@ -680,7 +656,7 @@
         "issue_title": "Published 2026-08",
         "issue_url": "https://www.sciencedirect.com/journal/international-journal-of-industrial-organization",
         "matched_count": 3,
-        "total_in_issue": 10,
+        "total_in_issue": 11,
         "papers": [
           {
             "title_en": "Designing emissions trading schemes for a price-regulated and concentrated industry: Insights from China’s power sector",
@@ -731,13 +707,25 @@
         "issue_title": "Volume 55, Issue 8",
         "issue_url": "https://www.sciencedirect.com/journal/research-policy",
         "matched_count": 12,
-        "total_in_issue": 17,
+        "total_in_issue": 18,
         "papers": [
           {
             "title_en": "‘Systems of use’: A lens to more deeply study user innovation",
             "title_zh": "",
             "url": "https://doi.org/10.1016/j.respol.2026.105534",
             "authors": "Eric von Hippel",
+            "date": "2026-10-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新"
+            ]
+          },
+          {
+            "title_en": "Can FinTech innovate green finance? Scrutinising the financial ecologies and innovation dynamics of FinTech for forest restoration",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.respol.2026.105564",
+            "authors": "Jack L. Harris, Felicia Liu, Benjamin S. Thompson",
             "date": "2026-10-01",
             "abstract_en": "",
             "abstract_zh": "",
@@ -759,18 +747,6 @@
             ]
           },
           {
-            "title_en": "Can FinTech innovate green finance? Scrutinising the financial ecologies and innovation dynamics of FinTech for forest restoration",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.respol.2026.105564",
-            "authors": "Jack L. Harris, Felicia Liu, Benjamin S. Thompson",
-            "date": "2026-10-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新"
-            ]
-          },
-          {
             "title_en": "Scaling innovation through public procurement: Market acceleration, building, and transformation",
             "title_zh": "",
             "url": "https://doi.org/10.1016/j.respol.2026.105563",
@@ -784,10 +760,10 @@
             ]
           },
           {
-            "title_en": "Discontinuous but not disruptive: Lessons from green steel on sustainability innovation pathways for foundation industries",
+            "title_en": "At cross purposes? Housing markets and innovation in American Political Economy",
             "title_zh": "",
-            "url": "https://doi.org/10.1016/j.respol.2026.105541",
-            "authors": "Viktor M. Salenius, Richard Cuthbertson, Jennifer Howard-Grenville",
+            "url": "https://doi.org/10.1016/j.respol.2026.105561",
+            "authors": "James D.G. Wood",
             "date": "2026-10-01",
             "abstract_en": "",
             "abstract_zh": "",
@@ -796,10 +772,10 @@
             ]
           },
           {
-            "title_en": "At cross purposes? Housing markets and innovation in American Political Economy",
+            "title_en": "Discontinuous but not disruptive: Lessons from green steel on sustainability innovation pathways for foundation industries",
             "title_zh": "",
-            "url": "https://doi.org/10.1016/j.respol.2026.105561",
-            "authors": "James D.G. Wood",
+            "url": "https://doi.org/10.1016/j.respol.2026.105541",
+            "authors": "Viktor M. Salenius, Richard Cuthbertson, Jennifer Howard-Grenville",
             "date": "2026-10-01",
             "abstract_en": "",
             "abstract_zh": "",
@@ -820,10 +796,10 @@
             ]
           },
           {
-            "title_en": "Leaky mess or safety vaults? Team knowledge production and post-mobility knowledge spillover",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.respol.2026.105548",
-            "authors": "Di Tong, Xiaoyu Zhang",
+            "title_en": "Making sense of wickedness: Directionality heuristics for challenge-led innovation policy",
+            "title_zh": "理解顽疾：面向挑战引领型创新政策的方向性启发式",
+            "url": "https://doi.org/10.1016/j.respol.2026.105513",
+            "authors": "Matthias Mueller, Michael P. Schlaile, Stephanie Lang, Matthijs J. Janssen, Iris Wanzenböck, Kristina Bogner, Jana Zscheischler, Michael Schramm, et al.",
             "date": "2026-10-01",
             "abstract_en": "",
             "abstract_zh": "",
@@ -832,10 +808,10 @@
             ]
           },
           {
-            "title_en": "Making sense of wickedness: Directionality heuristics for challenge-led innovation policy",
-            "title_zh": "理解顽疾：面向挑战引领型创新政策的方向性启发式",
-            "url": "https://doi.org/10.1016/j.respol.2026.105513",
-            "authors": "Matthias Mueller, Michael P. Schlaile, Stephanie Lang, Matthijs J. Janssen, Iris Wanzenböck, Kristina Bogner, Jana Zscheischler, Michael Schramm, et al.",
+            "title_en": "Leaky mess or safety vaults? Team knowledge production and post-mobility knowledge spillover",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.respol.2026.105548",
+            "authors": "Di Tong, Xiaoyu Zhang",
             "date": "2026-10-01",
             "abstract_en": "",
             "abstract_zh": "",
@@ -1139,7 +1115,7 @@
         "issue_title": "Published 2026-08",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-environmental-economics-and-management",
         "matched_count": 12,
-        "total_in_issue": 31,
+        "total_in_issue": 34,
         "papers": [
           {
             "title_en": "The heterogeneous effects of climate policy on households: Evidence from 88 countries",
@@ -1311,9 +1287,21 @@
         "resolved_name": "Energy Economics",
         "issue_title": "Published 2026-09",
         "issue_url": "https://www.sciencedirect.com/journal/energy-economics",
-        "matched_count": 9,
-        "total_in_issue": 20,
+        "matched_count": 12,
+        "total_in_issue": 28,
         "papers": [
+          {
+            "title_en": "Green bonds and the energy transition: From instrumental use to intrinsic value",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.eneco.2026.109503",
+            "authors": "Peng Zhou, Wenjie Ding, Khelifa Mazouz, Shijie Jin",
+            "date": "2026-09-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "绿色发展"
+            ]
+          },
           {
             "title_en": "Carbon leakage and carbon tax differentiation: Evidence from a developing economy",
             "title_zh": "",
@@ -1339,10 +1327,34 @@
             ]
           },
           {
+            "title_en": "Climate risk meets machine learning: Forecasting energy stock index volatility",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.eneco.2026.109495",
+            "authors": "Xue Gong, Jiahao Peng, Xiaodan Li",
+            "date": "2026-09-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "人工智能"
+            ]
+          },
+          {
             "title_en": "Carbon emissions and financial flexibility: International evidence",
             "title_zh": "",
             "url": "https://doi.org/10.1016/j.eneco.2026.109501",
             "authors": "Chien-Chiang Lee, Chih-Wei Wang, Tsai-Yun Hu, Weizheng Lin, Ai Ngoc Nhan Le",
+            "date": "2026-09-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "绿色发展"
+            ]
+          },
+          {
+            "title_en": "Carbon footprint of bank loans and bank lending: Global evidence using Bayesian approach",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.eneco.2026.109499",
+            "authors": "Duy Khanh Le",
             "date": "2026-09-01",
             "abstract_en": "",
             "abstract_zh": "",
@@ -1372,6 +1384,19 @@
             "abstract_zh": "",
             "matched_topics": [
               "产业政策"
+            ]
+          },
+          {
+            "title_en": "How customer geographic dispersion drives green innovation? Evidence from Chinese listed firms",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.eneco.2026.109497",
+            "authors": "Qian Liu, Han Liu, Libin Qin",
+            "date": "2026-09-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新",
+              "绿色发展"
             ]
           },
           {
@@ -1409,18 +1434,6 @@
             "matched_topics": [
               "绿色发展"
             ]
-          },
-          {
-            "title_en": "Navigating uncertainty: Interconnections among carbon futures, geopolitical risk, and US energy markets",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.eneco.2026.109472",
-            "authors": "Ameet Kumar Banerjee, Ahmet Sensoy, Molla Ramizur Rahman",
-            "date": "2026-09-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "绿色发展"
-            ]
           }
         ],
         "error": null
@@ -1434,9 +1447,22 @@
         "resolved_name": "Resource and Energy Economics",
         "issue_title": "Published 2026-08",
         "issue_url": "https://www.sciencedirect.com/journal/resource-and-energy-economics",
-        "matched_count": 0,
-        "total_in_issue": 5,
-        "papers": [],
+        "matched_count": 1,
+        "total_in_issue": 6,
+        "papers": [
+          {
+            "title_en": "On the fair abatement of riparian pollution",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.reseneeco.2026.101586",
+            "authors": "Ricardo Martínez, Juan D. Moreno-Ternero",
+            "date": "2026-08-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "绿色发展"
+            ]
+          }
+        ],
         "error": null
       },
       {
@@ -1540,33 +1566,21 @@
         "category": "Top 5",
         "issn": "0012-9682",
         "resolved_name": "Econometrica",
-        "issue_title": "Volume 94, Issue 3",
+        "issue_title": "Volume 94, Issue 4",
         "issue_url": "https://onlinelibrary.wiley.com/journal/14680262",
-        "matched_count": 2,
-        "total_in_issue": 17,
+        "matched_count": 1,
+        "total_in_issue": 15,
         "papers": [
           {
-            "title_en": "Existence of Myopic‐Farsighted Stable Sets in Matching Markets",
+            "title_en": "Walras–Bowley Lecture: Climate Policy in the Wide World",
             "title_zh": "",
-            "url": "https://doi.org/10.3982/ecta24060",
-            "authors": "Battal Dogan, Lars Ehlers",
+            "url": "https://doi.org/10.3982/ecta22451",
+            "authors": "John Hassler, Per Krusell, Conny Olovsson",
             "date": "2026-01-01",
-            "abstract_en": "In the context of one‐to‐one matching markets, we study myopic‐farsighted stable sets , which are internally and externally stable when myopic agents consider immediate payoffs from their deviations, while farsighted agents anticipate counter‐deviations and consider final payoffs. We constructively prove the existence of a (rational expectations) myopic‐farsighted stable set, in which farsighted agents receive a single payoff while myopic agents may receive multiple payoffs. Our existence result extends to settings with enforcing coalitions of arbitrary size, yielding coalitional myopic‐farsighted stable sets , and to settings where not all members of an enforcing coalition must strictly gain, yielding myopic‐farsighted weakly stable sets . When all farsighted agents have unit demand, our results also extend to many‐to‐one matching markets. As a key corollary, we provide a foundation for the efficiency‐adjusted deferred acceptance algorithm by showing that its outcome constitutes a singleton myopic‐farsighted stable set when one side is farsighted and the other is myopic.",
+            "abstract_en": "We construct a dynamic integrated assessment model of climate and the economy with very high geographic resolution. Migration is free within, but not allowed across, countries. The model parameterization uses a wealth of data, including the distribution of output, population, energy sources and use, and estimates of the local damages from climate change. It implies very large geographic dispersion in damages from warming. We conduct three kinds of policy experiments. In one, we note that a modest, uniform carbon tax limits global warming and damages around the world substantially. In a second experiment, we let the poorest countries not tax carbon, while the rest compensate by setting higher taxes; the efficiency losses are large. In a final experiment, we find that fast green technology growth alone is a poor substitute for carbon taxes, whether globally available or not.",
             "abstract_zh": "",
             "matched_topics": [
-              "人工智能"
-            ]
-          },
-          {
-            "title_en": "Comment on <i>‘Fisher–Schultz Lecture: Contracting Over Pharmaceutical Formularies and Rebates’ by Kate Ho and Robin Lee</i>",
-            "title_zh": "",
-            "url": "https://doi.org/10.3982/ecta24210",
-            "authors": "Rena M. Conti",
-            "date": "2026-01-01",
-            "abstract_en": "Biopharmaceuticals advance health and economic growth. Unlike central bargaining abroad, the United States uses private firms, pharmacy benefit managers (PBMs), to manage medicine access and spending. Yet, PBMs' roles in advancing efficiency are understudied. Ho and Lee model PBMs' use of tiered formularies, lists of covered medicines, without the use of proprietary data on the price concessions drug makers offer for preferred placement. They find PBMs' use of tiered formularies generate significant payor savings through competition. Complementing Ho and Lee, Feng and Maini (2024) model how patient demand inertia limits PBMs' ability to extract price concessions from drug makers which consequently erodes the efficacy gains of PBM formularies. Conti, Frandsen, Powell, and Rebitzer (2021) model formulary auctions where PBM size drives payor savings, but also spurs endogenously set high list prices, reducing patient access. Future economic research should focus on PBM market entry and vertical integration, pharmacy steering, and effects on innovation.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新"
+              "绿色发展"
             ]
           }
         ],
@@ -1773,11 +1787,24 @@
         "category": "Public economics",
         "issn": "0047-2727",
         "resolved_name": "Journal of Public Economics",
-        "issue_title": "Published 2026-08",
+        "issue_title": "Published 2026-09",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-public-economics",
-        "matched_count": 0,
-        "total_in_issue": 22,
-        "papers": [],
+        "matched_count": 1,
+        "total_in_issue": 5,
+        "papers": [
+          {
+            "title_en": "The incidence of rent subsidies: Evidence on rents, housing choices and supply",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jpubeco.2026.105718",
+            "authors": "Essi Eerola, Teemu Lyytikäinen, Tuukka Saarimaa, Tuuli Vanhapelto",
+            "date": "2026-09-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "产业政策"
+            ]
+          }
+        ],
         "error": null
       },
       {
@@ -1787,36 +1814,11 @@
         "category": "Development",
         "issn": "0304-3878",
         "resolved_name": "Journal of Development Economics",
-        "issue_title": "Published 2026-09",
+        "issue_title": "Published 2027-01",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-development-economics",
-        "matched_count": 2,
-        "total_in_issue": 31,
-        "papers": [
-          {
-            "title_en": "Evaluating the environmental and economic implications of curbing transboundary pollution: Evidence from China",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.jdeveco.2026.103854",
-            "authors": "Zeyang Zhang, Yuanyi Xu, Dunhu Chang, Dingding Shao, Xin Wang",
-            "date": "2026-09-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "绿色发展"
-            ]
-          },
-          {
-            "title_en": "More power outages, more CO2 emissions: Evidence from self-generation in China's manufacturing firms",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.jdeveco.2026.103866",
-            "authors": "Panbing Wan, Mian Yang, Bing Zhang",
-            "date": "2026-09-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "绿色发展"
-            ]
-          }
-        ],
+        "matched_count": 0,
+        "total_in_issue": 2,
+        "papers": [],
         "error": null
       },
       {
@@ -1970,7 +1972,7 @@
         "issue_title": "Published 2026-08",
         "issue_url": "https://www.sciencedirect.com/journal/international-journal-of-industrial-organization",
         "matched_count": 3,
-        "total_in_issue": 10,
+        "total_in_issue": 11,
         "papers": [
           {
             "title_en": "Designing emissions trading schemes for a price-regulated and concentrated industry: Insights from China’s power sector",
@@ -2021,13 +2023,25 @@
         "issue_title": "Volume 55, Issue 8",
         "issue_url": "https://www.sciencedirect.com/journal/research-policy",
         "matched_count": 12,
-        "total_in_issue": 17,
+        "total_in_issue": 18,
         "papers": [
           {
             "title_en": "‘Systems of use’: A lens to more deeply study user innovation",
             "title_zh": "",
             "url": "https://doi.org/10.1016/j.respol.2026.105534",
             "authors": "Eric von Hippel",
+            "date": "2026-10-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新"
+            ]
+          },
+          {
+            "title_en": "Can FinTech innovate green finance? Scrutinising the financial ecologies and innovation dynamics of FinTech for forest restoration",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.respol.2026.105564",
+            "authors": "Jack L. Harris, Felicia Liu, Benjamin S. Thompson",
             "date": "2026-10-01",
             "abstract_en": "",
             "abstract_zh": "",
@@ -2049,18 +2063,6 @@
             ]
           },
           {
-            "title_en": "Can FinTech innovate green finance? Scrutinising the financial ecologies and innovation dynamics of FinTech for forest restoration",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.respol.2026.105564",
-            "authors": "Jack L. Harris, Felicia Liu, Benjamin S. Thompson",
-            "date": "2026-10-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新"
-            ]
-          },
-          {
             "title_en": "Scaling innovation through public procurement: Market acceleration, building, and transformation",
             "title_zh": "",
             "url": "https://doi.org/10.1016/j.respol.2026.105563",
@@ -2074,10 +2076,10 @@
             ]
           },
           {
-            "title_en": "Discontinuous but not disruptive: Lessons from green steel on sustainability innovation pathways for foundation industries",
+            "title_en": "At cross purposes? Housing markets and innovation in American Political Economy",
             "title_zh": "",
-            "url": "https://doi.org/10.1016/j.respol.2026.105541",
-            "authors": "Viktor M. Salenius, Richard Cuthbertson, Jennifer Howard-Grenville",
+            "url": "https://doi.org/10.1016/j.respol.2026.105561",
+            "authors": "James D.G. Wood",
             "date": "2026-10-01",
             "abstract_en": "",
             "abstract_zh": "",
@@ -2086,10 +2088,10 @@
             ]
           },
           {
-            "title_en": "At cross purposes? Housing markets and innovation in American Political Economy",
+            "title_en": "Discontinuous but not disruptive: Lessons from green steel on sustainability innovation pathways for foundation industries",
             "title_zh": "",
-            "url": "https://doi.org/10.1016/j.respol.2026.105561",
-            "authors": "James D.G. Wood",
+            "url": "https://doi.org/10.1016/j.respol.2026.105541",
+            "authors": "Viktor M. Salenius, Richard Cuthbertson, Jennifer Howard-Grenville",
             "date": "2026-10-01",
             "abstract_en": "",
             "abstract_zh": "",
@@ -2110,10 +2112,10 @@
             ]
           },
           {
-            "title_en": "Leaky mess or safety vaults? Team knowledge production and post-mobility knowledge spillover",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.respol.2026.105548",
-            "authors": "Di Tong, Xiaoyu Zhang",
+            "title_en": "Making sense of wickedness: Directionality heuristics for challenge-led innovation policy",
+            "title_zh": "理解顽疾：面向挑战引领型创新政策的方向性启发式",
+            "url": "https://doi.org/10.1016/j.respol.2026.105513",
+            "authors": "Matthias Mueller, Michael P. Schlaile, Stephanie Lang, Matthijs J. Janssen, Iris Wanzenböck, Kristina Bogner, Jana Zscheischler, Michael Schramm, et al.",
             "date": "2026-10-01",
             "abstract_en": "",
             "abstract_zh": "",
@@ -2122,10 +2124,10 @@
             ]
           },
           {
-            "title_en": "Making sense of wickedness: Directionality heuristics for challenge-led innovation policy",
-            "title_zh": "理解顽疾：面向挑战引领型创新政策的方向性启发式",
-            "url": "https://doi.org/10.1016/j.respol.2026.105513",
-            "authors": "Matthias Mueller, Michael P. Schlaile, Stephanie Lang, Matthijs J. Janssen, Iris Wanzenböck, Kristina Bogner, Jana Zscheischler, Michael Schramm, et al.",
+            "title_en": "Leaky mess or safety vaults? Team knowledge production and post-mobility knowledge spillover",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.respol.2026.105548",
+            "authors": "Di Tong, Xiaoyu Zhang",
             "date": "2026-10-01",
             "abstract_en": "",
             "abstract_zh": "",
@@ -2429,7 +2431,7 @@
         "issue_title": "Published 2026-08",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-environmental-economics-and-management",
         "matched_count": 12,
-        "total_in_issue": 31,
+        "total_in_issue": 34,
         "papers": [
           {
             "title_en": "The heterogeneous effects of climate policy on households: Evidence from 88 countries",
@@ -2601,9 +2603,21 @@
         "resolved_name": "Energy Economics",
         "issue_title": "Published 2026-09",
         "issue_url": "https://www.sciencedirect.com/journal/energy-economics",
-        "matched_count": 9,
-        "total_in_issue": 20,
+        "matched_count": 12,
+        "total_in_issue": 28,
         "papers": [
+          {
+            "title_en": "Green bonds and the energy transition: From instrumental use to intrinsic value",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.eneco.2026.109503",
+            "authors": "Peng Zhou, Wenjie Ding, Khelifa Mazouz, Shijie Jin",
+            "date": "2026-09-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "绿色发展"
+            ]
+          },
           {
             "title_en": "Carbon leakage and carbon tax differentiation: Evidence from a developing economy",
             "title_zh": "",
@@ -2629,10 +2643,34 @@
             ]
           },
           {
+            "title_en": "Climate risk meets machine learning: Forecasting energy stock index volatility",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.eneco.2026.109495",
+            "authors": "Xue Gong, Jiahao Peng, Xiaodan Li",
+            "date": "2026-09-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "人工智能"
+            ]
+          },
+          {
             "title_en": "Carbon emissions and financial flexibility: International evidence",
             "title_zh": "",
             "url": "https://doi.org/10.1016/j.eneco.2026.109501",
             "authors": "Chien-Chiang Lee, Chih-Wei Wang, Tsai-Yun Hu, Weizheng Lin, Ai Ngoc Nhan Le",
+            "date": "2026-09-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "绿色发展"
+            ]
+          },
+          {
+            "title_en": "Carbon footprint of bank loans and bank lending: Global evidence using Bayesian approach",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.eneco.2026.109499",
+            "authors": "Duy Khanh Le",
             "date": "2026-09-01",
             "abstract_en": "",
             "abstract_zh": "",
@@ -2662,6 +2700,19 @@
             "abstract_zh": "",
             "matched_topics": [
               "产业政策"
+            ]
+          },
+          {
+            "title_en": "How customer geographic dispersion drives green innovation? Evidence from Chinese listed firms",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.eneco.2026.109497",
+            "authors": "Qian Liu, Han Liu, Libin Qin",
+            "date": "2026-09-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新",
+              "绿色发展"
             ]
           },
           {
@@ -2699,18 +2750,6 @@
             "matched_topics": [
               "绿色发展"
             ]
-          },
-          {
-            "title_en": "Navigating uncertainty: Interconnections among carbon futures, geopolitical risk, and US energy markets",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.eneco.2026.109472",
-            "authors": "Ameet Kumar Banerjee, Ahmet Sensoy, Molla Ramizur Rahman",
-            "date": "2026-09-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "绿色发展"
-            ]
           }
         ],
         "error": null
@@ -2724,9 +2763,22 @@
         "resolved_name": "Resource and Energy Economics",
         "issue_title": "Published 2026-08",
         "issue_url": "https://www.sciencedirect.com/journal/resource-and-energy-economics",
-        "matched_count": 0,
-        "total_in_issue": 5,
-        "papers": [],
+        "matched_count": 1,
+        "total_in_issue": 6,
+        "papers": [
+          {
+            "title_en": "On the fair abatement of riparian pollution",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.reseneeco.2026.101586",
+            "authors": "Ricardo Martínez, Juan D. Moreno-Ternero",
+            "date": "2026-08-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "绿色发展"
+            ]
+          }
+        ],
         "error": null
       }
     ],
@@ -2741,7 +2793,7 @@
       "papers": [],
       "error": "GET failed for https://data.nber.org/nber_paper_chapter_metadata/tsv/ref.tsv: 403 Client Error: Forbidden for url: https://data.nber.org/nber_paper_chapter_metadata/tsv/ref.tsv"
     },
-    "total_matches": 79,
+    "total_matches": 81,
     "note": "Latest issue TOCs from economics top journals and field-top journals plus recent NBER Working Papers, filtered by title/abstract keywords for industrial policy, innovation, green development, and artificial intelligence."
   }
 }
