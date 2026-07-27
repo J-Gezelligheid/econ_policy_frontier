@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-07-20 20:19:03",
+  "updated_at": "2026-07-27 20:23:54",
   "schema_version": 1,
   "translation": {
     "engine": "kimi",
     "model": "moonshot-v1-8k",
     "enabled": true,
     "success_count": 0,
-    "fail_count": 79,
+    "fail_count": 105,
     "failed_examples": [
       "A Welfare Analysis of Policies Impacting Climate Change :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, please recharge your ",
       "We study the welfare impacts of 96 climate-related tax and spending policies. We extend an :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, please recharge your ",
@@ -432,33 +432,57 @@
         "category": "General field",
         "issn": "0034-6535",
         "resolved_name": "The Review of Economics and Statistics",
-        "issue_title": "Volume 108, Issue 3",
+        "issue_title": "Volume 108, Issue 4",
         "issue_url": "https://direct.mit.edu/rest",
-        "matched_count": 2,
+        "matched_count": 4,
         "total_in_issue": 22,
         "papers": [
           {
-            "title_en": "What's Missing in Environmental Self-Monitoring: Evidence from Strategic Shutdowns of Pollution Monitors",
-            "title_zh": "环境自我监测中缺失了什么：来自污染监测器战略性关闭的证据",
-            "url": "https://doi.org/10.1162/rest_a_01477",
-            "authors": "Yingfei Mu, Edward Rubin, Eric Yongchen Zou",
-            "date": "2026-05-21",
-            "abstract_en": "Abstract Regulators often rely on regulated entities to self-monitor compliance, creating strategic incentives for endogenous monitoring. This paper builds a framework to detect whether local governments skip air pollution monitoring when they expect air quality to deteriorate. The core of our method tests whether the timing of monitor shutdowns coincides with the counties’ air quality alerts—public advisories based on local governments’ own pollution forecasts. Applying the method to a monitor in Jersey City, New Jersey, suspected of a deliberate shutdown during the 2013 “Bridgegate” traffic jam, we find a 33% reduction of this monitor's sampling rate on pollution-alert days. Building on large-scale inference tools, we then apply the method to test more than 1,300 monitors across the United States, finding fourteen metropolitan areas with clusters of monitors showing similar strategic behavior. We assess geometric imputation and remote-sensing technologies as potential solutions to deter future strategic monitoring.",
-            "abstract_zh": "摘要：监管者经常依赖被监管实体进行自我监控合规性，这为内生性监控创造了战略性激励。本文构建了一个框架，用以检测地方政府在预期空气质量恶化时是否会跳过空气污染监控。我们的方法核心在于测试监控关闭的时间是否与县级空气质量警报——基于地方政府自身污染预测的公共通告——相吻合。将该方法应用于新泽西州泽西市的一个监控器，该监控器在2013年“桥门”交通堵塞期间被怀疑故意关闭，我们发现在污染警报日，该监控器的采样率减少了33%。基于大规模推断工具，我们进一步将该方法应用于全美1300多个监控器的测试，发现有十四个都市区的监控器集群显示出类似的战略行为。我们评估了几何插值和遥感技术作为遏制未来战略性监控的潜在解决方案。",
+            "title_en": "Knowledge Access: The Effects of Carnegie Libraries on Innovation",
+            "title_zh": "",
+            "url": "https://doi.org/10.1162/rest_a_01446",
+            "authors": "Enrico Berkes, Peter Nencka",
+            "date": "2026-07-17",
+            "abstract_en": "Abstract Between 1883 and 1919, Andrew Carnegie funded the construction of more than 1,500 public libraries across the United States, reducing the costs of accessing knowledge for millions. We study the effect of these libraries on innovation. Patenting in recipient places increased on average by 10%–12% in the 20 years following library construction relative to a novel control group of cities that applied for but did not build libraries. We show that access to scientific knowledge and increased collaboration opportunities are possible mechanisms.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新"
+            ]
+          },
+          {
+            "title_en": "Machine Learning Can Predict Shooting Victimization Well Enough to Help Prevent It",
+            "title_zh": "",
+            "url": "https://doi.org/10.1162/rest_a_01519",
+            "authors": "Sara B. Heller, Benjamin Jakubowski, Zubin Jelveh, Max Kapustin",
+            "date": "2026-07-17",
+            "abstract_en": "Abstract Using Chicago police data, we train a machine learning model to predict the risk of being shot in the next 18 months. Out-of-sample accuracy is strikingly high. A central concern with using police data is “baking in” bias, or overestimating risk for groups likelier to interact with police conditional on behavior. Our predictions, however, accurately recover risk across demographic groups. Legal, ethical, and practical barriers should prevent using victimization predictions to target law enforcement. But using them to target social services could increase both the potential for interventions to reduce shootings and the available statistical power to detect those reductions.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "人工智能"
+            ]
+          },
+          {
+            "title_en": "Human Capital and Climate Change",
+            "title_zh": "",
+            "url": "https://doi.org/10.1162/rest_a_01444",
+            "authors": "Noam Angrist, Kevin Winseck, Harry Anthony Patrinos, Joshua Graff Zivin",
+            "date": "2026-07-17",
+            "abstract_en": "Abstract Addressing climate change requires individual behavior change and voter support for pro-climate policies, yet surprisingly little is known about how to achieve these outcomes. In this paper, we estimate causal effects of additional education on pro-climate outcomes using new compulsory schooling law data across 20 European countries. We analyze effects on pro-climate beliefs and behaviors, as well as novel data on policy preferences and voting for green parties. Results show that a year of education substantially increases pro-climate beliefs, behaviors, and policy preferences.",
+            "abstract_zh": "",
             "matched_topics": [
               "绿色发展"
             ]
           },
           {
-            "title_en": "Testing Monotonicity of Mean Potential Outcomes in a Continuous Treatment with High-Dimensional Data",
-            "title_zh": "标题：在高维数据中连续处理的均值潜在结果的单调性检验",
-            "url": "https://doi.org/10.1162/rest_a_01416",
-            "authors": "Yu-Chin Hsu, Martin Huber, Ying-Ying Lee, Chu-An Liu",
-            "date": "2026-05-21",
-            "abstract_en": "Abstract We propose a Cramér–von Mises–type test for testing whether the mean potential outcome given a specific treatment level has a weakly monotonic relationship with the continuous treatment under unconfoundedness. To flexibly control for a possibly high-dimensional set of covariates, our test is based on a double debiased machine learning method. We show that our test controls asymptotic size and is consistent against any fixed alternative. We apply our test to evaluate the Job Corps program and reject a weakly negative relationship between the treatment (hours in academic and vocational training) and labor market performance among relatively low treatment values.",
-            "abstract_zh": "摘要：我们提出了一种Cramér-von Mises类型的检验方法，用于检验在无混杂假设下，给定特定处理水平的平均潜在结果与连续处理之间是否存在弱单调关系。为了灵活控制可能的高维协变量集，我们的检验基于双重去偏误的机器学习方法。我们证明了我们的检验能够控制渐近大小，并且对任何固定备择假设都是一致的。我们将检验应用于评估Job Corps项目，并拒绝了在相对较低的处理值下，处理（学术和职业培训小时数）与劳动市场表现之间存在弱负关系的假设。",
+            "title_en": "Attrition and the Gender Patenting Gap",
+            "title_zh": "",
+            "url": "https://doi.org/10.1162/rest_a_01447",
+            "authors": "Abhay Aneja, Oren Reshef, Gauri Subramani",
+            "date": "2026-07-17",
+            "abstract_en": "Abstract Women are underrepresented in patenting. In this study, we consider differential responsiveness to rejection as a contributor to the gender gap in invention. Leveraging the prosecution histories of almost one million U.S. patent applications and the quasirandom assignment of applications to examiners, we show that women are 3.6–6.9 percentage points less likely to continue in the application process following an early-stage rejection. Conditional on applying for a patent, male-female disparities in the propensity to abandon applications account for more than half of the overall gender gap in issued patents. We provide suggestive evidence that institutional support can help reduce the attrition gap.",
+            "abstract_zh": "",
             "matched_topics": [
-              "人工智能"
+              "创新"
             ]
           }
         ],
@@ -473,9 +497,21 @@
         "resolved_name": "Journal of Public Economics",
         "issue_title": "Published 2026-09",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-public-economics",
-        "matched_count": 1,
-        "total_in_issue": 5,
+        "matched_count": 2,
+        "total_in_issue": 12,
         "papers": [
+          {
+            "title_en": "Women’s labor subsidy: Evidence from Chile",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jpubeco.2026.105719",
+            "authors": "Maria Isidora Palma, Valentina Paredes, Daniela Paz",
+            "date": "2026-09-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "产业政策"
+            ]
+          },
           {
             "title_en": "The incidence of rent subsidies: Evidence on rents, housing choices and supply",
             "title_zh": "",
@@ -501,7 +537,7 @@
         "issue_title": "Published 2027-01",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-development-economics",
         "matched_count": 0,
-        "total_in_issue": 2,
+        "total_in_issue": 7,
         "papers": [],
         "error": null
       },
@@ -512,24 +548,11 @@
         "category": "International",
         "issn": "0022-1996",
         "resolved_name": "Journal of International Economics",
-        "issue_title": "Published 2026-08",
+        "issue_title": "Published 2026-10",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-international-economics",
-        "matched_count": 1,
-        "total_in_issue": 24,
-        "papers": [
-          {
-            "title_en": "Burn now or never? Climate policy exposure and investment of fossil fuel firms",
-            "title_zh": "现在燃烧还是永不燃烧？气候政策暴露与化石燃料公司的投资",
-            "url": "https://doi.org/10.1016/j.jinteco.2026.104267",
-            "authors": "Jakob Feveile Adolfsen, Malte Heissel, Ana-Simona Manu, Francesca Vinci",
-            "date": "2026-08-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "绿色发展"
-            ]
-          }
-        ],
+        "matched_count": 0,
+        "total_in_issue": 10,
+        "papers": [],
         "error": null
       },
       {
@@ -707,7 +730,7 @@
         "issue_title": "Volume 55, Issue 8",
         "issue_url": "https://www.sciencedirect.com/journal/research-policy",
         "matched_count": 12,
-        "total_in_issue": 18,
+        "total_in_issue": 20,
         "papers": [
           {
             "title_en": "‘Systems of use’: A lens to more deeply study user innovation",
@@ -1112,156 +1135,11 @@
         "category": "Environment",
         "issn": "0095-0696",
         "resolved_name": "Journal of Environmental Economics and Management",
-        "issue_title": "Published 2026-08",
+        "issue_title": "Published 2026-09",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-environmental-economics-and-management",
-        "matched_count": 12,
-        "total_in_issue": 34,
-        "papers": [
-          {
-            "title_en": "The heterogeneous effects of climate policy on households: Evidence from 88 countries",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.jeem.2026.103382",
-            "authors": "Leonard Missbach, Jan Christoph Steckel",
-            "date": "2026-08-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "绿色发展"
-            ]
-          },
-          {
-            "title_en": "The welfare impacts of carbon taxes and labels on food demand",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.jeem.2026.103387",
-            "authors": "Marco Tomasi, Michela Faccioli, Carlo Fezzi, Ian J. Bateman",
-            "date": "2026-08-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "绿色发展"
-            ]
-          },
-          {
-            "title_en": "Headwind in sight? Wind turbine visibility spillovers and support for renewable energy policy",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.jeem.2026.103386",
-            "authors": "Vincent F. Stegmaier, Melanie Krause",
-            "date": "2026-08-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "绿色发展"
-            ]
-          },
-          {
-            "title_en": "Cost-effective and equitable targeting of corrective subsidies: Differentiated green subsidies for new and existing homes",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.jeem.2026.103340",
-            "authors": "Takahiko Kiso",
-            "date": "2026-08-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "产业政策"
-            ]
-          },
-          {
-            "title_en": "Do common shocks drive changes in aggregate emissions intensity?",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.jeem.2026.103384",
-            "authors": "Xiyu Ren, Fulvia Marotta, François Lafond",
-            "date": "2026-08-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "绿色发展"
-            ]
-          },
-          {
-            "title_en": "Occupational affiliation and the incidence of environmental regulation",
-            "title_zh": "职业归属与环境规制的影响",
-            "url": "https://doi.org/10.1016/j.jeem.2026.103361",
-            "authors": "Alex L. Marten, Andrew Schreiber, Ann Wolverton",
-            "date": "2026-08-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "绿色发展"
-            ]
-          },
-          {
-            "title_en": "Amplified challenges for the joint reduction of emissions and inequality, considering the missing-rich",
-            "title_zh": "标题：考虑富裕群体缺失时，联合减少排放和不平等的放大挑战",
-            "url": "https://doi.org/10.1016/j.jeem.2026.103353",
-            "authors": "Markus Nabernegg, Stefan Nabernegg, Thomas Kopp",
-            "date": "2026-08-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "绿色发展"
-            ]
-          },
-          {
-            "title_en": "Bitcoin growth amid climate change: Policy and investment implications",
-            "title_zh": "标题：气候变化背景下比特币的增长：政策与投资影响",
-            "url": "https://doi.org/10.1016/j.jeem.2026.103351",
-            "authors": "Mohammadhossein Lashkaripour, Seyedmehdi Hosseini, Rizwan Ahmed",
-            "date": "2026-08-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "绿色发展"
-            ]
-          },
-          {
-            "title_en": "Air pollution and consumers’ avoidance behavior: Evidence from high-frequency payment data in China",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.jeem.2026.103374",
-            "authors": "Haiqiang Chen, Shihe Fu, Zhuoyang Lyu",
-            "date": "2026-08-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "绿色发展"
-            ]
-          },
-          {
-            "title_en": "Trade and the scopes of pollution: Evidence from China’s world market integration",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.jeem.2026.103378",
-            "authors": "Stefano Carattini, Hanwei Huang, Frank Pisch, Tejendra Pratap Singh",
-            "date": "2026-08-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "绿色发展"
-            ]
-          },
-          {
-            "title_en": "Environmental benefits of renewable energy: Evidence from coal mining-induced deforestation and air pollution emissions",
-            "title_zh": "标题：可再生能源的环境效益：来自煤炭开采引发的森林砍伐和空气污染排放的证据",
-            "url": "https://doi.org/10.1016/j.jeem.2026.103363",
-            "authors": "Lin Yang, Wenjie Luo",
-            "date": "2026-08-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "绿色发展"
-            ]
-          },
-          {
-            "title_en": "Impact of air pollution on birth outcomes: Causal evidence from India",
-            "title_zh": "空气污染对出生结果的影响：来自印度的因果证据",
-            "url": "https://doi.org/10.1016/j.jeem.2026.103360",
-            "authors": "Shashank Misra, Shobhit Kulshreshtha",
-            "date": "2026-08-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "绿色发展"
-            ]
-          }
-        ],
+        "matched_count": 0,
+        "total_in_issue": 2,
+        "papers": [],
         "error": null
       },
       {
@@ -1288,7 +1166,7 @@
         "issue_title": "Published 2026-09",
         "issue_url": "https://www.sciencedirect.com/journal/energy-economics",
         "matched_count": 12,
-        "total_in_issue": 28,
+        "total_in_issue": 30,
         "papers": [
           {
             "title_en": "Green bonds and the energy transition: From instrumental use to intrinsic value",
@@ -1319,6 +1197,18 @@
             "title_zh": "",
             "url": "https://doi.org/10.1016/j.eneco.2026.109464",
             "authors": "HaiFeng Wang, Qin Long, Xi Deng, Bangzhu Zhu, DengDeng Xiao",
+            "date": "2026-09-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "绿色发展"
+            ]
+          },
+          {
+            "title_en": "How demand-side climate policy shapes public low-carbon involvement willingness: Evidence from the carbon generalized system of preferences in China",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.eneco.2026.109518",
+            "authors": "Jing Zhou, Ting Yue, Ying Wang, Claire Murong Cui, Ruyin Long, Wanqi Ma, Shouyang Wang, Le Wen",
             "date": "2026-09-01",
             "abstract_en": "",
             "abstract_zh": "",
@@ -1375,6 +1265,18 @@
             ]
           },
           {
+            "title_en": "Dynamic investment, subsidies, and welfare effects of rural rooftop photovoltaics: A bilateral decision analysis in rural China",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.eneco.2026.109506",
+            "authors": "Zenghui Chao, Wenhao Gu, Wenyu Fan, Zhenzhi Wang, Jun Zhang",
+            "date": "2026-09-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "产业政策"
+            ]
+          },
+          {
             "title_en": "Subsidies, information, and energy-efficient cookstove adoption – A natural field experiment in rural Ethiopia",
             "title_zh": "",
             "url": "https://doi.org/10.1016/j.eneco.2026.109474",
@@ -1404,30 +1306,6 @@
             "title_zh": "",
             "url": "https://doi.org/10.1016/j.eneco.2026.109458",
             "authors": "Lin Han, Nino Kordzakhia, Stefan Trück",
-            "date": "2026-09-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "绿色发展"
-            ]
-          },
-          {
-            "title_en": "Are all COPs busted? The role of climate policy events for carbon pricing in compliance and voluntary markets",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.eneco.2026.109465",
-            "authors": "Patrick Behr, Riccardo Cosenza, Eric Nowak, Papa Orgen",
-            "date": "2026-09-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "绿色发展"
-            ]
-          },
-          {
-            "title_en": "Does income moderate the carbon abatement impact of renewable energy? A global analysis of pooled and source-specific renewables, 1996–2023",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.eneco.2026.109493",
-            "authors": "Muhammad Fahad Khan Israr, Aurora A.C. Teixeira, Isabel Soares",
             "date": "2026-09-01",
             "abstract_en": "",
             "abstract_zh": "",
@@ -1469,12 +1347,181 @@
         "source_type": "nber",
         "name": "NBER Working Papers",
         "category": "Working papers",
-        "issue_title": "Recent NBER Working Papers",
+        "issue_title": "Recent NBER Working Papers through 2026-07-24",
         "issue_url": "https://www.nber.org/papers",
-        "matched_count": 0,
-        "total_recent_considered": 0,
-        "papers": [],
-        "error": "GET failed for https://data.nber.org/nber_paper_chapter_metadata/tsv/ref.tsv: 403 Client Error: Forbidden for url: https://data.nber.org/nber_paper_chapter_metadata/tsv/ref.tsv"
+        "matched_count": 12,
+        "total_recent_considered": 220,
+        "papers": [
+          {
+            "title_en": "The Scientific Return of Biodiversity Conservation: Evidence from Fishing Bans Along the Yangtze River",
+            "title_zh": "",
+            "url": "https://www.nber.org/papers/w35535",
+            "authors": "Minhao Chen, Lin William Cong, Haoyu Gao, Andrew Karolyi, Hui Wang",
+            "date": "2026-07-23",
+            "abstract_en": "We document arguably unintended returns of biodiversity conservation to science discovery, exploiting the 2002 fishing ban in Chinaâan ecosystem restoration policy without explicit science-related objectives, which allows us to implement a difference-in-differences design across fish species. We find that the ban substantially increased research on affected species: funded programs rose by 21.5%, total funding by 22.8%, publications per program by 97.0%, and citations per paper by 106.7%. The effect is concentrated among researchers with geographic access to the river, and is stronger for non-extinct species and non-farmed fish species, suggesting that conservation expanded the supply of biological materials available for research. The ban also increased related public influence and patents. These results reveal that biodiversity conservation generates a significant scientific dividend through the restoration of natural research inputs, with implications for evaluating the broader benefits of ecosystem protections in an underdiscussed dimension for the science of science.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新"
+            ],
+            "paper_id": "w35535",
+            "programs": []
+          },
+          {
+            "title_en": "The Confucian Fertility Paradox: Education Competition and Ultra-Low Fertility in East Asia",
+            "title_zh": "",
+            "url": "https://www.nber.org/papers/w35532",
+            "authors": "Hanming Fang, Chang Liu",
+            "date": "2026-07-23",
+            "abstract_en": "Total fertility rates in East Asia have fallen to levels without historical precedent, even though the regionâs Confucian heritage long placed extraordinary emphasis on family continuity and large families. We argue that this âConfucian Fertility Paradoxâ dissolves once we separate two strands of the tradition and recognize that modernization affected them very differently. The pro-natal strand, built on lineage continuity, ancestor worship, and reliance on sons for old-age support, was gradually switched off as child mortality fell, incomes rose, women entered the labor force, and state pensions replaced the family as the main source of security in old age. What survived was the second strand: the veneration of education and of status won through examination success, rooted in the imperial examination tradition. Under modern conditions this surviving strand reverses sign with respect to its effect on fertility. Where the historical examination system rewarded having many sons so that one might succeed, the modern single-ranking tournament rewards concentrating resources on one or two intensively educated children, and the quantityâquality tradeoff turns a once pro-natal culture into a powerful engine of low fertility. Drawing on recent empirical evidence from China and Korea, we show how education competition becomes the channel through which traditional values now suppress childbearing. We explain why standard pro-natalist policies, such as removing birth restrictions or offering cash subsidies, accomplish little when the underlying problem is a competitive equilibrium in parental investment, and we argue that policies aimed at the source of the distortion, such as structural reform of educational pathways, hold more promise.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "产业政策"
+            ],
+            "paper_id": "w35532",
+            "programs": []
+          },
+          {
+            "title_en": "A Demand-Side Alternative to Renewable Curtailment: Natural Field Experimental Evidence from Two Countries",
+            "title_zh": "",
+            "url": "https://www.nber.org/papers/w35530",
+            "authors": "Daniel Lopez Garcia, Robert D. Metcalfe, Andrew R. Schein, Yixin Sun",
+            "date": "2026-07-23",
+            "abstract_en": "As renewable generation plays a growing role in the energy system, periods of negative wholesale electricity prices are becoming increasingly common and are expected to grow dramatically over the next ten years. Traditionally, system operators respond by paying generators, especially renewables, to curtail production, or mandating that they do so without compensation. In this study, we propose and test a novel alternative: exposing consumers to free and negative prices to stimulate demand when supply is abundant. We implemented large-scale nationwide natural field experiments simultaneously in Great Britain and Spain, with roughly 60,000 residential customers in each country randomized to receive varying financial incentives to âturn upâ their electricity. We found that demand increased substantially as prices fell to zero, but paying customers to consume beyond zero price yielded little additional response. Households with electric vehicles and rooftop solar had a larger elasticity than households without such technologies, suggesting demand turn-up becomes more effective as households adopt low-carbon technologies. In Great Britain, consumption was largely shifted from adjacent hours, while in Spain the increase appeared to represent net new demand. We develop a welfare framework showing conditions under which demand turn-up improves on curtailment; we find that by inducing additional consumption in periods and locations where the marginal cost of supply is low, demand turn-up generates welfare gains that curtailment leaves uncaptured.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "绿色发展"
+            ],
+            "paper_id": "w35530",
+            "programs": []
+          },
+          {
+            "title_en": "Evidence of How Electronic Reporting and Automated Auditing Affects Regulatory Compliance and Environmental Performance",
+            "title_zh": "",
+            "url": "https://www.nber.org/papers/w35525",
+            "authors": "Wayne B. Gray, Ronald Shadbegian, Ann Wolverton",
+            "date": "2026-07-23",
+            "abstract_en": "We investigate whether, by providing better and more timely information, the first mandatory online reporting and auditing program for wastewater discharge releases in the U.S. improved facility compliance and environmental performance, while also allowing state regulators to more effectively monitor and enforce regulations. Examining reporting programs with automated feedback features can also offer insights into the potential for artificial intelligence-based tools to improve compliance and environmental performance. Difference-in-difference results suggest that the program resulted in significant increases in the completeness of reporting and reductions in discharges but also greater reported violations. We find that effects are larger for minor dischargers and publicly owned facilities. We also find evidence consistent with the more efficient targeting of inspections by state authorities towards plants with a history of recent noncompliance, which could be a potential mechanism driving these results.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "人工智能"
+            ],
+            "paper_id": "w35525",
+            "programs": []
+          },
+          {
+            "title_en": "Spillover Effects in Complementary Markets: A Study of the Indian Cell Phone and Wireless Service Markets",
+            "title_zh": "",
+            "url": "https://www.nber.org/papers/w35522",
+            "authors": "Chirantan Chatterjee, Ying Fan, Debi Prasad Mohapatra",
+            "date": "2026-07-23",
+            "abstract_en": "This paper studies how spillovers across complementary markets shape product variety and firm entry. We examine the Indian cell phone and wireless service markets during the 4G rollout and estimate a structural model of demand, pricing, carrier network expansion, and phone product choice. The estimation results support the economic forces through which complementarity generates spillovers. Counterfactual simulations show that banning budget Chinese phones slows 4G deployment by roughly five quarters and lowers consumer welfare without raising domestic firms' profits. Similarly, an unrestricted subsidy outperforms a domestic-only subsidy in expanding network coverage, increasing consumer welfare, and raising domestic firms' profits.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "产业政策"
+            ],
+            "paper_id": "w35522",
+            "programs": []
+          },
+          {
+            "title_en": "Profits and Social Impacts: Complements vs. Tradeoffs for Lenders in Three Countries",
+            "title_zh": "",
+            "url": "https://www.nber.org/papers/w35521",
+            "authors": "Susan Athey, Bruno Fava, Dean Karlan, Adam Osman, Jonathan Zinman",
+            "date": "2026-07-23",
+            "abstract_en": "The canonical approach to corporate governance posits a tradeoff between maximizing shareholder profits and maximizing other aspects of shareholder welfare such as social impact. Advances in machine learning that enhance the firm's ability to target specific customers may exacerbate or ameliorate this tradeoff. We estimate these tradeoffs using data from randomized microcredit approvals in South Africa, the Philippines, and Bosnia. We examine social impact on two dimensions: credit access (i.e., reaching disadvantaged groups that typically have less access to financial markets) and impact (i.e., treatment effects on household income). Two of the three lenders could have increased average loan profit margin by 7â9 percentage points through machine learning-based targeting. However, such targeting pushes against social impact goals vis-Ã -vis credit access; specifically, women and lower-income households would have been more excluded (the implied impact on borrowers' income, also central to the dual goal of social impact, is too imprecisely estimated to draw an inference). To gauge the magnitude of the first tradeoff, we examine how profits would change if the lenders altered whom they lent to within each quintile of baseline borrower income, thus holding the distribution broadly similar but fine-tuning the targeting within income bands. Such a constraint would lower the profit gains of targeting by about half. These findings highlight the importance of quantifying tradeoffs and complementarities when deciding what to maximize.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "人工智能"
+            ],
+            "paper_id": "w35521",
+            "programs": []
+          },
+          {
+            "title_en": "Retail Betting Markets",
+            "title_zh": "",
+            "url": "https://www.nber.org/papers/w35520",
+            "authors": "Scott R. Baker, Justin Balthrop, Mark J. Johnson, Jason D. Kotter, Kevin Pisciotta",
+            "date": "2026-07-23",
+            "abstract_en": "This paper examines the rapid expansion and convergence of retail betting markets. We analyze market design elements, discuss economic utility, and highlight shared behavioral drivers of sports betting markets, prediction markets, and retail options trading. Our review underscores how technological innovation, behavioral biases, and regulatory arbitrage have shaped recent market evolution. We highlight important considerations for policy-makers facing a changing landscape and outline possibilities for further research.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新"
+            ],
+            "paper_id": "w35520",
+            "programs": []
+          },
+          {
+            "title_en": "Counterproductive Sustainable Investing: The Impact Elasticity of Brown and Green Firms",
+            "title_zh": "",
+            "url": "https://www.nber.org/papers/w35519",
+            "authors": "Samuel M. Hartzmark, Kelly Shue",
+            "date": "2026-07-23",
+            "abstract_en": "We develop a new measure of impact elasticity: the change in a firm's environmental impact due to a change in its cost of capital. We find that reducing green firms' financing costs leads to minimal impact changes, while increasing brown firms' financing costs causes significant negative impact changes. Thus, sustainable investing strategies that shift capital from brown to green firms contain a counterproductive channel that makes brown firms more brown without making green firms more green. A mistaken focus on percentage reductions in emissions rewards already-green firms for trivial reductions in emissions and gives brown firms weak incentives to improve.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "绿色发展"
+            ],
+            "paper_id": "w35519",
+            "programs": []
+          },
+          {
+            "title_en": "The Effects of U.S. Public R&D on Global Growth",
+            "title_zh": "",
+            "url": "https://www.nber.org/papers/w35517",
+            "authors": "Gustavo De Souza, Andrew J. Fieldhouse, Karel Mertens, Ishan B. Nath, Valerie A. Ramey",
+            "date": "2026-07-23",
+            "abstract_en": "This paper provides the first causal estimates of the global social returns to U.S. public R&D. We use a narrative identification strategy to quantify the effects of exogenous shocks to U.S. R&D appropriations on the dynamic TFP response of 69 foreign economies from 1980â2019. A U.S. R&D appropriations shock equal to 1 percent of the federal R&D capital stock raises foreign TFP by approximately 1 percent after 12 years. This response is driven primarily by nondefense rather than defense R&D and is concentrated in non-OECD economies. These patterns are most consistent with diffusion occurring through openly accessible scientific content, capital-embodied trade, and technological leapfrogging by economies further from the global frontier. A back-of-the-envelope calculation suggests that the global social returns to U.S. public nondefense R&D are roughly twice as large as the domestic returns, meaning the U.S. captures about half of these productivity benefits.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新"
+            ],
+            "paper_id": "w35517",
+            "programs": []
+          },
+          {
+            "title_en": "Beyond Price: Rights Trading in Strategic Factor Markets",
+            "title_zh": "",
+            "url": "https://www.nber.org/papers/w35515",
+            "authors": "Anparasan Mahalingam, Matthew J. Higgins",
+            "date": "2026-07-23",
+            "abstract_en": "Research on strategic factor markets has largely treated the terms of exchange as price. We argue that many strategic transactions instead divide value through contractual bundles in which payment terms and control rights are interdependent. In university technology licensing, we theorize Rights Trading: contingent payment, future improvement claims, and commercialization scope operate as linked components of the contractual bundle through which surplus is allocated. Using 858 hand coded universityâindustry licenses, we find that contracts relying more heavily on royalty and milestone provisions grant licensees stronger future improvement claims and broader commercialization scope. The results persist across controls and fixed effects and are directionally consistent with complementary instrumental-variable, event-study, and selection-bound analyses. We further show that this relationship is stronger when university technology transfer offices have greater contracting experience, suggesting that contracting capability shapes value appropriation in strategic factor markets. More broadly, the study shows that value appropriation in strategic factor markets depends not only on what organizations pay for strategic resources, but also on how contracts allocate control over their future development and commercialization.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新"
+            ],
+            "paper_id": "w35515",
+            "programs": []
+          },
+          {
+            "title_en": "The Environmental Costs of Sanctions: Flaring and Venting in Venezuela",
+            "title_zh": "",
+            "url": "https://www.nber.org/papers/w35512",
+            "authors": "Michele Fioretti, Kavanaugh FitzPatrick, Alessandro Iaria",
+            "date": "2026-07-23",
+            "abstract_en": "Economic sanctions on oil-producing autocracies change not only the quantity of oil but also how it is produced. Combining field-level production data with satellite measurements of gas flaring and atmospheric methane across six Latin American countries from 2012 to 2024, we study the U.S. sanctions on Venezuela. Per-barrel gas flaring in Venezuela rose about two-and-a-half-fold even as production fell by two-thirds, a pattern no unsanctioned neighbor shows, so environmental damage under sanctions is about two and a half times what a proportional decline in output would predict. Three channels generate this gap: the exit of small, dirty fields (composition) is more than offset by surviving fields running their infrastructure past design capacity (strain) and cutting their operating budgets (maintenance). We identify strain from the response of satellite-measured methane to the world price of naphtha, the imported diluent Venezuela's extra-heavy crude requires, and maintenance from a November 2022 U.S. Treasury license that allowed only Chevron to resume operations at its Venezuelan fields. A similar pattern of rising per-barrel emissions despite falling output appears under the sanctions on Iran (after 2018).",
+            "abstract_zh": "",
+            "matched_topics": [
+              "绿色发展"
+            ],
+            "paper_id": "w35512",
+            "programs": []
+          },
+          {
+            "title_en": "Bank Runs With and Without Bank Failure",
+            "title_zh": "",
+            "url": "https://www.nber.org/papers/w35504",
+            "authors": "Sergio A. Correia, Stephan Luck, Emil Verner",
+            "date": "2026-07-16",
+            "abstract_en": "We study the causes and consequences of bank runs. By applying large language models to historical newspapers, we create a comprehensive database of bank runs in U.S. history with information on 3,984 runs on individual banks from 1863 to 1934. Our novel data allow us to establish that runs are considerably more likely in weak banks but also occur in strong banks, especially in response to negative news about the real economy or the broader banking system. However, runs typically only result in failure for banks with poor fundamentals. Strong banks survive runs through various mechanisms, including signaling strength, interbank cooperation, and temporary suspension. At the local level, runs on banks with poor fundamentals translate into substantially larger declines in deposits, lending, and manufacturing activity than runs on strong banks. Our findings imply that poor fundamentals are central to explaining both when runs occur and when they have severe economic effects, tempering the view that small shocks can generate discontinuous jumps to bad equilibria through self-fulfilling run dynamics.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "人工智能"
+            ],
+            "paper_id": "w35504",
+            "programs": []
+          }
+        ],
+        "error": null
       }
     ],
     "journals": [
@@ -1748,33 +1795,57 @@
         "category": "General field",
         "issn": "0034-6535",
         "resolved_name": "The Review of Economics and Statistics",
-        "issue_title": "Volume 108, Issue 3",
+        "issue_title": "Volume 108, Issue 4",
         "issue_url": "https://direct.mit.edu/rest",
-        "matched_count": 2,
+        "matched_count": 4,
         "total_in_issue": 22,
         "papers": [
           {
-            "title_en": "What's Missing in Environmental Self-Monitoring: Evidence from Strategic Shutdowns of Pollution Monitors",
-            "title_zh": "环境自我监测中缺失了什么：来自污染监测器战略性关闭的证据",
-            "url": "https://doi.org/10.1162/rest_a_01477",
-            "authors": "Yingfei Mu, Edward Rubin, Eric Yongchen Zou",
-            "date": "2026-05-21",
-            "abstract_en": "Abstract Regulators often rely on regulated entities to self-monitor compliance, creating strategic incentives for endogenous monitoring. This paper builds a framework to detect whether local governments skip air pollution monitoring when they expect air quality to deteriorate. The core of our method tests whether the timing of monitor shutdowns coincides with the counties’ air quality alerts—public advisories based on local governments’ own pollution forecasts. Applying the method to a monitor in Jersey City, New Jersey, suspected of a deliberate shutdown during the 2013 “Bridgegate” traffic jam, we find a 33% reduction of this monitor's sampling rate on pollution-alert days. Building on large-scale inference tools, we then apply the method to test more than 1,300 monitors across the United States, finding fourteen metropolitan areas with clusters of monitors showing similar strategic behavior. We assess geometric imputation and remote-sensing technologies as potential solutions to deter future strategic monitoring.",
-            "abstract_zh": "摘要：监管者经常依赖被监管实体进行自我监控合规性，这为内生性监控创造了战略性激励。本文构建了一个框架，用以检测地方政府在预期空气质量恶化时是否会跳过空气污染监控。我们的方法核心在于测试监控关闭的时间是否与县级空气质量警报——基于地方政府自身污染预测的公共通告——相吻合。将该方法应用于新泽西州泽西市的一个监控器，该监控器在2013年“桥门”交通堵塞期间被怀疑故意关闭，我们发现在污染警报日，该监控器的采样率减少了33%。基于大规模推断工具，我们进一步将该方法应用于全美1300多个监控器的测试，发现有十四个都市区的监控器集群显示出类似的战略行为。我们评估了几何插值和遥感技术作为遏制未来战略性监控的潜在解决方案。",
+            "title_en": "Knowledge Access: The Effects of Carnegie Libraries on Innovation",
+            "title_zh": "",
+            "url": "https://doi.org/10.1162/rest_a_01446",
+            "authors": "Enrico Berkes, Peter Nencka",
+            "date": "2026-07-17",
+            "abstract_en": "Abstract Between 1883 and 1919, Andrew Carnegie funded the construction of more than 1,500 public libraries across the United States, reducing the costs of accessing knowledge for millions. We study the effect of these libraries on innovation. Patenting in recipient places increased on average by 10%–12% in the 20 years following library construction relative to a novel control group of cities that applied for but did not build libraries. We show that access to scientific knowledge and increased collaboration opportunities are possible mechanisms.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新"
+            ]
+          },
+          {
+            "title_en": "Machine Learning Can Predict Shooting Victimization Well Enough to Help Prevent It",
+            "title_zh": "",
+            "url": "https://doi.org/10.1162/rest_a_01519",
+            "authors": "Sara B. Heller, Benjamin Jakubowski, Zubin Jelveh, Max Kapustin",
+            "date": "2026-07-17",
+            "abstract_en": "Abstract Using Chicago police data, we train a machine learning model to predict the risk of being shot in the next 18 months. Out-of-sample accuracy is strikingly high. A central concern with using police data is “baking in” bias, or overestimating risk for groups likelier to interact with police conditional on behavior. Our predictions, however, accurately recover risk across demographic groups. Legal, ethical, and practical barriers should prevent using victimization predictions to target law enforcement. But using them to target social services could increase both the potential for interventions to reduce shootings and the available statistical power to detect those reductions.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "人工智能"
+            ]
+          },
+          {
+            "title_en": "Human Capital and Climate Change",
+            "title_zh": "",
+            "url": "https://doi.org/10.1162/rest_a_01444",
+            "authors": "Noam Angrist, Kevin Winseck, Harry Anthony Patrinos, Joshua Graff Zivin",
+            "date": "2026-07-17",
+            "abstract_en": "Abstract Addressing climate change requires individual behavior change and voter support for pro-climate policies, yet surprisingly little is known about how to achieve these outcomes. In this paper, we estimate causal effects of additional education on pro-climate outcomes using new compulsory schooling law data across 20 European countries. We analyze effects on pro-climate beliefs and behaviors, as well as novel data on policy preferences and voting for green parties. Results show that a year of education substantially increases pro-climate beliefs, behaviors, and policy preferences.",
+            "abstract_zh": "",
             "matched_topics": [
               "绿色发展"
             ]
           },
           {
-            "title_en": "Testing Monotonicity of Mean Potential Outcomes in a Continuous Treatment with High-Dimensional Data",
-            "title_zh": "标题：在高维数据中连续处理的均值潜在结果的单调性检验",
-            "url": "https://doi.org/10.1162/rest_a_01416",
-            "authors": "Yu-Chin Hsu, Martin Huber, Ying-Ying Lee, Chu-An Liu",
-            "date": "2026-05-21",
-            "abstract_en": "Abstract We propose a Cramér–von Mises–type test for testing whether the mean potential outcome given a specific treatment level has a weakly monotonic relationship with the continuous treatment under unconfoundedness. To flexibly control for a possibly high-dimensional set of covariates, our test is based on a double debiased machine learning method. We show that our test controls asymptotic size and is consistent against any fixed alternative. We apply our test to evaluate the Job Corps program and reject a weakly negative relationship between the treatment (hours in academic and vocational training) and labor market performance among relatively low treatment values.",
-            "abstract_zh": "摘要：我们提出了一种Cramér-von Mises类型的检验方法，用于检验在无混杂假设下，给定特定处理水平的平均潜在结果与连续处理之间是否存在弱单调关系。为了灵活控制可能的高维协变量集，我们的检验基于双重去偏误的机器学习方法。我们证明了我们的检验能够控制渐近大小，并且对任何固定备择假设都是一致的。我们将检验应用于评估Job Corps项目，并拒绝了在相对较低的处理值下，处理（学术和职业培训小时数）与劳动市场表现之间存在弱负关系的假设。",
+            "title_en": "Attrition and the Gender Patenting Gap",
+            "title_zh": "",
+            "url": "https://doi.org/10.1162/rest_a_01447",
+            "authors": "Abhay Aneja, Oren Reshef, Gauri Subramani",
+            "date": "2026-07-17",
+            "abstract_en": "Abstract Women are underrepresented in patenting. In this study, we consider differential responsiveness to rejection as a contributor to the gender gap in invention. Leveraging the prosecution histories of almost one million U.S. patent applications and the quasirandom assignment of applications to examiners, we show that women are 3.6–6.9 percentage points less likely to continue in the application process following an early-stage rejection. Conditional on applying for a patent, male-female disparities in the propensity to abandon applications account for more than half of the overall gender gap in issued patents. We provide suggestive evidence that institutional support can help reduce the attrition gap.",
+            "abstract_zh": "",
             "matched_topics": [
-              "人工智能"
+              "创新"
             ]
           }
         ],
@@ -1789,9 +1860,21 @@
         "resolved_name": "Journal of Public Economics",
         "issue_title": "Published 2026-09",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-public-economics",
-        "matched_count": 1,
-        "total_in_issue": 5,
+        "matched_count": 2,
+        "total_in_issue": 12,
         "papers": [
+          {
+            "title_en": "Women’s labor subsidy: Evidence from Chile",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jpubeco.2026.105719",
+            "authors": "Maria Isidora Palma, Valentina Paredes, Daniela Paz",
+            "date": "2026-09-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "产业政策"
+            ]
+          },
           {
             "title_en": "The incidence of rent subsidies: Evidence on rents, housing choices and supply",
             "title_zh": "",
@@ -1817,7 +1900,7 @@
         "issue_title": "Published 2027-01",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-development-economics",
         "matched_count": 0,
-        "total_in_issue": 2,
+        "total_in_issue": 7,
         "papers": [],
         "error": null
       },
@@ -1828,24 +1911,11 @@
         "category": "International",
         "issn": "0022-1996",
         "resolved_name": "Journal of International Economics",
-        "issue_title": "Published 2026-08",
+        "issue_title": "Published 2026-10",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-international-economics",
-        "matched_count": 1,
-        "total_in_issue": 24,
-        "papers": [
-          {
-            "title_en": "Burn now or never? Climate policy exposure and investment of fossil fuel firms",
-            "title_zh": "现在燃烧还是永不燃烧？气候政策暴露与化石燃料公司的投资",
-            "url": "https://doi.org/10.1016/j.jinteco.2026.104267",
-            "authors": "Jakob Feveile Adolfsen, Malte Heissel, Ana-Simona Manu, Francesca Vinci",
-            "date": "2026-08-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "绿色发展"
-            ]
-          }
-        ],
+        "matched_count": 0,
+        "total_in_issue": 10,
+        "papers": [],
         "error": null
       },
       {
@@ -2023,7 +2093,7 @@
         "issue_title": "Volume 55, Issue 8",
         "issue_url": "https://www.sciencedirect.com/journal/research-policy",
         "matched_count": 12,
-        "total_in_issue": 18,
+        "total_in_issue": 20,
         "papers": [
           {
             "title_en": "‘Systems of use’: A lens to more deeply study user innovation",
@@ -2428,156 +2498,11 @@
         "category": "Environment",
         "issn": "0095-0696",
         "resolved_name": "Journal of Environmental Economics and Management",
-        "issue_title": "Published 2026-08",
+        "issue_title": "Published 2026-09",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-environmental-economics-and-management",
-        "matched_count": 12,
-        "total_in_issue": 34,
-        "papers": [
-          {
-            "title_en": "The heterogeneous effects of climate policy on households: Evidence from 88 countries",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.jeem.2026.103382",
-            "authors": "Leonard Missbach, Jan Christoph Steckel",
-            "date": "2026-08-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "绿色发展"
-            ]
-          },
-          {
-            "title_en": "The welfare impacts of carbon taxes and labels on food demand",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.jeem.2026.103387",
-            "authors": "Marco Tomasi, Michela Faccioli, Carlo Fezzi, Ian J. Bateman",
-            "date": "2026-08-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "绿色发展"
-            ]
-          },
-          {
-            "title_en": "Headwind in sight? Wind turbine visibility spillovers and support for renewable energy policy",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.jeem.2026.103386",
-            "authors": "Vincent F. Stegmaier, Melanie Krause",
-            "date": "2026-08-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "绿色发展"
-            ]
-          },
-          {
-            "title_en": "Cost-effective and equitable targeting of corrective subsidies: Differentiated green subsidies for new and existing homes",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.jeem.2026.103340",
-            "authors": "Takahiko Kiso",
-            "date": "2026-08-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "产业政策"
-            ]
-          },
-          {
-            "title_en": "Do common shocks drive changes in aggregate emissions intensity?",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.jeem.2026.103384",
-            "authors": "Xiyu Ren, Fulvia Marotta, François Lafond",
-            "date": "2026-08-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "绿色发展"
-            ]
-          },
-          {
-            "title_en": "Occupational affiliation and the incidence of environmental regulation",
-            "title_zh": "职业归属与环境规制的影响",
-            "url": "https://doi.org/10.1016/j.jeem.2026.103361",
-            "authors": "Alex L. Marten, Andrew Schreiber, Ann Wolverton",
-            "date": "2026-08-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "绿色发展"
-            ]
-          },
-          {
-            "title_en": "Amplified challenges for the joint reduction of emissions and inequality, considering the missing-rich",
-            "title_zh": "标题：考虑富裕群体缺失时，联合减少排放和不平等的放大挑战",
-            "url": "https://doi.org/10.1016/j.jeem.2026.103353",
-            "authors": "Markus Nabernegg, Stefan Nabernegg, Thomas Kopp",
-            "date": "2026-08-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "绿色发展"
-            ]
-          },
-          {
-            "title_en": "Bitcoin growth amid climate change: Policy and investment implications",
-            "title_zh": "标题：气候变化背景下比特币的增长：政策与投资影响",
-            "url": "https://doi.org/10.1016/j.jeem.2026.103351",
-            "authors": "Mohammadhossein Lashkaripour, Seyedmehdi Hosseini, Rizwan Ahmed",
-            "date": "2026-08-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "绿色发展"
-            ]
-          },
-          {
-            "title_en": "Air pollution and consumers’ avoidance behavior: Evidence from high-frequency payment data in China",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.jeem.2026.103374",
-            "authors": "Haiqiang Chen, Shihe Fu, Zhuoyang Lyu",
-            "date": "2026-08-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "绿色发展"
-            ]
-          },
-          {
-            "title_en": "Trade and the scopes of pollution: Evidence from China’s world market integration",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.jeem.2026.103378",
-            "authors": "Stefano Carattini, Hanwei Huang, Frank Pisch, Tejendra Pratap Singh",
-            "date": "2026-08-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "绿色发展"
-            ]
-          },
-          {
-            "title_en": "Environmental benefits of renewable energy: Evidence from coal mining-induced deforestation and air pollution emissions",
-            "title_zh": "标题：可再生能源的环境效益：来自煤炭开采引发的森林砍伐和空气污染排放的证据",
-            "url": "https://doi.org/10.1016/j.jeem.2026.103363",
-            "authors": "Lin Yang, Wenjie Luo",
-            "date": "2026-08-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "绿色发展"
-            ]
-          },
-          {
-            "title_en": "Impact of air pollution on birth outcomes: Causal evidence from India",
-            "title_zh": "空气污染对出生结果的影响：来自印度的因果证据",
-            "url": "https://doi.org/10.1016/j.jeem.2026.103360",
-            "authors": "Shashank Misra, Shobhit Kulshreshtha",
-            "date": "2026-08-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "绿色发展"
-            ]
-          }
-        ],
+        "matched_count": 0,
+        "total_in_issue": 2,
+        "papers": [],
         "error": null
       },
       {
@@ -2604,7 +2529,7 @@
         "issue_title": "Published 2026-09",
         "issue_url": "https://www.sciencedirect.com/journal/energy-economics",
         "matched_count": 12,
-        "total_in_issue": 28,
+        "total_in_issue": 30,
         "papers": [
           {
             "title_en": "Green bonds and the energy transition: From instrumental use to intrinsic value",
@@ -2635,6 +2560,18 @@
             "title_zh": "",
             "url": "https://doi.org/10.1016/j.eneco.2026.109464",
             "authors": "HaiFeng Wang, Qin Long, Xi Deng, Bangzhu Zhu, DengDeng Xiao",
+            "date": "2026-09-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "绿色发展"
+            ]
+          },
+          {
+            "title_en": "How demand-side climate policy shapes public low-carbon involvement willingness: Evidence from the carbon generalized system of preferences in China",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.eneco.2026.109518",
+            "authors": "Jing Zhou, Ting Yue, Ying Wang, Claire Murong Cui, Ruyin Long, Wanqi Ma, Shouyang Wang, Le Wen",
             "date": "2026-09-01",
             "abstract_en": "",
             "abstract_zh": "",
@@ -2691,6 +2628,18 @@
             ]
           },
           {
+            "title_en": "Dynamic investment, subsidies, and welfare effects of rural rooftop photovoltaics: A bilateral decision analysis in rural China",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.eneco.2026.109506",
+            "authors": "Zenghui Chao, Wenhao Gu, Wenyu Fan, Zhenzhi Wang, Jun Zhang",
+            "date": "2026-09-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "产业政策"
+            ]
+          },
+          {
             "title_en": "Subsidies, information, and energy-efficient cookstove adoption – A natural field experiment in rural Ethiopia",
             "title_zh": "",
             "url": "https://doi.org/10.1016/j.eneco.2026.109474",
@@ -2720,30 +2669,6 @@
             "title_zh": "",
             "url": "https://doi.org/10.1016/j.eneco.2026.109458",
             "authors": "Lin Han, Nino Kordzakhia, Stefan Trück",
-            "date": "2026-09-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "绿色发展"
-            ]
-          },
-          {
-            "title_en": "Are all COPs busted? The role of climate policy events for carbon pricing in compliance and voluntary markets",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.eneco.2026.109465",
-            "authors": "Patrick Behr, Riccardo Cosenza, Eric Nowak, Papa Orgen",
-            "date": "2026-09-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "绿色发展"
-            ]
-          },
-          {
-            "title_en": "Does income moderate the carbon abatement impact of renewable energy? A global analysis of pooled and source-specific renewables, 1996–2023",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.eneco.2026.109493",
-            "authors": "Muhammad Fahad Khan Israr, Aurora A.C. Teixeira, Isabel Soares",
             "date": "2026-09-01",
             "abstract_en": "",
             "abstract_zh": "",
@@ -2786,14 +2711,183 @@
       "source_type": "nber",
       "name": "NBER Working Papers",
       "category": "Working papers",
-      "issue_title": "Recent NBER Working Papers",
+      "issue_title": "Recent NBER Working Papers through 2026-07-24",
       "issue_url": "https://www.nber.org/papers",
-      "matched_count": 0,
-      "total_recent_considered": 0,
-      "papers": [],
-      "error": "GET failed for https://data.nber.org/nber_paper_chapter_metadata/tsv/ref.tsv: 403 Client Error: Forbidden for url: https://data.nber.org/nber_paper_chapter_metadata/tsv/ref.tsv"
+      "matched_count": 12,
+      "total_recent_considered": 220,
+      "papers": [
+        {
+          "title_en": "The Scientific Return of Biodiversity Conservation: Evidence from Fishing Bans Along the Yangtze River",
+          "title_zh": "",
+          "url": "https://www.nber.org/papers/w35535",
+          "authors": "Minhao Chen, Lin William Cong, Haoyu Gao, Andrew Karolyi, Hui Wang",
+          "date": "2026-07-23",
+          "abstract_en": "We document arguably unintended returns of biodiversity conservation to science discovery, exploiting the 2002 fishing ban in Chinaâan ecosystem restoration policy without explicit science-related objectives, which allows us to implement a difference-in-differences design across fish species. We find that the ban substantially increased research on affected species: funded programs rose by 21.5%, total funding by 22.8%, publications per program by 97.0%, and citations per paper by 106.7%. The effect is concentrated among researchers with geographic access to the river, and is stronger for non-extinct species and non-farmed fish species, suggesting that conservation expanded the supply of biological materials available for research. The ban also increased related public influence and patents. These results reveal that biodiversity conservation generates a significant scientific dividend through the restoration of natural research inputs, with implications for evaluating the broader benefits of ecosystem protections in an underdiscussed dimension for the science of science.",
+          "abstract_zh": "",
+          "matched_topics": [
+            "创新"
+          ],
+          "paper_id": "w35535",
+          "programs": []
+        },
+        {
+          "title_en": "The Confucian Fertility Paradox: Education Competition and Ultra-Low Fertility in East Asia",
+          "title_zh": "",
+          "url": "https://www.nber.org/papers/w35532",
+          "authors": "Hanming Fang, Chang Liu",
+          "date": "2026-07-23",
+          "abstract_en": "Total fertility rates in East Asia have fallen to levels without historical precedent, even though the regionâs Confucian heritage long placed extraordinary emphasis on family continuity and large families. We argue that this âConfucian Fertility Paradoxâ dissolves once we separate two strands of the tradition and recognize that modernization affected them very differently. The pro-natal strand, built on lineage continuity, ancestor worship, and reliance on sons for old-age support, was gradually switched off as child mortality fell, incomes rose, women entered the labor force, and state pensions replaced the family as the main source of security in old age. What survived was the second strand: the veneration of education and of status won through examination success, rooted in the imperial examination tradition. Under modern conditions this surviving strand reverses sign with respect to its effect on fertility. Where the historical examination system rewarded having many sons so that one might succeed, the modern single-ranking tournament rewards concentrating resources on one or two intensively educated children, and the quantityâquality tradeoff turns a once pro-natal culture into a powerful engine of low fertility. Drawing on recent empirical evidence from China and Korea, we show how education competition becomes the channel through which traditional values now suppress childbearing. We explain why standard pro-natalist policies, such as removing birth restrictions or offering cash subsidies, accomplish little when the underlying problem is a competitive equilibrium in parental investment, and we argue that policies aimed at the source of the distortion, such as structural reform of educational pathways, hold more promise.",
+          "abstract_zh": "",
+          "matched_topics": [
+            "产业政策"
+          ],
+          "paper_id": "w35532",
+          "programs": []
+        },
+        {
+          "title_en": "A Demand-Side Alternative to Renewable Curtailment: Natural Field Experimental Evidence from Two Countries",
+          "title_zh": "",
+          "url": "https://www.nber.org/papers/w35530",
+          "authors": "Daniel Lopez Garcia, Robert D. Metcalfe, Andrew R. Schein, Yixin Sun",
+          "date": "2026-07-23",
+          "abstract_en": "As renewable generation plays a growing role in the energy system, periods of negative wholesale electricity prices are becoming increasingly common and are expected to grow dramatically over the next ten years. Traditionally, system operators respond by paying generators, especially renewables, to curtail production, or mandating that they do so without compensation. In this study, we propose and test a novel alternative: exposing consumers to free and negative prices to stimulate demand when supply is abundant. We implemented large-scale nationwide natural field experiments simultaneously in Great Britain and Spain, with roughly 60,000 residential customers in each country randomized to receive varying financial incentives to âturn upâ their electricity. We found that demand increased substantially as prices fell to zero, but paying customers to consume beyond zero price yielded little additional response. Households with electric vehicles and rooftop solar had a larger elasticity than households without such technologies, suggesting demand turn-up becomes more effective as households adopt low-carbon technologies. In Great Britain, consumption was largely shifted from adjacent hours, while in Spain the increase appeared to represent net new demand. We develop a welfare framework showing conditions under which demand turn-up improves on curtailment; we find that by inducing additional consumption in periods and locations where the marginal cost of supply is low, demand turn-up generates welfare gains that curtailment leaves uncaptured.",
+          "abstract_zh": "",
+          "matched_topics": [
+            "绿色发展"
+          ],
+          "paper_id": "w35530",
+          "programs": []
+        },
+        {
+          "title_en": "Evidence of How Electronic Reporting and Automated Auditing Affects Regulatory Compliance and Environmental Performance",
+          "title_zh": "",
+          "url": "https://www.nber.org/papers/w35525",
+          "authors": "Wayne B. Gray, Ronald Shadbegian, Ann Wolverton",
+          "date": "2026-07-23",
+          "abstract_en": "We investigate whether, by providing better and more timely information, the first mandatory online reporting and auditing program for wastewater discharge releases in the U.S. improved facility compliance and environmental performance, while also allowing state regulators to more effectively monitor and enforce regulations. Examining reporting programs with automated feedback features can also offer insights into the potential for artificial intelligence-based tools to improve compliance and environmental performance. Difference-in-difference results suggest that the program resulted in significant increases in the completeness of reporting and reductions in discharges but also greater reported violations. We find that effects are larger for minor dischargers and publicly owned facilities. We also find evidence consistent with the more efficient targeting of inspections by state authorities towards plants with a history of recent noncompliance, which could be a potential mechanism driving these results.",
+          "abstract_zh": "",
+          "matched_topics": [
+            "人工智能"
+          ],
+          "paper_id": "w35525",
+          "programs": []
+        },
+        {
+          "title_en": "Spillover Effects in Complementary Markets: A Study of the Indian Cell Phone and Wireless Service Markets",
+          "title_zh": "",
+          "url": "https://www.nber.org/papers/w35522",
+          "authors": "Chirantan Chatterjee, Ying Fan, Debi Prasad Mohapatra",
+          "date": "2026-07-23",
+          "abstract_en": "This paper studies how spillovers across complementary markets shape product variety and firm entry. We examine the Indian cell phone and wireless service markets during the 4G rollout and estimate a structural model of demand, pricing, carrier network expansion, and phone product choice. The estimation results support the economic forces through which complementarity generates spillovers. Counterfactual simulations show that banning budget Chinese phones slows 4G deployment by roughly five quarters and lowers consumer welfare without raising domestic firms' profits. Similarly, an unrestricted subsidy outperforms a domestic-only subsidy in expanding network coverage, increasing consumer welfare, and raising domestic firms' profits.",
+          "abstract_zh": "",
+          "matched_topics": [
+            "产业政策"
+          ],
+          "paper_id": "w35522",
+          "programs": []
+        },
+        {
+          "title_en": "Profits and Social Impacts: Complements vs. Tradeoffs for Lenders in Three Countries",
+          "title_zh": "",
+          "url": "https://www.nber.org/papers/w35521",
+          "authors": "Susan Athey, Bruno Fava, Dean Karlan, Adam Osman, Jonathan Zinman",
+          "date": "2026-07-23",
+          "abstract_en": "The canonical approach to corporate governance posits a tradeoff between maximizing shareholder profits and maximizing other aspects of shareholder welfare such as social impact. Advances in machine learning that enhance the firm's ability to target specific customers may exacerbate or ameliorate this tradeoff. We estimate these tradeoffs using data from randomized microcredit approvals in South Africa, the Philippines, and Bosnia. We examine social impact on two dimensions: credit access (i.e., reaching disadvantaged groups that typically have less access to financial markets) and impact (i.e., treatment effects on household income). Two of the three lenders could have increased average loan profit margin by 7â9 percentage points through machine learning-based targeting. However, such targeting pushes against social impact goals vis-Ã -vis credit access; specifically, women and lower-income households would have been more excluded (the implied impact on borrowers' income, also central to the dual goal of social impact, is too imprecisely estimated to draw an inference). To gauge the magnitude of the first tradeoff, we examine how profits would change if the lenders altered whom they lent to within each quintile of baseline borrower income, thus holding the distribution broadly similar but fine-tuning the targeting within income bands. Such a constraint would lower the profit gains of targeting by about half. These findings highlight the importance of quantifying tradeoffs and complementarities when deciding what to maximize.",
+          "abstract_zh": "",
+          "matched_topics": [
+            "人工智能"
+          ],
+          "paper_id": "w35521",
+          "programs": []
+        },
+        {
+          "title_en": "Retail Betting Markets",
+          "title_zh": "",
+          "url": "https://www.nber.org/papers/w35520",
+          "authors": "Scott R. Baker, Justin Balthrop, Mark J. Johnson, Jason D. Kotter, Kevin Pisciotta",
+          "date": "2026-07-23",
+          "abstract_en": "This paper examines the rapid expansion and convergence of retail betting markets. We analyze market design elements, discuss economic utility, and highlight shared behavioral drivers of sports betting markets, prediction markets, and retail options trading. Our review underscores how technological innovation, behavioral biases, and regulatory arbitrage have shaped recent market evolution. We highlight important considerations for policy-makers facing a changing landscape and outline possibilities for further research.",
+          "abstract_zh": "",
+          "matched_topics": [
+            "创新"
+          ],
+          "paper_id": "w35520",
+          "programs": []
+        },
+        {
+          "title_en": "Counterproductive Sustainable Investing: The Impact Elasticity of Brown and Green Firms",
+          "title_zh": "",
+          "url": "https://www.nber.org/papers/w35519",
+          "authors": "Samuel M. Hartzmark, Kelly Shue",
+          "date": "2026-07-23",
+          "abstract_en": "We develop a new measure of impact elasticity: the change in a firm's environmental impact due to a change in its cost of capital. We find that reducing green firms' financing costs leads to minimal impact changes, while increasing brown firms' financing costs causes significant negative impact changes. Thus, sustainable investing strategies that shift capital from brown to green firms contain a counterproductive channel that makes brown firms more brown without making green firms more green. A mistaken focus on percentage reductions in emissions rewards already-green firms for trivial reductions in emissions and gives brown firms weak incentives to improve.",
+          "abstract_zh": "",
+          "matched_topics": [
+            "绿色发展"
+          ],
+          "paper_id": "w35519",
+          "programs": []
+        },
+        {
+          "title_en": "The Effects of U.S. Public R&D on Global Growth",
+          "title_zh": "",
+          "url": "https://www.nber.org/papers/w35517",
+          "authors": "Gustavo De Souza, Andrew J. Fieldhouse, Karel Mertens, Ishan B. Nath, Valerie A. Ramey",
+          "date": "2026-07-23",
+          "abstract_en": "This paper provides the first causal estimates of the global social returns to U.S. public R&D. We use a narrative identification strategy to quantify the effects of exogenous shocks to U.S. R&D appropriations on the dynamic TFP response of 69 foreign economies from 1980â2019. A U.S. R&D appropriations shock equal to 1 percent of the federal R&D capital stock raises foreign TFP by approximately 1 percent after 12 years. This response is driven primarily by nondefense rather than defense R&D and is concentrated in non-OECD economies. These patterns are most consistent with diffusion occurring through openly accessible scientific content, capital-embodied trade, and technological leapfrogging by economies further from the global frontier. A back-of-the-envelope calculation suggests that the global social returns to U.S. public nondefense R&D are roughly twice as large as the domestic returns, meaning the U.S. captures about half of these productivity benefits.",
+          "abstract_zh": "",
+          "matched_topics": [
+            "创新"
+          ],
+          "paper_id": "w35517",
+          "programs": []
+        },
+        {
+          "title_en": "Beyond Price: Rights Trading in Strategic Factor Markets",
+          "title_zh": "",
+          "url": "https://www.nber.org/papers/w35515",
+          "authors": "Anparasan Mahalingam, Matthew J. Higgins",
+          "date": "2026-07-23",
+          "abstract_en": "Research on strategic factor markets has largely treated the terms of exchange as price. We argue that many strategic transactions instead divide value through contractual bundles in which payment terms and control rights are interdependent. In university technology licensing, we theorize Rights Trading: contingent payment, future improvement claims, and commercialization scope operate as linked components of the contractual bundle through which surplus is allocated. Using 858 hand coded universityâindustry licenses, we find that contracts relying more heavily on royalty and milestone provisions grant licensees stronger future improvement claims and broader commercialization scope. The results persist across controls and fixed effects and are directionally consistent with complementary instrumental-variable, event-study, and selection-bound analyses. We further show that this relationship is stronger when university technology transfer offices have greater contracting experience, suggesting that contracting capability shapes value appropriation in strategic factor markets. More broadly, the study shows that value appropriation in strategic factor markets depends not only on what organizations pay for strategic resources, but also on how contracts allocate control over their future development and commercialization.",
+          "abstract_zh": "",
+          "matched_topics": [
+            "创新"
+          ],
+          "paper_id": "w35515",
+          "programs": []
+        },
+        {
+          "title_en": "The Environmental Costs of Sanctions: Flaring and Venting in Venezuela",
+          "title_zh": "",
+          "url": "https://www.nber.org/papers/w35512",
+          "authors": "Michele Fioretti, Kavanaugh FitzPatrick, Alessandro Iaria",
+          "date": "2026-07-23",
+          "abstract_en": "Economic sanctions on oil-producing autocracies change not only the quantity of oil but also how it is produced. Combining field-level production data with satellite measurements of gas flaring and atmospheric methane across six Latin American countries from 2012 to 2024, we study the U.S. sanctions on Venezuela. Per-barrel gas flaring in Venezuela rose about two-and-a-half-fold even as production fell by two-thirds, a pattern no unsanctioned neighbor shows, so environmental damage under sanctions is about two and a half times what a proportional decline in output would predict. Three channels generate this gap: the exit of small, dirty fields (composition) is more than offset by surviving fields running their infrastructure past design capacity (strain) and cutting their operating budgets (maintenance). We identify strain from the response of satellite-measured methane to the world price of naphtha, the imported diluent Venezuela's extra-heavy crude requires, and maintenance from a November 2022 U.S. Treasury license that allowed only Chevron to resume operations at its Venezuelan fields. A similar pattern of rising per-barrel emissions despite falling output appears under the sanctions on Iran (after 2018).",
+          "abstract_zh": "",
+          "matched_topics": [
+            "绿色发展"
+          ],
+          "paper_id": "w35512",
+          "programs": []
+        },
+        {
+          "title_en": "Bank Runs With and Without Bank Failure",
+          "title_zh": "",
+          "url": "https://www.nber.org/papers/w35504",
+          "authors": "Sergio A. Correia, Stephan Luck, Emil Verner",
+          "date": "2026-07-16",
+          "abstract_en": "We study the causes and consequences of bank runs. By applying large language models to historical newspapers, we create a comprehensive database of bank runs in U.S. history with information on 3,984 runs on individual banks from 1863 to 1934. Our novel data allow us to establish that runs are considerably more likely in weak banks but also occur in strong banks, especially in response to negative news about the real economy or the broader banking system. However, runs typically only result in failure for banks with poor fundamentals. Strong banks survive runs through various mechanisms, including signaling strength, interbank cooperation, and temporary suspension. At the local level, runs on banks with poor fundamentals translate into substantially larger declines in deposits, lending, and manufacturing activity than runs on strong banks. Our findings imply that poor fundamentals are central to explaining both when runs occur and when they have severe economic effects, tempering the view that small shocks can generate discontinuous jumps to bad equilibria through self-fulfilling run dynamics.",
+          "abstract_zh": "",
+          "matched_topics": [
+            "人工智能"
+          ],
+          "paper_id": "w35504",
+          "programs": []
+        }
+      ],
+      "error": null
     },
-    "total_matches": 81,
+    "total_matches": 83,
     "note": "Latest issue TOCs from economics top journals and field-top journals plus recent NBER Working Papers, filtered by title/abstract keywords for industrial policy, innovation, green development, and artificial intelligence."
   }
 }
