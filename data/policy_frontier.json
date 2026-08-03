@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-07-27 20:23:54",
+  "updated_at": "2026-08-03 20:30:24",
   "schema_version": 1,
   "translation": {
     "engine": "kimi",
     "model": "moonshot-v1-8k",
     "enabled": true,
     "success_count": 0,
-    "fail_count": 105,
+    "fail_count": 111,
     "failed_examples": [
-      "A Welfare Analysis of Policies Impacting Climate Change :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, please recharge your ",
-      "We study the welfare impacts of 96 climate-related tax and spending policies. We extend an :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, please recharge your ",
-      "Nobel Lecture: The Past and Future of Innovation: Can Progress Be Sustained? :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, please recharge your ",
+      "Energy Transitions in Regulated Markets :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, please recharge your ",
+      "Natural gas has replaced coal as the dominant fuel for US electricity generation. However, :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, please recharge your ",
       "Collusion with Optimal Information Disclosure :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, please recharge your ",
       "Abstract Motivated by recent concerns surrounding the use of third-party pricing algorithm :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, please recharge your ",
       "Walras–Bowley Lecture: Climate Policy in the Wide World :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, please recharge your ",
       "We construct a dynamic integrated assessment model of climate and the economy with very hi :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, please recharge your ",
-      "All Along the Watchtower: Military Landholders and Serfdom Consolidation in Early Modern R :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, please recharge your "
+      "All Along the Watchtower: Military Landholders and Serfdom Consolidation in Early Modern R :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, please recharge your ",
+      "Abstract This article examines the emergence of coercive labour institutions using the cas :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, please recharge your "
     ],
     "note": "Set KIMI_API_KEY to enable Chinese translation."
   },
@@ -169,34 +169,21 @@
         "category": "Top 5",
         "issn": "0002-8282",
         "resolved_name": "American Economic Review",
-        "issue_title": "Volume 116, Issue 7",
+        "issue_title": "Volume 116, Issue 8",
         "issue_url": "https://www.aeaweb.org/journals/aer",
-        "matched_count": 2,
-        "total_in_issue": 15,
+        "matched_count": 1,
+        "total_in_issue": 12,
         "papers": [
           {
-            "title_en": "A Welfare Analysis of Policies Impacting Climate Change",
+            "title_en": "Energy Transitions in Regulated Markets",
             "title_zh": "",
-            "url": "https://doi.org/10.1257/aer.20250166",
-            "authors": "Robert W. Hahn, Nathaniel Hendren, Robert D. Metcalfe, Ben Sprung-Keyser",
-            "date": "2026-07-01",
-            "abstract_en": "We study the welfare impacts of 96 climate-related tax and spending policies. We extend and apply the marginal value of public funds (MVPF) framework, most notably providing a new method for incorporating learning-by-doing spillovers. We find subsidies for the production of clean energy (such as wind production tax credits) have higher MVPFs than all other subsidies in our sample, including EV subsidies. Conservation nudges have large MVPFs when targeting regions with dirty grids. Fuel taxes and cap-and-trade policies are highly efficient means of raising revenue. We also construct traditional cost-per-ton estimates and compare and contrast the lessons they provide. (JEL D83, H23, H25, L62, Q42, Q54, Q58)",
+            "url": "https://doi.org/10.1257/aer.20240094",
+            "authors": "Gautam Gowrisankaran, Ashley Langer, Mar Reguant",
+            "date": "2026-08-01",
+            "abstract_en": "Natural gas has replaced coal as the dominant fuel for US electricity generation. However, utilities in regulated US states have retired coal more slowly than others. We build a structural model of rate-of-return regulation during an energy transition where utilities face trade-offs between lowering costs and maintaining and using legacy capacity. A regulated utility facing carbon taxes lowers short-run coal generation 48 percent as much as a cost minimizer would. Thirty years after a sudden energy transition, a cost minimizer has retired 71 percent more coal capacity than the regulated utility. Alternative regulations may jeopardize affordability and reliability goals during energy transitions. (JEL D24, L94, L98, Q35, Q48)",
             "abstract_zh": "",
             "matched_topics": [
-              "产业政策",
               "绿色发展"
-            ]
-          },
-          {
-            "title_en": "Nobel Lecture: The Past and Future of Innovation: Can Progress Be Sustained?",
-            "title_zh": "",
-            "url": "https://doi.org/10.1257/aer.116.7.2299",
-            "authors": "Joel Mokyr",
-            "date": "2026-07-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新"
             ]
           }
         ],
@@ -354,33 +341,45 @@
         "category": "AEJ / policy",
         "issn": "1945-7731",
         "resolved_name": "American Economic Journal Economic Policy",
-        "issue_title": "Volume 18, Issue 2",
+        "issue_title": "Volume 18, Issue 3",
         "issue_url": "https://www.aeaweb.org/journals/pol",
-        "matched_count": 2,
+        "matched_count": 3,
         "total_in_issue": 17,
         "papers": [
           {
-            "title_en": "Cooking, Health, and Daily Exposure to Pollution Spikes",
-            "title_zh": "标题：烹饪、健康与日常暴露于污染峰值",
-            "url": "https://doi.org/10.1257/pol.20240290",
-            "authors": "Susanna B. Berkouwer, Joshua T. Dean",
-            "date": "2026-05-01",
-            "abstract_en": "Many routine daily activities—such as cooking and commuting—cause large recurring pollution spikes that may impact health without significantly affecting average exposure. We study pollution spikes by combining experimental variation in cooking technology with high-frequency data on individual pollution exposure and time-use in Kenya. Improved cookstoves reduce PM2.5 spikes while cooking by 51.3 μg/m 3 (41 percent) and cause a 0.24 standard deviation reduction in self-reported respiratory symptoms. However, even after more than three years of daily use, we find no clinical health improvements, possibly because we detect no impact on average exposure. Clinical health improvements may require reductions in ambient concentrations. (JEL I12, O12, O13, Q51, Q53)",
-            "abstract_zh": "许多日常活动，如烹饪和通勤，会导致大规模的周期性污染峰值，这可能会影响健康，但不会显著影响平均暴露水平。我们通过结合肯尼亚烹饪技术实验变化和高频个人污染暴露及时间使用数据，研究污染峰值。改进的炉灶在烹饪过程中减少了51.3微克/立方米（41%）的PM2.5峰值，并导致自报呼吸症状的标准差降低了0.24。然而，即使在三年多的每日使用后，我们发现没有临床健康改善，可能是因为我们没有检测到对平均暴露的影响。临床健康改善可能需要降低环境浓度。（JEL I12, O12, O13, Q51, Q53）",
+            "title_en": "Rainfall Inequality, Political Power, and Ethnic Conflict in Africa",
+            "title_zh": "",
+            "url": "https://doi.org/10.1257/pol.20210174",
+            "authors": "Andrea Guariso, Thorsten Rogall",
+            "date": "2026-08-01",
+            "abstract_en": "How are ethnic inequality and ethnic violence related? We empirically investigate this question using an innovative measure of resource inequality between ethnic groups, based on rainfall in ethnic homelands during the plant-growing season. Our main dataset covers the period 1950 – 2020 and includes 250 ethnicities located across 43 African countries. Our results indicate that rainfall-based inequality is a strong predictor of ethnic violence and that the link heavily depends on the power relations across ethnic groups. In terms of mechanisms, our results suggest that resource inequality leads to more ethnic conflicts by exacerbating grievances. (JEL D63, D72, D74, J15, O15, O17, Q54)",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新"
+            ]
+          },
+          {
+            "title_en": "Are Building Codes an Effective Adaptation to Wind Risk? Evidence from Remotely Detected Blue Tarps",
+            "title_zh": "",
+            "url": "https://doi.org/10.1257/pol.20240544",
+            "authors": "David Wolf, Kenji Takeuchi",
+            "date": "2026-08-01",
+            "abstract_en": "Hurricanes cause significant wind and water damage, yet economic research primarily focuses on the latter due to data limitations. We overcome this problem by analyzing photographs taken after Hurricane Irma (2017) to locate blue-tarped homes. Using a regression discontinuity framework, we find the 2001 Florida Building Code impacted wind risk for over 500,000 homeowners. Adopters were 22 percent less likely to experience wind damage and saw a 27 percent reduction in damage severity. Unrepaired properties also sold for 13.3 percent ($29,400) less and were harder to sell, underscoring the importance of building codes in mitigating risk and promoting climate change adaptation. (JEL Q54, R31, R38)",
+            "abstract_zh": "",
             "matched_topics": [
               "绿色发展"
             ]
           },
           {
-            "title_en": "Adjustable Product Attributes, Indirect Network Effects, and Subsidy Design: The Case of Electric Vehicles",
-            "title_zh": "可调整产品属性、间接网络效应与补贴设计：以电动汽车为例",
-            "url": "https://doi.org/10.1257/pol.20230294",
-            "authors": "Kevin Remmy",
-            "date": "2026-05-01",
-            "abstract_en": "This paper develops a structural model of endogenous product attribute choice in the presence of indirect network effects to study electric vehicle (EV) subsidies. Using data on the German EV market, I find that a support scheme almost doubled EV sales but substantially affected EVs’ price and driving range. These adjustments create a trade-off between optimizing different policy objectives when designing subsidies. Large purchase subsidies maximize EV sales, whereas large charging station subsidies maximize consumer and total surplus. The results suggest that maximizing EV sales can lead to unintended consequences in the form of price and range adjustments. (JEL D12, D22, D85, H25, L14, L62, R41)",
-            "abstract_zh": "本文构建了一个在间接网络效应存在下内生产品属性选择的结构模型，以研究电动汽车（EV）补贴。利用德国电动汽车市场的数据，我发现支持计划几乎使电动汽车销量翻倍，但显著影响了电动汽车的价格和续航里程。这些调整在设计补贴时创造了优化不同政策目标之间的权衡。大规模购买补贴最大化电动汽车销量，而大规模充电站补贴最大化消费者和总剩余。结果表明，最大化电动汽车销量可能导致价格和续航里程调整的意外后果。（JEL D12, D22, D85, H25, L14, L62, R41）",
+            "title_en": "Hurricanes, Climate Change Policies, and Electoral Accountability",
+            "title_zh": "",
+            "url": "https://doi.org/10.1257/pol.20230070",
+            "authors": "Stefano Gagliarducci, M. Daniele Paserman, Eleonora Patacchini",
+            "date": "2026-08-01",
+            "abstract_en": "This paper studies the conditions under which legislators promote policies that may be unpopular in the short term but yield long-term benefits. Using data on the universe of federal disaster declarations from 1989 to 2020, we document that representatives from congressional districts impacted by hurricanes are more inclined to support environmental legislation addressing climate change. However, this response depends on political circumstances: Only those in safe seats can change their political agenda toward policies that involve short-term costs for long-term gains. These results highlight the role of electoral incentives in shaping politicians' attitudes toward farsighted policymaking. (JEL D72, Q54, Q58)",
+            "abstract_zh": "",
             "matched_topics": [
-              "产业政策"
+              "绿色发展"
             ]
           }
         ],
@@ -393,33 +392,33 @@
         "category": "AEJ / micro",
         "issn": "1945-7669",
         "resolved_name": "American Economic Journal Microeconomics",
-        "issue_title": "Volume 18, Issue 2",
+        "issue_title": "Volume 18, Issue 3",
         "issue_url": "https://www.aeaweb.org/journals/mic",
         "matched_count": 2,
-        "total_in_issue": 14,
+        "total_in_issue": 15,
         "papers": [
           {
-            "title_en": "The Effect of Mergers on Innovation",
-            "title_zh": "合并对创新的影响",
-            "url": "https://doi.org/10.1257/mic.20240062",
-            "authors": "Kaustav Das, Tatiana Mayskaya, Arina Nikandrova",
-            "date": "2026-05-01",
-            "abstract_en": "We study the effect of a merger on R&D activity in a dynamic model with uncertainty about the feasibility of innovation. The merger has three effects: It may reduce the number of follow-up innovations (cannibalization effect), increase the probability of the first game-changer innovation (appropriability effect), and bring this innovation forward in time (informational effect). The model suggests mergers are more desirable when R&D outcomes are highly uncertain, but less so when the innovation path is clearer. A surprising policy implication is that the benefit of the merger may be higher if the first and subsequent innovations are closer substitutes. (JEL D21, D83, G34, O31)",
-            "abstract_zh": "我们在一个存在创新可行性不确定性的动态模型中研究了并购对研发活动的影响。并购有三个效应：它可能减少后续创新的数量（蚕食效应），增加首次突破性创新的概率（可占有性效应），并将这一创新提前（信息效应）。模型表明，当研发结果高度不确定时，并购更受欢迎，但在创新路径更清晰时则不那么受欢迎。一个令人惊讶的政策含义是，如果首次和后续创新更接近替代品，那么并购的收益可能更高。（JEL D21, D83, G34, O31）",
+            "title_en": "Product Liability Litigation and Innovation: Evidence from Medical Devices",
+            "title_zh": "",
+            "url": "https://doi.org/10.1257/mic.20240255",
+            "authors": "Alberto Galasso, Hong Luo",
+            "date": "2026-08-01",
+            "abstract_en": "We study the impact of product liability litigation on new product introductions by leading medical device firms. We find that the defendant firms, and other firms to a lesser extent, reduce their propensity to introduce new products in the litigated product categories during litigation years. We also show that changes to safety regulation influence the likelihood of litigation. Lastly, we show that the potential welfare loss due to litigation appears relatively contained: The decline in new product introductions is not permanent, it does not spill over beyond the litigated categories, and litigation induces firms to develop safer devices. (JEL D83, K13, L64, O31, O34)",
+            "abstract_zh": "",
             "matched_topics": [
               "创新"
             ]
           },
           {
-            "title_en": "The Organization of Innovation: Incomplete Contracts and the Outsourcing Decision",
-            "title_zh": "标题：创新组织：不完全合同与外包决策",
-            "url": "https://doi.org/10.1257/mic.20240053",
-            "authors": "Thomas Jungbauer, Sean Nicholson, June Pan, Michael Waldman, Lucy Xiaolu Wang",
-            "date": "2026-05-01",
-            "abstract_en": "Why do firms outsource research and development (R&D) for some products while conducting R&D in-house for similar ones? An innovating firm risks cannibalizing its existing products. The more profitable these products, the more the firm wants to limit cannibalization. We apply this logic to the organization of R&D by introducing a novel theoretical model in which developing in-house provides the firm more control over the new product’s location in product space. An empirical analysis of our testable predictions using pharmaceutical data concerning patents, patent expiration, and outsourcing at various stages of the R&D process supports our theoretical approach. (JEL D21, D22, L22, L24, L65, O31, O34)",
-            "abstract_zh": "为什么企业会将某些产品的的研发（R&D）外包，而对类似产品则在内部进行研发？创新企业面临现有产品被蚕食的风险。这些产品越有利可图，企业就越希望限制蚕食。我们将这一逻辑应用于研发的组织中，引入了一个新颖的理论模型，其中内部开发为企业提供更多对新产品在产品空间中位置的控制。我们使用有关专利、专利到期和研发各阶段外包的制药数据，对可测试的预测进行实证分析，支持我们的理论方法。（JEL D21, D22, L22, L24, L65, O31, O34）",
+            "title_en": "Collusion by Exclusion in Public Procurement",
+            "title_zh": "",
+            "url": "https://doi.org/10.1257/mic.20240308",
+            "authors": "Regina Seibel, Samuel Škoda",
+            "date": "2026-08-01",
+            "abstract_en": "This paper studies bid rigging in auctions with bidder preselection. We develop a theoretical model to analyze the optimal behavior of partial bid-rigging cartels and show how commonly used two-stage auction formats, in which the first stage is used to preselect bidders, may be exploited. Based on our theoretical results, we construct a collusion marker reflecting the optimal cartel strategy and, using administrative data on public procurement auctions in Slovakia, we identify bidders suspected of collusion. We show that bidder preselection allows cartels to exclude competitive rivals and thereby increase procurement costs above what would be possible without preselection. (JEL D43, D44, H57, L12)",
+            "abstract_zh": "",
             "matched_topics": [
-              "创新"
+              "产业政策"
             ]
           }
         ],
@@ -495,36 +494,11 @@
         "category": "Public economics",
         "issn": "0047-2727",
         "resolved_name": "Journal of Public Economics",
-        "issue_title": "Published 2026-09",
+        "issue_title": "Published 2026-10",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-public-economics",
-        "matched_count": 2,
-        "total_in_issue": 12,
-        "papers": [
-          {
-            "title_en": "Women’s labor subsidy: Evidence from Chile",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.jpubeco.2026.105719",
-            "authors": "Maria Isidora Palma, Valentina Paredes, Daniela Paz",
-            "date": "2026-09-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "产业政策"
-            ]
-          },
-          {
-            "title_en": "The incidence of rent subsidies: Evidence on rents, housing choices and supply",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.jpubeco.2026.105718",
-            "authors": "Essi Eerola, Teemu Lyytikäinen, Tuukka Saarimaa, Tuuli Vanhapelto",
-            "date": "2026-09-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "产业政策"
-            ]
-          }
-        ],
+        "matched_count": 0,
+        "total_in_issue": 5,
+        "papers": [],
         "error": null
       },
       {
@@ -537,7 +511,7 @@
         "issue_title": "Published 2027-01",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-development-economics",
         "matched_count": 0,
-        "total_in_issue": 7,
+        "total_in_issue": 10,
         "papers": [],
         "error": null
       },
@@ -548,10 +522,10 @@
         "category": "International",
         "issn": "0022-1996",
         "resolved_name": "Journal of International Economics",
-        "issue_title": "Published 2026-10",
+        "issue_title": "Published 2026-12",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-international-economics",
         "matched_count": 0,
-        "total_in_issue": 10,
+        "total_in_issue": 1,
         "papers": [],
         "error": null
       },
@@ -679,7 +653,7 @@
         "issue_title": "Published 2026-08",
         "issue_url": "https://www.sciencedirect.com/journal/international-journal-of-industrial-organization",
         "matched_count": 3,
-        "total_in_issue": 11,
+        "total_in_issue": 12,
         "papers": [
           {
             "title_en": "Designing emissions trading schemes for a price-regulated and concentrated industry: Insights from China’s power sector",
@@ -730,13 +704,25 @@
         "issue_title": "Volume 55, Issue 8",
         "issue_url": "https://www.sciencedirect.com/journal/research-policy",
         "matched_count": 12,
-        "total_in_issue": 20,
+        "total_in_issue": 19,
         "papers": [
           {
             "title_en": "‘Systems of use’: A lens to more deeply study user innovation",
             "title_zh": "",
             "url": "https://doi.org/10.1016/j.respol.2026.105534",
             "authors": "Eric von Hippel",
+            "date": "2026-10-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新"
+            ]
+          },
+          {
+            "title_en": "Follow the technology or follow the leader? Radical innovation and strategic leadership at a crossroads",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.respol.2026.105579",
+            "authors": "Sarosh Asad, Mariano L.M. Heyden, Lorenz Graf-Vlachy, Elizabeth J. Altman, Donald C. Hambrick, Zeki Simsek, Mary Tripsas",
             "date": "2026-10-01",
             "abstract_en": "",
             "abstract_zh": "",
@@ -865,18 +851,6 @@
             "matched_topics": [
               "创新"
             ]
-          },
-          {
-            "title_en": "Connectivity infrastructure and innovation: The effects of headquarters versus subsidiary management",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.respol.2026.105542",
-            "authors": "Catherine Magelssen, Luis Ballesteros, Casidhe Troyer",
-            "date": "2026-10-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新"
-            ]
           }
         ],
         "error": null
@@ -888,79 +862,143 @@
         "category": "Innovation",
         "issn": "0960-6491",
         "resolved_name": "Industrial and Corporate Change",
-        "issue_title": "Volume 35, Issue 3",
+        "issue_title": "Volume 35, Issue 4",
         "issue_url": "https://academic.oup.com/icc",
-        "matched_count": 6,
-        "total_in_issue": 10,
+        "matched_count": 11,
+        "total_in_issue": 14,
         "papers": [
           {
-            "title_en": "The influence of financial constraints on participation in and the impact of public policies for private R&amp;D",
-            "title_zh": "金融约束对私营研发参与及公共政策影响的研究",
-            "url": "https://doi.org/10.1093/icc/dtaf036",
-            "authors": "Diego Sancho-Bosch, Joost Heijs, Alex J Guerrero",
-            "date": "2026-05-29",
-            "abstract_en": "Abstract Financial constraints (FC) and access to external funding are widely recognized as barriers to R&D activities and are often cited as strong justifications for public support of R&D. However, the mediating role of these constraints in influencing the impact of policies on R&D spending by firms has received little attention. The main novelty of this article lies in the simultaneous use of a comprehensive set of 17 quantitative indicators which reflect the solvency, indebtedness, liquidity, and credit costs of firms as reflected in their balance sheets. These indicators were combined into seven synthetic measures through factor analysis. We addressed two research hypotheses. First, Spanish firms that face greater FC receive public support more frequently. The results suggest that highly indebted firms and those with greater solvency are less likely to participate in public support programs. Conversely, firms with higher costs associated with loans are more likely to receive support. Second, public support has a greater impact on the R&D expenditures of financially constrained firms (level of financial additionality [FA]) than on the R&D spending of less constrained firms. To assess this hypothesis, we use a propensity score matching model. The findings suggest higher FA for both the most solvent and the most indebted firms. However, if the costs of these debts are high, an effect of below-average additionality is observed.",
-            "abstract_zh": "摘要：财务约束（FC）和获取外部资金的能力被广泛认为是阻碍研发活动的因素，并且常被引用为支持公共研发支持的有力理由。然而，这些约束在影响政策对企业研发支出影响中的中介作用鲜有关注。本文的主要创新之处在于同时使用17个综合量化指标，这些指标反映了企业资产负债表中的偿债能力、负债、流动性和信贷成本。这些指标通过因子分析被整合成七个综合度量。我们探讨了两个研究假设。首先，面临更大财务约束的西班牙企业更频繁地获得公共支持。结果表明，负债累累的企业以及偿债能力较强的企业不太可能参与公共支持项目。相反，与贷款相关的成本较高的企业更有可能获得支持。其次，公共支持对财务受限企业的研发支出影响（财务额外性水平[FA]）大于对财务约束较小的企业的研发支出。为了评估这一假设，我们使用了倾向得分匹配模型。研究结果表明，偿债能力最强和负债最多的企业具有更高的FA。然而，如果这些债务的成本很高，观察到的是低于平均水平的额外性效应。",
+            "title_en": "If the state is incompetent, do it yourself: private alliance as an institutional architect in the catch-up process",
+            "title_zh": "",
+            "url": "https://doi.org/10.1093/icc/dtag011",
+            "authors": "Mirva Peltoniemi, Juha-Antti Lamberg, Mikko Ketokivi",
+            "date": "2026-07-31",
+            "abstract_en": "Abstract We examine the Finnish pulp and paper industry’s century-long catch-up journey, focusing on the intertwined development of technical and institutional capabilities. Using historical methods, we highlight how a private, self-organized R&D alliance evolved into an institutional architect, ultimately shaping not only governance but also regulation and entire innovation systems. Our findings demonstrate that sectoral systems of innovation emerge from both technological advancements and from private actors crafting adaptive institutions. The role of private actors is critical when governments are incapable of formulating and enforcing industrial policy. Overall, we propose that substantive experts contribute not only to technical but also to institutional capability.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "产业政策",
+              "创新"
+            ]
+          },
+          {
+            "title_en": "Factors enhancing AI adoption by firms. Evidence from France",
+            "title_zh": "",
+            "url": "https://doi.org/10.1093/icc/dtag006",
+            "authors": "Alessia Lo Turco, Alessandro Sterlacchini",
+            "date": "2026-07-31",
+            "abstract_en": "Abstract In this paper, we analyze firms that participated in two waves of the French ICT survey to identify key antecedents, measured in 2018, associated with the first-time adoption of artificial intelligence (AI) technologies in 2020. The analysis shows that the presence of data security systems, ICT training for employees, and the use of websites to collect customer information are all positively associated with the likelihood of starting to use AI. The relevance of these factors varies across business functions, with notable associations observed in administrative and marketing activities. In the case of marketing, AI adoption is also linked to prior use of e-commerce and customer relationship management applications. These patterns are consistent with existing evidence suggesting that AI adoption tends to follow a hierarchical trajectory, typically preceded by the digitization of business information.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "人工智能"
+            ]
+          },
+          {
+            "title_en": "Which discoveries are paradigm shifting?",
+            "title_zh": "",
+            "url": "https://doi.org/10.1093/icc/dtag002",
+            "authors": "Sajad Ashouri, Arash Hajikhani, Ari Hyytinen, Petri Rouvinen, Arho Suominen",
+            "date": "2026-07-31",
+            "abstract_en": "Abstract To more closely align theories of paradigm-shifting discoveries and their empirical quantification, we propose a novel measure that incorporates a discovery’s impact, novelty, and tendency to break with the past into a single, coherent measure. Calibration using the National Inventor Hall of Fame data reveals that the three dimensions are strict complements, meaning, for example, that greater impact cannot substitute for moderate novelty. We illustrate how the measure works and validate it in several complementary ways using data on the United States Patent and Trademark Office patents from 1982 to 2015. High values of the measure are strongly predictive of discoveries that are simultaneously exceptional in terms of their impact, novelty, and disruptiveness.",
+            "abstract_zh": "",
             "matched_topics": [
               "创新"
             ]
           },
           {
-            "title_en": "Modularity, life cycle and new entry without fundamental patents: lessons from the American household refrigerator industry before and after the great crash of 1929",
-            "title_zh": "模块化、生命周期与无基础专利的新进入：1929年大萧条前后美国家用冰箱行业的启示",
-            "url": "https://doi.org/10.1093/icc/dtaf034",
-            "authors": "Peter Scott, James T Walker",
-            "date": "2026-05-29",
-            "abstract_en": "Abstract Despite the absence of live fundamental patents, early movers in a new industry can face a daunting task to create a mass market. Using historical methods and rich archival materials we explore the role of modularity in shaping an industry’s market structure. We show how shifting dynamics undermined established industry “kingpins,” who invested heavily in product design, giant factories, and considerable marketing expenditures. However, those investments paved the way for new entrants, using lower-cost strategies. Falling costs associated with standardization, modularity, and third-party component manufacturers enabled late entrants to undercut the prices of the successful early movers, leading to a substantial “shake-in” of small firms and the dethroning of industry kingpins. The case of the household refrigerator shows the implications of a low intellectual property regime that captured value before the rise of a dominant design, but increasingly lost value capture on maturity.",
-            "abstract_zh": "摘要：尽管缺乏活跃的基础专利，新行业的先行者在创造大众市场方面仍面临艰巨任务。我们利用历史方法和丰富的档案材料，探讨模块化在塑造行业市场结构中的作用。我们展示了变化的动态如何破坏了在产品设计、大型工厂和大量营销支出上投入巨大的既定行业“霸主”。然而，这些投资为使用低成本策略的新进入者铺平了道路。与标准化、模块化和第三方组件制造商相关的成本下降，使后来者能够降低成功先行者的价格，导致大量小企业的“洗牌”和行业霸主的退位。家用冰箱的案例显示了在主导设计崛起之前，低知识产权制度如何捕获价值，但在成熟期逐渐失去价值捕获。",
+            "title_en": "Does manufacturing still matter? The revival of industrial policy and manufacturing’s contribution to development in high- and middle-income countries",
+            "title_zh": "",
+            "url": "https://doi.org/10.1093/icc/dtaf065",
+            "authors": "Antônio Carlos Diegues, Qiuyi Yang, José Eduardo Roselino, Marcos José Barbieri Ferreira, Renato Garcia",
+            "date": "2026-07-31",
+            "abstract_en": "Abstract This paper aims to analyze manufacturing’s contribution to development in high-income (HIC) and middle-income countries (MIC) from 2000 to 2019, revisiting the link between manufacturing and economic development by testing the inverted-U curve hypothesis (Rowthorn (1994); Palma (2005, Beyond Reforms: Structural Dynamics and Macroeconomic Vulnerability); Rodrik (2016, Journal of Economic Growth, 21, 1–33)) from an intra-manufacturing perspective. The original contribution of the analysis presented in this paper is to test the validity of this relationship for MIC and HIC by examining not the share of manufacturing in GDP (measured by value added), but the contribution of the manufacturing sector to development measured by the structural decomposition of productivity and wage growth. The paper’s main findings are: (i) the results do not indicate a decline in the contribution of manufacturing to development among middle- and high-income countries (MICs and HICs) as they attain higher levels of per capita income. In fact, across nearly all econometric specifications, no evidence of an inverted-U-shaped curve was observed between the manufacturing’s contribution to development and per capita income levels; (ii) in MIC, the empirical evidence reveals a broadly consistent pattern whereby rising per capita income is associated with an increasing contribution of manufacturing to development, whether measured in terms of productivity growth or wage growth, and (iii) For HIC, contrary to what can be inferred from the interpretations of normal or positive deindustrialization, no inverted-U curve is observed regarding the behavior of productivity. Regarding the wage variable, there is an almost generalized tendency for its contribution to development to decline as per capita income rises, except within the structural change component for high-technology sectors. Although counterintuitive, this pattern may reflect intensified international competition—mainly via global value chains—pushing down manufacturing costs in high-income economies. These findings challenge the notion of “natural” deindustrialization and highlight the persistent relevance of manufacturing, especially in technologically intensive sectors. They underscore the need for industrial and innovation policies tailored to sectoral heterogeneity and national contexts, particularly in light of digital and green transitions that are reshaping global production systems.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "产业政策",
+              "创新"
+            ]
+          },
+          {
+            "title_en": "Killers on the road of emerging start-ups—implications for market entry and venture capital financing",
+            "title_zh": "",
+            "url": "https://doi.org/10.1093/icc/dtaf061",
+            "authors": "Heli Koski, Otto Kässi, Fabian Braesemann",
+            "date": "2026-07-31",
+            "abstract_en": "Abstract The competitive effects of acquisitions made by large US-based technology companies have come under increased regulatory scrutiny over recent years because their acquisition patterns have been viewed as potentially harming competition. This paper studies the impact of acquisitions by large US-based technology companies on the entry dynamics and venture capital financing in their target product markets. We use data from Crunchbase, a global database of start-up companies, from 742 product markets globally, distinguishing the United States and European markets for 2003–2021. Using state-of-the-art econometric developments, we estimate the dynamic treatment effects model in the staggered, dynamic event study setting. Our estimation results suggest that the technology giants’ buyouts subsequently reduced market entry rates and decreased the available venture capital funding in the product markets of the acquired companies. The acquisition of technology giants seems to generate a so-called “kill zone,” which dissuades the market entry of new companies. Our findings highlight the long-term consequences that technology giants’ acquisitions may have, including a decline in venture capital financing and the creation of entry barriers in technology-intensive markets.",
+            "abstract_zh": "",
             "matched_topics": [
               "创新"
             ]
           },
           {
-            "title_en": "Antecedents of university entry into association for technology transfer political action",
-            "title_zh": "大学参与技术转移政治行动的先导因素",
-            "url": "https://doi.org/10.1093/icc/dtaf035",
-            "authors": "Konstantinos Pitsakis, Tobias Gössling",
-            "date": "2026-05-29",
-            "abstract_en": "Abstract Organizations increasingly rely on nonmarket, political action to advance their interests, either individually or collectively. In this article, we contribute to the theory by examining the antecedents of an organization’s decision to join an association, a standard vehicle for collective political action. We leverage panel data from 83 universities in England and Scotland covering the period from 1994 to 2008. Drawing from the resource-based view, we empirically show that universities with ample tangible and intangible resources are the ones that join Knowledge Exchange UK, the British technology transfer association. Specifically, universities are more likely to enter the association if they possess financial slack, reputation, and experience. Our findings suggest that an organization’s decision to join an association is driven not only by access to shared material benefits but also by power and political ambition. We discuss the managerial and theoretical implications of our study and propose new research avenues in the fields of technology transfer, association entry, and corporate political action.",
-            "abstract_zh": "摘要：组织越来越多地依赖非市场的政治行动来推进其利益，无论是单独还是集体行动。在本文中，我们通过考察组织决定加入协会的先决条件，为理论做出贡献，协会是集体政治行动的标准工具。我们利用1994年至2008年英格兰和苏格兰83所大学的面板数据。基于资源基础观点，我们实证表明，拥有充足有形和无形资源的大学是加入知识交流英国（英国技术转移协会）的大学。具体来说，如果大学拥有财务缓冲、声誉和经验，它们更有可能加入该协会。我们的发现表明，组织加入协会的决定不仅受到共享物质利益的驱动，还受到权力和政治抱负的驱动。我们讨论了我们研究的管理学和理论意义，并在技术转移、协会加入和企业政治行动领域提出了新的研究方向。",
+            "title_en": "Measuring artificial intelligence: a systematic assessment and implications for governance",
+            "title_zh": "",
+            "url": "https://doi.org/10.1093/icc/dtaf047",
+            "authors": "Kerstin Hötte, Taheya Tarannum, Vilhelm Verendel, Lauren Bennett",
+            "date": "2026-07-31",
+            "abstract_en": "Abstract Governing artificial intelligence (AI) inventions is a major policy concern. Yet, definitions and measurement approaches remain contested. We compare four patent-based definitions reflecting distinct understandings of AI. Using US patents (1990–2019), we assess the degree to which each approach describes AI as a general-purpose technology (GPT) and examine patent concentration by a few dominant firms. We find that between 3% and 17% of all US patents in 2019 are classified by at least one of the approaches as AI patents. Yet, only 1.4% of all AI patents are simultaneously identified by all four approaches. All approaches are consistent with AI having GPT characteristics, with the Keyword-based patents exhibiting the highest growth and generality. GPT indicates public good characteristics, which could be used to justify public support. Across methods, AI patents are concentrated among a few firms, highlighting market power and regulatory challenges. The wide variation in the subsets and characteristics of AI patents identified by these approaches suggests that currently multiple classification methods should be considered to formulate robust, inclusive, and effective analyses for AI governance.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新",
+              "人工智能"
+            ]
+          },
+          {
+            "title_en": "Experimentally organized innovation systems: lessons from DARPA, Apple, Amazon, Google, and Operation Warp Speed",
+            "title_zh": "",
+            "url": "https://doi.org/10.1093/icc/dtaf054",
+            "authors": "Bo Carlsson",
+            "date": "2026-07-31",
+            "abstract_en": "Abstract This article examines the experimental organization in some of the world’s most successful innovation systems: DARPA (The Defense Advanced Research Projects Agency), Apple, Amazon, and Operation Warp Speed (OWS). All these ventures are essentially experimentally organized innovation systems. The most important common feature is their infrastructure for innovation that enables them to experiment and pursue multiple approaches simultaneously, bear the cost of many failures, absorb new technology, rapidly commercialize innovations through marketing and new business formation, and scale up economic activity.",
+            "abstract_zh": "",
             "matched_topics": [
               "创新"
             ]
           },
           {
-            "title_en": "The impact of mergers on aggregate productivity: an empirical analysis using productivity decomposition",
-            "title_zh": "合并对总体生产率的影响：基于生产率分解的实证分析",
-            "url": "https://doi.org/10.1093/icc/dtaf032",
-            "authors": "Yojiro Ito, Daisuke Miyakawa",
-            "date": "2026-05-29",
-            "abstract_en": "Abstract This study examines the impact of mergers on aggregate productivity by focusing on the reallocation of resources from firms exiting through a merger to incumbent firms. To this end, we decompose aggregate productivity growth in Japan into the contribution of different exit modes such as bankruptcy, closure, and merger using a large panel dataset of Japanese firms. We find the following. First, the performance of firms that exit through a merger is on average better than that of incumbents, meaning that exit through a merger has a negative effect on aggregate productivity. Second, we find that mergers have a positive impact on the productivity growth of acquirers. Third and most importantly, given that this positive effect on acquirers is larger than the negative exit effect of the exit of merger targets, the reallocation of resources from the acquired firm to the acquiring firm through a merger has a positive effect on aggregate productivity growth in Japan.",
-            "abstract_zh": "摘要 本研究通过关注企业通过合并退出后资源向现存企业的重新分配，来检验合并对总体生产率的影响。为此，我们使用日本企业的大型面板数据集，将日本总体生产率增长分解为破产、关闭和合并等不同退出模式的贡献。我们发现以下几点。首先，通过合并退出的企业表现平均优于现存企业，这意味着通过合并退出对总体生产率有负面影响。其次，我们发现合并对收购方的生产率增长有积极影响。第三也是最重要的，鉴于这种对收购方的积极影响大于合并目标退出的负面退出效应，通过合并将资源从被收购企业重新分配到收购企业，对日本总体生产率增长有积极影响。",
+            "title_en": "Unraveling the impacts of green knowledge spillovers on SMEs’ green innovation, economic performance, and exporting: evidence from Germany",
+            "title_zh": "",
+            "url": "https://doi.org/10.1093/icc/dtaf053",
+            "authors": "John R Bryson, Geoffrey J D Hewings, Meng Song",
+            "date": "2026-07-31",
+            "abstract_en": "Abstract Green innovation is critical for the green transition, yet little is known about green knowledge spillovers across industries. Based on the knowledge-spillovers literature and using empirical evidence from German manufacturing small- and medium-sized enterprises (SMEs) during 2009–2019, this analysis reveals that SMEs benefit from horizontal green knowledge spillovers to boost green innovation and from backward spillovers to enhance productivity and profitability. SMEs can leverage these green innovations to expand into international markets through exporting. These effects vary across industries and sub-national locations.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新",
+              "绿色发展"
+            ]
+          },
+          {
+            "title_en": "Entrepreneurial orientation and innovation performance: do breadth and depth of external knowledge search matter?",
+            "title_zh": "",
+            "url": "https://doi.org/10.1093/icc/dtaf055",
+            "authors": "Jungho Kim, Chiara Marzocchi",
+            "date": "2026-07-31",
+            "abstract_en": "Abstract This study explores how a firm’s entrepreneurial orientation (EO) influences innovation performance. Specifically, by extending theoretical connections among EO, external knowledge search, and the attention-based view framework, it examines how the breadth and depth of external knowledge search moderate the U-shaped effect of EO on innovation performance. By analyzing unique firm-level data on EO and innovation from Korean manufacturing industries, it finds that the breadth of external knowledge search weakens the U-shaped effect of EO, but the depth of external knowledge search strengthens its effect. This work sheds light on the combination of EO and search strategies (breadth and depth) required to enhance innovation performance, while addressing constraints of managerial attention for internal EO implementation and external knowledge search.",
+            "abstract_zh": "",
             "matched_topics": [
               "创新"
             ]
           },
           {
-            "title_en": "Gender equality and firm innovation",
-            "title_zh": "性别平等与企业创新",
-            "url": "https://doi.org/10.1093/icc/dtaf033",
-            "authors": "Radeef Chundakkadan, Subash Sasidharan",
-            "date": "2026-05-29",
-            "abstract_en": "Abstract This study investigates the relationship between gender equality and innovation using micro establishment-level data pertaining to 72 countries and the Global Gender Gap Index as a proxy for gender equality. We find that female-owned firms are more innovative in economies with low gender inequality. Interestingly, male-owned firms are also beneficiaries of gender equality. Further, we identify three channels through which innovation is associated with gender equality—access to finance, human capital, and gender diversity and labour force participation.",
-            "abstract_zh": "摘要 本研究利用涉及72个国家的微观企业级数据和全球性别差距指数作为性别平等的代理变量，探讨了性别平等与创新之间的关系。我们发现，在性别不平等程度较低的经济体中，女性拥有的企业更具创新性。有趣的是，男性拥有的企业也是性别平等的受益者。此外，我们识别了创新与性别平等相关的三个渠道——获得融资、人力资本以及性别多样性和劳动力参与。",
+            "title_en": "Restructuring and layoffs in the Industry 4.0 era: the role of exposure to advanced manufacturing technologies",
+            "title_zh": "",
+            "url": "https://doi.org/10.1093/icc/dtaf052",
+            "authors": "Fabio Lamperti, Katiuscia Lavoratori, Davide Castellani",
+            "date": "2026-07-31",
+            "abstract_en": "Abstract This study examines how Industry 4.0 advanced manufacturing technologies (AMTs) influence restructuring decisions. Analyzing data from European manufacturing firms (2013–2020), we find that greater AMT exposure correlates with a lower overall likelihood of restructuring. When restructuring occurs, AMTs reduce closure probabilities while increasing downsizing likelihood and minimizing layoffs. AMT exposure is measured through industry-level adoption and firm-level capital intensity. This study emphasizes the need to consider both the benefits and disruptions of automation in shaping strategies.",
+            "abstract_zh": "",
             "matched_topics": [
-              "创新"
+              "人工智能"
             ]
           },
           {
-            "title_en": "What do R&amp;D spillovers from universities and firms contribute to productivity? Plant level productivity and technological and geographic proximity in Japan",
-            "title_zh": "大学和企业研发溢出对生产率的贡献是什么？日本的工厂级生产率、技术与地理邻近性",
-            "url": "https://doi.org/10.1093/icc/dtaf030",
-            "authors": "René Belderbos, Kenta Ikeuchi, Kyoji Fukao, Young Gak Kim, Hyeog Ug Kwon",
-            "date": "2026-05-29",
-            "abstract_en": "Abstract We examine the simultaneous influences of spillovers due to R&D by firms and universities on total factor productivity in a panel of over 20,000 Japanese manufacturing plants in Japan. Estimating fixed effects models and taking into account the geographic distribution of the population of plants operated by firms with R&D activities as well as the population of universities in Japan, we find a positive influence of both firm and university R&D that is technologically proximate. Inter-plant R&D spillovers decay exponentially in distance and lose 80% of their strength at a distance of 200 km. University R&D spillovers occur in proximity and are only significant at the municipal level. Decomposition analysis shows that the exit of geographically proximate plants operated by R&D intensive firms, which may be associated with a relocation of manufacturing activity abroad, plays a notable role in declining R&D spillovers and is an important phenomenon in major industrial agglomerations such as Tokyo and Osaka.",
-            "abstract_zh": "摘要：我们研究了企业与大学研发溢出对日本超过2万家日本制造工厂全要素生产率的共同影响。通过估计固定效应模型，并考虑在日本进行研发活动的企业工厂和大学人口的地理分布，我们发现技术接近的企业与大学研发都对全要素生产率有积极影响。工厂间研发溢出随距离指数衰减，在200公里的距离上损失80%的强度。大学研发溢出发生在近距离内，仅在市级层面上显著。分解分析显示，地理接近的、由研发密集型企业运营的工厂退出，可能与制造业活动向国外转移有关，在研发溢出下降中扮演了重要角色，是东京和大阪等主要工业集聚区的重要现象。",
+            "title_en": "International evidence on investor rewards to firms generating environmental innovation",
+            "title_zh": "",
+            "url": "https://doi.org/10.1093/icc/dtaf048",
+            "authors": "Houdou Basse Mama, Julien Fouquau",
+            "date": "2026-07-31",
+            "abstract_en": "Abstract Using firm patents across 38 countries, we explore whether, and if so, how investors value environmental innovations (EIs). We integrate the natural-resource-based view and innovation literature not only to predict a nonlinear link between EI and market valuation but also to hypothesize that firms with stronger absorptive capacity (AC) and those with higher stakeholder influence capacity (SIC) stand to benefit the most from EI. We provide evidence in support of these predictions. Our main analysis reveals a nonlinear valuation effect of EI, but the marginal effect is positive only for firms in the top 11% of EI distribution. However, the shape of the relation varies with firm characteristics, across jurisdictions, and over time. Investors discount EI in lower AC firms, while the shares of higher AC firms trade at a premium. The differential median valuation between higher and lower SIC firms is €564.2 million. Finally, the median European firm trades at a premium, but its North American and Japanese peers trade at a discount. Our results bear implications for the modest propensity of firms to generate EI and for the observed large cross-regional variations in EI.",
+            "abstract_zh": "",
             "matched_topics": [
               "创新"
             ]
@@ -1138,7 +1176,7 @@
         "issue_title": "Published 2026-09",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-environmental-economics-and-management",
         "matched_count": 0,
-        "total_in_issue": 2,
+        "total_in_issue": 4,
         "papers": [],
         "error": null
       },
@@ -1149,11 +1187,24 @@
         "category": "Environment",
         "issn": "1750-6816",
         "resolved_name": "Review of Environmental Economics and Policy",
-        "issue_title": "Volume 20, Issue 1",
+        "issue_title": "Volume 20, Issue 2",
         "issue_url": "https://academic.oup.com/reep",
-        "matched_count": 0,
+        "matched_count": 1,
         "total_in_issue": 11,
-        "papers": [],
+        "papers": [
+          {
+            "title_en": "The Ethics of Pollution Pricing",
+            "title_zh": "",
+            "url": "https://doi.org/10.1086/741920",
+            "authors": "Garth Heutel, J. Paul Kelleher",
+            "date": "2026-06-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "绿色发展"
+            ]
+          }
+        ],
         "error": null
       },
       {
@@ -1277,6 +1328,18 @@
             ]
           },
           {
+            "title_en": "How does the renewable energy transition affect energy security and equity? Diverging effects in developing and developed countries",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.eneco.2026.109543",
+            "authors": "Yiwei Ren, Xunhuan Li, Siyou Xia",
+            "date": "2026-09-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "绿色发展"
+            ]
+          },
+          {
             "title_en": "Subsidies, information, and energy-efficient cookstove adoption – A natural field experiment in rural Ethiopia",
             "title_zh": "",
             "url": "https://doi.org/10.1016/j.eneco.2026.109474",
@@ -1298,18 +1361,6 @@
             "abstract_zh": "",
             "matched_topics": [
               "创新",
-              "绿色发展"
-            ]
-          },
-          {
-            "title_en": "The value of dispatchability and earnings-at-risk of electricity generators in the energy transition",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.eneco.2026.109458",
-            "authors": "Lin Han, Nino Kordzakhia, Stefan Trück",
-            "date": "2026-09-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
               "绿色发展"
             ]
           }
@@ -1347,181 +1398,12 @@
         "source_type": "nber",
         "name": "NBER Working Papers",
         "category": "Working papers",
-        "issue_title": "Recent NBER Working Papers through 2026-07-24",
+        "issue_title": "Recent NBER Working Papers",
         "issue_url": "https://www.nber.org/papers",
-        "matched_count": 12,
-        "total_recent_considered": 220,
-        "papers": [
-          {
-            "title_en": "The Scientific Return of Biodiversity Conservation: Evidence from Fishing Bans Along the Yangtze River",
-            "title_zh": "",
-            "url": "https://www.nber.org/papers/w35535",
-            "authors": "Minhao Chen, Lin William Cong, Haoyu Gao, Andrew Karolyi, Hui Wang",
-            "date": "2026-07-23",
-            "abstract_en": "We document arguably unintended returns of biodiversity conservation to science discovery, exploiting the 2002 fishing ban in Chinaâan ecosystem restoration policy without explicit science-related objectives, which allows us to implement a difference-in-differences design across fish species. We find that the ban substantially increased research on affected species: funded programs rose by 21.5%, total funding by 22.8%, publications per program by 97.0%, and citations per paper by 106.7%. The effect is concentrated among researchers with geographic access to the river, and is stronger for non-extinct species and non-farmed fish species, suggesting that conservation expanded the supply of biological materials available for research. The ban also increased related public influence and patents. These results reveal that biodiversity conservation generates a significant scientific dividend through the restoration of natural research inputs, with implications for evaluating the broader benefits of ecosystem protections in an underdiscussed dimension for the science of science.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新"
-            ],
-            "paper_id": "w35535",
-            "programs": []
-          },
-          {
-            "title_en": "The Confucian Fertility Paradox: Education Competition and Ultra-Low Fertility in East Asia",
-            "title_zh": "",
-            "url": "https://www.nber.org/papers/w35532",
-            "authors": "Hanming Fang, Chang Liu",
-            "date": "2026-07-23",
-            "abstract_en": "Total fertility rates in East Asia have fallen to levels without historical precedent, even though the regionâs Confucian heritage long placed extraordinary emphasis on family continuity and large families. We argue that this âConfucian Fertility Paradoxâ dissolves once we separate two strands of the tradition and recognize that modernization affected them very differently. The pro-natal strand, built on lineage continuity, ancestor worship, and reliance on sons for old-age support, was gradually switched off as child mortality fell, incomes rose, women entered the labor force, and state pensions replaced the family as the main source of security in old age. What survived was the second strand: the veneration of education and of status won through examination success, rooted in the imperial examination tradition. Under modern conditions this surviving strand reverses sign with respect to its effect on fertility. Where the historical examination system rewarded having many sons so that one might succeed, the modern single-ranking tournament rewards concentrating resources on one or two intensively educated children, and the quantityâquality tradeoff turns a once pro-natal culture into a powerful engine of low fertility. Drawing on recent empirical evidence from China and Korea, we show how education competition becomes the channel through which traditional values now suppress childbearing. We explain why standard pro-natalist policies, such as removing birth restrictions or offering cash subsidies, accomplish little when the underlying problem is a competitive equilibrium in parental investment, and we argue that policies aimed at the source of the distortion, such as structural reform of educational pathways, hold more promise.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "产业政策"
-            ],
-            "paper_id": "w35532",
-            "programs": []
-          },
-          {
-            "title_en": "A Demand-Side Alternative to Renewable Curtailment: Natural Field Experimental Evidence from Two Countries",
-            "title_zh": "",
-            "url": "https://www.nber.org/papers/w35530",
-            "authors": "Daniel Lopez Garcia, Robert D. Metcalfe, Andrew R. Schein, Yixin Sun",
-            "date": "2026-07-23",
-            "abstract_en": "As renewable generation plays a growing role in the energy system, periods of negative wholesale electricity prices are becoming increasingly common and are expected to grow dramatically over the next ten years. Traditionally, system operators respond by paying generators, especially renewables, to curtail production, or mandating that they do so without compensation. In this study, we propose and test a novel alternative: exposing consumers to free and negative prices to stimulate demand when supply is abundant. We implemented large-scale nationwide natural field experiments simultaneously in Great Britain and Spain, with roughly 60,000 residential customers in each country randomized to receive varying financial incentives to âturn upâ their electricity. We found that demand increased substantially as prices fell to zero, but paying customers to consume beyond zero price yielded little additional response. Households with electric vehicles and rooftop solar had a larger elasticity than households without such technologies, suggesting demand turn-up becomes more effective as households adopt low-carbon technologies. In Great Britain, consumption was largely shifted from adjacent hours, while in Spain the increase appeared to represent net new demand. We develop a welfare framework showing conditions under which demand turn-up improves on curtailment; we find that by inducing additional consumption in periods and locations where the marginal cost of supply is low, demand turn-up generates welfare gains that curtailment leaves uncaptured.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "绿色发展"
-            ],
-            "paper_id": "w35530",
-            "programs": []
-          },
-          {
-            "title_en": "Evidence of How Electronic Reporting and Automated Auditing Affects Regulatory Compliance and Environmental Performance",
-            "title_zh": "",
-            "url": "https://www.nber.org/papers/w35525",
-            "authors": "Wayne B. Gray, Ronald Shadbegian, Ann Wolverton",
-            "date": "2026-07-23",
-            "abstract_en": "We investigate whether, by providing better and more timely information, the first mandatory online reporting and auditing program for wastewater discharge releases in the U.S. improved facility compliance and environmental performance, while also allowing state regulators to more effectively monitor and enforce regulations. Examining reporting programs with automated feedback features can also offer insights into the potential for artificial intelligence-based tools to improve compliance and environmental performance. Difference-in-difference results suggest that the program resulted in significant increases in the completeness of reporting and reductions in discharges but also greater reported violations. We find that effects are larger for minor dischargers and publicly owned facilities. We also find evidence consistent with the more efficient targeting of inspections by state authorities towards plants with a history of recent noncompliance, which could be a potential mechanism driving these results.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "人工智能"
-            ],
-            "paper_id": "w35525",
-            "programs": []
-          },
-          {
-            "title_en": "Spillover Effects in Complementary Markets: A Study of the Indian Cell Phone and Wireless Service Markets",
-            "title_zh": "",
-            "url": "https://www.nber.org/papers/w35522",
-            "authors": "Chirantan Chatterjee, Ying Fan, Debi Prasad Mohapatra",
-            "date": "2026-07-23",
-            "abstract_en": "This paper studies how spillovers across complementary markets shape product variety and firm entry. We examine the Indian cell phone and wireless service markets during the 4G rollout and estimate a structural model of demand, pricing, carrier network expansion, and phone product choice. The estimation results support the economic forces through which complementarity generates spillovers. Counterfactual simulations show that banning budget Chinese phones slows 4G deployment by roughly five quarters and lowers consumer welfare without raising domestic firms' profits. Similarly, an unrestricted subsidy outperforms a domestic-only subsidy in expanding network coverage, increasing consumer welfare, and raising domestic firms' profits.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "产业政策"
-            ],
-            "paper_id": "w35522",
-            "programs": []
-          },
-          {
-            "title_en": "Profits and Social Impacts: Complements vs. Tradeoffs for Lenders in Three Countries",
-            "title_zh": "",
-            "url": "https://www.nber.org/papers/w35521",
-            "authors": "Susan Athey, Bruno Fava, Dean Karlan, Adam Osman, Jonathan Zinman",
-            "date": "2026-07-23",
-            "abstract_en": "The canonical approach to corporate governance posits a tradeoff between maximizing shareholder profits and maximizing other aspects of shareholder welfare such as social impact. Advances in machine learning that enhance the firm's ability to target specific customers may exacerbate or ameliorate this tradeoff. We estimate these tradeoffs using data from randomized microcredit approvals in South Africa, the Philippines, and Bosnia. We examine social impact on two dimensions: credit access (i.e., reaching disadvantaged groups that typically have less access to financial markets) and impact (i.e., treatment effects on household income). Two of the three lenders could have increased average loan profit margin by 7â9 percentage points through machine learning-based targeting. However, such targeting pushes against social impact goals vis-Ã -vis credit access; specifically, women and lower-income households would have been more excluded (the implied impact on borrowers' income, also central to the dual goal of social impact, is too imprecisely estimated to draw an inference). To gauge the magnitude of the first tradeoff, we examine how profits would change if the lenders altered whom they lent to within each quintile of baseline borrower income, thus holding the distribution broadly similar but fine-tuning the targeting within income bands. Such a constraint would lower the profit gains of targeting by about half. These findings highlight the importance of quantifying tradeoffs and complementarities when deciding what to maximize.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "人工智能"
-            ],
-            "paper_id": "w35521",
-            "programs": []
-          },
-          {
-            "title_en": "Retail Betting Markets",
-            "title_zh": "",
-            "url": "https://www.nber.org/papers/w35520",
-            "authors": "Scott R. Baker, Justin Balthrop, Mark J. Johnson, Jason D. Kotter, Kevin Pisciotta",
-            "date": "2026-07-23",
-            "abstract_en": "This paper examines the rapid expansion and convergence of retail betting markets. We analyze market design elements, discuss economic utility, and highlight shared behavioral drivers of sports betting markets, prediction markets, and retail options trading. Our review underscores how technological innovation, behavioral biases, and regulatory arbitrage have shaped recent market evolution. We highlight important considerations for policy-makers facing a changing landscape and outline possibilities for further research.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新"
-            ],
-            "paper_id": "w35520",
-            "programs": []
-          },
-          {
-            "title_en": "Counterproductive Sustainable Investing: The Impact Elasticity of Brown and Green Firms",
-            "title_zh": "",
-            "url": "https://www.nber.org/papers/w35519",
-            "authors": "Samuel M. Hartzmark, Kelly Shue",
-            "date": "2026-07-23",
-            "abstract_en": "We develop a new measure of impact elasticity: the change in a firm's environmental impact due to a change in its cost of capital. We find that reducing green firms' financing costs leads to minimal impact changes, while increasing brown firms' financing costs causes significant negative impact changes. Thus, sustainable investing strategies that shift capital from brown to green firms contain a counterproductive channel that makes brown firms more brown without making green firms more green. A mistaken focus on percentage reductions in emissions rewards already-green firms for trivial reductions in emissions and gives brown firms weak incentives to improve.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "绿色发展"
-            ],
-            "paper_id": "w35519",
-            "programs": []
-          },
-          {
-            "title_en": "The Effects of U.S. Public R&D on Global Growth",
-            "title_zh": "",
-            "url": "https://www.nber.org/papers/w35517",
-            "authors": "Gustavo De Souza, Andrew J. Fieldhouse, Karel Mertens, Ishan B. Nath, Valerie A. Ramey",
-            "date": "2026-07-23",
-            "abstract_en": "This paper provides the first causal estimates of the global social returns to U.S. public R&D. We use a narrative identification strategy to quantify the effects of exogenous shocks to U.S. R&D appropriations on the dynamic TFP response of 69 foreign economies from 1980â2019. A U.S. R&D appropriations shock equal to 1 percent of the federal R&D capital stock raises foreign TFP by approximately 1 percent after 12 years. This response is driven primarily by nondefense rather than defense R&D and is concentrated in non-OECD economies. These patterns are most consistent with diffusion occurring through openly accessible scientific content, capital-embodied trade, and technological leapfrogging by economies further from the global frontier. A back-of-the-envelope calculation suggests that the global social returns to U.S. public nondefense R&D are roughly twice as large as the domestic returns, meaning the U.S. captures about half of these productivity benefits.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新"
-            ],
-            "paper_id": "w35517",
-            "programs": []
-          },
-          {
-            "title_en": "Beyond Price: Rights Trading in Strategic Factor Markets",
-            "title_zh": "",
-            "url": "https://www.nber.org/papers/w35515",
-            "authors": "Anparasan Mahalingam, Matthew J. Higgins",
-            "date": "2026-07-23",
-            "abstract_en": "Research on strategic factor markets has largely treated the terms of exchange as price. We argue that many strategic transactions instead divide value through contractual bundles in which payment terms and control rights are interdependent. In university technology licensing, we theorize Rights Trading: contingent payment, future improvement claims, and commercialization scope operate as linked components of the contractual bundle through which surplus is allocated. Using 858 hand coded universityâindustry licenses, we find that contracts relying more heavily on royalty and milestone provisions grant licensees stronger future improvement claims and broader commercialization scope. The results persist across controls and fixed effects and are directionally consistent with complementary instrumental-variable, event-study, and selection-bound analyses. We further show that this relationship is stronger when university technology transfer offices have greater contracting experience, suggesting that contracting capability shapes value appropriation in strategic factor markets. More broadly, the study shows that value appropriation in strategic factor markets depends not only on what organizations pay for strategic resources, but also on how contracts allocate control over their future development and commercialization.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新"
-            ],
-            "paper_id": "w35515",
-            "programs": []
-          },
-          {
-            "title_en": "The Environmental Costs of Sanctions: Flaring and Venting in Venezuela",
-            "title_zh": "",
-            "url": "https://www.nber.org/papers/w35512",
-            "authors": "Michele Fioretti, Kavanaugh FitzPatrick, Alessandro Iaria",
-            "date": "2026-07-23",
-            "abstract_en": "Economic sanctions on oil-producing autocracies change not only the quantity of oil but also how it is produced. Combining field-level production data with satellite measurements of gas flaring and atmospheric methane across six Latin American countries from 2012 to 2024, we study the U.S. sanctions on Venezuela. Per-barrel gas flaring in Venezuela rose about two-and-a-half-fold even as production fell by two-thirds, a pattern no unsanctioned neighbor shows, so environmental damage under sanctions is about two and a half times what a proportional decline in output would predict. Three channels generate this gap: the exit of small, dirty fields (composition) is more than offset by surviving fields running their infrastructure past design capacity (strain) and cutting their operating budgets (maintenance). We identify strain from the response of satellite-measured methane to the world price of naphtha, the imported diluent Venezuela's extra-heavy crude requires, and maintenance from a November 2022 U.S. Treasury license that allowed only Chevron to resume operations at its Venezuelan fields. A similar pattern of rising per-barrel emissions despite falling output appears under the sanctions on Iran (after 2018).",
-            "abstract_zh": "",
-            "matched_topics": [
-              "绿色发展"
-            ],
-            "paper_id": "w35512",
-            "programs": []
-          },
-          {
-            "title_en": "Bank Runs With and Without Bank Failure",
-            "title_zh": "",
-            "url": "https://www.nber.org/papers/w35504",
-            "authors": "Sergio A. Correia, Stephan Luck, Emil Verner",
-            "date": "2026-07-16",
-            "abstract_en": "We study the causes and consequences of bank runs. By applying large language models to historical newspapers, we create a comprehensive database of bank runs in U.S. history with information on 3,984 runs on individual banks from 1863 to 1934. Our novel data allow us to establish that runs are considerably more likely in weak banks but also occur in strong banks, especially in response to negative news about the real economy or the broader banking system. However, runs typically only result in failure for banks with poor fundamentals. Strong banks survive runs through various mechanisms, including signaling strength, interbank cooperation, and temporary suspension. At the local level, runs on banks with poor fundamentals translate into substantially larger declines in deposits, lending, and manufacturing activity than runs on strong banks. Our findings imply that poor fundamentals are central to explaining both when runs occur and when they have severe economic effects, tempering the view that small shocks can generate discontinuous jumps to bad equilibria through self-fulfilling run dynamics.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "人工智能"
-            ],
-            "paper_id": "w35504",
-            "programs": []
-          }
-        ],
-        "error": null
+        "matched_count": 0,
+        "total_recent_considered": 0,
+        "papers": [],
+        "error": "GET failed for https://data.nber.org/nber_paper_chapter_metadata/tsv/ref.tsv: 403 Client Error: Forbidden for url: https://data.nber.org/nber_paper_chapter_metadata/tsv/ref.tsv"
       }
     ],
     "journals": [
@@ -1532,34 +1414,21 @@
         "category": "Top 5",
         "issn": "0002-8282",
         "resolved_name": "American Economic Review",
-        "issue_title": "Volume 116, Issue 7",
+        "issue_title": "Volume 116, Issue 8",
         "issue_url": "https://www.aeaweb.org/journals/aer",
-        "matched_count": 2,
-        "total_in_issue": 15,
+        "matched_count": 1,
+        "total_in_issue": 12,
         "papers": [
           {
-            "title_en": "A Welfare Analysis of Policies Impacting Climate Change",
+            "title_en": "Energy Transitions in Regulated Markets",
             "title_zh": "",
-            "url": "https://doi.org/10.1257/aer.20250166",
-            "authors": "Robert W. Hahn, Nathaniel Hendren, Robert D. Metcalfe, Ben Sprung-Keyser",
-            "date": "2026-07-01",
-            "abstract_en": "We study the welfare impacts of 96 climate-related tax and spending policies. We extend and apply the marginal value of public funds (MVPF) framework, most notably providing a new method for incorporating learning-by-doing spillovers. We find subsidies for the production of clean energy (such as wind production tax credits) have higher MVPFs than all other subsidies in our sample, including EV subsidies. Conservation nudges have large MVPFs when targeting regions with dirty grids. Fuel taxes and cap-and-trade policies are highly efficient means of raising revenue. We also construct traditional cost-per-ton estimates and compare and contrast the lessons they provide. (JEL D83, H23, H25, L62, Q42, Q54, Q58)",
+            "url": "https://doi.org/10.1257/aer.20240094",
+            "authors": "Gautam Gowrisankaran, Ashley Langer, Mar Reguant",
+            "date": "2026-08-01",
+            "abstract_en": "Natural gas has replaced coal as the dominant fuel for US electricity generation. However, utilities in regulated US states have retired coal more slowly than others. We build a structural model of rate-of-return regulation during an energy transition where utilities face trade-offs between lowering costs and maintaining and using legacy capacity. A regulated utility facing carbon taxes lowers short-run coal generation 48 percent as much as a cost minimizer would. Thirty years after a sudden energy transition, a cost minimizer has retired 71 percent more coal capacity than the regulated utility. Alternative regulations may jeopardize affordability and reliability goals during energy transitions. (JEL D24, L94, L98, Q35, Q48)",
             "abstract_zh": "",
             "matched_topics": [
-              "产业政策",
               "绿色发展"
-            ]
-          },
-          {
-            "title_en": "Nobel Lecture: The Past and Future of Innovation: Can Progress Be Sustained?",
-            "title_zh": "",
-            "url": "https://doi.org/10.1257/aer.116.7.2299",
-            "authors": "Joel Mokyr",
-            "date": "2026-07-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新"
             ]
           }
         ],
@@ -1717,33 +1586,45 @@
         "category": "AEJ / policy",
         "issn": "1945-7731",
         "resolved_name": "American Economic Journal Economic Policy",
-        "issue_title": "Volume 18, Issue 2",
+        "issue_title": "Volume 18, Issue 3",
         "issue_url": "https://www.aeaweb.org/journals/pol",
-        "matched_count": 2,
+        "matched_count": 3,
         "total_in_issue": 17,
         "papers": [
           {
-            "title_en": "Cooking, Health, and Daily Exposure to Pollution Spikes",
-            "title_zh": "标题：烹饪、健康与日常暴露于污染峰值",
-            "url": "https://doi.org/10.1257/pol.20240290",
-            "authors": "Susanna B. Berkouwer, Joshua T. Dean",
-            "date": "2026-05-01",
-            "abstract_en": "Many routine daily activities—such as cooking and commuting—cause large recurring pollution spikes that may impact health without significantly affecting average exposure. We study pollution spikes by combining experimental variation in cooking technology with high-frequency data on individual pollution exposure and time-use in Kenya. Improved cookstoves reduce PM2.5 spikes while cooking by 51.3 μg/m 3 (41 percent) and cause a 0.24 standard deviation reduction in self-reported respiratory symptoms. However, even after more than three years of daily use, we find no clinical health improvements, possibly because we detect no impact on average exposure. Clinical health improvements may require reductions in ambient concentrations. (JEL I12, O12, O13, Q51, Q53)",
-            "abstract_zh": "许多日常活动，如烹饪和通勤，会导致大规模的周期性污染峰值，这可能会影响健康，但不会显著影响平均暴露水平。我们通过结合肯尼亚烹饪技术实验变化和高频个人污染暴露及时间使用数据，研究污染峰值。改进的炉灶在烹饪过程中减少了51.3微克/立方米（41%）的PM2.5峰值，并导致自报呼吸症状的标准差降低了0.24。然而，即使在三年多的每日使用后，我们发现没有临床健康改善，可能是因为我们没有检测到对平均暴露的影响。临床健康改善可能需要降低环境浓度。（JEL I12, O12, O13, Q51, Q53）",
+            "title_en": "Rainfall Inequality, Political Power, and Ethnic Conflict in Africa",
+            "title_zh": "",
+            "url": "https://doi.org/10.1257/pol.20210174",
+            "authors": "Andrea Guariso, Thorsten Rogall",
+            "date": "2026-08-01",
+            "abstract_en": "How are ethnic inequality and ethnic violence related? We empirically investigate this question using an innovative measure of resource inequality between ethnic groups, based on rainfall in ethnic homelands during the plant-growing season. Our main dataset covers the period 1950 – 2020 and includes 250 ethnicities located across 43 African countries. Our results indicate that rainfall-based inequality is a strong predictor of ethnic violence and that the link heavily depends on the power relations across ethnic groups. In terms of mechanisms, our results suggest that resource inequality leads to more ethnic conflicts by exacerbating grievances. (JEL D63, D72, D74, J15, O15, O17, Q54)",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新"
+            ]
+          },
+          {
+            "title_en": "Are Building Codes an Effective Adaptation to Wind Risk? Evidence from Remotely Detected Blue Tarps",
+            "title_zh": "",
+            "url": "https://doi.org/10.1257/pol.20240544",
+            "authors": "David Wolf, Kenji Takeuchi",
+            "date": "2026-08-01",
+            "abstract_en": "Hurricanes cause significant wind and water damage, yet economic research primarily focuses on the latter due to data limitations. We overcome this problem by analyzing photographs taken after Hurricane Irma (2017) to locate blue-tarped homes. Using a regression discontinuity framework, we find the 2001 Florida Building Code impacted wind risk for over 500,000 homeowners. Adopters were 22 percent less likely to experience wind damage and saw a 27 percent reduction in damage severity. Unrepaired properties also sold for 13.3 percent ($29,400) less and were harder to sell, underscoring the importance of building codes in mitigating risk and promoting climate change adaptation. (JEL Q54, R31, R38)",
+            "abstract_zh": "",
             "matched_topics": [
               "绿色发展"
             ]
           },
           {
-            "title_en": "Adjustable Product Attributes, Indirect Network Effects, and Subsidy Design: The Case of Electric Vehicles",
-            "title_zh": "可调整产品属性、间接网络效应与补贴设计：以电动汽车为例",
-            "url": "https://doi.org/10.1257/pol.20230294",
-            "authors": "Kevin Remmy",
-            "date": "2026-05-01",
-            "abstract_en": "This paper develops a structural model of endogenous product attribute choice in the presence of indirect network effects to study electric vehicle (EV) subsidies. Using data on the German EV market, I find that a support scheme almost doubled EV sales but substantially affected EVs’ price and driving range. These adjustments create a trade-off between optimizing different policy objectives when designing subsidies. Large purchase subsidies maximize EV sales, whereas large charging station subsidies maximize consumer and total surplus. The results suggest that maximizing EV sales can lead to unintended consequences in the form of price and range adjustments. (JEL D12, D22, D85, H25, L14, L62, R41)",
-            "abstract_zh": "本文构建了一个在间接网络效应存在下内生产品属性选择的结构模型，以研究电动汽车（EV）补贴。利用德国电动汽车市场的数据，我发现支持计划几乎使电动汽车销量翻倍，但显著影响了电动汽车的价格和续航里程。这些调整在设计补贴时创造了优化不同政策目标之间的权衡。大规模购买补贴最大化电动汽车销量，而大规模充电站补贴最大化消费者和总剩余。结果表明，最大化电动汽车销量可能导致价格和续航里程调整的意外后果。（JEL D12, D22, D85, H25, L14, L62, R41）",
+            "title_en": "Hurricanes, Climate Change Policies, and Electoral Accountability",
+            "title_zh": "",
+            "url": "https://doi.org/10.1257/pol.20230070",
+            "authors": "Stefano Gagliarducci, M. Daniele Paserman, Eleonora Patacchini",
+            "date": "2026-08-01",
+            "abstract_en": "This paper studies the conditions under which legislators promote policies that may be unpopular in the short term but yield long-term benefits. Using data on the universe of federal disaster declarations from 1989 to 2020, we document that representatives from congressional districts impacted by hurricanes are more inclined to support environmental legislation addressing climate change. However, this response depends on political circumstances: Only those in safe seats can change their political agenda toward policies that involve short-term costs for long-term gains. These results highlight the role of electoral incentives in shaping politicians' attitudes toward farsighted policymaking. (JEL D72, Q54, Q58)",
+            "abstract_zh": "",
             "matched_topics": [
-              "产业政策"
+              "绿色发展"
             ]
           }
         ],
@@ -1756,33 +1637,33 @@
         "category": "AEJ / micro",
         "issn": "1945-7669",
         "resolved_name": "American Economic Journal Microeconomics",
-        "issue_title": "Volume 18, Issue 2",
+        "issue_title": "Volume 18, Issue 3",
         "issue_url": "https://www.aeaweb.org/journals/mic",
         "matched_count": 2,
-        "total_in_issue": 14,
+        "total_in_issue": 15,
         "papers": [
           {
-            "title_en": "The Effect of Mergers on Innovation",
-            "title_zh": "合并对创新的影响",
-            "url": "https://doi.org/10.1257/mic.20240062",
-            "authors": "Kaustav Das, Tatiana Mayskaya, Arina Nikandrova",
-            "date": "2026-05-01",
-            "abstract_en": "We study the effect of a merger on R&D activity in a dynamic model with uncertainty about the feasibility of innovation. The merger has three effects: It may reduce the number of follow-up innovations (cannibalization effect), increase the probability of the first game-changer innovation (appropriability effect), and bring this innovation forward in time (informational effect). The model suggests mergers are more desirable when R&D outcomes are highly uncertain, but less so when the innovation path is clearer. A surprising policy implication is that the benefit of the merger may be higher if the first and subsequent innovations are closer substitutes. (JEL D21, D83, G34, O31)",
-            "abstract_zh": "我们在一个存在创新可行性不确定性的动态模型中研究了并购对研发活动的影响。并购有三个效应：它可能减少后续创新的数量（蚕食效应），增加首次突破性创新的概率（可占有性效应），并将这一创新提前（信息效应）。模型表明，当研发结果高度不确定时，并购更受欢迎，但在创新路径更清晰时则不那么受欢迎。一个令人惊讶的政策含义是，如果首次和后续创新更接近替代品，那么并购的收益可能更高。（JEL D21, D83, G34, O31）",
+            "title_en": "Product Liability Litigation and Innovation: Evidence from Medical Devices",
+            "title_zh": "",
+            "url": "https://doi.org/10.1257/mic.20240255",
+            "authors": "Alberto Galasso, Hong Luo",
+            "date": "2026-08-01",
+            "abstract_en": "We study the impact of product liability litigation on new product introductions by leading medical device firms. We find that the defendant firms, and other firms to a lesser extent, reduce their propensity to introduce new products in the litigated product categories during litigation years. We also show that changes to safety regulation influence the likelihood of litigation. Lastly, we show that the potential welfare loss due to litigation appears relatively contained: The decline in new product introductions is not permanent, it does not spill over beyond the litigated categories, and litigation induces firms to develop safer devices. (JEL D83, K13, L64, O31, O34)",
+            "abstract_zh": "",
             "matched_topics": [
               "创新"
             ]
           },
           {
-            "title_en": "The Organization of Innovation: Incomplete Contracts and the Outsourcing Decision",
-            "title_zh": "标题：创新组织：不完全合同与外包决策",
-            "url": "https://doi.org/10.1257/mic.20240053",
-            "authors": "Thomas Jungbauer, Sean Nicholson, June Pan, Michael Waldman, Lucy Xiaolu Wang",
-            "date": "2026-05-01",
-            "abstract_en": "Why do firms outsource research and development (R&D) for some products while conducting R&D in-house for similar ones? An innovating firm risks cannibalizing its existing products. The more profitable these products, the more the firm wants to limit cannibalization. We apply this logic to the organization of R&D by introducing a novel theoretical model in which developing in-house provides the firm more control over the new product’s location in product space. An empirical analysis of our testable predictions using pharmaceutical data concerning patents, patent expiration, and outsourcing at various stages of the R&D process supports our theoretical approach. (JEL D21, D22, L22, L24, L65, O31, O34)",
-            "abstract_zh": "为什么企业会将某些产品的的研发（R&D）外包，而对类似产品则在内部进行研发？创新企业面临现有产品被蚕食的风险。这些产品越有利可图，企业就越希望限制蚕食。我们将这一逻辑应用于研发的组织中，引入了一个新颖的理论模型，其中内部开发为企业提供更多对新产品在产品空间中位置的控制。我们使用有关专利、专利到期和研发各阶段外包的制药数据，对可测试的预测进行实证分析，支持我们的理论方法。（JEL D21, D22, L22, L24, L65, O31, O34）",
+            "title_en": "Collusion by Exclusion in Public Procurement",
+            "title_zh": "",
+            "url": "https://doi.org/10.1257/mic.20240308",
+            "authors": "Regina Seibel, Samuel Škoda",
+            "date": "2026-08-01",
+            "abstract_en": "This paper studies bid rigging in auctions with bidder preselection. We develop a theoretical model to analyze the optimal behavior of partial bid-rigging cartels and show how commonly used two-stage auction formats, in which the first stage is used to preselect bidders, may be exploited. Based on our theoretical results, we construct a collusion marker reflecting the optimal cartel strategy and, using administrative data on public procurement auctions in Slovakia, we identify bidders suspected of collusion. We show that bidder preselection allows cartels to exclude competitive rivals and thereby increase procurement costs above what would be possible without preselection. (JEL D43, D44, H57, L12)",
+            "abstract_zh": "",
             "matched_topics": [
-              "创新"
+              "产业政策"
             ]
           }
         ],
@@ -1858,36 +1739,11 @@
         "category": "Public economics",
         "issn": "0047-2727",
         "resolved_name": "Journal of Public Economics",
-        "issue_title": "Published 2026-09",
+        "issue_title": "Published 2026-10",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-public-economics",
-        "matched_count": 2,
-        "total_in_issue": 12,
-        "papers": [
-          {
-            "title_en": "Women’s labor subsidy: Evidence from Chile",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.jpubeco.2026.105719",
-            "authors": "Maria Isidora Palma, Valentina Paredes, Daniela Paz",
-            "date": "2026-09-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "产业政策"
-            ]
-          },
-          {
-            "title_en": "The incidence of rent subsidies: Evidence on rents, housing choices and supply",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.jpubeco.2026.105718",
-            "authors": "Essi Eerola, Teemu Lyytikäinen, Tuukka Saarimaa, Tuuli Vanhapelto",
-            "date": "2026-09-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "产业政策"
-            ]
-          }
-        ],
+        "matched_count": 0,
+        "total_in_issue": 5,
+        "papers": [],
         "error": null
       },
       {
@@ -1900,7 +1756,7 @@
         "issue_title": "Published 2027-01",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-development-economics",
         "matched_count": 0,
-        "total_in_issue": 7,
+        "total_in_issue": 10,
         "papers": [],
         "error": null
       },
@@ -1911,10 +1767,10 @@
         "category": "International",
         "issn": "0022-1996",
         "resolved_name": "Journal of International Economics",
-        "issue_title": "Published 2026-10",
+        "issue_title": "Published 2026-12",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-international-economics",
         "matched_count": 0,
-        "total_in_issue": 10,
+        "total_in_issue": 1,
         "papers": [],
         "error": null
       },
@@ -2042,7 +1898,7 @@
         "issue_title": "Published 2026-08",
         "issue_url": "https://www.sciencedirect.com/journal/international-journal-of-industrial-organization",
         "matched_count": 3,
-        "total_in_issue": 11,
+        "total_in_issue": 12,
         "papers": [
           {
             "title_en": "Designing emissions trading schemes for a price-regulated and concentrated industry: Insights from China’s power sector",
@@ -2093,13 +1949,25 @@
         "issue_title": "Volume 55, Issue 8",
         "issue_url": "https://www.sciencedirect.com/journal/research-policy",
         "matched_count": 12,
-        "total_in_issue": 20,
+        "total_in_issue": 19,
         "papers": [
           {
             "title_en": "‘Systems of use’: A lens to more deeply study user innovation",
             "title_zh": "",
             "url": "https://doi.org/10.1016/j.respol.2026.105534",
             "authors": "Eric von Hippel",
+            "date": "2026-10-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新"
+            ]
+          },
+          {
+            "title_en": "Follow the technology or follow the leader? Radical innovation and strategic leadership at a crossroads",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.respol.2026.105579",
+            "authors": "Sarosh Asad, Mariano L.M. Heyden, Lorenz Graf-Vlachy, Elizabeth J. Altman, Donald C. Hambrick, Zeki Simsek, Mary Tripsas",
             "date": "2026-10-01",
             "abstract_en": "",
             "abstract_zh": "",
@@ -2228,18 +2096,6 @@
             "matched_topics": [
               "创新"
             ]
-          },
-          {
-            "title_en": "Connectivity infrastructure and innovation: The effects of headquarters versus subsidiary management",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.respol.2026.105542",
-            "authors": "Catherine Magelssen, Luis Ballesteros, Casidhe Troyer",
-            "date": "2026-10-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新"
-            ]
           }
         ],
         "error": null
@@ -2251,79 +2107,143 @@
         "category": "Innovation",
         "issn": "0960-6491",
         "resolved_name": "Industrial and Corporate Change",
-        "issue_title": "Volume 35, Issue 3",
+        "issue_title": "Volume 35, Issue 4",
         "issue_url": "https://academic.oup.com/icc",
-        "matched_count": 6,
-        "total_in_issue": 10,
+        "matched_count": 11,
+        "total_in_issue": 14,
         "papers": [
           {
-            "title_en": "The influence of financial constraints on participation in and the impact of public policies for private R&amp;D",
-            "title_zh": "金融约束对私营研发参与及公共政策影响的研究",
-            "url": "https://doi.org/10.1093/icc/dtaf036",
-            "authors": "Diego Sancho-Bosch, Joost Heijs, Alex J Guerrero",
-            "date": "2026-05-29",
-            "abstract_en": "Abstract Financial constraints (FC) and access to external funding are widely recognized as barriers to R&D activities and are often cited as strong justifications for public support of R&D. However, the mediating role of these constraints in influencing the impact of policies on R&D spending by firms has received little attention. The main novelty of this article lies in the simultaneous use of a comprehensive set of 17 quantitative indicators which reflect the solvency, indebtedness, liquidity, and credit costs of firms as reflected in their balance sheets. These indicators were combined into seven synthetic measures through factor analysis. We addressed two research hypotheses. First, Spanish firms that face greater FC receive public support more frequently. The results suggest that highly indebted firms and those with greater solvency are less likely to participate in public support programs. Conversely, firms with higher costs associated with loans are more likely to receive support. Second, public support has a greater impact on the R&D expenditures of financially constrained firms (level of financial additionality [FA]) than on the R&D spending of less constrained firms. To assess this hypothesis, we use a propensity score matching model. The findings suggest higher FA for both the most solvent and the most indebted firms. However, if the costs of these debts are high, an effect of below-average additionality is observed.",
-            "abstract_zh": "摘要：财务约束（FC）和获取外部资金的能力被广泛认为是阻碍研发活动的因素，并且常被引用为支持公共研发支持的有力理由。然而，这些约束在影响政策对企业研发支出影响中的中介作用鲜有关注。本文的主要创新之处在于同时使用17个综合量化指标，这些指标反映了企业资产负债表中的偿债能力、负债、流动性和信贷成本。这些指标通过因子分析被整合成七个综合度量。我们探讨了两个研究假设。首先，面临更大财务约束的西班牙企业更频繁地获得公共支持。结果表明，负债累累的企业以及偿债能力较强的企业不太可能参与公共支持项目。相反，与贷款相关的成本较高的企业更有可能获得支持。其次，公共支持对财务受限企业的研发支出影响（财务额外性水平[FA]）大于对财务约束较小的企业的研发支出。为了评估这一假设，我们使用了倾向得分匹配模型。研究结果表明，偿债能力最强和负债最多的企业具有更高的FA。然而，如果这些债务的成本很高，观察到的是低于平均水平的额外性效应。",
+            "title_en": "If the state is incompetent, do it yourself: private alliance as an institutional architect in the catch-up process",
+            "title_zh": "",
+            "url": "https://doi.org/10.1093/icc/dtag011",
+            "authors": "Mirva Peltoniemi, Juha-Antti Lamberg, Mikko Ketokivi",
+            "date": "2026-07-31",
+            "abstract_en": "Abstract We examine the Finnish pulp and paper industry’s century-long catch-up journey, focusing on the intertwined development of technical and institutional capabilities. Using historical methods, we highlight how a private, self-organized R&D alliance evolved into an institutional architect, ultimately shaping not only governance but also regulation and entire innovation systems. Our findings demonstrate that sectoral systems of innovation emerge from both technological advancements and from private actors crafting adaptive institutions. The role of private actors is critical when governments are incapable of formulating and enforcing industrial policy. Overall, we propose that substantive experts contribute not only to technical but also to institutional capability.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "产业政策",
+              "创新"
+            ]
+          },
+          {
+            "title_en": "Factors enhancing AI adoption by firms. Evidence from France",
+            "title_zh": "",
+            "url": "https://doi.org/10.1093/icc/dtag006",
+            "authors": "Alessia Lo Turco, Alessandro Sterlacchini",
+            "date": "2026-07-31",
+            "abstract_en": "Abstract In this paper, we analyze firms that participated in two waves of the French ICT survey to identify key antecedents, measured in 2018, associated with the first-time adoption of artificial intelligence (AI) technologies in 2020. The analysis shows that the presence of data security systems, ICT training for employees, and the use of websites to collect customer information are all positively associated with the likelihood of starting to use AI. The relevance of these factors varies across business functions, with notable associations observed in administrative and marketing activities. In the case of marketing, AI adoption is also linked to prior use of e-commerce and customer relationship management applications. These patterns are consistent with existing evidence suggesting that AI adoption tends to follow a hierarchical trajectory, typically preceded by the digitization of business information.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "人工智能"
+            ]
+          },
+          {
+            "title_en": "Which discoveries are paradigm shifting?",
+            "title_zh": "",
+            "url": "https://doi.org/10.1093/icc/dtag002",
+            "authors": "Sajad Ashouri, Arash Hajikhani, Ari Hyytinen, Petri Rouvinen, Arho Suominen",
+            "date": "2026-07-31",
+            "abstract_en": "Abstract To more closely align theories of paradigm-shifting discoveries and their empirical quantification, we propose a novel measure that incorporates a discovery’s impact, novelty, and tendency to break with the past into a single, coherent measure. Calibration using the National Inventor Hall of Fame data reveals that the three dimensions are strict complements, meaning, for example, that greater impact cannot substitute for moderate novelty. We illustrate how the measure works and validate it in several complementary ways using data on the United States Patent and Trademark Office patents from 1982 to 2015. High values of the measure are strongly predictive of discoveries that are simultaneously exceptional in terms of their impact, novelty, and disruptiveness.",
+            "abstract_zh": "",
             "matched_topics": [
               "创新"
             ]
           },
           {
-            "title_en": "Modularity, life cycle and new entry without fundamental patents: lessons from the American household refrigerator industry before and after the great crash of 1929",
-            "title_zh": "模块化、生命周期与无基础专利的新进入：1929年大萧条前后美国家用冰箱行业的启示",
-            "url": "https://doi.org/10.1093/icc/dtaf034",
-            "authors": "Peter Scott, James T Walker",
-            "date": "2026-05-29",
-            "abstract_en": "Abstract Despite the absence of live fundamental patents, early movers in a new industry can face a daunting task to create a mass market. Using historical methods and rich archival materials we explore the role of modularity in shaping an industry’s market structure. We show how shifting dynamics undermined established industry “kingpins,” who invested heavily in product design, giant factories, and considerable marketing expenditures. However, those investments paved the way for new entrants, using lower-cost strategies. Falling costs associated with standardization, modularity, and third-party component manufacturers enabled late entrants to undercut the prices of the successful early movers, leading to a substantial “shake-in” of small firms and the dethroning of industry kingpins. The case of the household refrigerator shows the implications of a low intellectual property regime that captured value before the rise of a dominant design, but increasingly lost value capture on maturity.",
-            "abstract_zh": "摘要：尽管缺乏活跃的基础专利，新行业的先行者在创造大众市场方面仍面临艰巨任务。我们利用历史方法和丰富的档案材料，探讨模块化在塑造行业市场结构中的作用。我们展示了变化的动态如何破坏了在产品设计、大型工厂和大量营销支出上投入巨大的既定行业“霸主”。然而，这些投资为使用低成本策略的新进入者铺平了道路。与标准化、模块化和第三方组件制造商相关的成本下降，使后来者能够降低成功先行者的价格，导致大量小企业的“洗牌”和行业霸主的退位。家用冰箱的案例显示了在主导设计崛起之前，低知识产权制度如何捕获价值，但在成熟期逐渐失去价值捕获。",
+            "title_en": "Does manufacturing still matter? The revival of industrial policy and manufacturing’s contribution to development in high- and middle-income countries",
+            "title_zh": "",
+            "url": "https://doi.org/10.1093/icc/dtaf065",
+            "authors": "Antônio Carlos Diegues, Qiuyi Yang, José Eduardo Roselino, Marcos José Barbieri Ferreira, Renato Garcia",
+            "date": "2026-07-31",
+            "abstract_en": "Abstract This paper aims to analyze manufacturing’s contribution to development in high-income (HIC) and middle-income countries (MIC) from 2000 to 2019, revisiting the link between manufacturing and economic development by testing the inverted-U curve hypothesis (Rowthorn (1994); Palma (2005, Beyond Reforms: Structural Dynamics and Macroeconomic Vulnerability); Rodrik (2016, Journal of Economic Growth, 21, 1–33)) from an intra-manufacturing perspective. The original contribution of the analysis presented in this paper is to test the validity of this relationship for MIC and HIC by examining not the share of manufacturing in GDP (measured by value added), but the contribution of the manufacturing sector to development measured by the structural decomposition of productivity and wage growth. The paper’s main findings are: (i) the results do not indicate a decline in the contribution of manufacturing to development among middle- and high-income countries (MICs and HICs) as they attain higher levels of per capita income. In fact, across nearly all econometric specifications, no evidence of an inverted-U-shaped curve was observed between the manufacturing’s contribution to development and per capita income levels; (ii) in MIC, the empirical evidence reveals a broadly consistent pattern whereby rising per capita income is associated with an increasing contribution of manufacturing to development, whether measured in terms of productivity growth or wage growth, and (iii) For HIC, contrary to what can be inferred from the interpretations of normal or positive deindustrialization, no inverted-U curve is observed regarding the behavior of productivity. Regarding the wage variable, there is an almost generalized tendency for its contribution to development to decline as per capita income rises, except within the structural change component for high-technology sectors. Although counterintuitive, this pattern may reflect intensified international competition—mainly via global value chains—pushing down manufacturing costs in high-income economies. These findings challenge the notion of “natural” deindustrialization and highlight the persistent relevance of manufacturing, especially in technologically intensive sectors. They underscore the need for industrial and innovation policies tailored to sectoral heterogeneity and national contexts, particularly in light of digital and green transitions that are reshaping global production systems.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "产业政策",
+              "创新"
+            ]
+          },
+          {
+            "title_en": "Killers on the road of emerging start-ups—implications for market entry and venture capital financing",
+            "title_zh": "",
+            "url": "https://doi.org/10.1093/icc/dtaf061",
+            "authors": "Heli Koski, Otto Kässi, Fabian Braesemann",
+            "date": "2026-07-31",
+            "abstract_en": "Abstract The competitive effects of acquisitions made by large US-based technology companies have come under increased regulatory scrutiny over recent years because their acquisition patterns have been viewed as potentially harming competition. This paper studies the impact of acquisitions by large US-based technology companies on the entry dynamics and venture capital financing in their target product markets. We use data from Crunchbase, a global database of start-up companies, from 742 product markets globally, distinguishing the United States and European markets for 2003–2021. Using state-of-the-art econometric developments, we estimate the dynamic treatment effects model in the staggered, dynamic event study setting. Our estimation results suggest that the technology giants’ buyouts subsequently reduced market entry rates and decreased the available venture capital funding in the product markets of the acquired companies. The acquisition of technology giants seems to generate a so-called “kill zone,” which dissuades the market entry of new companies. Our findings highlight the long-term consequences that technology giants’ acquisitions may have, including a decline in venture capital financing and the creation of entry barriers in technology-intensive markets.",
+            "abstract_zh": "",
             "matched_topics": [
               "创新"
             ]
           },
           {
-            "title_en": "Antecedents of university entry into association for technology transfer political action",
-            "title_zh": "大学参与技术转移政治行动的先导因素",
-            "url": "https://doi.org/10.1093/icc/dtaf035",
-            "authors": "Konstantinos Pitsakis, Tobias Gössling",
-            "date": "2026-05-29",
-            "abstract_en": "Abstract Organizations increasingly rely on nonmarket, political action to advance their interests, either individually or collectively. In this article, we contribute to the theory by examining the antecedents of an organization’s decision to join an association, a standard vehicle for collective political action. We leverage panel data from 83 universities in England and Scotland covering the period from 1994 to 2008. Drawing from the resource-based view, we empirically show that universities with ample tangible and intangible resources are the ones that join Knowledge Exchange UK, the British technology transfer association. Specifically, universities are more likely to enter the association if they possess financial slack, reputation, and experience. Our findings suggest that an organization’s decision to join an association is driven not only by access to shared material benefits but also by power and political ambition. We discuss the managerial and theoretical implications of our study and propose new research avenues in the fields of technology transfer, association entry, and corporate political action.",
-            "abstract_zh": "摘要：组织越来越多地依赖非市场的政治行动来推进其利益，无论是单独还是集体行动。在本文中，我们通过考察组织决定加入协会的先决条件，为理论做出贡献，协会是集体政治行动的标准工具。我们利用1994年至2008年英格兰和苏格兰83所大学的面板数据。基于资源基础观点，我们实证表明，拥有充足有形和无形资源的大学是加入知识交流英国（英国技术转移协会）的大学。具体来说，如果大学拥有财务缓冲、声誉和经验，它们更有可能加入该协会。我们的发现表明，组织加入协会的决定不仅受到共享物质利益的驱动，还受到权力和政治抱负的驱动。我们讨论了我们研究的管理学和理论意义，并在技术转移、协会加入和企业政治行动领域提出了新的研究方向。",
+            "title_en": "Measuring artificial intelligence: a systematic assessment and implications for governance",
+            "title_zh": "",
+            "url": "https://doi.org/10.1093/icc/dtaf047",
+            "authors": "Kerstin Hötte, Taheya Tarannum, Vilhelm Verendel, Lauren Bennett",
+            "date": "2026-07-31",
+            "abstract_en": "Abstract Governing artificial intelligence (AI) inventions is a major policy concern. Yet, definitions and measurement approaches remain contested. We compare four patent-based definitions reflecting distinct understandings of AI. Using US patents (1990–2019), we assess the degree to which each approach describes AI as a general-purpose technology (GPT) and examine patent concentration by a few dominant firms. We find that between 3% and 17% of all US patents in 2019 are classified by at least one of the approaches as AI patents. Yet, only 1.4% of all AI patents are simultaneously identified by all four approaches. All approaches are consistent with AI having GPT characteristics, with the Keyword-based patents exhibiting the highest growth and generality. GPT indicates public good characteristics, which could be used to justify public support. Across methods, AI patents are concentrated among a few firms, highlighting market power and regulatory challenges. The wide variation in the subsets and characteristics of AI patents identified by these approaches suggests that currently multiple classification methods should be considered to formulate robust, inclusive, and effective analyses for AI governance.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新",
+              "人工智能"
+            ]
+          },
+          {
+            "title_en": "Experimentally organized innovation systems: lessons from DARPA, Apple, Amazon, Google, and Operation Warp Speed",
+            "title_zh": "",
+            "url": "https://doi.org/10.1093/icc/dtaf054",
+            "authors": "Bo Carlsson",
+            "date": "2026-07-31",
+            "abstract_en": "Abstract This article examines the experimental organization in some of the world’s most successful innovation systems: DARPA (The Defense Advanced Research Projects Agency), Apple, Amazon, and Operation Warp Speed (OWS). All these ventures are essentially experimentally organized innovation systems. The most important common feature is their infrastructure for innovation that enables them to experiment and pursue multiple approaches simultaneously, bear the cost of many failures, absorb new technology, rapidly commercialize innovations through marketing and new business formation, and scale up economic activity.",
+            "abstract_zh": "",
             "matched_topics": [
               "创新"
             ]
           },
           {
-            "title_en": "The impact of mergers on aggregate productivity: an empirical analysis using productivity decomposition",
-            "title_zh": "合并对总体生产率的影响：基于生产率分解的实证分析",
-            "url": "https://doi.org/10.1093/icc/dtaf032",
-            "authors": "Yojiro Ito, Daisuke Miyakawa",
-            "date": "2026-05-29",
-            "abstract_en": "Abstract This study examines the impact of mergers on aggregate productivity by focusing on the reallocation of resources from firms exiting through a merger to incumbent firms. To this end, we decompose aggregate productivity growth in Japan into the contribution of different exit modes such as bankruptcy, closure, and merger using a large panel dataset of Japanese firms. We find the following. First, the performance of firms that exit through a merger is on average better than that of incumbents, meaning that exit through a merger has a negative effect on aggregate productivity. Second, we find that mergers have a positive impact on the productivity growth of acquirers. Third and most importantly, given that this positive effect on acquirers is larger than the negative exit effect of the exit of merger targets, the reallocation of resources from the acquired firm to the acquiring firm through a merger has a positive effect on aggregate productivity growth in Japan.",
-            "abstract_zh": "摘要 本研究通过关注企业通过合并退出后资源向现存企业的重新分配，来检验合并对总体生产率的影响。为此，我们使用日本企业的大型面板数据集，将日本总体生产率增长分解为破产、关闭和合并等不同退出模式的贡献。我们发现以下几点。首先，通过合并退出的企业表现平均优于现存企业，这意味着通过合并退出对总体生产率有负面影响。其次，我们发现合并对收购方的生产率增长有积极影响。第三也是最重要的，鉴于这种对收购方的积极影响大于合并目标退出的负面退出效应，通过合并将资源从被收购企业重新分配到收购企业，对日本总体生产率增长有积极影响。",
+            "title_en": "Unraveling the impacts of green knowledge spillovers on SMEs’ green innovation, economic performance, and exporting: evidence from Germany",
+            "title_zh": "",
+            "url": "https://doi.org/10.1093/icc/dtaf053",
+            "authors": "John R Bryson, Geoffrey J D Hewings, Meng Song",
+            "date": "2026-07-31",
+            "abstract_en": "Abstract Green innovation is critical for the green transition, yet little is known about green knowledge spillovers across industries. Based on the knowledge-spillovers literature and using empirical evidence from German manufacturing small- and medium-sized enterprises (SMEs) during 2009–2019, this analysis reveals that SMEs benefit from horizontal green knowledge spillovers to boost green innovation and from backward spillovers to enhance productivity and profitability. SMEs can leverage these green innovations to expand into international markets through exporting. These effects vary across industries and sub-national locations.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新",
+              "绿色发展"
+            ]
+          },
+          {
+            "title_en": "Entrepreneurial orientation and innovation performance: do breadth and depth of external knowledge search matter?",
+            "title_zh": "",
+            "url": "https://doi.org/10.1093/icc/dtaf055",
+            "authors": "Jungho Kim, Chiara Marzocchi",
+            "date": "2026-07-31",
+            "abstract_en": "Abstract This study explores how a firm’s entrepreneurial orientation (EO) influences innovation performance. Specifically, by extending theoretical connections among EO, external knowledge search, and the attention-based view framework, it examines how the breadth and depth of external knowledge search moderate the U-shaped effect of EO on innovation performance. By analyzing unique firm-level data on EO and innovation from Korean manufacturing industries, it finds that the breadth of external knowledge search weakens the U-shaped effect of EO, but the depth of external knowledge search strengthens its effect. This work sheds light on the combination of EO and search strategies (breadth and depth) required to enhance innovation performance, while addressing constraints of managerial attention for internal EO implementation and external knowledge search.",
+            "abstract_zh": "",
             "matched_topics": [
               "创新"
             ]
           },
           {
-            "title_en": "Gender equality and firm innovation",
-            "title_zh": "性别平等与企业创新",
-            "url": "https://doi.org/10.1093/icc/dtaf033",
-            "authors": "Radeef Chundakkadan, Subash Sasidharan",
-            "date": "2026-05-29",
-            "abstract_en": "Abstract This study investigates the relationship between gender equality and innovation using micro establishment-level data pertaining to 72 countries and the Global Gender Gap Index as a proxy for gender equality. We find that female-owned firms are more innovative in economies with low gender inequality. Interestingly, male-owned firms are also beneficiaries of gender equality. Further, we identify three channels through which innovation is associated with gender equality—access to finance, human capital, and gender diversity and labour force participation.",
-            "abstract_zh": "摘要 本研究利用涉及72个国家的微观企业级数据和全球性别差距指数作为性别平等的代理变量，探讨了性别平等与创新之间的关系。我们发现，在性别不平等程度较低的经济体中，女性拥有的企业更具创新性。有趣的是，男性拥有的企业也是性别平等的受益者。此外，我们识别了创新与性别平等相关的三个渠道——获得融资、人力资本以及性别多样性和劳动力参与。",
+            "title_en": "Restructuring and layoffs in the Industry 4.0 era: the role of exposure to advanced manufacturing technologies",
+            "title_zh": "",
+            "url": "https://doi.org/10.1093/icc/dtaf052",
+            "authors": "Fabio Lamperti, Katiuscia Lavoratori, Davide Castellani",
+            "date": "2026-07-31",
+            "abstract_en": "Abstract This study examines how Industry 4.0 advanced manufacturing technologies (AMTs) influence restructuring decisions. Analyzing data from European manufacturing firms (2013–2020), we find that greater AMT exposure correlates with a lower overall likelihood of restructuring. When restructuring occurs, AMTs reduce closure probabilities while increasing downsizing likelihood and minimizing layoffs. AMT exposure is measured through industry-level adoption and firm-level capital intensity. This study emphasizes the need to consider both the benefits and disruptions of automation in shaping strategies.",
+            "abstract_zh": "",
             "matched_topics": [
-              "创新"
+              "人工智能"
             ]
           },
           {
-            "title_en": "What do R&amp;D spillovers from universities and firms contribute to productivity? Plant level productivity and technological and geographic proximity in Japan",
-            "title_zh": "大学和企业研发溢出对生产率的贡献是什么？日本的工厂级生产率、技术与地理邻近性",
-            "url": "https://doi.org/10.1093/icc/dtaf030",
-            "authors": "René Belderbos, Kenta Ikeuchi, Kyoji Fukao, Young Gak Kim, Hyeog Ug Kwon",
-            "date": "2026-05-29",
-            "abstract_en": "Abstract We examine the simultaneous influences of spillovers due to R&D by firms and universities on total factor productivity in a panel of over 20,000 Japanese manufacturing plants in Japan. Estimating fixed effects models and taking into account the geographic distribution of the population of plants operated by firms with R&D activities as well as the population of universities in Japan, we find a positive influence of both firm and university R&D that is technologically proximate. Inter-plant R&D spillovers decay exponentially in distance and lose 80% of their strength at a distance of 200 km. University R&D spillovers occur in proximity and are only significant at the municipal level. Decomposition analysis shows that the exit of geographically proximate plants operated by R&D intensive firms, which may be associated with a relocation of manufacturing activity abroad, plays a notable role in declining R&D spillovers and is an important phenomenon in major industrial agglomerations such as Tokyo and Osaka.",
-            "abstract_zh": "摘要：我们研究了企业与大学研发溢出对日本超过2万家日本制造工厂全要素生产率的共同影响。通过估计固定效应模型，并考虑在日本进行研发活动的企业工厂和大学人口的地理分布，我们发现技术接近的企业与大学研发都对全要素生产率有积极影响。工厂间研发溢出随距离指数衰减，在200公里的距离上损失80%的强度。大学研发溢出发生在近距离内，仅在市级层面上显著。分解分析显示，地理接近的、由研发密集型企业运营的工厂退出，可能与制造业活动向国外转移有关，在研发溢出下降中扮演了重要角色，是东京和大阪等主要工业集聚区的重要现象。",
+            "title_en": "International evidence on investor rewards to firms generating environmental innovation",
+            "title_zh": "",
+            "url": "https://doi.org/10.1093/icc/dtaf048",
+            "authors": "Houdou Basse Mama, Julien Fouquau",
+            "date": "2026-07-31",
+            "abstract_en": "Abstract Using firm patents across 38 countries, we explore whether, and if so, how investors value environmental innovations (EIs). We integrate the natural-resource-based view and innovation literature not only to predict a nonlinear link between EI and market valuation but also to hypothesize that firms with stronger absorptive capacity (AC) and those with higher stakeholder influence capacity (SIC) stand to benefit the most from EI. We provide evidence in support of these predictions. Our main analysis reveals a nonlinear valuation effect of EI, but the marginal effect is positive only for firms in the top 11% of EI distribution. However, the shape of the relation varies with firm characteristics, across jurisdictions, and over time. Investors discount EI in lower AC firms, while the shares of higher AC firms trade at a premium. The differential median valuation between higher and lower SIC firms is €564.2 million. Finally, the median European firm trades at a premium, but its North American and Japanese peers trade at a discount. Our results bear implications for the modest propensity of firms to generate EI and for the observed large cross-regional variations in EI.",
+            "abstract_zh": "",
             "matched_topics": [
               "创新"
             ]
@@ -2501,7 +2421,7 @@
         "issue_title": "Published 2026-09",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-environmental-economics-and-management",
         "matched_count": 0,
-        "total_in_issue": 2,
+        "total_in_issue": 4,
         "papers": [],
         "error": null
       },
@@ -2512,11 +2432,24 @@
         "category": "Environment",
         "issn": "1750-6816",
         "resolved_name": "Review of Environmental Economics and Policy",
-        "issue_title": "Volume 20, Issue 1",
+        "issue_title": "Volume 20, Issue 2",
         "issue_url": "https://academic.oup.com/reep",
-        "matched_count": 0,
+        "matched_count": 1,
         "total_in_issue": 11,
-        "papers": [],
+        "papers": [
+          {
+            "title_en": "The Ethics of Pollution Pricing",
+            "title_zh": "",
+            "url": "https://doi.org/10.1086/741920",
+            "authors": "Garth Heutel, J. Paul Kelleher",
+            "date": "2026-06-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "绿色发展"
+            ]
+          }
+        ],
         "error": null
       },
       {
@@ -2640,6 +2573,18 @@
             ]
           },
           {
+            "title_en": "How does the renewable energy transition affect energy security and equity? Diverging effects in developing and developed countries",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.eneco.2026.109543",
+            "authors": "Yiwei Ren, Xunhuan Li, Siyou Xia",
+            "date": "2026-09-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "绿色发展"
+            ]
+          },
+          {
             "title_en": "Subsidies, information, and energy-efficient cookstove adoption – A natural field experiment in rural Ethiopia",
             "title_zh": "",
             "url": "https://doi.org/10.1016/j.eneco.2026.109474",
@@ -2661,18 +2606,6 @@
             "abstract_zh": "",
             "matched_topics": [
               "创新",
-              "绿色发展"
-            ]
-          },
-          {
-            "title_en": "The value of dispatchability and earnings-at-risk of electricity generators in the energy transition",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.eneco.2026.109458",
-            "authors": "Lin Han, Nino Kordzakhia, Stefan Trück",
-            "date": "2026-09-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
               "绿色发展"
             ]
           }
@@ -2711,183 +2644,14 @@
       "source_type": "nber",
       "name": "NBER Working Papers",
       "category": "Working papers",
-      "issue_title": "Recent NBER Working Papers through 2026-07-24",
+      "issue_title": "Recent NBER Working Papers",
       "issue_url": "https://www.nber.org/papers",
-      "matched_count": 12,
-      "total_recent_considered": 220,
-      "papers": [
-        {
-          "title_en": "The Scientific Return of Biodiversity Conservation: Evidence from Fishing Bans Along the Yangtze River",
-          "title_zh": "",
-          "url": "https://www.nber.org/papers/w35535",
-          "authors": "Minhao Chen, Lin William Cong, Haoyu Gao, Andrew Karolyi, Hui Wang",
-          "date": "2026-07-23",
-          "abstract_en": "We document arguably unintended returns of biodiversity conservation to science discovery, exploiting the 2002 fishing ban in Chinaâan ecosystem restoration policy without explicit science-related objectives, which allows us to implement a difference-in-differences design across fish species. We find that the ban substantially increased research on affected species: funded programs rose by 21.5%, total funding by 22.8%, publications per program by 97.0%, and citations per paper by 106.7%. The effect is concentrated among researchers with geographic access to the river, and is stronger for non-extinct species and non-farmed fish species, suggesting that conservation expanded the supply of biological materials available for research. The ban also increased related public influence and patents. These results reveal that biodiversity conservation generates a significant scientific dividend through the restoration of natural research inputs, with implications for evaluating the broader benefits of ecosystem protections in an underdiscussed dimension for the science of science.",
-          "abstract_zh": "",
-          "matched_topics": [
-            "创新"
-          ],
-          "paper_id": "w35535",
-          "programs": []
-        },
-        {
-          "title_en": "The Confucian Fertility Paradox: Education Competition and Ultra-Low Fertility in East Asia",
-          "title_zh": "",
-          "url": "https://www.nber.org/papers/w35532",
-          "authors": "Hanming Fang, Chang Liu",
-          "date": "2026-07-23",
-          "abstract_en": "Total fertility rates in East Asia have fallen to levels without historical precedent, even though the regionâs Confucian heritage long placed extraordinary emphasis on family continuity and large families. We argue that this âConfucian Fertility Paradoxâ dissolves once we separate two strands of the tradition and recognize that modernization affected them very differently. The pro-natal strand, built on lineage continuity, ancestor worship, and reliance on sons for old-age support, was gradually switched off as child mortality fell, incomes rose, women entered the labor force, and state pensions replaced the family as the main source of security in old age. What survived was the second strand: the veneration of education and of status won through examination success, rooted in the imperial examination tradition. Under modern conditions this surviving strand reverses sign with respect to its effect on fertility. Where the historical examination system rewarded having many sons so that one might succeed, the modern single-ranking tournament rewards concentrating resources on one or two intensively educated children, and the quantityâquality tradeoff turns a once pro-natal culture into a powerful engine of low fertility. Drawing on recent empirical evidence from China and Korea, we show how education competition becomes the channel through which traditional values now suppress childbearing. We explain why standard pro-natalist policies, such as removing birth restrictions or offering cash subsidies, accomplish little when the underlying problem is a competitive equilibrium in parental investment, and we argue that policies aimed at the source of the distortion, such as structural reform of educational pathways, hold more promise.",
-          "abstract_zh": "",
-          "matched_topics": [
-            "产业政策"
-          ],
-          "paper_id": "w35532",
-          "programs": []
-        },
-        {
-          "title_en": "A Demand-Side Alternative to Renewable Curtailment: Natural Field Experimental Evidence from Two Countries",
-          "title_zh": "",
-          "url": "https://www.nber.org/papers/w35530",
-          "authors": "Daniel Lopez Garcia, Robert D. Metcalfe, Andrew R. Schein, Yixin Sun",
-          "date": "2026-07-23",
-          "abstract_en": "As renewable generation plays a growing role in the energy system, periods of negative wholesale electricity prices are becoming increasingly common and are expected to grow dramatically over the next ten years. Traditionally, system operators respond by paying generators, especially renewables, to curtail production, or mandating that they do so without compensation. In this study, we propose and test a novel alternative: exposing consumers to free and negative prices to stimulate demand when supply is abundant. We implemented large-scale nationwide natural field experiments simultaneously in Great Britain and Spain, with roughly 60,000 residential customers in each country randomized to receive varying financial incentives to âturn upâ their electricity. We found that demand increased substantially as prices fell to zero, but paying customers to consume beyond zero price yielded little additional response. Households with electric vehicles and rooftop solar had a larger elasticity than households without such technologies, suggesting demand turn-up becomes more effective as households adopt low-carbon technologies. In Great Britain, consumption was largely shifted from adjacent hours, while in Spain the increase appeared to represent net new demand. We develop a welfare framework showing conditions under which demand turn-up improves on curtailment; we find that by inducing additional consumption in periods and locations where the marginal cost of supply is low, demand turn-up generates welfare gains that curtailment leaves uncaptured.",
-          "abstract_zh": "",
-          "matched_topics": [
-            "绿色发展"
-          ],
-          "paper_id": "w35530",
-          "programs": []
-        },
-        {
-          "title_en": "Evidence of How Electronic Reporting and Automated Auditing Affects Regulatory Compliance and Environmental Performance",
-          "title_zh": "",
-          "url": "https://www.nber.org/papers/w35525",
-          "authors": "Wayne B. Gray, Ronald Shadbegian, Ann Wolverton",
-          "date": "2026-07-23",
-          "abstract_en": "We investigate whether, by providing better and more timely information, the first mandatory online reporting and auditing program for wastewater discharge releases in the U.S. improved facility compliance and environmental performance, while also allowing state regulators to more effectively monitor and enforce regulations. Examining reporting programs with automated feedback features can also offer insights into the potential for artificial intelligence-based tools to improve compliance and environmental performance. Difference-in-difference results suggest that the program resulted in significant increases in the completeness of reporting and reductions in discharges but also greater reported violations. We find that effects are larger for minor dischargers and publicly owned facilities. We also find evidence consistent with the more efficient targeting of inspections by state authorities towards plants with a history of recent noncompliance, which could be a potential mechanism driving these results.",
-          "abstract_zh": "",
-          "matched_topics": [
-            "人工智能"
-          ],
-          "paper_id": "w35525",
-          "programs": []
-        },
-        {
-          "title_en": "Spillover Effects in Complementary Markets: A Study of the Indian Cell Phone and Wireless Service Markets",
-          "title_zh": "",
-          "url": "https://www.nber.org/papers/w35522",
-          "authors": "Chirantan Chatterjee, Ying Fan, Debi Prasad Mohapatra",
-          "date": "2026-07-23",
-          "abstract_en": "This paper studies how spillovers across complementary markets shape product variety and firm entry. We examine the Indian cell phone and wireless service markets during the 4G rollout and estimate a structural model of demand, pricing, carrier network expansion, and phone product choice. The estimation results support the economic forces through which complementarity generates spillovers. Counterfactual simulations show that banning budget Chinese phones slows 4G deployment by roughly five quarters and lowers consumer welfare without raising domestic firms' profits. Similarly, an unrestricted subsidy outperforms a domestic-only subsidy in expanding network coverage, increasing consumer welfare, and raising domestic firms' profits.",
-          "abstract_zh": "",
-          "matched_topics": [
-            "产业政策"
-          ],
-          "paper_id": "w35522",
-          "programs": []
-        },
-        {
-          "title_en": "Profits and Social Impacts: Complements vs. Tradeoffs for Lenders in Three Countries",
-          "title_zh": "",
-          "url": "https://www.nber.org/papers/w35521",
-          "authors": "Susan Athey, Bruno Fava, Dean Karlan, Adam Osman, Jonathan Zinman",
-          "date": "2026-07-23",
-          "abstract_en": "The canonical approach to corporate governance posits a tradeoff between maximizing shareholder profits and maximizing other aspects of shareholder welfare such as social impact. Advances in machine learning that enhance the firm's ability to target specific customers may exacerbate or ameliorate this tradeoff. We estimate these tradeoffs using data from randomized microcredit approvals in South Africa, the Philippines, and Bosnia. We examine social impact on two dimensions: credit access (i.e., reaching disadvantaged groups that typically have less access to financial markets) and impact (i.e., treatment effects on household income). Two of the three lenders could have increased average loan profit margin by 7â9 percentage points through machine learning-based targeting. However, such targeting pushes against social impact goals vis-Ã -vis credit access; specifically, women and lower-income households would have been more excluded (the implied impact on borrowers' income, also central to the dual goal of social impact, is too imprecisely estimated to draw an inference). To gauge the magnitude of the first tradeoff, we examine how profits would change if the lenders altered whom they lent to within each quintile of baseline borrower income, thus holding the distribution broadly similar but fine-tuning the targeting within income bands. Such a constraint would lower the profit gains of targeting by about half. These findings highlight the importance of quantifying tradeoffs and complementarities when deciding what to maximize.",
-          "abstract_zh": "",
-          "matched_topics": [
-            "人工智能"
-          ],
-          "paper_id": "w35521",
-          "programs": []
-        },
-        {
-          "title_en": "Retail Betting Markets",
-          "title_zh": "",
-          "url": "https://www.nber.org/papers/w35520",
-          "authors": "Scott R. Baker, Justin Balthrop, Mark J. Johnson, Jason D. Kotter, Kevin Pisciotta",
-          "date": "2026-07-23",
-          "abstract_en": "This paper examines the rapid expansion and convergence of retail betting markets. We analyze market design elements, discuss economic utility, and highlight shared behavioral drivers of sports betting markets, prediction markets, and retail options trading. Our review underscores how technological innovation, behavioral biases, and regulatory arbitrage have shaped recent market evolution. We highlight important considerations for policy-makers facing a changing landscape and outline possibilities for further research.",
-          "abstract_zh": "",
-          "matched_topics": [
-            "创新"
-          ],
-          "paper_id": "w35520",
-          "programs": []
-        },
-        {
-          "title_en": "Counterproductive Sustainable Investing: The Impact Elasticity of Brown and Green Firms",
-          "title_zh": "",
-          "url": "https://www.nber.org/papers/w35519",
-          "authors": "Samuel M. Hartzmark, Kelly Shue",
-          "date": "2026-07-23",
-          "abstract_en": "We develop a new measure of impact elasticity: the change in a firm's environmental impact due to a change in its cost of capital. We find that reducing green firms' financing costs leads to minimal impact changes, while increasing brown firms' financing costs causes significant negative impact changes. Thus, sustainable investing strategies that shift capital from brown to green firms contain a counterproductive channel that makes brown firms more brown without making green firms more green. A mistaken focus on percentage reductions in emissions rewards already-green firms for trivial reductions in emissions and gives brown firms weak incentives to improve.",
-          "abstract_zh": "",
-          "matched_topics": [
-            "绿色发展"
-          ],
-          "paper_id": "w35519",
-          "programs": []
-        },
-        {
-          "title_en": "The Effects of U.S. Public R&D on Global Growth",
-          "title_zh": "",
-          "url": "https://www.nber.org/papers/w35517",
-          "authors": "Gustavo De Souza, Andrew J. Fieldhouse, Karel Mertens, Ishan B. Nath, Valerie A. Ramey",
-          "date": "2026-07-23",
-          "abstract_en": "This paper provides the first causal estimates of the global social returns to U.S. public R&D. We use a narrative identification strategy to quantify the effects of exogenous shocks to U.S. R&D appropriations on the dynamic TFP response of 69 foreign economies from 1980â2019. A U.S. R&D appropriations shock equal to 1 percent of the federal R&D capital stock raises foreign TFP by approximately 1 percent after 12 years. This response is driven primarily by nondefense rather than defense R&D and is concentrated in non-OECD economies. These patterns are most consistent with diffusion occurring through openly accessible scientific content, capital-embodied trade, and technological leapfrogging by economies further from the global frontier. A back-of-the-envelope calculation suggests that the global social returns to U.S. public nondefense R&D are roughly twice as large as the domestic returns, meaning the U.S. captures about half of these productivity benefits.",
-          "abstract_zh": "",
-          "matched_topics": [
-            "创新"
-          ],
-          "paper_id": "w35517",
-          "programs": []
-        },
-        {
-          "title_en": "Beyond Price: Rights Trading in Strategic Factor Markets",
-          "title_zh": "",
-          "url": "https://www.nber.org/papers/w35515",
-          "authors": "Anparasan Mahalingam, Matthew J. Higgins",
-          "date": "2026-07-23",
-          "abstract_en": "Research on strategic factor markets has largely treated the terms of exchange as price. We argue that many strategic transactions instead divide value through contractual bundles in which payment terms and control rights are interdependent. In university technology licensing, we theorize Rights Trading: contingent payment, future improvement claims, and commercialization scope operate as linked components of the contractual bundle through which surplus is allocated. Using 858 hand coded universityâindustry licenses, we find that contracts relying more heavily on royalty and milestone provisions grant licensees stronger future improvement claims and broader commercialization scope. The results persist across controls and fixed effects and are directionally consistent with complementary instrumental-variable, event-study, and selection-bound analyses. We further show that this relationship is stronger when university technology transfer offices have greater contracting experience, suggesting that contracting capability shapes value appropriation in strategic factor markets. More broadly, the study shows that value appropriation in strategic factor markets depends not only on what organizations pay for strategic resources, but also on how contracts allocate control over their future development and commercialization.",
-          "abstract_zh": "",
-          "matched_topics": [
-            "创新"
-          ],
-          "paper_id": "w35515",
-          "programs": []
-        },
-        {
-          "title_en": "The Environmental Costs of Sanctions: Flaring and Venting in Venezuela",
-          "title_zh": "",
-          "url": "https://www.nber.org/papers/w35512",
-          "authors": "Michele Fioretti, Kavanaugh FitzPatrick, Alessandro Iaria",
-          "date": "2026-07-23",
-          "abstract_en": "Economic sanctions on oil-producing autocracies change not only the quantity of oil but also how it is produced. Combining field-level production data with satellite measurements of gas flaring and atmospheric methane across six Latin American countries from 2012 to 2024, we study the U.S. sanctions on Venezuela. Per-barrel gas flaring in Venezuela rose about two-and-a-half-fold even as production fell by two-thirds, a pattern no unsanctioned neighbor shows, so environmental damage under sanctions is about two and a half times what a proportional decline in output would predict. Three channels generate this gap: the exit of small, dirty fields (composition) is more than offset by surviving fields running their infrastructure past design capacity (strain) and cutting their operating budgets (maintenance). We identify strain from the response of satellite-measured methane to the world price of naphtha, the imported diluent Venezuela's extra-heavy crude requires, and maintenance from a November 2022 U.S. Treasury license that allowed only Chevron to resume operations at its Venezuelan fields. A similar pattern of rising per-barrel emissions despite falling output appears under the sanctions on Iran (after 2018).",
-          "abstract_zh": "",
-          "matched_topics": [
-            "绿色发展"
-          ],
-          "paper_id": "w35512",
-          "programs": []
-        },
-        {
-          "title_en": "Bank Runs With and Without Bank Failure",
-          "title_zh": "",
-          "url": "https://www.nber.org/papers/w35504",
-          "authors": "Sergio A. Correia, Stephan Luck, Emil Verner",
-          "date": "2026-07-16",
-          "abstract_en": "We study the causes and consequences of bank runs. By applying large language models to historical newspapers, we create a comprehensive database of bank runs in U.S. history with information on 3,984 runs on individual banks from 1863 to 1934. Our novel data allow us to establish that runs are considerably more likely in weak banks but also occur in strong banks, especially in response to negative news about the real economy or the broader banking system. However, runs typically only result in failure for banks with poor fundamentals. Strong banks survive runs through various mechanisms, including signaling strength, interbank cooperation, and temporary suspension. At the local level, runs on banks with poor fundamentals translate into substantially larger declines in deposits, lending, and manufacturing activity than runs on strong banks. Our findings imply that poor fundamentals are central to explaining both when runs occur and when they have severe economic effects, tempering the view that small shocks can generate discontinuous jumps to bad equilibria through self-fulfilling run dynamics.",
-          "abstract_zh": "",
-          "matched_topics": [
-            "人工智能"
-          ],
-          "paper_id": "w35504",
-          "programs": []
-        }
-      ],
-      "error": null
+      "matched_count": 0,
+      "total_recent_considered": 0,
+      "papers": [],
+      "error": "GET failed for https://data.nber.org/nber_paper_chapter_metadata/tsv/ref.tsv: 403 Client Error: Forbidden for url: https://data.nber.org/nber_paper_chapter_metadata/tsv/ref.tsv"
     },
-    "total_matches": 83,
+    "total_matches": 75,
     "note": "Latest issue TOCs from economics top journals and field-top journals plus recent NBER Working Papers, filtered by title/abstract keywords for industrial policy, innovation, green development, and artificial intelligence."
   }
 }
