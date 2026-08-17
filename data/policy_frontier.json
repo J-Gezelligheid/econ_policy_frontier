@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-08-10 19:48:38",
+  "updated_at": "2026-08-17 19:30:17",
   "schema_version": 1,
   "translation": {
     "engine": "kimi",
     "model": "moonshot-v1-8k",
     "enabled": true,
     "success_count": 0,
-    "fail_count": 112,
+    "fail_count": 109,
     "failed_examples": [
       "Energy Transitions in Regulated Markets :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, please recharge your ",
       "Natural gas has replaced coal as the dominant fuel for US electricity generation. However, :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, please recharge your ",
@@ -497,7 +497,7 @@
         "issue_title": "Published 2026-10",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-public-economics",
         "matched_count": 0,
-        "total_in_issue": 8,
+        "total_in_issue": 12,
         "papers": [],
         "error": null
       },
@@ -510,14 +510,38 @@
         "resolved_name": "Journal of Development Economics",
         "issue_title": "Published 2027-01",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-development-economics",
-        "matched_count": 1,
-        "total_in_issue": 14,
+        "matched_count": 3,
+        "total_in_issue": 19,
         "papers": [
           {
             "title_en": "Exploitation vs. Exploration: How knowledge spillovers shape healthcare practices and innovation",
             "title_zh": "",
             "url": "https://doi.org/10.1016/j.jdeveco.2026.103892",
             "authors": "Yinan Liu, Chen Lin, Zixiao Li, Jing Zhang",
+            "date": "2027-01-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新"
+            ]
+          },
+          {
+            "title_en": "Reciprocity and state capacity: Evidence from a national pollution control reform in China",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jdeveco.2026.103905",
+            "authors": "Yu Luo, Yongwei Nian, Ming-ang Zhang",
+            "date": "2027-01-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "绿色发展"
+            ]
+          },
+          {
+            "title_en": "Dual-track in the family: How spousal state employment fuels entrepreneurship",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jdeveco.2026.103899",
+            "authors": "Wenchao Li, Yifan Lin, Junjian Yi, Haochen Zhang",
             "date": "2027-01-01",
             "abstract_en": "",
             "abstract_zh": "",
@@ -537,9 +561,22 @@
         "resolved_name": "Journal of International Economics",
         "issue_title": "Published 2026-12",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-international-economics",
-        "matched_count": 0,
-        "total_in_issue": 6,
-        "papers": [],
+        "matched_count": 1,
+        "total_in_issue": 9,
+        "papers": [
+          {
+            "title_en": "Transportation networks, technology adoption, and structural transformation",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jinteco.2026.104325",
+            "authors": "T. Terry Cheung, Han Yang",
+            "date": "2026-12-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新"
+            ]
+          }
+        ],
         "error": null
       },
       {
@@ -600,57 +637,33 @@
         "category": "Industrial organization",
         "issn": "0741-6261",
         "resolved_name": "The RAND Journal of Economics",
-        "issue_title": "Volume 57, Issue 2",
+        "issue_title": "Volume 57, Issue 3",
         "issue_url": "https://onlinelibrary.wiley.com/journal/17562171",
-        "matched_count": 4,
-        "total_in_issue": 12,
+        "matched_count": 2,
+        "total_in_issue": 16,
         "papers": [
           {
-            "title_en": "Acquisitions, Innovation and the Entrenchment of Monopoly",
-            "title_zh": "收购、创新与垄断的巩固",
-            "url": "https://doi.org/10.1111/1756-2171.70038",
-            "authors": "Vincenzo Denicolò, Michele Polo",
-            "date": "2026-06-01",
-            "abstract_en": "ABSTRACT We analyze a dynamic model of repeated innovation where inventors may either be acquired by an incumbent or else resist takeover and challenge for leadership. In the short run, acquisitions always spur innovation because of the invention‐for‐buyout effect. In the longer run, however, they may stifle it because of a countervailing effect, the entrenchment of monopoly. The latter occurs when the incumbent's dominance depends on past levels of activity and is therefore reinforced by recurrent acquisitions. We show that if the entrenchment effect is sufficiently strong, forward‐looking policymakers should prohibit acquisitions in anticipation of the long‐run negative impact on innovation. This argument sets out a new theory of harm that can be used to block acquisitions that could otherwise go unchallenged.",
-            "abstract_zh": "摘要：我们分析了一个重复创新的动态模型，其中发明者可能被在位企业收购，或者抵抗收购并挑战领导地位。短期内，收购总是能刺激创新，因为存在为收购而发明的效应。然而，从长远来看，它们可能会抑制创新，因为存在一个相反的效应，即垄断的固化。当在位企业的主导地位依赖于过去的活动水平时，就会发生后者，因此被反复的收购所加强。我们表明，如果固化效应足够强，具有前瞻性的决策者应该禁止收购，以预期对创新的长期负面影响。这一论点提出了一个新的损害理论，可以用来阻止那些否则可能不受挑战的收购。",
-            "matched_topics": [
-              "创新"
-            ]
-          },
-          {
-            "title_en": "Storage games",
-            "title_zh": "存储博弈",
-            "url": "https://doi.org/10.1111/1756-2171.70015",
-            "authors": "Sergei Balakin, Guillaume Roger",
-            "date": "2026-06-01",
-            "abstract_en": "ABSTRACT We study a long‐horizon, oligopolistic market with random shocks to demand that can be arbitraged by two storage operators with finite capacity. This problem applies to any storable commodity—that is, most commodities. Because the arbitrage spread is so sensitive to market power, storage operators face strong incentives to restrain quantities by tacitly colluding. This cooperation takes new forms thanks to the multiplicity of actions they must take: selling, buying, or both. We construct payoff‐maximizing equilibria of this stochastic game, and uncover a new form of Partial Cooperation that trades off quantities and delay. While collusive, Partial Cooperation delivers higher consumer surplus thanks to the market power effect. Head‐on competition is not always an equilibrium of the long‐horizon game when market power becomes large enough. We draw implications for policy and suggest poorly competitive storage is a negative externality to the development of the underlying commodity—for example, renewable energy.",
-            "abstract_zh": "摘要：我们研究了一个长期、寡头垄断市场，该市场受到需求随机冲击的影响，这些冲击可以被两个有限容量的存储运营商套利。这个问题适用于任何可储存商品，即大多数商品。由于套利价差对市场力量极为敏感，存储运营商面临强烈的动机，通过默契勾结来限制数量。由于他们必须采取多种行动：销售、购买或两者兼而有之，这种合作呈现出新的形式。我们构建了这个随机博弈的收益最大化均衡，并揭示了一种新的部分合作形式，即在数量和延迟之间进行权衡。尽管是勾结性的，部分合作由于市场力量效应，能够带来更高的消费者剩余。当市场力量变得足够大时，正面竞争并不总是长期博弈的均衡。我们为政策制定提出了启示，并建议竞争力不足的存储是底层商品发展（例如，可再生能源）的负外部性。",
+            "title_en": "Cleaner but Volatile Energy? The Effect of Coal Plant Retirement on Market Competition in the Wholesale Electricity Market",
+            "title_zh": "",
+            "url": "https://doi.org/10.1111/1756-2171.70064",
+            "authors": "Harim Kim",
+            "date": "2026-09-01",
+            "abstract_en": "ABSTRACT The energy transition from coal to gas is reshaping the power sector to rely more on gas generation, which is cleaner but has more variable input costs. Using counterfactual analysis, I study the competitive effects of this transition, by considering several transition paths that differ in the types of firms involved in retiring coal plants and investing in gas plants. I show that the variable nature of the marginal cost of gas generation creates an environment in which market power could increase after the transition. However, the transition's impact on competition depends on the characteristics of the firms investing in new gas generation; the adverse impact is mitigated under a well‐planned transition that leads to a more competitive industry structure.",
+            "abstract_zh": "",
             "matched_topics": [
               "绿色发展"
             ]
           },
           {
-            "title_en": "The Political Economy of Patent Buyouts",
-            "title_zh": "专利收购的政治经济学",
-            "url": "https://doi.org/10.1111/1756-2171.70017",
-            "authors": "Amal Ahmad, Dominik Naeher, Sebastian Vollmer",
-            "date": "2026-06-01",
-            "abstract_en": "ABSTRACT Incentivizing innovation through buyouts may alleviate the social costs associated with patent power, but the political economy and feasibility of this potentially important financing mechanism have been understudied. We study an international setting of countries with different innovation and financing capabilities, and where financing governments rely on taxes to fund buyouts and care about the electoral popularity of their decisions. Subsequent distributional conflict arises between countries as some may benefit from the now‐public knowledge without contributing equally to financing, whereas taxpayers within a country may disagree over the desired extent of tax financing for buyouts. We show that these conflicts reduce the feasibility of buyouts relative to patents, identify the conditions under which this harms global welfare, and discuss possibilities for overcoming these constraints. The international public good and public financing dimensions of buyouts emerge as essential for understanding their potential to supplant patents and to improve social welfare.",
-            "abstract_zh": "摘要：通过收购激励创新可能减轻与专利权相关的社会成本，但这种潜在重要的融资机制的政治经济和可行性一直未被充分研究。我们研究了一个国际环境，其中不同国家的创新和融资能力各异，融资政府依赖税收来资助收购，并关心其决策的选举受欢迎程度。随后，国家之间出现了分配冲突，因为一些国家可能从现在公开的知识中受益，而没有平等地贡献资金，而一个国家的纳税人可能对税收资助收购的期望程度存在分歧。我们展示了这些冲突降低了收购相对于专利的可行性，确定了这种情况损害全球福利的条件，并讨论了克服这些限制的可能性。收购的国际公共产品和公共融资维度对于理解其取代专利和提高社会福利的潜力至关重要。",
+            "title_en": "Preemptive Entry and Technology Diffusion: The Market for Drive‐In Theaters",
+            "title_zh": "",
+            "url": "https://doi.org/10.1111/1756-2171.70056",
+            "authors": "Ricard Gil, Jean‐François Houde, Shilong Sun, Yuya Takahashi",
+            "date": "2026-09-01",
+            "abstract_en": "ABSTRACT This article studies entry preemption in new industries. We first test a key prediction of dynamic entry games: Entry preemption is most relevant in intermediate‐sized markets, where firms face highest uncertainty about future entry. Using US drive‐in theater market (1945–1957) data, we find robust evidence for this non‐monotonic relationship between market size and early entry probability. We then estimate a dynamic entry game, and quantify preemption effects through counterfactual analysis. Preemptive motives increase early entry by up to 40% in mid‐size markets, raising entry costs by 5% and reducing firms' expected value by 1%.",
+            "abstract_zh": "",
             "matched_topics": [
               "创新"
-            ]
-          },
-          {
-            "title_en": "Buyer‐Optimal Platform Design",
-            "title_zh": "买家最优平台设计",
-            "url": "https://doi.org/10.1111/1756-2171.70014",
-            "authors": "Daniele Condorelli, Balazs Szentes",
-            "date": "2026-06-01",
-            "abstract_en": "ABSTRACT A platform matches a unit mass of sellers, each owning a single product of heterogeneous quality, to a unit mass of buyers with differing valuations for unit‐quality. After matching, sellers make take‐it‐or‐leave‐it price‐offers to buyers. Initially, valuations of buyers are only known to them and the platform, but sellers make inferences from the matching algorithm. The efficient matching is positive assortative, but buyer‐optimal matchings are stochastically negative assortative when there are few low‐value buyers (i.e., compared to lower‐quality sellers, high‐quality ones are matched to buyers with lower expected valuation). Although everyone trades, generating rents for the side lacking bargaining power results in inefficient matching.",
-            "abstract_zh": "摘要：一个平台将拥有不同质量产品的单一卖家群体与对单位质量有不同估值的买家群体进行匹配。匹配后，卖家向买家提出接受或放弃的价格提议。最初，只有买家和平台知道买家的估值，但卖家会从匹配算法中推断信息。有效的匹配是正向选择性的，但在低价值买家较少时（即与低质量卖家相比，高质量卖家被匹配到预期估值较低的买家），买家最优匹配是随机负向选择性的。尽管每个人都进行交易，为缺乏议价能力的一方创造租金，但这导致了匹配的低效率。",
-            "matched_topics": [
-              "人工智能"
             ]
           }
         ],
@@ -663,48 +676,11 @@
         "category": "Industrial organization",
         "issn": "0167-7187",
         "resolved_name": "International Journal of Industrial Organization",
-        "issue_title": "Published 2026-08",
+        "issue_title": "Published 2026-12",
         "issue_url": "https://www.sciencedirect.com/journal/international-journal-of-industrial-organization",
-        "matched_count": 3,
-        "total_in_issue": 12,
-        "papers": [
-          {
-            "title_en": "Designing emissions trading schemes for a price-regulated and concentrated industry: Insights from China’s power sector",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.ijindorg.2026.103301",
-            "authors": "Dong-Hyuk Kim, Hui Qiao, Ying Zheng",
-            "date": "2026-08-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "绿色发展"
-            ]
-          },
-          {
-            "title_en": "Does pollution prevention enhance firm efficiency? Insights from U.S. manufacturing firms",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.ijindorg.2026.103305",
-            "authors": "Sumaya Falak Memon, Subal Kumbhakar, Yingjun Su",
-            "date": "2026-08-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "绿色发展"
-            ]
-          },
-          {
-            "title_en": "Innovation and startup acquisition",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.ijindorg.2026.103307",
-            "authors": "Marc Bourreau, Axel Gautier",
-            "date": "2026-08-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新"
-            ]
-          }
-        ],
+        "matched_count": 0,
+        "total_in_issue": 1,
+        "papers": [],
         "error": null
       },
       {
@@ -714,53 +690,17 @@
         "category": "Innovation",
         "issn": "0048-7333",
         "resolved_name": "Research Policy",
-        "issue_title": "Volume 55, Issue 8",
+        "issue_title": "Volume 55, Issue 9",
         "issue_url": "https://www.sciencedirect.com/journal/research-policy",
-        "matched_count": 12,
-        "total_in_issue": 19,
+        "matched_count": 2,
+        "total_in_issue": 3,
         "papers": [
           {
-            "title_en": "‘Systems of use’: A lens to more deeply study user innovation",
+            "title_en": "Searching together: Human–AI complementarities in innovation search",
             "title_zh": "",
-            "url": "https://doi.org/10.1016/j.respol.2026.105534",
-            "authors": "Eric von Hippel",
-            "date": "2026-10-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新"
-            ]
-          },
-          {
-            "title_en": "Follow the technology or follow the leader? Radical innovation and strategic leadership at a crossroads",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.respol.2026.105579",
-            "authors": "Sarosh Asad, Mariano L.M. Heyden, Lorenz Graf-Vlachy, Elizabeth J. Altman, Donald C. Hambrick, Zeki Simsek, Mary Tripsas",
-            "date": "2026-10-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新"
-            ]
-          },
-          {
-            "title_en": "Can FinTech innovate green finance? Scrutinising the financial ecologies and innovation dynamics of FinTech for forest restoration",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.respol.2026.105564",
-            "authors": "Jack L. Harris, Felicia Liu, Benjamin S. Thompson",
-            "date": "2026-10-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新"
-            ]
-          },
-          {
-            "title_en": "Do societal promises influence patent value? An analysis of inventions in artificial intelligence",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.respol.2026.105566",
-            "authors": "Sergio Pelaez, Barbara Esteves-Ribeiro, Gaurav Verma, Philip Shapira",
-            "date": "2026-10-01",
+            "url": "https://doi.org/10.1016/j.respol.2026.105597",
+            "authors": "Reda Hassan, Sujith Nair",
+            "date": "2026-11-01",
             "abstract_en": "",
             "abstract_zh": "",
             "matched_topics": [
@@ -769,96 +709,11 @@
             ]
           },
           {
-            "title_en": "Scaling innovation through public procurement: Market acceleration, building, and transformation",
+            "title_en": "Are circular innovations disruptive? An analysis of the role of inventor networks in the European semiconductor industry",
             "title_zh": "",
-            "url": "https://doi.org/10.1016/j.respol.2026.105563",
-            "authors": "Maria Merisalo, Matti Pihlajamaa, Elvira Uyarra, Ville Valovirta, Juha Oksanen",
-            "date": "2026-10-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "产业政策",
-              "创新"
-            ]
-          },
-          {
-            "title_en": "At cross purposes? Housing markets and innovation in American Political Economy",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.respol.2026.105561",
-            "authors": "James D.G. Wood",
-            "date": "2026-10-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新"
-            ]
-          },
-          {
-            "title_en": "Discontinuous but not disruptive: Lessons from green steel on sustainability innovation pathways for foundation industries",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.respol.2026.105541",
-            "authors": "Viktor M. Salenius, Richard Cuthbertson, Jennifer Howard-Grenville",
-            "date": "2026-10-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新"
-            ]
-          },
-          {
-            "title_en": "Do public credit guarantees boost R&amp;D and innovation?",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.respol.2026.105560",
-            "authors": "Ahmet Deryol, Leone Leonida, Gulcin Ozkan",
-            "date": "2026-10-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新"
-            ]
-          },
-          {
-            "title_en": "Making sense of wickedness: Directionality heuristics for challenge-led innovation policy",
-            "title_zh": "理解顽疾：面向挑战引领型创新政策的方向性启发式",
-            "url": "https://doi.org/10.1016/j.respol.2026.105513",
-            "authors": "Matthias Mueller, Michael P. Schlaile, Stephanie Lang, Matthijs J. Janssen, Iris Wanzenböck, Kristina Bogner, Jana Zscheischler, Michael Schramm, et al.",
-            "date": "2026-10-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新"
-            ]
-          },
-          {
-            "title_en": "Leaky mess or safety vaults? Team knowledge production and post-mobility knowledge spillover",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.respol.2026.105548",
-            "authors": "Di Tong, Xiaoyu Zhang",
-            "date": "2026-10-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新"
-            ]
-          },
-          {
-            "title_en": "Patent protection and software firm financing",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.respol.2026.105571",
-            "authors": "Christian Helmers, Brian J. Love",
-            "date": "2026-10-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新"
-            ]
-          },
-          {
-            "title_en": "Utility model patent regimes around the world and over time: Strictness, usage, and economic development",
-            "title_zh": "全球及不同时期实用新型专利制度：严格性、使用情况与经济发展",
-            "url": "https://doi.org/10.1016/j.respol.2026.105517",
-            "authors": "Dan Prud’homme, Zitai Hu, Wenlong He, Curba Morris Lampert",
-            "date": "2026-10-01",
+            "url": "https://doi.org/10.1016/j.respol.2026.105574",
+            "authors": "Priyanshu Protim Pathak, Silvia Massini, Lucia Piscitello",
+            "date": "2026-11-01",
             "abstract_en": "",
             "abstract_zh": "",
             "matched_topics": [
@@ -1093,18 +948,6 @@
             ]
           },
           {
-            "title_en": "Representing Random Utility Choice Models with Neural Networks",
-            "title_zh": "",
-            "url": "https://doi.org/10.1287/mnsc.2023.02189",
-            "authors": "Ali Aouad, Antoine Désir",
-            "date": "2026-08-01",
-            "abstract_en": "Motivated by the successes of deep learning, we propose a class of neural network–based discrete choice models, called RUMnets, inspired by the random utility maximization (RUM) framework. This model formulates the agents’ random utility function using a sample average approximation. We show that RUMnets sharply approximate the class of RUM discrete choice models: Any model derived from random utility maximization has choice probabilities that can be approximated arbitrarily closely by a RUMnet. Reciprocally, any RUMnet is consistent with the RUM principle. Our approach is closely related to ranking-based models and mixtures of multinomial logits proposed in previous literature in a more general contextual setting. We derive an upper bound on the generalization error of RUMnets fitted on choice data and provide theoretical insights on their ability to predict choices on new unseen data depending on critical parameters of the data set and architecture. The models are estimated by leveraging open-source libraries for training neural networks. We find that RUMnets are competitive against several choice modeling and machine learning methods in terms of predictive accuracy on two real-world data sets. We also conduct synthetic experiments that isolate the effects of each architecture component. This paper was accepted by George Shanthikumar, data science. Funding: A. Désir is supported by the Desmarais Fund for Research in AI from INSEAD. Supplemental Material: The online appendices and data files are available at https://doi.org/10.1287/mnsc.2023.02189 .",
-            "abstract_zh": "",
-            "matched_topics": [
-              "人工智能"
-            ]
-          },
-          {
             "title_en": "Evaluating the Impact of Privacy Regulation on E-Commerce Firms: Evidence from Apple’s App Tracking Transparency",
             "title_zh": "",
             "url": "https://doi.org/10.1287/mnsc.2024.06600",
@@ -1114,6 +957,18 @@
             "abstract_zh": "",
             "matched_topics": [
               "创新"
+            ]
+          },
+          {
+            "title_en": "Representing Random Utility Choice Models with Neural Networks",
+            "title_zh": "",
+            "url": "https://doi.org/10.1287/mnsc.2023.02189",
+            "authors": "Ali Aouad, Antoine Désir",
+            "date": "2026-08-01",
+            "abstract_en": "Motivated by the successes of deep learning, we propose a class of neural network–based discrete choice models, called RUMnets, inspired by the random utility maximization (RUM) framework. This model formulates the agents’ random utility function using a sample average approximation. We show that RUMnets sharply approximate the class of RUM discrete choice models: Any model derived from random utility maximization has choice probabilities that can be approximated arbitrarily closely by a RUMnet. Reciprocally, any RUMnet is consistent with the RUM principle. Our approach is closely related to ranking-based models and mixtures of multinomial logits proposed in previous literature in a more general contextual setting. We derive an upper bound on the generalization error of RUMnets fitted on choice data and provide theoretical insights on their ability to predict choices on new unseen data depending on critical parameters of the data set and architecture. The models are estimated by leveraging open-source libraries for training neural networks. We find that RUMnets are competitive against several choice modeling and machine learning methods in terms of predictive accuracy on two real-world data sets. We also conduct synthetic experiments that isolate the effects of each architecture component. This paper was accepted by George Shanthikumar, data science. Funding: A. Désir is supported by the Desmarais Fund for Research in AI from INSEAD. Supplemental Material: The online appendices and data files are available at https://doi.org/10.1287/mnsc.2023.02189 .",
+            "abstract_zh": "",
+            "matched_topics": [
+              "人工智能"
             ]
           },
           {
@@ -1188,9 +1043,22 @@
         "resolved_name": "Journal of Environmental Economics and Management",
         "issue_title": "Published 2026-09",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-environmental-economics-and-management",
-        "matched_count": 0,
-        "total_in_issue": 4,
-        "papers": [],
+        "matched_count": 1,
+        "total_in_issue": 7,
+        "papers": [
+          {
+            "title_en": "Substituting storage for transmission: Implications for renewable energy",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jeem.2026.103400",
+            "authors": "J. Scott Holladay, Ben Meadows, Tim Roberson, Charles Sims",
+            "date": "2026-09-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "绿色发展"
+            ]
+          }
+        ],
         "error": null
       },
       {
@@ -1230,7 +1098,7 @@
         "issue_title": "Published 2026-09",
         "issue_url": "https://www.sciencedirect.com/journal/energy-economics",
         "matched_count": 12,
-        "total_in_issue": 31,
+        "total_in_issue": 26,
         "papers": [
           {
             "title_en": "Electrification's role in carbon mitigation: Heterogeneous, dynamic, and threshold effects across nations",
@@ -1261,6 +1129,30 @@
             "title_zh": "",
             "url": "https://doi.org/10.1016/j.eneco.2026.109502",
             "authors": "Duy Chinh Nguyen, Nhat Duy Lai",
+            "date": "2026-09-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "绿色发展"
+            ]
+          },
+          {
+            "title_en": "Does real-time pricing deliver lower carbon emissions?",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.eneco.2026.109552",
+            "authors": "Magdalena Strasburger, Tracey Dodd, Tim Nelson",
+            "date": "2026-09-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "绿色发展"
+            ]
+          },
+          {
+            "title_en": "From green electricity to green fertilizer: Economic and environmental benefits of ammonia diversified utilization in agricultural parks hybrid renewable energy systems",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.eneco.2026.109537",
+            "authors": "Sijie Wu, Lihui Zhang, Songrui Li, Dandan Pan, Shaoze Li",
             "date": "2026-09-01",
             "abstract_en": "",
             "abstract_zh": "",
@@ -1329,10 +1221,10 @@
             ]
           },
           {
-            "title_en": "Carbon footprint of bank loans and bank lending: Global evidence using Bayesian approach",
+            "title_en": "Self-reliance of supply chain actors under carbon policy: The role of carbon credits",
             "title_zh": "",
-            "url": "https://doi.org/10.1016/j.eneco.2026.109499",
-            "authors": "Duy Khanh Le",
+            "url": "https://doi.org/10.1016/j.eneco.2026.109535",
+            "authors": "Yang Bai, Ziqi Wang",
             "date": "2026-09-01",
             "abstract_en": "",
             "abstract_zh": "",
@@ -1341,34 +1233,10 @@
             ]
           },
           {
-            "title_en": "Reciprocal tariffs will increase global emission: Evidence and numerical simulation results",
+            "title_en": "Climate policy diffusion across US states",
             "title_zh": "",
-            "url": "https://doi.org/10.1016/j.eneco.2026.109462",
-            "authors": "Chunding LI, Meng LI, Jing LIU, Qiyuan XU",
-            "date": "2026-09-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "绿色发展"
-            ]
-          },
-          {
-            "title_en": "Dynamic investment, subsidies, and welfare effects of rural rooftop photovoltaics: A bilateral decision analysis in rural China",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.eneco.2026.109506",
-            "authors": "Zenghui Chao, Wenhao Gu, Wenyu Fan, Zhenzhi Wang, Jun Zhang",
-            "date": "2026-09-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "产业政策"
-            ]
-          },
-          {
-            "title_en": "How does the renewable energy transition affect energy security and equity? Diverging effects in developing and developed countries",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.eneco.2026.109543",
-            "authors": "Yiwei Ren, Xunhuan Li, Siyou Xia",
+            "url": "https://doi.org/10.1016/j.eneco.2026.109531",
+            "authors": "Mitali Das, Manuel Linsenmeier, Gregor Schwerhoff",
             "date": "2026-09-01",
             "abstract_en": "",
             "abstract_zh": "",
@@ -1389,7 +1257,7 @@
         "issue_title": "Published 2026-08",
         "issue_url": "https://www.sciencedirect.com/journal/resource-and-energy-economics",
         "matched_count": 1,
-        "total_in_issue": 7,
+        "total_in_issue": 8,
         "papers": [
           {
             "title_en": "On the fair abatement of riparian pollution",
@@ -1754,7 +1622,7 @@
         "issue_title": "Published 2026-10",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-public-economics",
         "matched_count": 0,
-        "total_in_issue": 8,
+        "total_in_issue": 12,
         "papers": [],
         "error": null
       },
@@ -1767,14 +1635,38 @@
         "resolved_name": "Journal of Development Economics",
         "issue_title": "Published 2027-01",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-development-economics",
-        "matched_count": 1,
-        "total_in_issue": 14,
+        "matched_count": 3,
+        "total_in_issue": 19,
         "papers": [
           {
             "title_en": "Exploitation vs. Exploration: How knowledge spillovers shape healthcare practices and innovation",
             "title_zh": "",
             "url": "https://doi.org/10.1016/j.jdeveco.2026.103892",
             "authors": "Yinan Liu, Chen Lin, Zixiao Li, Jing Zhang",
+            "date": "2027-01-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新"
+            ]
+          },
+          {
+            "title_en": "Reciprocity and state capacity: Evidence from a national pollution control reform in China",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jdeveco.2026.103905",
+            "authors": "Yu Luo, Yongwei Nian, Ming-ang Zhang",
+            "date": "2027-01-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "绿色发展"
+            ]
+          },
+          {
+            "title_en": "Dual-track in the family: How spousal state employment fuels entrepreneurship",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jdeveco.2026.103899",
+            "authors": "Wenchao Li, Yifan Lin, Junjian Yi, Haochen Zhang",
             "date": "2027-01-01",
             "abstract_en": "",
             "abstract_zh": "",
@@ -1794,9 +1686,22 @@
         "resolved_name": "Journal of International Economics",
         "issue_title": "Published 2026-12",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-international-economics",
-        "matched_count": 0,
-        "total_in_issue": 6,
-        "papers": [],
+        "matched_count": 1,
+        "total_in_issue": 9,
+        "papers": [
+          {
+            "title_en": "Transportation networks, technology adoption, and structural transformation",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jinteco.2026.104325",
+            "authors": "T. Terry Cheung, Han Yang",
+            "date": "2026-12-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新"
+            ]
+          }
+        ],
         "error": null
       },
       {
@@ -1857,57 +1762,33 @@
         "category": "Industrial organization",
         "issn": "0741-6261",
         "resolved_name": "The RAND Journal of Economics",
-        "issue_title": "Volume 57, Issue 2",
+        "issue_title": "Volume 57, Issue 3",
         "issue_url": "https://onlinelibrary.wiley.com/journal/17562171",
-        "matched_count": 4,
-        "total_in_issue": 12,
+        "matched_count": 2,
+        "total_in_issue": 16,
         "papers": [
           {
-            "title_en": "Acquisitions, Innovation and the Entrenchment of Monopoly",
-            "title_zh": "收购、创新与垄断的巩固",
-            "url": "https://doi.org/10.1111/1756-2171.70038",
-            "authors": "Vincenzo Denicolò, Michele Polo",
-            "date": "2026-06-01",
-            "abstract_en": "ABSTRACT We analyze a dynamic model of repeated innovation where inventors may either be acquired by an incumbent or else resist takeover and challenge for leadership. In the short run, acquisitions always spur innovation because of the invention‐for‐buyout effect. In the longer run, however, they may stifle it because of a countervailing effect, the entrenchment of monopoly. The latter occurs when the incumbent's dominance depends on past levels of activity and is therefore reinforced by recurrent acquisitions. We show that if the entrenchment effect is sufficiently strong, forward‐looking policymakers should prohibit acquisitions in anticipation of the long‐run negative impact on innovation. This argument sets out a new theory of harm that can be used to block acquisitions that could otherwise go unchallenged.",
-            "abstract_zh": "摘要：我们分析了一个重复创新的动态模型，其中发明者可能被在位企业收购，或者抵抗收购并挑战领导地位。短期内，收购总是能刺激创新，因为存在为收购而发明的效应。然而，从长远来看，它们可能会抑制创新，因为存在一个相反的效应，即垄断的固化。当在位企业的主导地位依赖于过去的活动水平时，就会发生后者，因此被反复的收购所加强。我们表明，如果固化效应足够强，具有前瞻性的决策者应该禁止收购，以预期对创新的长期负面影响。这一论点提出了一个新的损害理论，可以用来阻止那些否则可能不受挑战的收购。",
-            "matched_topics": [
-              "创新"
-            ]
-          },
-          {
-            "title_en": "Storage games",
-            "title_zh": "存储博弈",
-            "url": "https://doi.org/10.1111/1756-2171.70015",
-            "authors": "Sergei Balakin, Guillaume Roger",
-            "date": "2026-06-01",
-            "abstract_en": "ABSTRACT We study a long‐horizon, oligopolistic market with random shocks to demand that can be arbitraged by two storage operators with finite capacity. This problem applies to any storable commodity—that is, most commodities. Because the arbitrage spread is so sensitive to market power, storage operators face strong incentives to restrain quantities by tacitly colluding. This cooperation takes new forms thanks to the multiplicity of actions they must take: selling, buying, or both. We construct payoff‐maximizing equilibria of this stochastic game, and uncover a new form of Partial Cooperation that trades off quantities and delay. While collusive, Partial Cooperation delivers higher consumer surplus thanks to the market power effect. Head‐on competition is not always an equilibrium of the long‐horizon game when market power becomes large enough. We draw implications for policy and suggest poorly competitive storage is a negative externality to the development of the underlying commodity—for example, renewable energy.",
-            "abstract_zh": "摘要：我们研究了一个长期、寡头垄断市场，该市场受到需求随机冲击的影响，这些冲击可以被两个有限容量的存储运营商套利。这个问题适用于任何可储存商品，即大多数商品。由于套利价差对市场力量极为敏感，存储运营商面临强烈的动机，通过默契勾结来限制数量。由于他们必须采取多种行动：销售、购买或两者兼而有之，这种合作呈现出新的形式。我们构建了这个随机博弈的收益最大化均衡，并揭示了一种新的部分合作形式，即在数量和延迟之间进行权衡。尽管是勾结性的，部分合作由于市场力量效应，能够带来更高的消费者剩余。当市场力量变得足够大时，正面竞争并不总是长期博弈的均衡。我们为政策制定提出了启示，并建议竞争力不足的存储是底层商品发展（例如，可再生能源）的负外部性。",
+            "title_en": "Cleaner but Volatile Energy? The Effect of Coal Plant Retirement on Market Competition in the Wholesale Electricity Market",
+            "title_zh": "",
+            "url": "https://doi.org/10.1111/1756-2171.70064",
+            "authors": "Harim Kim",
+            "date": "2026-09-01",
+            "abstract_en": "ABSTRACT The energy transition from coal to gas is reshaping the power sector to rely more on gas generation, which is cleaner but has more variable input costs. Using counterfactual analysis, I study the competitive effects of this transition, by considering several transition paths that differ in the types of firms involved in retiring coal plants and investing in gas plants. I show that the variable nature of the marginal cost of gas generation creates an environment in which market power could increase after the transition. However, the transition's impact on competition depends on the characteristics of the firms investing in new gas generation; the adverse impact is mitigated under a well‐planned transition that leads to a more competitive industry structure.",
+            "abstract_zh": "",
             "matched_topics": [
               "绿色发展"
             ]
           },
           {
-            "title_en": "The Political Economy of Patent Buyouts",
-            "title_zh": "专利收购的政治经济学",
-            "url": "https://doi.org/10.1111/1756-2171.70017",
-            "authors": "Amal Ahmad, Dominik Naeher, Sebastian Vollmer",
-            "date": "2026-06-01",
-            "abstract_en": "ABSTRACT Incentivizing innovation through buyouts may alleviate the social costs associated with patent power, but the political economy and feasibility of this potentially important financing mechanism have been understudied. We study an international setting of countries with different innovation and financing capabilities, and where financing governments rely on taxes to fund buyouts and care about the electoral popularity of their decisions. Subsequent distributional conflict arises between countries as some may benefit from the now‐public knowledge without contributing equally to financing, whereas taxpayers within a country may disagree over the desired extent of tax financing for buyouts. We show that these conflicts reduce the feasibility of buyouts relative to patents, identify the conditions under which this harms global welfare, and discuss possibilities for overcoming these constraints. The international public good and public financing dimensions of buyouts emerge as essential for understanding their potential to supplant patents and to improve social welfare.",
-            "abstract_zh": "摘要：通过收购激励创新可能减轻与专利权相关的社会成本，但这种潜在重要的融资机制的政治经济和可行性一直未被充分研究。我们研究了一个国际环境，其中不同国家的创新和融资能力各异，融资政府依赖税收来资助收购，并关心其决策的选举受欢迎程度。随后，国家之间出现了分配冲突，因为一些国家可能从现在公开的知识中受益，而没有平等地贡献资金，而一个国家的纳税人可能对税收资助收购的期望程度存在分歧。我们展示了这些冲突降低了收购相对于专利的可行性，确定了这种情况损害全球福利的条件，并讨论了克服这些限制的可能性。收购的国际公共产品和公共融资维度对于理解其取代专利和提高社会福利的潜力至关重要。",
+            "title_en": "Preemptive Entry and Technology Diffusion: The Market for Drive‐In Theaters",
+            "title_zh": "",
+            "url": "https://doi.org/10.1111/1756-2171.70056",
+            "authors": "Ricard Gil, Jean‐François Houde, Shilong Sun, Yuya Takahashi",
+            "date": "2026-09-01",
+            "abstract_en": "ABSTRACT This article studies entry preemption in new industries. We first test a key prediction of dynamic entry games: Entry preemption is most relevant in intermediate‐sized markets, where firms face highest uncertainty about future entry. Using US drive‐in theater market (1945–1957) data, we find robust evidence for this non‐monotonic relationship between market size and early entry probability. We then estimate a dynamic entry game, and quantify preemption effects through counterfactual analysis. Preemptive motives increase early entry by up to 40% in mid‐size markets, raising entry costs by 5% and reducing firms' expected value by 1%.",
+            "abstract_zh": "",
             "matched_topics": [
               "创新"
-            ]
-          },
-          {
-            "title_en": "Buyer‐Optimal Platform Design",
-            "title_zh": "买家最优平台设计",
-            "url": "https://doi.org/10.1111/1756-2171.70014",
-            "authors": "Daniele Condorelli, Balazs Szentes",
-            "date": "2026-06-01",
-            "abstract_en": "ABSTRACT A platform matches a unit mass of sellers, each owning a single product of heterogeneous quality, to a unit mass of buyers with differing valuations for unit‐quality. After matching, sellers make take‐it‐or‐leave‐it price‐offers to buyers. Initially, valuations of buyers are only known to them and the platform, but sellers make inferences from the matching algorithm. The efficient matching is positive assortative, but buyer‐optimal matchings are stochastically negative assortative when there are few low‐value buyers (i.e., compared to lower‐quality sellers, high‐quality ones are matched to buyers with lower expected valuation). Although everyone trades, generating rents for the side lacking bargaining power results in inefficient matching.",
-            "abstract_zh": "摘要：一个平台将拥有不同质量产品的单一卖家群体与对单位质量有不同估值的买家群体进行匹配。匹配后，卖家向买家提出接受或放弃的价格提议。最初，只有买家和平台知道买家的估值，但卖家会从匹配算法中推断信息。有效的匹配是正向选择性的，但在低价值买家较少时（即与低质量卖家相比，高质量卖家被匹配到预期估值较低的买家），买家最优匹配是随机负向选择性的。尽管每个人都进行交易，为缺乏议价能力的一方创造租金，但这导致了匹配的低效率。",
-            "matched_topics": [
-              "人工智能"
             ]
           }
         ],
@@ -1920,48 +1801,11 @@
         "category": "Industrial organization",
         "issn": "0167-7187",
         "resolved_name": "International Journal of Industrial Organization",
-        "issue_title": "Published 2026-08",
+        "issue_title": "Published 2026-12",
         "issue_url": "https://www.sciencedirect.com/journal/international-journal-of-industrial-organization",
-        "matched_count": 3,
-        "total_in_issue": 12,
-        "papers": [
-          {
-            "title_en": "Designing emissions trading schemes for a price-regulated and concentrated industry: Insights from China’s power sector",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.ijindorg.2026.103301",
-            "authors": "Dong-Hyuk Kim, Hui Qiao, Ying Zheng",
-            "date": "2026-08-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "绿色发展"
-            ]
-          },
-          {
-            "title_en": "Does pollution prevention enhance firm efficiency? Insights from U.S. manufacturing firms",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.ijindorg.2026.103305",
-            "authors": "Sumaya Falak Memon, Subal Kumbhakar, Yingjun Su",
-            "date": "2026-08-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "绿色发展"
-            ]
-          },
-          {
-            "title_en": "Innovation and startup acquisition",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.ijindorg.2026.103307",
-            "authors": "Marc Bourreau, Axel Gautier",
-            "date": "2026-08-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新"
-            ]
-          }
-        ],
+        "matched_count": 0,
+        "total_in_issue": 1,
+        "papers": [],
         "error": null
       },
       {
@@ -1971,53 +1815,17 @@
         "category": "Innovation",
         "issn": "0048-7333",
         "resolved_name": "Research Policy",
-        "issue_title": "Volume 55, Issue 8",
+        "issue_title": "Volume 55, Issue 9",
         "issue_url": "https://www.sciencedirect.com/journal/research-policy",
-        "matched_count": 12,
-        "total_in_issue": 19,
+        "matched_count": 2,
+        "total_in_issue": 3,
         "papers": [
           {
-            "title_en": "‘Systems of use’: A lens to more deeply study user innovation",
+            "title_en": "Searching together: Human–AI complementarities in innovation search",
             "title_zh": "",
-            "url": "https://doi.org/10.1016/j.respol.2026.105534",
-            "authors": "Eric von Hippel",
-            "date": "2026-10-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新"
-            ]
-          },
-          {
-            "title_en": "Follow the technology or follow the leader? Radical innovation and strategic leadership at a crossroads",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.respol.2026.105579",
-            "authors": "Sarosh Asad, Mariano L.M. Heyden, Lorenz Graf-Vlachy, Elizabeth J. Altman, Donald C. Hambrick, Zeki Simsek, Mary Tripsas",
-            "date": "2026-10-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新"
-            ]
-          },
-          {
-            "title_en": "Can FinTech innovate green finance? Scrutinising the financial ecologies and innovation dynamics of FinTech for forest restoration",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.respol.2026.105564",
-            "authors": "Jack L. Harris, Felicia Liu, Benjamin S. Thompson",
-            "date": "2026-10-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新"
-            ]
-          },
-          {
-            "title_en": "Do societal promises influence patent value? An analysis of inventions in artificial intelligence",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.respol.2026.105566",
-            "authors": "Sergio Pelaez, Barbara Esteves-Ribeiro, Gaurav Verma, Philip Shapira",
-            "date": "2026-10-01",
+            "url": "https://doi.org/10.1016/j.respol.2026.105597",
+            "authors": "Reda Hassan, Sujith Nair",
+            "date": "2026-11-01",
             "abstract_en": "",
             "abstract_zh": "",
             "matched_topics": [
@@ -2026,96 +1834,11 @@
             ]
           },
           {
-            "title_en": "Scaling innovation through public procurement: Market acceleration, building, and transformation",
+            "title_en": "Are circular innovations disruptive? An analysis of the role of inventor networks in the European semiconductor industry",
             "title_zh": "",
-            "url": "https://doi.org/10.1016/j.respol.2026.105563",
-            "authors": "Maria Merisalo, Matti Pihlajamaa, Elvira Uyarra, Ville Valovirta, Juha Oksanen",
-            "date": "2026-10-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "产业政策",
-              "创新"
-            ]
-          },
-          {
-            "title_en": "At cross purposes? Housing markets and innovation in American Political Economy",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.respol.2026.105561",
-            "authors": "James D.G. Wood",
-            "date": "2026-10-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新"
-            ]
-          },
-          {
-            "title_en": "Discontinuous but not disruptive: Lessons from green steel on sustainability innovation pathways for foundation industries",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.respol.2026.105541",
-            "authors": "Viktor M. Salenius, Richard Cuthbertson, Jennifer Howard-Grenville",
-            "date": "2026-10-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新"
-            ]
-          },
-          {
-            "title_en": "Do public credit guarantees boost R&amp;D and innovation?",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.respol.2026.105560",
-            "authors": "Ahmet Deryol, Leone Leonida, Gulcin Ozkan",
-            "date": "2026-10-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新"
-            ]
-          },
-          {
-            "title_en": "Making sense of wickedness: Directionality heuristics for challenge-led innovation policy",
-            "title_zh": "理解顽疾：面向挑战引领型创新政策的方向性启发式",
-            "url": "https://doi.org/10.1016/j.respol.2026.105513",
-            "authors": "Matthias Mueller, Michael P. Schlaile, Stephanie Lang, Matthijs J. Janssen, Iris Wanzenböck, Kristina Bogner, Jana Zscheischler, Michael Schramm, et al.",
-            "date": "2026-10-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新"
-            ]
-          },
-          {
-            "title_en": "Leaky mess or safety vaults? Team knowledge production and post-mobility knowledge spillover",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.respol.2026.105548",
-            "authors": "Di Tong, Xiaoyu Zhang",
-            "date": "2026-10-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新"
-            ]
-          },
-          {
-            "title_en": "Patent protection and software firm financing",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.respol.2026.105571",
-            "authors": "Christian Helmers, Brian J. Love",
-            "date": "2026-10-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新"
-            ]
-          },
-          {
-            "title_en": "Utility model patent regimes around the world and over time: Strictness, usage, and economic development",
-            "title_zh": "全球及不同时期实用新型专利制度：严格性、使用情况与经济发展",
-            "url": "https://doi.org/10.1016/j.respol.2026.105517",
-            "authors": "Dan Prud’homme, Zitai Hu, Wenlong He, Curba Morris Lampert",
-            "date": "2026-10-01",
+            "url": "https://doi.org/10.1016/j.respol.2026.105574",
+            "authors": "Priyanshu Protim Pathak, Silvia Massini, Lucia Piscitello",
+            "date": "2026-11-01",
             "abstract_en": "",
             "abstract_zh": "",
             "matched_topics": [
@@ -2350,18 +2073,6 @@
             ]
           },
           {
-            "title_en": "Representing Random Utility Choice Models with Neural Networks",
-            "title_zh": "",
-            "url": "https://doi.org/10.1287/mnsc.2023.02189",
-            "authors": "Ali Aouad, Antoine Désir",
-            "date": "2026-08-01",
-            "abstract_en": "Motivated by the successes of deep learning, we propose a class of neural network–based discrete choice models, called RUMnets, inspired by the random utility maximization (RUM) framework. This model formulates the agents’ random utility function using a sample average approximation. We show that RUMnets sharply approximate the class of RUM discrete choice models: Any model derived from random utility maximization has choice probabilities that can be approximated arbitrarily closely by a RUMnet. Reciprocally, any RUMnet is consistent with the RUM principle. Our approach is closely related to ranking-based models and mixtures of multinomial logits proposed in previous literature in a more general contextual setting. We derive an upper bound on the generalization error of RUMnets fitted on choice data and provide theoretical insights on their ability to predict choices on new unseen data depending on critical parameters of the data set and architecture. The models are estimated by leveraging open-source libraries for training neural networks. We find that RUMnets are competitive against several choice modeling and machine learning methods in terms of predictive accuracy on two real-world data sets. We also conduct synthetic experiments that isolate the effects of each architecture component. This paper was accepted by George Shanthikumar, data science. Funding: A. Désir is supported by the Desmarais Fund for Research in AI from INSEAD. Supplemental Material: The online appendices and data files are available at https://doi.org/10.1287/mnsc.2023.02189 .",
-            "abstract_zh": "",
-            "matched_topics": [
-              "人工智能"
-            ]
-          },
-          {
             "title_en": "Evaluating the Impact of Privacy Regulation on E-Commerce Firms: Evidence from Apple’s App Tracking Transparency",
             "title_zh": "",
             "url": "https://doi.org/10.1287/mnsc.2024.06600",
@@ -2371,6 +2082,18 @@
             "abstract_zh": "",
             "matched_topics": [
               "创新"
+            ]
+          },
+          {
+            "title_en": "Representing Random Utility Choice Models with Neural Networks",
+            "title_zh": "",
+            "url": "https://doi.org/10.1287/mnsc.2023.02189",
+            "authors": "Ali Aouad, Antoine Désir",
+            "date": "2026-08-01",
+            "abstract_en": "Motivated by the successes of deep learning, we propose a class of neural network–based discrete choice models, called RUMnets, inspired by the random utility maximization (RUM) framework. This model formulates the agents’ random utility function using a sample average approximation. We show that RUMnets sharply approximate the class of RUM discrete choice models: Any model derived from random utility maximization has choice probabilities that can be approximated arbitrarily closely by a RUMnet. Reciprocally, any RUMnet is consistent with the RUM principle. Our approach is closely related to ranking-based models and mixtures of multinomial logits proposed in previous literature in a more general contextual setting. We derive an upper bound on the generalization error of RUMnets fitted on choice data and provide theoretical insights on their ability to predict choices on new unseen data depending on critical parameters of the data set and architecture. The models are estimated by leveraging open-source libraries for training neural networks. We find that RUMnets are competitive against several choice modeling and machine learning methods in terms of predictive accuracy on two real-world data sets. We also conduct synthetic experiments that isolate the effects of each architecture component. This paper was accepted by George Shanthikumar, data science. Funding: A. Désir is supported by the Desmarais Fund for Research in AI from INSEAD. Supplemental Material: The online appendices and data files are available at https://doi.org/10.1287/mnsc.2023.02189 .",
+            "abstract_zh": "",
+            "matched_topics": [
+              "人工智能"
             ]
           },
           {
@@ -2445,9 +2168,22 @@
         "resolved_name": "Journal of Environmental Economics and Management",
         "issue_title": "Published 2026-09",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-environmental-economics-and-management",
-        "matched_count": 0,
-        "total_in_issue": 4,
-        "papers": [],
+        "matched_count": 1,
+        "total_in_issue": 7,
+        "papers": [
+          {
+            "title_en": "Substituting storage for transmission: Implications for renewable energy",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jeem.2026.103400",
+            "authors": "J. Scott Holladay, Ben Meadows, Tim Roberson, Charles Sims",
+            "date": "2026-09-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "绿色发展"
+            ]
+          }
+        ],
         "error": null
       },
       {
@@ -2487,7 +2223,7 @@
         "issue_title": "Published 2026-09",
         "issue_url": "https://www.sciencedirect.com/journal/energy-economics",
         "matched_count": 12,
-        "total_in_issue": 31,
+        "total_in_issue": 26,
         "papers": [
           {
             "title_en": "Electrification's role in carbon mitigation: Heterogeneous, dynamic, and threshold effects across nations",
@@ -2518,6 +2254,30 @@
             "title_zh": "",
             "url": "https://doi.org/10.1016/j.eneco.2026.109502",
             "authors": "Duy Chinh Nguyen, Nhat Duy Lai",
+            "date": "2026-09-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "绿色发展"
+            ]
+          },
+          {
+            "title_en": "Does real-time pricing deliver lower carbon emissions?",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.eneco.2026.109552",
+            "authors": "Magdalena Strasburger, Tracey Dodd, Tim Nelson",
+            "date": "2026-09-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "绿色发展"
+            ]
+          },
+          {
+            "title_en": "From green electricity to green fertilizer: Economic and environmental benefits of ammonia diversified utilization in agricultural parks hybrid renewable energy systems",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.eneco.2026.109537",
+            "authors": "Sijie Wu, Lihui Zhang, Songrui Li, Dandan Pan, Shaoze Li",
             "date": "2026-09-01",
             "abstract_en": "",
             "abstract_zh": "",
@@ -2586,10 +2346,10 @@
             ]
           },
           {
-            "title_en": "Carbon footprint of bank loans and bank lending: Global evidence using Bayesian approach",
+            "title_en": "Self-reliance of supply chain actors under carbon policy: The role of carbon credits",
             "title_zh": "",
-            "url": "https://doi.org/10.1016/j.eneco.2026.109499",
-            "authors": "Duy Khanh Le",
+            "url": "https://doi.org/10.1016/j.eneco.2026.109535",
+            "authors": "Yang Bai, Ziqi Wang",
             "date": "2026-09-01",
             "abstract_en": "",
             "abstract_zh": "",
@@ -2598,34 +2358,10 @@
             ]
           },
           {
-            "title_en": "Reciprocal tariffs will increase global emission: Evidence and numerical simulation results",
+            "title_en": "Climate policy diffusion across US states",
             "title_zh": "",
-            "url": "https://doi.org/10.1016/j.eneco.2026.109462",
-            "authors": "Chunding LI, Meng LI, Jing LIU, Qiyuan XU",
-            "date": "2026-09-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "绿色发展"
-            ]
-          },
-          {
-            "title_en": "Dynamic investment, subsidies, and welfare effects of rural rooftop photovoltaics: A bilateral decision analysis in rural China",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.eneco.2026.109506",
-            "authors": "Zenghui Chao, Wenhao Gu, Wenyu Fan, Zhenzhi Wang, Jun Zhang",
-            "date": "2026-09-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "产业政策"
-            ]
-          },
-          {
-            "title_en": "How does the renewable energy transition affect energy security and equity? Diverging effects in developing and developed countries",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.eneco.2026.109543",
-            "authors": "Yiwei Ren, Xunhuan Li, Siyou Xia",
+            "url": "https://doi.org/10.1016/j.eneco.2026.109531",
+            "authors": "Mitali Das, Manuel Linsenmeier, Gregor Schwerhoff",
             "date": "2026-09-01",
             "abstract_en": "",
             "abstract_zh": "",
@@ -2646,7 +2382,7 @@
         "issue_title": "Published 2026-08",
         "issue_url": "https://www.sciencedirect.com/journal/resource-and-energy-economics",
         "matched_count": 1,
-        "total_in_issue": 7,
+        "total_in_issue": 8,
         "papers": [
           {
             "title_en": "On the fair abatement of riparian pollution",
@@ -2675,7 +2411,7 @@
       "papers": [],
       "error": "GET failed for https://data.nber.org/nber_paper_chapter_metadata/tsv/ref.tsv: 403 Client Error: Forbidden for url: https://data.nber.org/nber_paper_chapter_metadata/tsv/ref.tsv"
     },
-    "total_matches": 76,
+    "total_matches": 65,
     "note": "Latest issue TOCs from economics top journals and field-top journals plus recent NBER Working Papers, filtered by title/abstract keywords for industrial policy, innovation, green development, and artificial intelligence."
   }
 }
