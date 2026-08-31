@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-08-24 19:26:18",
+  "updated_at": "2026-08-31 23:20:49",
   "schema_version": 1,
   "translation": {
     "engine": "kimi",
     "model": "moonshot-v1-8k",
     "enabled": true,
     "success_count": 0,
-    "fail_count": 98,
+    "fail_count": 109,
     "failed_examples": [
-      "Energy Transitions in Regulated Markets :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, please recharge your ",
-      "Natural gas has replaced coal as the dominant fuel for US electricity generation. However, :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, please recharge your ",
+      "Manipulation-Robust Prediction :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, please recharge your ",
+      "An increasing number of decisions are guided by machine learning algorithms. But when cons :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, please recharge your ",
+      "Intergenerational Impacts of Secondary Education: Experimental Evidence from Ghana :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, please recharge your ",
+      "We provide experimental evidence on the intergenerational impacts of secondary education s :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, please recharge your ",
+      "The Environmental Bias of Corporate Income Taxation :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, please recharge your ",
+      "We study the relationship between corporate income taxation and carbon dioxide (CO 2 ) emi :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, please recharge your ",
       "Collusion with Optimal Information Disclosure :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, please recharge your ",
-      "Abstract Motivated by recent concerns surrounding the use of third-party pricing algorithm :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, please recharge your ",
-      "Walras–Bowley Lecture: Climate Policy in the Wide World :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, please recharge your ",
-      "We construct a dynamic integrated assessment model of climate and the economy with very hi :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, please recharge your ",
-      "All Along the Watchtower: Military Landholders and Serfdom Consolidation in Early Modern R :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, please recharge your ",
-      "Abstract This article examines the emergence of coercive labour institutions using the cas :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, please recharge your "
+      "Abstract Motivated by recent concerns surrounding the use of third-party pricing algorithm :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, please recharge your "
     ],
     "note": "Set KIMI_API_KEY to enable Chinese translation."
   },
@@ -169,18 +169,42 @@
         "category": "Top 5",
         "issn": "0002-8282",
         "resolved_name": "American Economic Review",
-        "issue_title": "Volume 116, Issue 8",
+        "issue_title": "Volume 116, Issue 9",
         "issue_url": "https://www.aeaweb.org/journals/aer",
-        "matched_count": 1,
+        "matched_count": 3,
         "total_in_issue": 12,
         "papers": [
           {
-            "title_en": "Energy Transitions in Regulated Markets",
+            "title_en": "Manipulation-Robust Prediction",
             "title_zh": "",
-            "url": "https://doi.org/10.1257/aer.20240094",
-            "authors": "Gautam Gowrisankaran, Ashley Langer, Mar Reguant",
-            "date": "2026-08-01",
-            "abstract_en": "Natural gas has replaced coal as the dominant fuel for US electricity generation. However, utilities in regulated US states have retired coal more slowly than others. We build a structural model of rate-of-return regulation during an energy transition where utilities face trade-offs between lowering costs and maintaining and using legacy capacity. A regulated utility facing carbon taxes lowers short-run coal generation 48 percent as much as a cost minimizer would. Thirty years after a sudden energy transition, a cost minimizer has retired 71 percent more coal capacity than the regulated utility. Alternative regulations may jeopardize affordability and reliability goals during energy transitions. (JEL D24, L94, L98, Q35, Q48)",
+            "url": "https://doi.org/10.1257/aer.20241087",
+            "authors": "Daniel Björkegren, Joshua E. Blumenstock, Samsun Knight",
+            "date": "2026-09-01",
+            "abstract_en": "An increasing number of decisions are guided by machine learning algorithms. But when consequential decisions are encoded in algorithms, individuals may strategically alter their behavior to achieve desired outcomes. This paper develops an empirical approach that adjusts decision algorithms to anticipate manipulation. By explicitly modeling incentives to manipulate, our approach produces decision rules that are stable under manipulation, even when the rules are fully transparent. We stress-test this approach through a large field experiment in Kenya. When implemented, linear strategy-robust decision rules outperform standard linear models such as LASSO. (JEL C45, C93, D12, D91, G51, O12, O16)",
+            "abstract_zh": "",
+            "matched_topics": [
+              "人工智能"
+            ]
+          },
+          {
+            "title_en": "Intergenerational Impacts of Secondary Education: Experimental Evidence from Ghana",
+            "title_zh": "",
+            "url": "https://doi.org/10.1257/aer.20241001",
+            "authors": "Esther Duflo, Pascaline Dupas, Elizabeth Spelke, Mark Walsh",
+            "date": "2026-09-01",
+            "abstract_en": "We provide experimental evidence on the intergenerational impacts of secondary education subsidies in a low-income context, leveraging a randomized controlled trial and 15-year longitudinal follow-up. Secondary school scholarships delay fertility, reduce unwanted pregnancies, and change partner selection. Under-one mortality is reduced by half. We also document cognitive development gains of 0.24 standard deviations of test scores by age five among children of female scholarship recipients. Means-tested secondary school scholarships are a high-return investment, with a conservatively estimated US$4.1 in benefits for each US$1 the policy would cost the government in the long run. (JEL H52, I12, I21, I26, J13, J16, O15)",
+            "abstract_zh": "",
+            "matched_topics": [
+              "产业政策"
+            ]
+          },
+          {
+            "title_en": "The Environmental Bias of Corporate Income Taxation",
+            "title_zh": "",
+            "url": "https://doi.org/10.1257/aer.20241765",
+            "authors": "Luigi Iovino, Thorsten Martin, Julien Sauvagnat",
+            "date": "2026-09-01",
+            "abstract_en": "We study the relationship between corporate income taxation and carbon dioxide (CO 2 ) emissions in the United States. We show CO 2 -intensive firms benefit more from the tax advantage of debt and pay lower income taxes on their capital income. Building on these new facts, we provide evidence that a cut in the corporate income tax rate leads to a larger expansion of clean firms. We develop a multisector general equilibrium model that accounts for our evidence and quantify the impact of corporate tax reforms on aggregate emissions. A policy that eliminates the tax advantage of debt could reduce aggregate emissions without affecting GDP. (JEL D22, G32, H25, H32, Q52, Q54, Q58)",
             "abstract_zh": "",
             "matched_topics": [
               "绿色发展"
@@ -223,10 +247,10 @@
         "category": "Top 5",
         "issn": "0022-3808",
         "resolved_name": "Journal of Political Economy",
-        "issue_title": "Volume 134, Issue 7",
+        "issue_title": "Volume 134, Issue 8",
         "issue_url": "https://www.journals.uchicago.edu/journals/jpe",
         "matched_count": 0,
-        "total_in_issue": 10,
+        "total_in_issue": 11,
         "papers": [],
         "error": null
       },
@@ -497,7 +521,7 @@
         "issue_title": "Published 2026-10",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-public-economics",
         "matched_count": 0,
-        "total_in_issue": 17,
+        "total_in_issue": 22,
         "papers": [],
         "error": null
       },
@@ -510,8 +534,8 @@
         "resolved_name": "Journal of Development Economics",
         "issue_title": "Published 2027-01",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-development-economics",
-        "matched_count": 3,
-        "total_in_issue": 27,
+        "matched_count": 4,
+        "total_in_issue": 33,
         "papers": [
           {
             "title_en": "Dual-track in the family: How spousal state employment fuels entrepreneurship",
@@ -535,6 +559,18 @@
             "abstract_zh": "",
             "matched_topics": [
               "绿色发展"
+            ]
+          },
+          {
+            "title_en": "Picking winners: Local land allocation and bottom-up industrial policy in China",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jdeveco.2026.103920",
+            "authors": "Wenjia Tian, Zhi Wang, Qinghua Zhang",
+            "date": "2027-01-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "产业政策"
             ]
           },
           {
@@ -562,7 +598,7 @@
         "issue_title": "Published 2026-12",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-international-economics",
         "matched_count": 1,
-        "total_in_issue": 11,
+        "total_in_issue": 12,
         "papers": [
           {
             "title_en": "Transportation networks, technology adoption, and structural transformation",
@@ -679,7 +715,7 @@
         "issue_title": "Published 2026-12",
         "issue_url": "https://www.sciencedirect.com/journal/international-journal-of-industrial-organization",
         "matched_count": 0,
-        "total_in_issue": 3,
+        "total_in_issue": 5,
         "papers": [],
         "error": null
       },
@@ -692,9 +728,21 @@
         "resolved_name": "Research Policy",
         "issue_title": "Volume 55, Issue 9",
         "issue_url": "https://www.sciencedirect.com/journal/research-policy",
-        "matched_count": 3,
-        "total_in_issue": 6,
+        "matched_count": 5,
+        "total_in_issue": 8,
         "papers": [
+          {
+            "title_en": "R&amp;D investment, technology adoption and productivity dynamics: An empirical study of the productivity dispersion in Canada",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.respol.2026.105602",
+            "authors": "Jianmin Tang, Weimin Wang, Sadaf Yalinejad",
+            "date": "2026-11-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新"
+            ]
+          },
           {
             "title_en": "Data and methods for identifying artificial intelligence-related patents",
             "title_zh": "",
@@ -706,6 +754,18 @@
             "matched_topics": [
               "创新",
               "人工智能"
+            ]
+          },
+          {
+            "title_en": "Burning bridges or bridging divides: Geopolitics and collaboration in research and innovation",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.respol.2026.105580",
+            "authors": "Shreyas Gadgin Matha, Matte Hartog, Christian Chacua, Pierre-Alexandre Balland, Ricardo Hausmann, Muhammed Ali Yıldırım",
+            "date": "2026-11-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新"
             ]
           },
           {
@@ -1053,17 +1113,17 @@
         "category": "Environment",
         "issn": "0095-0696",
         "resolved_name": "Journal of Environmental Economics and Management",
-        "issue_title": "Published 2026-09",
+        "issue_title": "Published 2027-01",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-environmental-economics-and-management",
         "matched_count": 1,
-        "total_in_issue": 9,
+        "total_in_issue": 2,
         "papers": [
           {
-            "title_en": "Substituting storage for transmission: Implications for renewable energy",
+            "title_en": "Air pollution and conflict in West Africa: The effects of the Harmattan dust",
             "title_zh": "",
-            "url": "https://doi.org/10.1016/j.jeem.2026.103400",
-            "authors": "J. Scott Holladay, Ben Meadows, Tim Roberson, Charles Sims",
-            "date": "2026-09-01",
+            "url": "https://doi.org/10.1016/j.jeem.2026.103413",
+            "authors": "A. Delgerchuluun, K. Kis-Katos, K. Perlik",
+            "date": "2027-01-01",
             "abstract_en": "",
             "abstract_zh": "",
             "matched_topics": [
@@ -1109,9 +1169,58 @@
         "resolved_name": "Energy Economics",
         "issue_title": "Published 2026-10",
         "issue_url": "https://www.sciencedirect.com/journal/energy-economics",
-        "matched_count": 0,
-        "total_in_issue": 3,
-        "papers": [],
+        "matched_count": 4,
+        "total_in_issue": 13,
+        "papers": [
+          {
+            "title_en": "Banking on carbon: modeling intertemporal equilibrium in China's rate-based emissions trading system",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.eneco.2026.109571",
+            "authors": "Limin Du, Huiying Peng, Zheng Wang",
+            "date": "2026-10-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "绿色发展"
+            ]
+          },
+          {
+            "title_en": "Climate change and credit risk of rural financial institutions: Evidence from China",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.eneco.2026.109563",
+            "authors": "Peng Peng, Shuo Han, Bingbing Zhang",
+            "date": "2026-10-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "绿色发展"
+            ]
+          },
+          {
+            "title_en": "ESG as a mitigator of oil volatility risk",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.eneco.2026.109536",
+            "authors": "Ludovico Luce, Elias Demetriades, Alexandros Kontonikas, Athanasios Triantafyllou",
+            "date": "2026-10-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "绿色发展"
+            ]
+          },
+          {
+            "title_en": "Machine learning for detecting collusion and capacity withholding in wholesale electricity markets",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.eneco.2026.109557",
+            "authors": "Jeremy Proz, Martin Huber, Ivan Marin",
+            "date": "2026-10-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "人工智能"
+            ]
+          }
+        ],
         "error": null
       },
       {
@@ -1161,18 +1270,42 @@
         "category": "Top 5",
         "issn": "0002-8282",
         "resolved_name": "American Economic Review",
-        "issue_title": "Volume 116, Issue 8",
+        "issue_title": "Volume 116, Issue 9",
         "issue_url": "https://www.aeaweb.org/journals/aer",
-        "matched_count": 1,
+        "matched_count": 3,
         "total_in_issue": 12,
         "papers": [
           {
-            "title_en": "Energy Transitions in Regulated Markets",
+            "title_en": "Manipulation-Robust Prediction",
             "title_zh": "",
-            "url": "https://doi.org/10.1257/aer.20240094",
-            "authors": "Gautam Gowrisankaran, Ashley Langer, Mar Reguant",
-            "date": "2026-08-01",
-            "abstract_en": "Natural gas has replaced coal as the dominant fuel for US electricity generation. However, utilities in regulated US states have retired coal more slowly than others. We build a structural model of rate-of-return regulation during an energy transition where utilities face trade-offs between lowering costs and maintaining and using legacy capacity. A regulated utility facing carbon taxes lowers short-run coal generation 48 percent as much as a cost minimizer would. Thirty years after a sudden energy transition, a cost minimizer has retired 71 percent more coal capacity than the regulated utility. Alternative regulations may jeopardize affordability and reliability goals during energy transitions. (JEL D24, L94, L98, Q35, Q48)",
+            "url": "https://doi.org/10.1257/aer.20241087",
+            "authors": "Daniel Björkegren, Joshua E. Blumenstock, Samsun Knight",
+            "date": "2026-09-01",
+            "abstract_en": "An increasing number of decisions are guided by machine learning algorithms. But when consequential decisions are encoded in algorithms, individuals may strategically alter their behavior to achieve desired outcomes. This paper develops an empirical approach that adjusts decision algorithms to anticipate manipulation. By explicitly modeling incentives to manipulate, our approach produces decision rules that are stable under manipulation, even when the rules are fully transparent. We stress-test this approach through a large field experiment in Kenya. When implemented, linear strategy-robust decision rules outperform standard linear models such as LASSO. (JEL C45, C93, D12, D91, G51, O12, O16)",
+            "abstract_zh": "",
+            "matched_topics": [
+              "人工智能"
+            ]
+          },
+          {
+            "title_en": "Intergenerational Impacts of Secondary Education: Experimental Evidence from Ghana",
+            "title_zh": "",
+            "url": "https://doi.org/10.1257/aer.20241001",
+            "authors": "Esther Duflo, Pascaline Dupas, Elizabeth Spelke, Mark Walsh",
+            "date": "2026-09-01",
+            "abstract_en": "We provide experimental evidence on the intergenerational impacts of secondary education subsidies in a low-income context, leveraging a randomized controlled trial and 15-year longitudinal follow-up. Secondary school scholarships delay fertility, reduce unwanted pregnancies, and change partner selection. Under-one mortality is reduced by half. We also document cognitive development gains of 0.24 standard deviations of test scores by age five among children of female scholarship recipients. Means-tested secondary school scholarships are a high-return investment, with a conservatively estimated US$4.1 in benefits for each US$1 the policy would cost the government in the long run. (JEL H52, I12, I21, I26, J13, J16, O15)",
+            "abstract_zh": "",
+            "matched_topics": [
+              "产业政策"
+            ]
+          },
+          {
+            "title_en": "The Environmental Bias of Corporate Income Taxation",
+            "title_zh": "",
+            "url": "https://doi.org/10.1257/aer.20241765",
+            "authors": "Luigi Iovino, Thorsten Martin, Julien Sauvagnat",
+            "date": "2026-09-01",
+            "abstract_en": "We study the relationship between corporate income taxation and carbon dioxide (CO 2 ) emissions in the United States. We show CO 2 -intensive firms benefit more from the tax advantage of debt and pay lower income taxes on their capital income. Building on these new facts, we provide evidence that a cut in the corporate income tax rate leads to a larger expansion of clean firms. We develop a multisector general equilibrium model that accounts for our evidence and quantify the impact of corporate tax reforms on aggregate emissions. A policy that eliminates the tax advantage of debt could reduce aggregate emissions without affecting GDP. (JEL D22, G32, H25, H32, Q52, Q54, Q58)",
             "abstract_zh": "",
             "matched_topics": [
               "绿色发展"
@@ -1215,10 +1348,10 @@
         "category": "Top 5",
         "issn": "0022-3808",
         "resolved_name": "Journal of Political Economy",
-        "issue_title": "Volume 134, Issue 7",
+        "issue_title": "Volume 134, Issue 8",
         "issue_url": "https://www.journals.uchicago.edu/journals/jpe",
         "matched_count": 0,
-        "total_in_issue": 10,
+        "total_in_issue": 11,
         "papers": [],
         "error": null
       },
@@ -1489,7 +1622,7 @@
         "issue_title": "Published 2026-10",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-public-economics",
         "matched_count": 0,
-        "total_in_issue": 17,
+        "total_in_issue": 22,
         "papers": [],
         "error": null
       },
@@ -1502,8 +1635,8 @@
         "resolved_name": "Journal of Development Economics",
         "issue_title": "Published 2027-01",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-development-economics",
-        "matched_count": 3,
-        "total_in_issue": 27,
+        "matched_count": 4,
+        "total_in_issue": 33,
         "papers": [
           {
             "title_en": "Dual-track in the family: How spousal state employment fuels entrepreneurship",
@@ -1527,6 +1660,18 @@
             "abstract_zh": "",
             "matched_topics": [
               "绿色发展"
+            ]
+          },
+          {
+            "title_en": "Picking winners: Local land allocation and bottom-up industrial policy in China",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jdeveco.2026.103920",
+            "authors": "Wenjia Tian, Zhi Wang, Qinghua Zhang",
+            "date": "2027-01-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "产业政策"
             ]
           },
           {
@@ -1554,7 +1699,7 @@
         "issue_title": "Published 2026-12",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-international-economics",
         "matched_count": 1,
-        "total_in_issue": 11,
+        "total_in_issue": 12,
         "papers": [
           {
             "title_en": "Transportation networks, technology adoption, and structural transformation",
@@ -1671,7 +1816,7 @@
         "issue_title": "Published 2026-12",
         "issue_url": "https://www.sciencedirect.com/journal/international-journal-of-industrial-organization",
         "matched_count": 0,
-        "total_in_issue": 3,
+        "total_in_issue": 5,
         "papers": [],
         "error": null
       },
@@ -1684,9 +1829,21 @@
         "resolved_name": "Research Policy",
         "issue_title": "Volume 55, Issue 9",
         "issue_url": "https://www.sciencedirect.com/journal/research-policy",
-        "matched_count": 3,
-        "total_in_issue": 6,
+        "matched_count": 5,
+        "total_in_issue": 8,
         "papers": [
+          {
+            "title_en": "R&amp;D investment, technology adoption and productivity dynamics: An empirical study of the productivity dispersion in Canada",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.respol.2026.105602",
+            "authors": "Jianmin Tang, Weimin Wang, Sadaf Yalinejad",
+            "date": "2026-11-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新"
+            ]
+          },
           {
             "title_en": "Data and methods for identifying artificial intelligence-related patents",
             "title_zh": "",
@@ -1698,6 +1855,18 @@
             "matched_topics": [
               "创新",
               "人工智能"
+            ]
+          },
+          {
+            "title_en": "Burning bridges or bridging divides: Geopolitics and collaboration in research and innovation",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.respol.2026.105580",
+            "authors": "Shreyas Gadgin Matha, Matte Hartog, Christian Chacua, Pierre-Alexandre Balland, Ricardo Hausmann, Muhammed Ali Yıldırım",
+            "date": "2026-11-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新"
             ]
           },
           {
@@ -2045,17 +2214,17 @@
         "category": "Environment",
         "issn": "0095-0696",
         "resolved_name": "Journal of Environmental Economics and Management",
-        "issue_title": "Published 2026-09",
+        "issue_title": "Published 2027-01",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-environmental-economics-and-management",
         "matched_count": 1,
-        "total_in_issue": 9,
+        "total_in_issue": 2,
         "papers": [
           {
-            "title_en": "Substituting storage for transmission: Implications for renewable energy",
+            "title_en": "Air pollution and conflict in West Africa: The effects of the Harmattan dust",
             "title_zh": "",
-            "url": "https://doi.org/10.1016/j.jeem.2026.103400",
-            "authors": "J. Scott Holladay, Ben Meadows, Tim Roberson, Charles Sims",
-            "date": "2026-09-01",
+            "url": "https://doi.org/10.1016/j.jeem.2026.103413",
+            "authors": "A. Delgerchuluun, K. Kis-Katos, K. Perlik",
+            "date": "2027-01-01",
             "abstract_en": "",
             "abstract_zh": "",
             "matched_topics": [
@@ -2101,9 +2270,58 @@
         "resolved_name": "Energy Economics",
         "issue_title": "Published 2026-10",
         "issue_url": "https://www.sciencedirect.com/journal/energy-economics",
-        "matched_count": 0,
-        "total_in_issue": 3,
-        "papers": [],
+        "matched_count": 4,
+        "total_in_issue": 13,
+        "papers": [
+          {
+            "title_en": "Banking on carbon: modeling intertemporal equilibrium in China's rate-based emissions trading system",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.eneco.2026.109571",
+            "authors": "Limin Du, Huiying Peng, Zheng Wang",
+            "date": "2026-10-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "绿色发展"
+            ]
+          },
+          {
+            "title_en": "Climate change and credit risk of rural financial institutions: Evidence from China",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.eneco.2026.109563",
+            "authors": "Peng Peng, Shuo Han, Bingbing Zhang",
+            "date": "2026-10-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "绿色发展"
+            ]
+          },
+          {
+            "title_en": "ESG as a mitigator of oil volatility risk",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.eneco.2026.109536",
+            "authors": "Ludovico Luce, Elias Demetriades, Alexandros Kontonikas, Athanasios Triantafyllou",
+            "date": "2026-10-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "绿色发展"
+            ]
+          },
+          {
+            "title_en": "Machine learning for detecting collusion and capacity withholding in wholesale electricity markets",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.eneco.2026.109557",
+            "authors": "Jeremy Proz, Martin Huber, Ivan Marin",
+            "date": "2026-10-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "人工智能"
+            ]
+          }
+        ],
         "error": null
       },
       {
@@ -2145,7 +2363,7 @@
       "papers": [],
       "error": "GET failed for https://data.nber.org/nber_paper_chapter_metadata/tsv/ref.tsv: 403 Client Error: Forbidden for url: https://data.nber.org/nber_paper_chapter_metadata/tsv/ref.tsv"
     },
-    "total_matches": 54,
+    "total_matches": 63,
     "note": "Latest issue TOCs from economics top journals and field-top journals plus recent NBER Working Papers, filtered by title/abstract keywords for industrial policy, innovation, green development, and artificial intelligence."
   }
 }
