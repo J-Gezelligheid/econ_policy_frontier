@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-08-31 23:20:49",
+  "updated_at": "2026-09-07 22:01:27",
   "schema_version": 1,
   "translation": {
     "engine": "kimi",
     "model": "moonshot-v1-8k",
     "enabled": true,
     "success_count": 0,
-    "fail_count": 109,
+    "fail_count": 106,
     "failed_examples": [
       "Manipulation-Robust Prediction :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, please recharge your ",
       "An increasing number of decisions are guided by machine learning algorithms. But when cons :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, please recharge your ",
@@ -521,7 +521,7 @@
         "issue_title": "Published 2026-10",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-public-economics",
         "matched_count": 0,
-        "total_in_issue": 22,
+        "total_in_issue": 28,
         "papers": [],
         "error": null
       },
@@ -532,60 +532,11 @@
         "category": "Development",
         "issn": "0304-3878",
         "resolved_name": "Journal of Development Economics",
-        "issue_title": "Published 2027-01",
+        "issue_title": "Published 2027-02",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-development-economics",
-        "matched_count": 4,
-        "total_in_issue": 33,
-        "papers": [
-          {
-            "title_en": "Dual-track in the family: How spousal state employment fuels entrepreneurship",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.jdeveco.2026.103899",
-            "authors": "Wenchao Li, Yifan Lin, Junjian Yi, Haochen Zhang",
-            "date": "2027-01-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新"
-            ]
-          },
-          {
-            "title_en": "Reciprocity and state capacity: Evidence from a national pollution control reform in China",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.jdeveco.2026.103905",
-            "authors": "Yu Luo, Yongwei Nian, Ming-ang Zhang",
-            "date": "2027-01-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "绿色发展"
-            ]
-          },
-          {
-            "title_en": "Picking winners: Local land allocation and bottom-up industrial policy in China",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.jdeveco.2026.103920",
-            "authors": "Wenjia Tian, Zhi Wang, Qinghua Zhang",
-            "date": "2027-01-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "产业政策"
-            ]
-          },
-          {
-            "title_en": "Exploitation vs. Exploration: How knowledge spillovers shape healthcare practices and innovation",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.jdeveco.2026.103892",
-            "authors": "Yinan Liu, Chen Lin, Zixiao Li, Jing Zhang",
-            "date": "2027-01-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新"
-            ]
-          }
-        ],
+        "matched_count": 0,
+        "total_in_issue": 2,
+        "papers": [],
         "error": null
       },
       {
@@ -597,8 +548,8 @@
         "resolved_name": "Journal of International Economics",
         "issue_title": "Published 2026-12",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-international-economics",
-        "matched_count": 1,
-        "total_in_issue": 12,
+        "matched_count": 2,
+        "total_in_issue": 15,
         "papers": [
           {
             "title_en": "Transportation networks, technology adoption, and structural transformation",
@@ -611,6 +562,18 @@
             "matched_topics": [
               "创新"
             ]
+          },
+          {
+            "title_en": "The impact of AI and cross-border data regulation on international trade in digital services",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jinteco.2026.104328",
+            "authors": "Ruiqi Sun, Daniel Trefler",
+            "date": "2026-12-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "人工智能"
+            ]
           }
         ],
         "error": null
@@ -622,48 +585,11 @@
         "category": "Industrial organization",
         "issn": "0022-1821",
         "resolved_name": "Journal of Industrial Economics",
-        "issue_title": "Volume 74, Issue 2",
+        "issue_title": "Volume 74, Issue 3",
         "issue_url": "https://onlinelibrary.wiley.com/journal/14676451",
-        "matched_count": 3,
-        "total_in_issue": 8,
-        "papers": [
-          {
-            "title_en": "Patents, Antitrust, and Innovation: Evidence From the Xerox Case",
-            "title_zh": "",
-            "url": "https://doi.org/10.1111/joie.70023",
-            "authors": "Robin Mamrak",
-            "date": "2026-06-01",
-            "abstract_en": "ABSTRACT How does antitrust enforcement affect innovation when patents are the main barrier to entry? I address this question by empirically studying the US antitrust case against Xerox, the former monopolist in the market for plain‐paper copiers. In 1975, Xerox accepted a consent decree whose primary remedy was compulsory licensing of all its copier‐technology patents in the US and abroad. I show that this antitrust intervention promoted innovation by other firms in the copier industry, measured by a disproportionate increase in patenting in technology classes with a higher propensity for containing copier‐related inventions. This effect is driven by Japanese competitors, whose patenting became more novel and diverse as they started developing smaller desktop copiers.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新"
-            ]
-          },
-          {
-            "title_en": "Hub‐and‐Spoke Collusion With a Third‐Party Pricing Algorithm",
-            "title_zh": "",
-            "url": "https://doi.org/10.1111/joie.70017",
-            "authors": "Joseph E. Harrington",
-            "date": "2026-06-01",
-            "abstract_en": "ABSTRACT A data analytics company delivers an efficiency by supplying a pricing algorithm that allows prices to more effectively respond to demand variation. In this setting, I consider a new form of hub‐and‐spoke collusion: A data analytics company (hub) coordinates the prices of competitors (spokes) through its pricing algorithm. A novel finding is that the data analytics company's efficiency is a facilitating factor for collusion; a rise in this efficiency increases the supracompetitive markup and the incremental profit from collusion. Thus, markets in which a third party's services are solidly grounded in efficiency still warrant scrutiny by competition authorities because they are more prone to the emergence of collusion and anticompetitive harm.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "人工智能"
-            ]
-          },
-          {
-            "title_en": "Innovation, Licensing, and Competition: Evidence From Genetically Engineered Crops",
-            "title_zh": "",
-            "url": "https://doi.org/10.1111/joie.70016",
-            "authors": "GianCarlo Moschini, Edward D. Perry",
-            "date": "2026-06-01",
-            "abstract_en": "ABSTRACT We provide a novel empirical analysis of the role of technology licensing, between competitors, for genetically engineered (GE) traits in the US seed industry. We extend the standard differentiated‐product Bertrand pricing model to include trait licensing, which permits us to recover marginal costs and (otherwise unobserved) royalty rates. Estimation relies on a large dataset of farm‐level seed purchases. We find that markups over marginal cost are sizeable, and royalties for GE traits contribute a non‐trivial amount to these markups. Licensing GE traits to competitors benefits all seed sellers and, notwithstanding its strategic effect on pricing, also increases total market surplus.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新"
-            ]
-          }
-        ],
+        "matched_count": 0,
+        "total_in_issue": 7,
+        "papers": [],
         "error": null
       },
       {
@@ -715,7 +641,7 @@
         "issue_title": "Published 2026-12",
         "issue_url": "https://www.sciencedirect.com/journal/international-journal-of-industrial-organization",
         "matched_count": 0,
-        "total_in_issue": 5,
+        "total_in_issue": 6,
         "papers": [],
         "error": null
       },
@@ -726,17 +652,17 @@
         "category": "Innovation",
         "issn": "0048-7333",
         "resolved_name": "Research Policy",
-        "issue_title": "Volume 55, Issue 9",
+        "issue_title": "Volume 55, Issue 10",
         "issue_url": "https://www.sciencedirect.com/journal/research-policy",
-        "matched_count": 5,
-        "total_in_issue": 8,
+        "matched_count": 3,
+        "total_in_issue": 3,
         "papers": [
           {
-            "title_en": "R&amp;D investment, technology adoption and productivity dynamics: An empirical study of the productivity dispersion in Canada",
+            "title_en": "Immigration and firm innovation: Evidence from Finnish manufacturing",
             "title_zh": "",
-            "url": "https://doi.org/10.1016/j.respol.2026.105602",
-            "authors": "Jianmin Tang, Weimin Wang, Sadaf Yalinejad",
-            "date": "2026-11-01",
+            "url": "https://doi.org/10.1016/j.respol.2026.105603",
+            "authors": "Terhi Maczulskij",
+            "date": "2026-12-01",
             "abstract_en": "",
             "abstract_zh": "",
             "matched_topics": [
@@ -744,24 +670,11 @@
             ]
           },
           {
-            "title_en": "Data and methods for identifying artificial intelligence-related patents",
+            "title_en": "A note on the changing appropriability conditions and technological opportunities for innovation in Japan; 1994–2020",
             "title_zh": "",
-            "url": "https://doi.org/10.1016/j.respol.2026.105599",
-            "authors": "Tianjun Wu, Chao Min, Waverly W. Ding, Guolong Wang, Kunpeng Zhang",
-            "date": "2026-11-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新",
-              "人工智能"
-            ]
-          },
-          {
-            "title_en": "Burning bridges or bridging divides: Geopolitics and collaboration in research and innovation",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.respol.2026.105580",
-            "authors": "Shreyas Gadgin Matha, Matte Hartog, Christian Chacua, Pierre-Alexandre Balland, Ricardo Hausmann, Muhammed Ali Yıldırım",
-            "date": "2026-11-01",
+            "url": "https://doi.org/10.1016/j.respol.2026.105608",
+            "authors": "Akiya Nagata, Akira Goto",
+            "date": "2026-12-01",
             "abstract_en": "",
             "abstract_zh": "",
             "matched_topics": [
@@ -769,28 +682,15 @@
             ]
           },
           {
-            "title_en": "Are circular innovations disruptive? An analysis of the role of inventor networks in the European semiconductor industry",
+            "title_en": "A cord of three strands: Industry-university-research collaboration and corporate ESG performance",
             "title_zh": "",
-            "url": "https://doi.org/10.1016/j.respol.2026.105574",
-            "authors": "Priyanshu Protim Pathak, Silvia Massini, Lucia Piscitello",
-            "date": "2026-11-01",
+            "url": "https://doi.org/10.1016/j.respol.2026.105607",
+            "authors": "Wanyi Chen, Ying Wang, Hao Ren",
+            "date": "2026-12-01",
             "abstract_en": "",
             "abstract_zh": "",
             "matched_topics": [
-              "创新"
-            ]
-          },
-          {
-            "title_en": "Searching together: Human–AI complementarities in innovation search",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.respol.2026.105597",
-            "authors": "Reda Hassan, Sujith Nair",
-            "date": "2026-11-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新",
-              "人工智能"
+              "绿色发展"
             ]
           }
         ],
@@ -1115,9 +1015,21 @@
         "resolved_name": "Journal of Environmental Economics and Management",
         "issue_title": "Published 2027-01",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-environmental-economics-and-management",
-        "matched_count": 1,
-        "total_in_issue": 2,
+        "matched_count": 2,
+        "total_in_issue": 5,
         "papers": [
+          {
+            "title_en": "Window-dressing in environmental regulation: Short-term incentives and temporary abatement",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jeem.2026.103415",
+            "authors": "Zhengwen Liu, Hong Ma, Fangrui Zhang",
+            "date": "2027-01-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "绿色发展"
+            ]
+          },
           {
             "title_en": "Air pollution and conflict in West Africa: The effects of the Harmattan dust",
             "title_zh": "",
@@ -1169,14 +1081,26 @@
         "resolved_name": "Energy Economics",
         "issue_title": "Published 2026-10",
         "issue_url": "https://www.sciencedirect.com/journal/energy-economics",
-        "matched_count": 4,
-        "total_in_issue": 13,
+        "matched_count": 11,
+        "total_in_issue": 26,
         "papers": [
           {
             "title_en": "Banking on carbon: modeling intertemporal equilibrium in China's rate-based emissions trading system",
             "title_zh": "",
             "url": "https://doi.org/10.1016/j.eneco.2026.109571",
             "authors": "Limin Du, Huiying Peng, Zheng Wang",
+            "date": "2026-10-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "绿色发展"
+            ]
+          },
+          {
+            "title_en": "Just transition? Exploring the climate finance, regulatory quality, trade openness and renewable energy nexus",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.eneco.2026.109567",
+            "authors": "Lili Wang, Jun Pang",
             "date": "2026-10-01",
             "abstract_en": "",
             "abstract_zh": "",
@@ -1197,10 +1121,83 @@
             ]
           },
           {
+            "title_en": "Dual channel mixed frequency forecasting for carbon prices: Informer-BiLSTM deep features embedded in Grey-MIDAS framework",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.eneco.2026.109586",
+            "authors": "Qi Ding, Xinping Xiao, Lizhong Yang, Zhuang Yang, Zhiwei Xu",
+            "date": "2026-10-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "绿色发展"
+            ]
+          },
+          {
+            "title_en": "Which carbon policies redirect innovation? Comparative evidence on policy instruments and policy mixes in China",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.eneco.2026.109581",
+            "authors": "Qiang Li, Lidong Chen, Wei Jin, Lin Zhang",
+            "date": "2026-10-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新",
+              "绿色发展"
+            ]
+          },
+          {
+            "title_en": "Decomposing the pollution generation process: Who is to blame?",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.eneco.2026.109564",
+            "authors": "Aurélie Slechten, Barnabé Walheer",
+            "date": "2026-10-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "绿色发展"
+            ]
+          },
+          {
+            "title_en": "An explainable machine learning analysis of retail renewable premiums",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.eneco.2026.109554",
+            "authors": "Yufan Ji, Noah Dormady, Abdollah Shafieezadeh, Kathryn Diana, Matthew Hoyt, Alberto J. Lamadrid L., Samantha Fox",
+            "date": "2026-10-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "人工智能"
+            ]
+          },
+          {
             "title_en": "ESG as a mitigator of oil volatility risk",
             "title_zh": "",
             "url": "https://doi.org/10.1016/j.eneco.2026.109536",
             "authors": "Ludovico Luce, Elias Demetriades, Alexandros Kontonikas, Athanasios Triantafyllou",
+            "date": "2026-10-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "绿色发展"
+            ]
+          },
+          {
+            "title_en": "Regulatory architecture and shipowner investment response under overlapping carbon-pricing regimes",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.eneco.2026.109585",
+            "authors": "Angelica Kemene, Vangelis Tsioumas",
+            "date": "2026-10-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "绿色发展"
+            ]
+          },
+          {
+            "title_en": "Designing renewable energy auctions for high realization probability — CfD and payment-only auctions",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.eneco.2026.109584",
+            "authors": "Runxi Wang, Karl-Martin Ehrhart",
             "date": "2026-10-01",
             "abstract_en": "",
             "abstract_zh": "",
@@ -1230,17 +1227,17 @@
         "category": "Environment / energy",
         "issn": "0928-7655",
         "resolved_name": "Resource and Energy Economics",
-        "issue_title": "Published 2026-08",
+        "issue_title": "Published 2026-12",
         "issue_url": "https://www.sciencedirect.com/journal/resource-and-energy-economics",
         "matched_count": 1,
-        "total_in_issue": 8,
+        "total_in_issue": 2,
         "papers": [
           {
-            "title_en": "On the fair abatement of riparian pollution",
+            "title_en": "Overcoming the Carbon Trap in the Global South",
             "title_zh": "",
-            "url": "https://doi.org/10.1016/j.reseneeco.2026.101586",
-            "authors": "Ricardo Martínez, Juan D. Moreno-Ternero",
-            "date": "2026-08-01",
+            "url": "https://doi.org/10.1016/j.reseneeco.2026.101599",
+            "authors": "Lucas Bretschger, Evgenij Komarov, Matthias Leuthard",
+            "date": "2026-12-01",
             "abstract_en": "",
             "abstract_zh": "",
             "matched_topics": [
@@ -1622,7 +1619,7 @@
         "issue_title": "Published 2026-10",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-public-economics",
         "matched_count": 0,
-        "total_in_issue": 22,
+        "total_in_issue": 28,
         "papers": [],
         "error": null
       },
@@ -1633,60 +1630,11 @@
         "category": "Development",
         "issn": "0304-3878",
         "resolved_name": "Journal of Development Economics",
-        "issue_title": "Published 2027-01",
+        "issue_title": "Published 2027-02",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-development-economics",
-        "matched_count": 4,
-        "total_in_issue": 33,
-        "papers": [
-          {
-            "title_en": "Dual-track in the family: How spousal state employment fuels entrepreneurship",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.jdeveco.2026.103899",
-            "authors": "Wenchao Li, Yifan Lin, Junjian Yi, Haochen Zhang",
-            "date": "2027-01-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新"
-            ]
-          },
-          {
-            "title_en": "Reciprocity and state capacity: Evidence from a national pollution control reform in China",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.jdeveco.2026.103905",
-            "authors": "Yu Luo, Yongwei Nian, Ming-ang Zhang",
-            "date": "2027-01-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "绿色发展"
-            ]
-          },
-          {
-            "title_en": "Picking winners: Local land allocation and bottom-up industrial policy in China",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.jdeveco.2026.103920",
-            "authors": "Wenjia Tian, Zhi Wang, Qinghua Zhang",
-            "date": "2027-01-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "产业政策"
-            ]
-          },
-          {
-            "title_en": "Exploitation vs. Exploration: How knowledge spillovers shape healthcare practices and innovation",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.jdeveco.2026.103892",
-            "authors": "Yinan Liu, Chen Lin, Zixiao Li, Jing Zhang",
-            "date": "2027-01-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新"
-            ]
-          }
-        ],
+        "matched_count": 0,
+        "total_in_issue": 2,
+        "papers": [],
         "error": null
       },
       {
@@ -1698,8 +1646,8 @@
         "resolved_name": "Journal of International Economics",
         "issue_title": "Published 2026-12",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-international-economics",
-        "matched_count": 1,
-        "total_in_issue": 12,
+        "matched_count": 2,
+        "total_in_issue": 15,
         "papers": [
           {
             "title_en": "Transportation networks, technology adoption, and structural transformation",
@@ -1712,6 +1660,18 @@
             "matched_topics": [
               "创新"
             ]
+          },
+          {
+            "title_en": "The impact of AI and cross-border data regulation on international trade in digital services",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jinteco.2026.104328",
+            "authors": "Ruiqi Sun, Daniel Trefler",
+            "date": "2026-12-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "人工智能"
+            ]
           }
         ],
         "error": null
@@ -1723,48 +1683,11 @@
         "category": "Industrial organization",
         "issn": "0022-1821",
         "resolved_name": "Journal of Industrial Economics",
-        "issue_title": "Volume 74, Issue 2",
+        "issue_title": "Volume 74, Issue 3",
         "issue_url": "https://onlinelibrary.wiley.com/journal/14676451",
-        "matched_count": 3,
-        "total_in_issue": 8,
-        "papers": [
-          {
-            "title_en": "Patents, Antitrust, and Innovation: Evidence From the Xerox Case",
-            "title_zh": "",
-            "url": "https://doi.org/10.1111/joie.70023",
-            "authors": "Robin Mamrak",
-            "date": "2026-06-01",
-            "abstract_en": "ABSTRACT How does antitrust enforcement affect innovation when patents are the main barrier to entry? I address this question by empirically studying the US antitrust case against Xerox, the former monopolist in the market for plain‐paper copiers. In 1975, Xerox accepted a consent decree whose primary remedy was compulsory licensing of all its copier‐technology patents in the US and abroad. I show that this antitrust intervention promoted innovation by other firms in the copier industry, measured by a disproportionate increase in patenting in technology classes with a higher propensity for containing copier‐related inventions. This effect is driven by Japanese competitors, whose patenting became more novel and diverse as they started developing smaller desktop copiers.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新"
-            ]
-          },
-          {
-            "title_en": "Hub‐and‐Spoke Collusion With a Third‐Party Pricing Algorithm",
-            "title_zh": "",
-            "url": "https://doi.org/10.1111/joie.70017",
-            "authors": "Joseph E. Harrington",
-            "date": "2026-06-01",
-            "abstract_en": "ABSTRACT A data analytics company delivers an efficiency by supplying a pricing algorithm that allows prices to more effectively respond to demand variation. In this setting, I consider a new form of hub‐and‐spoke collusion: A data analytics company (hub) coordinates the prices of competitors (spokes) through its pricing algorithm. A novel finding is that the data analytics company's efficiency is a facilitating factor for collusion; a rise in this efficiency increases the supracompetitive markup and the incremental profit from collusion. Thus, markets in which a third party's services are solidly grounded in efficiency still warrant scrutiny by competition authorities because they are more prone to the emergence of collusion and anticompetitive harm.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "人工智能"
-            ]
-          },
-          {
-            "title_en": "Innovation, Licensing, and Competition: Evidence From Genetically Engineered Crops",
-            "title_zh": "",
-            "url": "https://doi.org/10.1111/joie.70016",
-            "authors": "GianCarlo Moschini, Edward D. Perry",
-            "date": "2026-06-01",
-            "abstract_en": "ABSTRACT We provide a novel empirical analysis of the role of technology licensing, between competitors, for genetically engineered (GE) traits in the US seed industry. We extend the standard differentiated‐product Bertrand pricing model to include trait licensing, which permits us to recover marginal costs and (otherwise unobserved) royalty rates. Estimation relies on a large dataset of farm‐level seed purchases. We find that markups over marginal cost are sizeable, and royalties for GE traits contribute a non‐trivial amount to these markups. Licensing GE traits to competitors benefits all seed sellers and, notwithstanding its strategic effect on pricing, also increases total market surplus.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新"
-            ]
-          }
-        ],
+        "matched_count": 0,
+        "total_in_issue": 7,
+        "papers": [],
         "error": null
       },
       {
@@ -1816,7 +1739,7 @@
         "issue_title": "Published 2026-12",
         "issue_url": "https://www.sciencedirect.com/journal/international-journal-of-industrial-organization",
         "matched_count": 0,
-        "total_in_issue": 5,
+        "total_in_issue": 6,
         "papers": [],
         "error": null
       },
@@ -1827,17 +1750,17 @@
         "category": "Innovation",
         "issn": "0048-7333",
         "resolved_name": "Research Policy",
-        "issue_title": "Volume 55, Issue 9",
+        "issue_title": "Volume 55, Issue 10",
         "issue_url": "https://www.sciencedirect.com/journal/research-policy",
-        "matched_count": 5,
-        "total_in_issue": 8,
+        "matched_count": 3,
+        "total_in_issue": 3,
         "papers": [
           {
-            "title_en": "R&amp;D investment, technology adoption and productivity dynamics: An empirical study of the productivity dispersion in Canada",
+            "title_en": "Immigration and firm innovation: Evidence from Finnish manufacturing",
             "title_zh": "",
-            "url": "https://doi.org/10.1016/j.respol.2026.105602",
-            "authors": "Jianmin Tang, Weimin Wang, Sadaf Yalinejad",
-            "date": "2026-11-01",
+            "url": "https://doi.org/10.1016/j.respol.2026.105603",
+            "authors": "Terhi Maczulskij",
+            "date": "2026-12-01",
             "abstract_en": "",
             "abstract_zh": "",
             "matched_topics": [
@@ -1845,24 +1768,11 @@
             ]
           },
           {
-            "title_en": "Data and methods for identifying artificial intelligence-related patents",
+            "title_en": "A note on the changing appropriability conditions and technological opportunities for innovation in Japan; 1994–2020",
             "title_zh": "",
-            "url": "https://doi.org/10.1016/j.respol.2026.105599",
-            "authors": "Tianjun Wu, Chao Min, Waverly W. Ding, Guolong Wang, Kunpeng Zhang",
-            "date": "2026-11-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新",
-              "人工智能"
-            ]
-          },
-          {
-            "title_en": "Burning bridges or bridging divides: Geopolitics and collaboration in research and innovation",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.respol.2026.105580",
-            "authors": "Shreyas Gadgin Matha, Matte Hartog, Christian Chacua, Pierre-Alexandre Balland, Ricardo Hausmann, Muhammed Ali Yıldırım",
-            "date": "2026-11-01",
+            "url": "https://doi.org/10.1016/j.respol.2026.105608",
+            "authors": "Akiya Nagata, Akira Goto",
+            "date": "2026-12-01",
             "abstract_en": "",
             "abstract_zh": "",
             "matched_topics": [
@@ -1870,28 +1780,15 @@
             ]
           },
           {
-            "title_en": "Are circular innovations disruptive? An analysis of the role of inventor networks in the European semiconductor industry",
+            "title_en": "A cord of three strands: Industry-university-research collaboration and corporate ESG performance",
             "title_zh": "",
-            "url": "https://doi.org/10.1016/j.respol.2026.105574",
-            "authors": "Priyanshu Protim Pathak, Silvia Massini, Lucia Piscitello",
-            "date": "2026-11-01",
+            "url": "https://doi.org/10.1016/j.respol.2026.105607",
+            "authors": "Wanyi Chen, Ying Wang, Hao Ren",
+            "date": "2026-12-01",
             "abstract_en": "",
             "abstract_zh": "",
             "matched_topics": [
-              "创新"
-            ]
-          },
-          {
-            "title_en": "Searching together: Human–AI complementarities in innovation search",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.respol.2026.105597",
-            "authors": "Reda Hassan, Sujith Nair",
-            "date": "2026-11-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新",
-              "人工智能"
+              "绿色发展"
             ]
           }
         ],
@@ -2216,9 +2113,21 @@
         "resolved_name": "Journal of Environmental Economics and Management",
         "issue_title": "Published 2027-01",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-environmental-economics-and-management",
-        "matched_count": 1,
-        "total_in_issue": 2,
+        "matched_count": 2,
+        "total_in_issue": 5,
         "papers": [
+          {
+            "title_en": "Window-dressing in environmental regulation: Short-term incentives and temporary abatement",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jeem.2026.103415",
+            "authors": "Zhengwen Liu, Hong Ma, Fangrui Zhang",
+            "date": "2027-01-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "绿色发展"
+            ]
+          },
           {
             "title_en": "Air pollution and conflict in West Africa: The effects of the Harmattan dust",
             "title_zh": "",
@@ -2270,14 +2179,26 @@
         "resolved_name": "Energy Economics",
         "issue_title": "Published 2026-10",
         "issue_url": "https://www.sciencedirect.com/journal/energy-economics",
-        "matched_count": 4,
-        "total_in_issue": 13,
+        "matched_count": 11,
+        "total_in_issue": 26,
         "papers": [
           {
             "title_en": "Banking on carbon: modeling intertemporal equilibrium in China's rate-based emissions trading system",
             "title_zh": "",
             "url": "https://doi.org/10.1016/j.eneco.2026.109571",
             "authors": "Limin Du, Huiying Peng, Zheng Wang",
+            "date": "2026-10-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "绿色发展"
+            ]
+          },
+          {
+            "title_en": "Just transition? Exploring the climate finance, regulatory quality, trade openness and renewable energy nexus",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.eneco.2026.109567",
+            "authors": "Lili Wang, Jun Pang",
             "date": "2026-10-01",
             "abstract_en": "",
             "abstract_zh": "",
@@ -2298,10 +2219,83 @@
             ]
           },
           {
+            "title_en": "Dual channel mixed frequency forecasting for carbon prices: Informer-BiLSTM deep features embedded in Grey-MIDAS framework",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.eneco.2026.109586",
+            "authors": "Qi Ding, Xinping Xiao, Lizhong Yang, Zhuang Yang, Zhiwei Xu",
+            "date": "2026-10-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "绿色发展"
+            ]
+          },
+          {
+            "title_en": "Which carbon policies redirect innovation? Comparative evidence on policy instruments and policy mixes in China",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.eneco.2026.109581",
+            "authors": "Qiang Li, Lidong Chen, Wei Jin, Lin Zhang",
+            "date": "2026-10-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新",
+              "绿色发展"
+            ]
+          },
+          {
+            "title_en": "Decomposing the pollution generation process: Who is to blame?",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.eneco.2026.109564",
+            "authors": "Aurélie Slechten, Barnabé Walheer",
+            "date": "2026-10-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "绿色发展"
+            ]
+          },
+          {
+            "title_en": "An explainable machine learning analysis of retail renewable premiums",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.eneco.2026.109554",
+            "authors": "Yufan Ji, Noah Dormady, Abdollah Shafieezadeh, Kathryn Diana, Matthew Hoyt, Alberto J. Lamadrid L., Samantha Fox",
+            "date": "2026-10-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "人工智能"
+            ]
+          },
+          {
             "title_en": "ESG as a mitigator of oil volatility risk",
             "title_zh": "",
             "url": "https://doi.org/10.1016/j.eneco.2026.109536",
             "authors": "Ludovico Luce, Elias Demetriades, Alexandros Kontonikas, Athanasios Triantafyllou",
+            "date": "2026-10-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "绿色发展"
+            ]
+          },
+          {
+            "title_en": "Regulatory architecture and shipowner investment response under overlapping carbon-pricing regimes",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.eneco.2026.109585",
+            "authors": "Angelica Kemene, Vangelis Tsioumas",
+            "date": "2026-10-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "绿色发展"
+            ]
+          },
+          {
+            "title_en": "Designing renewable energy auctions for high realization probability — CfD and payment-only auctions",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.eneco.2026.109584",
+            "authors": "Runxi Wang, Karl-Martin Ehrhart",
             "date": "2026-10-01",
             "abstract_en": "",
             "abstract_zh": "",
@@ -2331,17 +2325,17 @@
         "category": "Environment / energy",
         "issn": "0928-7655",
         "resolved_name": "Resource and Energy Economics",
-        "issue_title": "Published 2026-08",
+        "issue_title": "Published 2026-12",
         "issue_url": "https://www.sciencedirect.com/journal/resource-and-energy-economics",
         "matched_count": 1,
-        "total_in_issue": 8,
+        "total_in_issue": 2,
         "papers": [
           {
-            "title_en": "On the fair abatement of riparian pollution",
+            "title_en": "Overcoming the Carbon Trap in the Global South",
             "title_zh": "",
-            "url": "https://doi.org/10.1016/j.reseneeco.2026.101586",
-            "authors": "Ricardo Martínez, Juan D. Moreno-Ternero",
-            "date": "2026-08-01",
+            "url": "https://doi.org/10.1016/j.reseneeco.2026.101599",
+            "authors": "Lucas Bretschger, Evgenij Komarov, Matthias Leuthard",
+            "date": "2026-12-01",
             "abstract_en": "",
             "abstract_zh": "",
             "matched_topics": [
