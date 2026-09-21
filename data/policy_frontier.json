@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-09-14 22:21:54",
+  "updated_at": "2026-09-21 22:27:14",
   "schema_version": 1,
   "translation": {
     "engine": "kimi",
     "model": "moonshot-v1-8k",
     "enabled": true,
     "success_count": 0,
-    "fail_count": 107,
+    "fail_count": 96,
     "failed_examples": [
       "Manipulation-Robust Prediction :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, please recharge your ",
       "An increasing number of decisions are guided by machine learning algorithms. But when cons :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, please recharge your ",
@@ -443,57 +443,45 @@
         "category": "General field",
         "issn": "0034-6535",
         "resolved_name": "The Review of Economics and Statistics",
-        "issue_title": "Volume 108, Issue 4",
+        "issue_title": "Volume 108, Issue 5",
         "issue_url": "https://direct.mit.edu/rest",
-        "matched_count": 4,
-        "total_in_issue": 22,
+        "matched_count": 3,
+        "total_in_issue": 24,
         "papers": [
           {
-            "title_en": "Attrition and the Gender Patenting Gap",
+            "title_en": "The Unobserved Returns to Entrepreneurship",
             "title_zh": "",
-            "url": "https://doi.org/10.1162/rest_a_01447",
-            "authors": "Abhay Aneja, Oren Reshef, Gauri Subramani",
-            "date": "2026-07-17",
-            "abstract_en": "Abstract Women are underrepresented in patenting. In this study, we consider differential responsiveness to rejection as a contributor to the gender gap in invention. Leveraging the prosecution histories of almost one million U.S. patent applications and the quasirandom assignment of applications to examiners, we show that women are 3.6–6.9 percentage points less likely to continue in the application process following an early-stage rejection. Conditional on applying for a patent, male-female disparities in the propensity to abandon applications account for more than half of the overall gender gap in issued patents. We provide suggestive evidence that institutional support can help reduce the attrition gap.",
+            "url": "https://doi.org/10.1162/rest_a_01437",
+            "authors": "Sarada",
+            "date": "2026-09-15",
+            "abstract_en": "Abstract This paper presents an alternative perspective to a long-standing empirical puzzle: that most entrepreneurs persevere despite persistently low earnings. Because entrepreneurial earnings are notoriously difficult to measure, I approach the question from an expenditure angle. I look at how switching into self-employment corresponds to changes in reported earnings versus expenditure. Using 45 years of longitudinal data, I find that individuals report earning 27.7% less in self-employment, while spending 3.8% more. This household expenditure premium accrues with entrepreneurial experience and is not offset by lower savings or longer work hours. The results hold in highly educated and incorporated business owner subsamples.",
             "abstract_zh": "",
             "matched_topics": [
               "创新"
             ]
           },
           {
-            "title_en": "Human Capital and Climate Change",
+            "title_en": "Estimating Nursing Home Quality with Selection",
             "title_zh": "",
-            "url": "https://doi.org/10.1162/rest_a_01444",
-            "authors": "Noam Angrist, Kevin Winseck, Harry Anthony Patrinos, Joshua Graff Zivin",
-            "date": "2026-07-17",
-            "abstract_en": "Abstract Addressing climate change requires individual behavior change and voter support for pro-climate policies, yet surprisingly little is known about how to achieve these outcomes. In this paper, we estimate causal effects of additional education on pro-climate outcomes using new compulsory schooling law data across 20 European countries. We analyze effects on pro-climate beliefs and behaviors, as well as novel data on policy preferences and voting for green parties. Results show that a year of education substantially increases pro-climate beliefs, behaviors, and policy preferences.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "绿色发展"
-            ]
-          },
-          {
-            "title_en": "Machine Learning Can Predict Shooting Victimization Well Enough to Help Prevent It",
-            "title_zh": "",
-            "url": "https://doi.org/10.1162/rest_a_01519",
-            "authors": "Sara B. Heller, Benjamin Jakubowski, Zubin Jelveh, Max Kapustin",
-            "date": "2026-07-17",
-            "abstract_en": "Abstract Using Chicago police data, we train a machine learning model to predict the risk of being shot in the next 18 months. Out-of-sample accuracy is strikingly high. A central concern with using police data is “baking in” bias, or overestimating risk for groups likelier to interact with police conditional on behavior. Our predictions, however, accurately recover risk across demographic groups. Legal, ethical, and practical barriers should prevent using victimization predictions to target law enforcement. But using them to target social services could increase both the potential for interventions to reduce shootings and the available statistical power to detect those reductions.",
+            "url": "https://doi.org/10.1162/rest_a_01449",
+            "authors": "Andrew Olenski, Szymon Sacher",
+            "date": "2026-09-15",
+            "abstract_en": "Abstract We use variational inference (VI), a technique from the machine learning literature, to estimate a mortality-based Bayesian model of nursing home quality accounting for selection. We demonstrate how one can use VI to quickly and flexibly estimate a high-dimensional economic model with large datasets. Using our facility quality estimates, we examine the correlates of quality and find that public report cards have near-zero correlation. We then show that in contrast to prior literature, higher-quality nursing homes fared better during the pandemic: a one standard deviation increase in quality corresponds to 2.5% fewer COVID-19 cases.",
             "abstract_zh": "",
             "matched_topics": [
               "人工智能"
             ]
           },
           {
-            "title_en": "Knowledge Access: The Effects of Carnegie Libraries on Innovation",
+            "title_en": "Misperceived Social Norms and Willingness to Act Against Climate Change",
             "title_zh": "",
-            "url": "https://doi.org/10.1162/rest_a_01446",
-            "authors": "Enrico Berkes, Peter Nencka",
-            "date": "2026-07-17",
-            "abstract_en": "Abstract Between 1883 and 1919, Andrew Carnegie funded the construction of more than 1,500 public libraries across the United States, reducing the costs of accessing knowledge for millions. We study the effect of these libraries on innovation. Patenting in recipient places increased on average by 10%–12% in the 20 years following library construction relative to a novel control group of cities that applied for but did not build libraries. We show that access to scientific knowledge and increased collaboration opportunities are possible mechanisms.",
+            "url": "https://doi.org/10.1162/rest_a_01468",
+            "authors": "Peter Andre, Teodora Boneva, Felix Chopra, Armin Falk",
+            "date": "2026-09-15",
+            "abstract_en": "Abstract We document the individual willingness to act against climate change and study the role of social norms in a large sample of U.S. adults. Individual beliefs about social norms positively predict pro-climate donations, comparable in strength to universal moral values and economic preferences. However, we document systematic misperceptions of social norms. Respondents vastly underestimate the prevalence of climate-friendly behaviors and norms. Correcting these misperceptions in an experiment causally raises individual willingness to act against climate change and individual support for climate policies. The effects are strongest for individuals who are skeptical about the existence and threat of global warming.",
             "abstract_zh": "",
             "matched_topics": [
-              "创新"
+              "绿色发展"
             ]
           }
         ],
@@ -506,10 +494,10 @@
         "category": "Public economics",
         "issn": "0047-2727",
         "resolved_name": "Journal of Public Economics",
-        "issue_title": "Published 2026-10",
+        "issue_title": "Published 2026-11",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-public-economics",
         "matched_count": 0,
-        "total_in_issue": 31,
+        "total_in_issue": 1,
         "papers": [],
         "error": null
       },
@@ -523,7 +511,7 @@
         "issue_title": "Published 2027-02",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-development-economics",
         "matched_count": 0,
-        "total_in_issue": 5,
+        "total_in_issue": 12,
         "papers": [],
         "error": null
       },
@@ -537,7 +525,7 @@
         "issue_title": "Published 2026-12",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-international-economics",
         "matched_count": 2,
-        "total_in_issue": 17,
+        "total_in_issue": 20,
         "papers": [
           {
             "title_en": "Transportation networks, technology adoption, and structural transformation",
@@ -642,14 +630,26 @@
         "resolved_name": "Research Policy",
         "issue_title": "Volume 55, Issue 10",
         "issue_url": "https://www.sciencedirect.com/journal/research-policy",
-        "matched_count": 5,
-        "total_in_issue": 10,
+        "matched_count": 8,
+        "total_in_issue": 14,
         "papers": [
           {
             "title_en": "Immigration and firm innovation: Evidence from Finnish manufacturing",
             "title_zh": "",
             "url": "https://doi.org/10.1016/j.respol.2026.105603",
             "authors": "Terhi Maczulskij",
+            "date": "2026-12-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新"
+            ]
+          },
+          {
+            "title_en": "Bridging the gap: A scalable approach to measuring social innovation capacity",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.respol.2026.105629",
+            "authors": "Johannes Carl, Nils Grashof, Matthias Menter",
             "date": "2026-12-01",
             "abstract_en": "",
             "abstract_zh": "",
@@ -691,6 +691,30 @@
             "abstract_zh": "",
             "matched_topics": [
               "绿色发展"
+            ]
+          },
+          {
+            "title_en": "Automation and employment over the technology life cycle: Evidence from European regions",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.respol.2026.105611",
+            "authors": "Florencia Jaccoud, Fabien Petit, Tommaso Ciarli, Maria Savona",
+            "date": "2026-12-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "人工智能"
+            ]
+          },
+          {
+            "title_en": "Local implementation of transformative innovation policies: Ambiguities, strategic responses, and intertemporal conflicts",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.respol.2026.105624",
+            "authors": "Brittney (Britt) Regal, Damian Grimshaw, Marcela Miozzo, Jonatan Pinkse",
+            "date": "2026-12-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新"
             ]
           },
           {
@@ -909,24 +933,24 @@
             ]
           },
           {
-            "title_en": "The Sound We Haven’t Heard Before: A Commentary on “Fighting Fire with Fire: Infusing AI into Peer Review to Sustain Quality Scholarship”",
-            "title_zh": "",
-            "url": "https://doi.org/10.1287/mnsc.2026.02441",
-            "authors": "Tinglong Dai",
-            "date": "2026-09-01",
-            "abstract_en": "This commentary responds to “Fighting Fire with Fire: Infusing AI into Peer Review to Sustain Quality Scholarship” [Bhargava HK, Bana S, Zhang Z, Brandimarte L, Choudary V, Li F, Loupos P, Zantedeschi D (2026) Fighting fire with fire: Infusing AI into peer review to sustain quality scholarship. Management Sci. Forthcoming.]. It shares the paper’s core position, that journals should govern artificial intelligence openly rather than leave it to the shadows, but it questions the premise that rising submission volume poses an existential threat. The safeguard is human judgment. Our shared fatigue with derivative, repetitive work is a sensor more discerning than any AI detector, because a model trained on what we have already rewarded cannot produce the novelty that our community prizes. The threat to a journal like Management Science is thus more contained than the original alarm implies, provided AI remains a non-final input and humans retain ownership of novelty and contribution. One test should govern any AI workflow: does it ask more of human judgment, or less? This commentary was accepted by Christoph Loch.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "人工智能"
-            ]
-          },
-          {
             "title_en": "Correlation of Rankings in Matching Markets",
             "title_zh": "",
             "url": "https://doi.org/10.1287/mnsc.2024.06067",
             "authors": "Rémi Castera, Patrick Loiseau, Bary S. R. Pradelski",
             "date": "2026-09-01",
             "abstract_en": "We study the role of correlation in matching markets, where multiple decision makers simultaneously face selection problems from the same pool of candidates. We propose a model in which a candidate’s priority scores across different decision makers exhibit varying levels of correlation dependent on the candidate’s sociodemographic group. Such differential correlation can arise in school choice because of the varying prevalence of selection criteria, in college admissions because of test-optional policies, or because of algorithmic monoculture, that is, when decision makers rely on the same algorithms and data sets to evaluate candidates. We show that higher correlation for one of the groups generally improves the outcome for all groups, leading to higher efficiency. However, students from a given group are more likely to remain unmatched as their own correlation level increases. This implies that it is advantageous to belong to a low-correlation group. Finally, we extend the tie-breaking literature to multiple priority classes and intermediate levels of correlation. Overall, our results point to differential correlation as a previously overlooked systemic source of group inequalities in school, university, and job admissions. This paper was accepted by Itai Ashlagi, revenue management and market analytics. Funding: This work was partially supported by MIAI @ Grenoble Alpes [Grants ANR-19-P3IA-0003 and ANR-23-PEIA-0003], by the French National Research Agency (ANR) [Grants ANR-19-CE48-0018 and ANR-20-CE23-0007], and by the National Science Foundation [Grant DMS-1928930] and by the Alfred P. Sloan Foundation [Grant G-2021-16778], which funded B. Pradelski’s residency at the Simons Laufer Mathematical Sciences Institute (formerly MSRI) in Berkeley, CA, during the Fall 2023 semester. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.06067 .",
+            "abstract_zh": "",
+            "matched_topics": [
+              "人工智能"
+            ]
+          },
+          {
+            "title_en": "The Sound We Haven’t Heard Before: A Commentary on “Fighting Fire with Fire: Infusing AI into Peer Review to Sustain Quality Scholarship”",
+            "title_zh": "",
+            "url": "https://doi.org/10.1287/mnsc.2026.02441",
+            "authors": "Tinglong Dai",
+            "date": "2026-09-01",
+            "abstract_en": "This commentary responds to “Fighting Fire with Fire: Infusing AI into Peer Review to Sustain Quality Scholarship” [Bhargava HK, Bana S, Zhang Z, Brandimarte L, Choudary V, Li F, Loupos P, Zantedeschi D (2026) Fighting fire with fire: Infusing AI into peer review to sustain quality scholarship. Management Sci. Forthcoming.]. It shares the paper’s core position, that journals should govern artificial intelligence openly rather than leave it to the shadows, but it questions the premise that rising submission volume poses an existential threat. The safeguard is human judgment. Our shared fatigue with derivative, repetitive work is a sensor more discerning than any AI detector, because a model trained on what we have already rewarded cannot produce the novelty that our community prizes. The threat to a journal like Management Science is thus more contained than the original alarm implies, provided AI remains a non-final input and humans retain ownership of novelty and contribution. One test should govern any AI workflow: does it ask more of human judgment, or less? This commentary was accepted by Christoph Loch.",
             "abstract_zh": "",
             "matched_topics": [
               "人工智能"
@@ -994,18 +1018,6 @@
             ]
           },
           {
-            "title_en": "On the Expansion of Risk Pooling",
-            "title_zh": "",
-            "url": "https://doi.org/10.1287/mnsc.2024.06863",
-            "authors": "Michail Anthropelos, Runhuan Feng, Seongyoon Kim",
-            "date": "2026-09-01",
-            "abstract_en": "Risk pooling has become an increasingly critical tool for managing risks among corporations, institutions, states, and nations, with examples including multinational pooling, decentralized insurance schemes, catastrophe risk pooling, and burden sharing for nuclear accidents. Although there has been a rich literature on such practices, little is known from a theoretical viewpoint regarding the operational strategies of risk pools and, in particular, on issues about the effect of a pool’s expansion on each existing member’s welfare. This paper is the first to explore these issues by establishing different notions of consensus for the expansion of a risk pool: strong consensus, where both existing members and new candidates improve their risk measures due to the pool’s expansion, and weak consensus, which refers to the willingness of existing members to remain in the pool. Under optimal risk sharing for each pool, we show that its properties regarding expansion’s effects depend strongly on the underlying pricing rule. For instance, only with risk-adjusted equilibrium pricing are existing members willing to accept highly risky new members, whereas simple linear pricing excludes such members from the pool. Additionally, the impact of exogenous reinsurance on consensus is analyzed under both pricing rules. The established framework offers valuable managerial insights and policy implications, which we illustrate through two indicative case studies based on real data. This paper was accepted by Agostino Capponi, finance. Funding: Financial support from the Tsinghua University School of Economics and Management [Research Grant 2023051001], the National Social Sciences Foundation of China [Major Grant 23&ZD178] is gratefully acknowledged, and the Tsinghua University Independent Research Grant [2024THZWYY02]. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.06863 .",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新"
-            ]
-          },
-          {
             "title_en": "Stripping the Discount Curve—A Robust Machine Learning Approach",
             "title_zh": "",
             "url": "https://doi.org/10.1287/mnsc.2023.01401",
@@ -1015,6 +1027,18 @@
             "abstract_zh": "",
             "matched_topics": [
               "人工智能"
+            ]
+          },
+          {
+            "title_en": "On the Expansion of Risk Pooling",
+            "title_zh": "",
+            "url": "https://doi.org/10.1287/mnsc.2024.06863",
+            "authors": "Michail Anthropelos, Runhuan Feng, Seongyoon Kim",
+            "date": "2026-09-01",
+            "abstract_en": "Risk pooling has become an increasingly critical tool for managing risks among corporations, institutions, states, and nations, with examples including multinational pooling, decentralized insurance schemes, catastrophe risk pooling, and burden sharing for nuclear accidents. Although there has been a rich literature on such practices, little is known from a theoretical viewpoint regarding the operational strategies of risk pools and, in particular, on issues about the effect of a pool’s expansion on each existing member’s welfare. This paper is the first to explore these issues by establishing different notions of consensus for the expansion of a risk pool: strong consensus, where both existing members and new candidates improve their risk measures due to the pool’s expansion, and weak consensus, which refers to the willingness of existing members to remain in the pool. Under optimal risk sharing for each pool, we show that its properties regarding expansion’s effects depend strongly on the underlying pricing rule. For instance, only with risk-adjusted equilibrium pricing are existing members willing to accept highly risky new members, whereas simple linear pricing excludes such members from the pool. Additionally, the impact of exogenous reinsurance on consensus is analyzed under both pricing rules. The established framework offers valuable managerial insights and policy implications, which we illustrate through two indicative case studies based on real data. This paper was accepted by Agostino Capponi, finance. Funding: Financial support from the Tsinghua University School of Economics and Management [Research Grant 2023051001], the National Social Sciences Foundation of China [Major Grant 23&ZD178] is gratefully acknowledged, and the Tsinghua University Independent Research Grant [2024THZWYY02]. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.06863 .",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新"
             ]
           }
         ],
@@ -1030,7 +1054,7 @@
         "issue_title": "Published 2027-01",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-environmental-economics-and-management",
         "matched_count": 2,
-        "total_in_issue": 6,
+        "total_in_issue": 9,
         "papers": [
           {
             "title_en": "Window-dressing in environmental regulation: Short-term incentives and temporary abatement",
@@ -1093,157 +1117,11 @@
         "category": "Environment / energy",
         "issn": "0140-9883",
         "resolved_name": "Energy Economics",
-        "issue_title": "Published 2026-10",
+        "issue_title": "Published 2026-11",
         "issue_url": "https://www.sciencedirect.com/journal/energy-economics",
-        "matched_count": 12,
-        "total_in_issue": 29,
-        "papers": [
-          {
-            "title_en": "Banking on carbon: modeling intertemporal equilibrium in China's rate-based emissions trading system",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.eneco.2026.109571",
-            "authors": "Limin Du, Huiying Peng, Zheng Wang",
-            "date": "2026-10-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "绿色发展"
-            ]
-          },
-          {
-            "title_en": "Just transition? Exploring the climate finance, regulatory quality, trade openness and renewable energy nexus",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.eneco.2026.109567",
-            "authors": "Lili Wang, Jun Pang",
-            "date": "2026-10-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "绿色发展"
-            ]
-          },
-          {
-            "title_en": "Financing the low-carbon transition: Do energy transition investments improve ESG performance?",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.eneco.2026.109592",
-            "authors": "Kwamie Dunbar, Mohammed Alrashdani",
-            "date": "2026-10-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "绿色发展"
-            ]
-          },
-          {
-            "title_en": "Climate change and credit risk of rural financial institutions: Evidence from China",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.eneco.2026.109563",
-            "authors": "Peng Peng, Shuo Han, Bingbing Zhang",
-            "date": "2026-10-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "绿色发展"
-            ]
-          },
-          {
-            "title_en": "Dual channel mixed frequency forecasting for carbon prices: Informer-BiLSTM deep features embedded in Grey-MIDAS framework",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.eneco.2026.109586",
-            "authors": "Qi Ding, Xinping Xiao, Lizhong Yang, Zhuang Yang, Zhiwei Xu",
-            "date": "2026-10-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "绿色发展"
-            ]
-          },
-          {
-            "title_en": "Which carbon policies redirect innovation? Comparative evidence on policy instruments and policy mixes in China",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.eneco.2026.109581",
-            "authors": "Qiang Li, Lidong Chen, Wei Jin, Lin Zhang",
-            "date": "2026-10-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新",
-              "绿色发展"
-            ]
-          },
-          {
-            "title_en": "Decomposing the pollution generation process: Who is to blame?",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.eneco.2026.109564",
-            "authors": "Aurélie Slechten, Barnabé Walheer",
-            "date": "2026-10-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "绿色发展"
-            ]
-          },
-          {
-            "title_en": "An explainable machine learning analysis of retail renewable premiums",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.eneco.2026.109554",
-            "authors": "Yufan Ji, Noah Dormady, Abdollah Shafieezadeh, Kathryn Diana, Matthew Hoyt, Alberto J. Lamadrid L., Samantha Fox",
-            "date": "2026-10-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "人工智能"
-            ]
-          },
-          {
-            "title_en": "ESG as a mitigator of oil volatility risk",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.eneco.2026.109536",
-            "authors": "Ludovico Luce, Elias Demetriades, Alexandros Kontonikas, Athanasios Triantafyllou",
-            "date": "2026-10-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "绿色发展"
-            ]
-          },
-          {
-            "title_en": "Regulatory architecture and shipowner investment response under overlapping carbon-pricing regimes",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.eneco.2026.109585",
-            "authors": "Angelica Kemene, Vangelis Tsioumas",
-            "date": "2026-10-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "绿色发展"
-            ]
-          },
-          {
-            "title_en": "Designing renewable energy auctions for high realization probability — CfD and payment-only auctions",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.eneco.2026.109584",
-            "authors": "Runxi Wang, Karl-Martin Ehrhart",
-            "date": "2026-10-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "绿色发展"
-            ]
-          },
-          {
-            "title_en": "Machine learning for detecting collusion and capacity withholding in wholesale electricity markets",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.eneco.2026.109557",
-            "authors": "Jeremy Proz, Martin Huber, Ivan Marin",
-            "date": "2026-10-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "人工智能"
-            ]
-          }
-        ],
+        "matched_count": 0,
+        "total_in_issue": 2,
+        "papers": [],
         "error": null
       },
       {
@@ -1256,7 +1134,7 @@
         "issue_title": "Published 2026-12",
         "issue_url": "https://www.sciencedirect.com/journal/resource-and-energy-economics",
         "matched_count": 1,
-        "total_in_issue": 2,
+        "total_in_issue": 3,
         "papers": [
           {
             "title_en": "Overcoming the Carbon Trap in the Global South",
@@ -1567,57 +1445,45 @@
         "category": "General field",
         "issn": "0034-6535",
         "resolved_name": "The Review of Economics and Statistics",
-        "issue_title": "Volume 108, Issue 4",
+        "issue_title": "Volume 108, Issue 5",
         "issue_url": "https://direct.mit.edu/rest",
-        "matched_count": 4,
-        "total_in_issue": 22,
+        "matched_count": 3,
+        "total_in_issue": 24,
         "papers": [
           {
-            "title_en": "Attrition and the Gender Patenting Gap",
+            "title_en": "The Unobserved Returns to Entrepreneurship",
             "title_zh": "",
-            "url": "https://doi.org/10.1162/rest_a_01447",
-            "authors": "Abhay Aneja, Oren Reshef, Gauri Subramani",
-            "date": "2026-07-17",
-            "abstract_en": "Abstract Women are underrepresented in patenting. In this study, we consider differential responsiveness to rejection as a contributor to the gender gap in invention. Leveraging the prosecution histories of almost one million U.S. patent applications and the quasirandom assignment of applications to examiners, we show that women are 3.6–6.9 percentage points less likely to continue in the application process following an early-stage rejection. Conditional on applying for a patent, male-female disparities in the propensity to abandon applications account for more than half of the overall gender gap in issued patents. We provide suggestive evidence that institutional support can help reduce the attrition gap.",
+            "url": "https://doi.org/10.1162/rest_a_01437",
+            "authors": "Sarada",
+            "date": "2026-09-15",
+            "abstract_en": "Abstract This paper presents an alternative perspective to a long-standing empirical puzzle: that most entrepreneurs persevere despite persistently low earnings. Because entrepreneurial earnings are notoriously difficult to measure, I approach the question from an expenditure angle. I look at how switching into self-employment corresponds to changes in reported earnings versus expenditure. Using 45 years of longitudinal data, I find that individuals report earning 27.7% less in self-employment, while spending 3.8% more. This household expenditure premium accrues with entrepreneurial experience and is not offset by lower savings or longer work hours. The results hold in highly educated and incorporated business owner subsamples.",
             "abstract_zh": "",
             "matched_topics": [
               "创新"
             ]
           },
           {
-            "title_en": "Human Capital and Climate Change",
+            "title_en": "Estimating Nursing Home Quality with Selection",
             "title_zh": "",
-            "url": "https://doi.org/10.1162/rest_a_01444",
-            "authors": "Noam Angrist, Kevin Winseck, Harry Anthony Patrinos, Joshua Graff Zivin",
-            "date": "2026-07-17",
-            "abstract_en": "Abstract Addressing climate change requires individual behavior change and voter support for pro-climate policies, yet surprisingly little is known about how to achieve these outcomes. In this paper, we estimate causal effects of additional education on pro-climate outcomes using new compulsory schooling law data across 20 European countries. We analyze effects on pro-climate beliefs and behaviors, as well as novel data on policy preferences and voting for green parties. Results show that a year of education substantially increases pro-climate beliefs, behaviors, and policy preferences.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "绿色发展"
-            ]
-          },
-          {
-            "title_en": "Machine Learning Can Predict Shooting Victimization Well Enough to Help Prevent It",
-            "title_zh": "",
-            "url": "https://doi.org/10.1162/rest_a_01519",
-            "authors": "Sara B. Heller, Benjamin Jakubowski, Zubin Jelveh, Max Kapustin",
-            "date": "2026-07-17",
-            "abstract_en": "Abstract Using Chicago police data, we train a machine learning model to predict the risk of being shot in the next 18 months. Out-of-sample accuracy is strikingly high. A central concern with using police data is “baking in” bias, or overestimating risk for groups likelier to interact with police conditional on behavior. Our predictions, however, accurately recover risk across demographic groups. Legal, ethical, and practical barriers should prevent using victimization predictions to target law enforcement. But using them to target social services could increase both the potential for interventions to reduce shootings and the available statistical power to detect those reductions.",
+            "url": "https://doi.org/10.1162/rest_a_01449",
+            "authors": "Andrew Olenski, Szymon Sacher",
+            "date": "2026-09-15",
+            "abstract_en": "Abstract We use variational inference (VI), a technique from the machine learning literature, to estimate a mortality-based Bayesian model of nursing home quality accounting for selection. We demonstrate how one can use VI to quickly and flexibly estimate a high-dimensional economic model with large datasets. Using our facility quality estimates, we examine the correlates of quality and find that public report cards have near-zero correlation. We then show that in contrast to prior literature, higher-quality nursing homes fared better during the pandemic: a one standard deviation increase in quality corresponds to 2.5% fewer COVID-19 cases.",
             "abstract_zh": "",
             "matched_topics": [
               "人工智能"
             ]
           },
           {
-            "title_en": "Knowledge Access: The Effects of Carnegie Libraries on Innovation",
+            "title_en": "Misperceived Social Norms and Willingness to Act Against Climate Change",
             "title_zh": "",
-            "url": "https://doi.org/10.1162/rest_a_01446",
-            "authors": "Enrico Berkes, Peter Nencka",
-            "date": "2026-07-17",
-            "abstract_en": "Abstract Between 1883 and 1919, Andrew Carnegie funded the construction of more than 1,500 public libraries across the United States, reducing the costs of accessing knowledge for millions. We study the effect of these libraries on innovation. Patenting in recipient places increased on average by 10%–12% in the 20 years following library construction relative to a novel control group of cities that applied for but did not build libraries. We show that access to scientific knowledge and increased collaboration opportunities are possible mechanisms.",
+            "url": "https://doi.org/10.1162/rest_a_01468",
+            "authors": "Peter Andre, Teodora Boneva, Felix Chopra, Armin Falk",
+            "date": "2026-09-15",
+            "abstract_en": "Abstract We document the individual willingness to act against climate change and study the role of social norms in a large sample of U.S. adults. Individual beliefs about social norms positively predict pro-climate donations, comparable in strength to universal moral values and economic preferences. However, we document systematic misperceptions of social norms. Respondents vastly underestimate the prevalence of climate-friendly behaviors and norms. Correcting these misperceptions in an experiment causally raises individual willingness to act against climate change and individual support for climate policies. The effects are strongest for individuals who are skeptical about the existence and threat of global warming.",
             "abstract_zh": "",
             "matched_topics": [
-              "创新"
+              "绿色发展"
             ]
           }
         ],
@@ -1630,10 +1496,10 @@
         "category": "Public economics",
         "issn": "0047-2727",
         "resolved_name": "Journal of Public Economics",
-        "issue_title": "Published 2026-10",
+        "issue_title": "Published 2026-11",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-public-economics",
         "matched_count": 0,
-        "total_in_issue": 31,
+        "total_in_issue": 1,
         "papers": [],
         "error": null
       },
@@ -1647,7 +1513,7 @@
         "issue_title": "Published 2027-02",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-development-economics",
         "matched_count": 0,
-        "total_in_issue": 5,
+        "total_in_issue": 12,
         "papers": [],
         "error": null
       },
@@ -1661,7 +1527,7 @@
         "issue_title": "Published 2026-12",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-international-economics",
         "matched_count": 2,
-        "total_in_issue": 17,
+        "total_in_issue": 20,
         "papers": [
           {
             "title_en": "Transportation networks, technology adoption, and structural transformation",
@@ -1766,14 +1632,26 @@
         "resolved_name": "Research Policy",
         "issue_title": "Volume 55, Issue 10",
         "issue_url": "https://www.sciencedirect.com/journal/research-policy",
-        "matched_count": 5,
-        "total_in_issue": 10,
+        "matched_count": 8,
+        "total_in_issue": 14,
         "papers": [
           {
             "title_en": "Immigration and firm innovation: Evidence from Finnish manufacturing",
             "title_zh": "",
             "url": "https://doi.org/10.1016/j.respol.2026.105603",
             "authors": "Terhi Maczulskij",
+            "date": "2026-12-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新"
+            ]
+          },
+          {
+            "title_en": "Bridging the gap: A scalable approach to measuring social innovation capacity",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.respol.2026.105629",
+            "authors": "Johannes Carl, Nils Grashof, Matthias Menter",
             "date": "2026-12-01",
             "abstract_en": "",
             "abstract_zh": "",
@@ -1815,6 +1693,30 @@
             "abstract_zh": "",
             "matched_topics": [
               "绿色发展"
+            ]
+          },
+          {
+            "title_en": "Automation and employment over the technology life cycle: Evidence from European regions",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.respol.2026.105611",
+            "authors": "Florencia Jaccoud, Fabien Petit, Tommaso Ciarli, Maria Savona",
+            "date": "2026-12-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "人工智能"
+            ]
+          },
+          {
+            "title_en": "Local implementation of transformative innovation policies: Ambiguities, strategic responses, and intertemporal conflicts",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.respol.2026.105624",
+            "authors": "Brittney (Britt) Regal, Damian Grimshaw, Marcela Miozzo, Jonatan Pinkse",
+            "date": "2026-12-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新"
             ]
           },
           {
@@ -2033,24 +1935,24 @@
             ]
           },
           {
-            "title_en": "The Sound We Haven’t Heard Before: A Commentary on “Fighting Fire with Fire: Infusing AI into Peer Review to Sustain Quality Scholarship”",
-            "title_zh": "",
-            "url": "https://doi.org/10.1287/mnsc.2026.02441",
-            "authors": "Tinglong Dai",
-            "date": "2026-09-01",
-            "abstract_en": "This commentary responds to “Fighting Fire with Fire: Infusing AI into Peer Review to Sustain Quality Scholarship” [Bhargava HK, Bana S, Zhang Z, Brandimarte L, Choudary V, Li F, Loupos P, Zantedeschi D (2026) Fighting fire with fire: Infusing AI into peer review to sustain quality scholarship. Management Sci. Forthcoming.]. It shares the paper’s core position, that journals should govern artificial intelligence openly rather than leave it to the shadows, but it questions the premise that rising submission volume poses an existential threat. The safeguard is human judgment. Our shared fatigue with derivative, repetitive work is a sensor more discerning than any AI detector, because a model trained on what we have already rewarded cannot produce the novelty that our community prizes. The threat to a journal like Management Science is thus more contained than the original alarm implies, provided AI remains a non-final input and humans retain ownership of novelty and contribution. One test should govern any AI workflow: does it ask more of human judgment, or less? This commentary was accepted by Christoph Loch.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "人工智能"
-            ]
-          },
-          {
             "title_en": "Correlation of Rankings in Matching Markets",
             "title_zh": "",
             "url": "https://doi.org/10.1287/mnsc.2024.06067",
             "authors": "Rémi Castera, Patrick Loiseau, Bary S. R. Pradelski",
             "date": "2026-09-01",
             "abstract_en": "We study the role of correlation in matching markets, where multiple decision makers simultaneously face selection problems from the same pool of candidates. We propose a model in which a candidate’s priority scores across different decision makers exhibit varying levels of correlation dependent on the candidate’s sociodemographic group. Such differential correlation can arise in school choice because of the varying prevalence of selection criteria, in college admissions because of test-optional policies, or because of algorithmic monoculture, that is, when decision makers rely on the same algorithms and data sets to evaluate candidates. We show that higher correlation for one of the groups generally improves the outcome for all groups, leading to higher efficiency. However, students from a given group are more likely to remain unmatched as their own correlation level increases. This implies that it is advantageous to belong to a low-correlation group. Finally, we extend the tie-breaking literature to multiple priority classes and intermediate levels of correlation. Overall, our results point to differential correlation as a previously overlooked systemic source of group inequalities in school, university, and job admissions. This paper was accepted by Itai Ashlagi, revenue management and market analytics. Funding: This work was partially supported by MIAI @ Grenoble Alpes [Grants ANR-19-P3IA-0003 and ANR-23-PEIA-0003], by the French National Research Agency (ANR) [Grants ANR-19-CE48-0018 and ANR-20-CE23-0007], and by the National Science Foundation [Grant DMS-1928930] and by the Alfred P. Sloan Foundation [Grant G-2021-16778], which funded B. Pradelski’s residency at the Simons Laufer Mathematical Sciences Institute (formerly MSRI) in Berkeley, CA, during the Fall 2023 semester. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.06067 .",
+            "abstract_zh": "",
+            "matched_topics": [
+              "人工智能"
+            ]
+          },
+          {
+            "title_en": "The Sound We Haven’t Heard Before: A Commentary on “Fighting Fire with Fire: Infusing AI into Peer Review to Sustain Quality Scholarship”",
+            "title_zh": "",
+            "url": "https://doi.org/10.1287/mnsc.2026.02441",
+            "authors": "Tinglong Dai",
+            "date": "2026-09-01",
+            "abstract_en": "This commentary responds to “Fighting Fire with Fire: Infusing AI into Peer Review to Sustain Quality Scholarship” [Bhargava HK, Bana S, Zhang Z, Brandimarte L, Choudary V, Li F, Loupos P, Zantedeschi D (2026) Fighting fire with fire: Infusing AI into peer review to sustain quality scholarship. Management Sci. Forthcoming.]. It shares the paper’s core position, that journals should govern artificial intelligence openly rather than leave it to the shadows, but it questions the premise that rising submission volume poses an existential threat. The safeguard is human judgment. Our shared fatigue with derivative, repetitive work is a sensor more discerning than any AI detector, because a model trained on what we have already rewarded cannot produce the novelty that our community prizes. The threat to a journal like Management Science is thus more contained than the original alarm implies, provided AI remains a non-final input and humans retain ownership of novelty and contribution. One test should govern any AI workflow: does it ask more of human judgment, or less? This commentary was accepted by Christoph Loch.",
             "abstract_zh": "",
             "matched_topics": [
               "人工智能"
@@ -2118,18 +2020,6 @@
             ]
           },
           {
-            "title_en": "On the Expansion of Risk Pooling",
-            "title_zh": "",
-            "url": "https://doi.org/10.1287/mnsc.2024.06863",
-            "authors": "Michail Anthropelos, Runhuan Feng, Seongyoon Kim",
-            "date": "2026-09-01",
-            "abstract_en": "Risk pooling has become an increasingly critical tool for managing risks among corporations, institutions, states, and nations, with examples including multinational pooling, decentralized insurance schemes, catastrophe risk pooling, and burden sharing for nuclear accidents. Although there has been a rich literature on such practices, little is known from a theoretical viewpoint regarding the operational strategies of risk pools and, in particular, on issues about the effect of a pool’s expansion on each existing member’s welfare. This paper is the first to explore these issues by establishing different notions of consensus for the expansion of a risk pool: strong consensus, where both existing members and new candidates improve their risk measures due to the pool’s expansion, and weak consensus, which refers to the willingness of existing members to remain in the pool. Under optimal risk sharing for each pool, we show that its properties regarding expansion’s effects depend strongly on the underlying pricing rule. For instance, only with risk-adjusted equilibrium pricing are existing members willing to accept highly risky new members, whereas simple linear pricing excludes such members from the pool. Additionally, the impact of exogenous reinsurance on consensus is analyzed under both pricing rules. The established framework offers valuable managerial insights and policy implications, which we illustrate through two indicative case studies based on real data. This paper was accepted by Agostino Capponi, finance. Funding: Financial support from the Tsinghua University School of Economics and Management [Research Grant 2023051001], the National Social Sciences Foundation of China [Major Grant 23&ZD178] is gratefully acknowledged, and the Tsinghua University Independent Research Grant [2024THZWYY02]. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.06863 .",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新"
-            ]
-          },
-          {
             "title_en": "Stripping the Discount Curve—A Robust Machine Learning Approach",
             "title_zh": "",
             "url": "https://doi.org/10.1287/mnsc.2023.01401",
@@ -2139,6 +2029,18 @@
             "abstract_zh": "",
             "matched_topics": [
               "人工智能"
+            ]
+          },
+          {
+            "title_en": "On the Expansion of Risk Pooling",
+            "title_zh": "",
+            "url": "https://doi.org/10.1287/mnsc.2024.06863",
+            "authors": "Michail Anthropelos, Runhuan Feng, Seongyoon Kim",
+            "date": "2026-09-01",
+            "abstract_en": "Risk pooling has become an increasingly critical tool for managing risks among corporations, institutions, states, and nations, with examples including multinational pooling, decentralized insurance schemes, catastrophe risk pooling, and burden sharing for nuclear accidents. Although there has been a rich literature on such practices, little is known from a theoretical viewpoint regarding the operational strategies of risk pools and, in particular, on issues about the effect of a pool’s expansion on each existing member’s welfare. This paper is the first to explore these issues by establishing different notions of consensus for the expansion of a risk pool: strong consensus, where both existing members and new candidates improve their risk measures due to the pool’s expansion, and weak consensus, which refers to the willingness of existing members to remain in the pool. Under optimal risk sharing for each pool, we show that its properties regarding expansion’s effects depend strongly on the underlying pricing rule. For instance, only with risk-adjusted equilibrium pricing are existing members willing to accept highly risky new members, whereas simple linear pricing excludes such members from the pool. Additionally, the impact of exogenous reinsurance on consensus is analyzed under both pricing rules. The established framework offers valuable managerial insights and policy implications, which we illustrate through two indicative case studies based on real data. This paper was accepted by Agostino Capponi, finance. Funding: Financial support from the Tsinghua University School of Economics and Management [Research Grant 2023051001], the National Social Sciences Foundation of China [Major Grant 23&ZD178] is gratefully acknowledged, and the Tsinghua University Independent Research Grant [2024THZWYY02]. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.06863 .",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新"
             ]
           }
         ],
@@ -2154,7 +2056,7 @@
         "issue_title": "Published 2027-01",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-environmental-economics-and-management",
         "matched_count": 2,
-        "total_in_issue": 6,
+        "total_in_issue": 9,
         "papers": [
           {
             "title_en": "Window-dressing in environmental regulation: Short-term incentives and temporary abatement",
@@ -2217,157 +2119,11 @@
         "category": "Environment / energy",
         "issn": "0140-9883",
         "resolved_name": "Energy Economics",
-        "issue_title": "Published 2026-10",
+        "issue_title": "Published 2026-11",
         "issue_url": "https://www.sciencedirect.com/journal/energy-economics",
-        "matched_count": 12,
-        "total_in_issue": 29,
-        "papers": [
-          {
-            "title_en": "Banking on carbon: modeling intertemporal equilibrium in China's rate-based emissions trading system",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.eneco.2026.109571",
-            "authors": "Limin Du, Huiying Peng, Zheng Wang",
-            "date": "2026-10-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "绿色发展"
-            ]
-          },
-          {
-            "title_en": "Just transition? Exploring the climate finance, regulatory quality, trade openness and renewable energy nexus",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.eneco.2026.109567",
-            "authors": "Lili Wang, Jun Pang",
-            "date": "2026-10-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "绿色发展"
-            ]
-          },
-          {
-            "title_en": "Financing the low-carbon transition: Do energy transition investments improve ESG performance?",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.eneco.2026.109592",
-            "authors": "Kwamie Dunbar, Mohammed Alrashdani",
-            "date": "2026-10-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "绿色发展"
-            ]
-          },
-          {
-            "title_en": "Climate change and credit risk of rural financial institutions: Evidence from China",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.eneco.2026.109563",
-            "authors": "Peng Peng, Shuo Han, Bingbing Zhang",
-            "date": "2026-10-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "绿色发展"
-            ]
-          },
-          {
-            "title_en": "Dual channel mixed frequency forecasting for carbon prices: Informer-BiLSTM deep features embedded in Grey-MIDAS framework",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.eneco.2026.109586",
-            "authors": "Qi Ding, Xinping Xiao, Lizhong Yang, Zhuang Yang, Zhiwei Xu",
-            "date": "2026-10-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "绿色发展"
-            ]
-          },
-          {
-            "title_en": "Which carbon policies redirect innovation? Comparative evidence on policy instruments and policy mixes in China",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.eneco.2026.109581",
-            "authors": "Qiang Li, Lidong Chen, Wei Jin, Lin Zhang",
-            "date": "2026-10-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新",
-              "绿色发展"
-            ]
-          },
-          {
-            "title_en": "Decomposing the pollution generation process: Who is to blame?",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.eneco.2026.109564",
-            "authors": "Aurélie Slechten, Barnabé Walheer",
-            "date": "2026-10-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "绿色发展"
-            ]
-          },
-          {
-            "title_en": "An explainable machine learning analysis of retail renewable premiums",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.eneco.2026.109554",
-            "authors": "Yufan Ji, Noah Dormady, Abdollah Shafieezadeh, Kathryn Diana, Matthew Hoyt, Alberto J. Lamadrid L., Samantha Fox",
-            "date": "2026-10-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "人工智能"
-            ]
-          },
-          {
-            "title_en": "ESG as a mitigator of oil volatility risk",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.eneco.2026.109536",
-            "authors": "Ludovico Luce, Elias Demetriades, Alexandros Kontonikas, Athanasios Triantafyllou",
-            "date": "2026-10-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "绿色发展"
-            ]
-          },
-          {
-            "title_en": "Regulatory architecture and shipowner investment response under overlapping carbon-pricing regimes",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.eneco.2026.109585",
-            "authors": "Angelica Kemene, Vangelis Tsioumas",
-            "date": "2026-10-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "绿色发展"
-            ]
-          },
-          {
-            "title_en": "Designing renewable energy auctions for high realization probability — CfD and payment-only auctions",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.eneco.2026.109584",
-            "authors": "Runxi Wang, Karl-Martin Ehrhart",
-            "date": "2026-10-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "绿色发展"
-            ]
-          },
-          {
-            "title_en": "Machine learning for detecting collusion and capacity withholding in wholesale electricity markets",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.eneco.2026.109557",
-            "authors": "Jeremy Proz, Martin Huber, Ivan Marin",
-            "date": "2026-10-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "人工智能"
-            ]
-          }
-        ],
+        "matched_count": 0,
+        "total_in_issue": 2,
+        "papers": [],
         "error": null
       },
       {
@@ -2380,7 +2136,7 @@
         "issue_title": "Published 2026-12",
         "issue_url": "https://www.sciencedirect.com/journal/resource-and-energy-economics",
         "matched_count": 1,
-        "total_in_issue": 2,
+        "total_in_issue": 3,
         "papers": [
           {
             "title_en": "Overcoming the Carbon Trap in the Global South",
@@ -2409,7 +2165,7 @@
       "papers": [],
       "error": "GET failed for https://data.nber.org/nber_paper_chapter_metadata/tsv/ref.tsv: 403 Client Error: Forbidden for url: https://data.nber.org/nber_paper_chapter_metadata/tsv/ref.tsv"
     },
-    "total_matches": 65,
+    "total_matches": 55,
     "note": "Latest issue TOCs from economics top journals and field-top journals plus recent NBER Working Papers, filtered by title/abstract keywords for industrial policy, innovation, green development, and artificial intelligence."
   }
 }
