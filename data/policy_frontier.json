@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-09-28 23:49:40",
+  "updated_at": "2026-10-06 00:42:08",
   "schema_version": 1,
   "translation": {
     "engine": "kimi",
     "model": "moonshot-v1-8k",
     "enabled": true,
     "success_count": 0,
-    "fail_count": 117,
+    "fail_count": 128,
     "failed_examples": [
-      "Manipulation-Robust Prediction :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, please recharge your ",
-      "An increasing number of decisions are guided by machine learning algorithms. But when cons :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, please recharge your ",
-      "Intergenerational Impacts of Secondary Education: Experimental Evidence from Ghana :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, please recharge your ",
-      "We provide experimental evidence on the intergenerational impacts of secondary education s :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, please recharge your ",
-      "The Environmental Bias of Corporate Income Taxation :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, please recharge your ",
-      "We study the relationship between corporate income taxation and carbon dioxide (CO 2 ) emi :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, please recharge your ",
+      "Racial Promotion Gaps :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, please recharge your ",
+      "We study racial disparities in promotions in a setting in which promotions are formulaic:  :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, please recharge your ",
+      "Social Push and the Direction of Innovation :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, please recharge your ",
+      "What are the implications of unequal access to innovation careers for the direction of inn :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, please recharge your ",
       "Collusion with Optimal Information Disclosure :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, please recharge your ",
-      "Abstract Motivated by recent concerns surrounding the use of third-party pricing algorithm :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, please recharge your "
+      "Abstract Motivated by recent concerns surrounding the use of third-party pricing algorithm :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, please recharge your ",
+      "Screening Property Rights for Innovation :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, please recharge your ",
+      "We develop a dynamic structural model of patent screening incorporating incentives, intrin :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, please recharge your "
     ],
     "note": "Set KIMI_API_KEY to enable Chinese translation."
   },
@@ -169,45 +169,33 @@
         "category": "Top 5",
         "issn": "0002-8282",
         "resolved_name": "American Economic Review",
-        "issue_title": "Volume 116, Issue 9",
+        "issue_title": "Volume 116, Issue 10",
         "issue_url": "https://www.aeaweb.org/journals/aer",
-        "matched_count": 3,
-        "total_in_issue": 12,
+        "matched_count": 2,
+        "total_in_issue": 10,
         "papers": [
           {
-            "title_en": "Manipulation-Robust Prediction",
+            "title_en": "Racial Promotion Gaps",
             "title_zh": "",
-            "url": "https://doi.org/10.1257/aer.20241087",
-            "authors": "Daniel Björkegren, Joshua E. Blumenstock, Samsun Knight",
-            "date": "2026-09-01",
-            "abstract_en": "An increasing number of decisions are guided by machine learning algorithms. But when consequential decisions are encoded in algorithms, individuals may strategically alter their behavior to achieve desired outcomes. This paper develops an empirical approach that adjusts decision algorithms to anticipate manipulation. By explicitly modeling incentives to manipulate, our approach produces decision rules that are stable under manipulation, even when the rules are fully transparent. We stress-test this approach through a large field experiment in Kenya. When implemented, linear strategy-robust decision rules outperform standard linear models such as LASSO. (JEL C45, C93, D12, D91, G51, O12, O16)",
+            "url": "https://doi.org/10.1257/aer.20231368",
+            "authors": "Deepak Hegde, Alexander Ljungqvist, Manav Raj",
+            "date": "2026-10-01",
+            "abstract_en": "We study racial disparities in promotions in a setting in which promotions are formulaic: the US patent office. Using detailed administrative data that allow us to observe who is eligible for promotion when, we document that Black patent examiners experience delays in promotions they are entitled to, slowing their climb to the top of the career ladder by a year and reducing career earnings by 2.5 percent. Institutional features rule out statistical discrimination with accurate priors. Slow promotions even under Black supervisors argue against taste-based animus. Instead, the patterns fit models of belief-based discrimination. (JEL J15, J41, J71, M12, M51, O34)",
             "abstract_zh": "",
             "matched_topics": [
-              "人工智能"
+              "创新"
             ]
           },
           {
-            "title_en": "Intergenerational Impacts of Secondary Education: Experimental Evidence from Ghana",
+            "title_en": "Social Push and the Direction of Innovation",
             "title_zh": "",
-            "url": "https://doi.org/10.1257/aer.20241001",
-            "authors": "Esther Duflo, Pascaline Dupas, Elizabeth Spelke, Mark Walsh",
-            "date": "2026-09-01",
-            "abstract_en": "We provide experimental evidence on the intergenerational impacts of secondary education subsidies in a low-income context, leveraging a randomized controlled trial and 15-year longitudinal follow-up. Secondary school scholarships delay fertility, reduce unwanted pregnancies, and change partner selection. Under-one mortality is reduced by half. We also document cognitive development gains of 0.24 standard deviations of test scores by age five among children of female scholarship recipients. Means-tested secondary school scholarships are a high-return investment, with a conservatively estimated US$4.1 in benefits for each US$1 the policy would cost the government in the long run. (JEL H52, I12, I21, I26, J13, J16, O15)",
+            "url": "https://doi.org/10.1257/aer.20231417",
+            "authors": "Elias Einiö, Josh Feng, Xavier Jaravel",
+            "date": "2026-10-01",
+            "abstract_en": "What are the implications of unequal access to innovation careers for the direction of innovation and inequality? Leveraging novel linked datasets in the United States and Finland, we document that innovators create products more likely to be purchased by consumers like them in terms of gender, socioeconomic status, and age. Homophily exists both within narrow product categories and across industries and has been stable in recent decades. Incorporating this “social push” channel into a growth model, we estimate that unequal access to innovation careers has a large effect on cost of living inequality and long-run growth. (JEL D63, J16, L26, M13, O31, O33, O47)",
             "abstract_zh": "",
             "matched_topics": [
-              "产业政策"
-            ]
-          },
-          {
-            "title_en": "The Environmental Bias of Corporate Income Taxation",
-            "title_zh": "",
-            "url": "https://doi.org/10.1257/aer.20241765",
-            "authors": "Luigi Iovino, Thorsten Martin, Julien Sauvagnat",
-            "date": "2026-09-01",
-            "abstract_en": "We study the relationship between corporate income taxation and carbon dioxide (CO 2 ) emissions in the United States. We show CO 2 -intensive firms benefit more from the tax advantage of debt and pay lower income taxes on their capital income. Building on these new facts, we provide evidence that a cut in the corporate income tax rate leads to a larger expansion of clean firms. We develop a multisector general equilibrium model that accounts for our evidence and quantify the impact of corporate tax reforms on aggregate emissions. A policy that eliminates the tax advantage of debt could reduce aggregate emissions without affecting GDP. (JEL D22, G32, H25, H32, Q52, Q54, Q58)",
-            "abstract_zh": "",
-            "matched_topics": [
-              "绿色发展"
+              "创新"
             ]
           }
         ],
@@ -558,14 +546,26 @@
         "resolved_name": "Journal of Public Economics",
         "issue_title": "Published 2026-11",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-public-economics",
-        "matched_count": 1,
-        "total_in_issue": 8,
+        "matched_count": 2,
+        "total_in_issue": 10,
         "papers": [
           {
             "title_en": "The cost of job loss in carbon-intensive sectors: Evidence from Germany",
             "title_zh": "",
             "url": "https://doi.org/10.1016/j.jpubeco.2026.105779",
             "authors": "César Barreto, Robert Grundke, Ze’ev Krill",
+            "date": "2026-11-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "绿色发展"
+            ]
+          },
+          {
+            "title_en": "Emissions abatement under a rate-based emissions trading system: facility-level evidence from China",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jpubeco.2026.105797",
+            "authors": "Yifei Quan, Jie-Sheng Tan-Soo, Maosheng Duan, Bofeng Cai",
             "date": "2026-11-01",
             "abstract_en": "",
             "abstract_zh": "",
@@ -585,9 +585,22 @@
         "resolved_name": "Journal of Development Economics",
         "issue_title": "Published 2027-02",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-development-economics",
-        "matched_count": 0,
-        "total_in_issue": 15,
-        "papers": [],
+        "matched_count": 1,
+        "total_in_issue": 22,
+        "papers": [
+          {
+            "title_en": "Economic consequences of climate change: Evidence from the Philippines",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jdeveco.2026.103916",
+            "authors": "Radine Rafols",
+            "date": "2027-02-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "绿色发展"
+            ]
+          }
+        ],
         "error": null
       },
       {
@@ -599,8 +612,8 @@
         "resolved_name": "Journal of International Economics",
         "issue_title": "Published 2026-12",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-international-economics",
-        "matched_count": 2,
-        "total_in_issue": 21,
+        "matched_count": 3,
+        "total_in_issue": 24,
         "papers": [
           {
             "title_en": "Transportation networks, technology adoption, and structural transformation",
@@ -612,6 +625,18 @@
             "abstract_zh": "",
             "matched_topics": [
               "创新"
+            ]
+          },
+          {
+            "title_en": "Keeping up with the Joneses: FDI, supply chain linkages, and industrial emissions",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jinteco.2026.104343",
+            "authors": "Jiawei Mo, Ye Yuan, Zhe Zhang",
+            "date": "2026-12-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "绿色发展"
             ]
           },
           {
@@ -691,9 +716,22 @@
         "resolved_name": "International Journal of Industrial Organization",
         "issue_title": "Published 2026-12",
         "issue_url": "https://www.sciencedirect.com/journal/international-journal-of-industrial-organization",
-        "matched_count": 0,
-        "total_in_issue": 10,
-        "papers": [],
+        "matched_count": 1,
+        "total_in_issue": 11,
+        "papers": [
+          {
+            "title_en": "Convergence to collusion in algorithmic pricing",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.ijindorg.2026.103339",
+            "authors": "Kevin Michael Frick",
+            "date": "2026-12-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "人工智能"
+            ]
+          }
+        ],
         "error": null
       },
       {
@@ -706,7 +744,7 @@
         "issue_title": "Volume 55, Issue 10",
         "issue_url": "https://www.sciencedirect.com/journal/research-policy",
         "matched_count": 12,
-        "total_in_issue": 20,
+        "total_in_issue": 23,
         "papers": [
           {
             "title_en": "Can artificial intelligence accelerate technological progress? Researchers' perspectives on AI in manufacturing and materials science",
@@ -725,6 +763,18 @@
             "title_zh": "",
             "url": "https://doi.org/10.1016/j.respol.2026.105603",
             "authors": "Terhi Maczulskij",
+            "date": "2026-12-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新"
+            ]
+          },
+          {
+            "title_en": "Research grant effects across funding modes and industry collaboration",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.respol.2026.105623",
+            "authors": "Stefano Baruffaldi, Felicia Jorzick, Cornelia Lawson",
             "date": "2026-12-01",
             "abstract_en": "",
             "abstract_zh": "",
@@ -839,18 +889,6 @@
             "abstract_zh": "",
             "matched_topics": [
               "人工智能"
-            ]
-          },
-          {
-            "title_en": "How to craft a mission? A Theory of Action for the strategic public management of mission-oriented innovation policy",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.respol.2026.105631",
-            "authors": "Iacopo Gronchi",
-            "date": "2026-12-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新"
             ]
           }
         ],
@@ -1014,155 +1052,153 @@
         "category": "Innovation / AI",
         "issn": "0025-1909",
         "resolved_name": "Management Science",
-        "issue_title": "Volume 72, Issue 9",
+        "issue_title": "Volume 72, Issue 10",
         "issue_url": "https://pubsonline.informs.org/journal/mnsc",
         "matched_count": 12,
-        "total_in_issue": 19,
+        "total_in_issue": 21,
         "papers": [
           {
-            "title_en": "Learning to Optimally Stop Diffusion Processes, with Financial Applications",
+            "title_en": "Do Mutual Funds Respond to Mechanical Changes in ESG Ratings?",
             "title_zh": "",
-            "url": "https://doi.org/10.1287/mnsc.2024.07614",
-            "authors": "Min Dai, Yu Sun, Zuo Quan Xu, Xun Yu Zhou",
-            "date": "2026-09-01",
-            "abstract_en": "We study optimal stopping for diffusion processes with unknown model primitives within the continuous-time reinforcement learning (RL) framework Wang, Zariphopoulou and Zhou [Wang H, Zariphopoulou T, Zhou XY (2020), J. Machine Learn. Res. 21(198):1-34], and present applications to option pricing and portfolio choice. By penalizing the corresponding variational inequality formulation, we transform the stopping problem into a stochastic optimal control problem with two actions. We then randomize controls into Bernoulli distributions and add an entropy regularizer to encourage exploration. We derive a semianalytical optimal Bernoulli distribution, based on which we devise RL algorithms using the martingale approach Jia and Zhou [Jia Y, Zhou XY (2022a) J. Machine Learn. Res. 23(154):1–55]. We establish a policy improvement theorem and prove the fast convergence of the resulting policy iterations. We demonstrate the effectiveness of the algorithms in pricing finite-horizon American put options, solving Merton’s problem with transaction costs, and scaling to high-dimensional optimal stopping problems. In particular, we show that both the offline and online algorithms achieve high accuracy in learning the value functions and characterizing the associated free boundaries. This paper has been accepted by Kay Giesecke for the Special Issue on AI for Finance and Business Decisions. Funding: M. Dai was supported by the Hong Kong Research Grants Council [15212324, 15217123, 15213422, and T32-615/24-R], the Hong Kong Polytechnic University [P0042708, P0042456, and P0039114], and the Key Project of National Natural Science Foundation of China [72432005]. Y. Sun acknowledges financial support from a start-up fund at Peking University HSBC Business School. Z. Xu acknowledges financial support from The Hong Kong RGC [GRF 15204622, 15203423], NSFC 12571517, the PolyU-SDU Joint Research Center on Financial Mathematics, the CAS AMSS-PolyU Joint Laboratory of Applied Mathematics, the Research Centre for Quantitative Finance (1-CE03), and internal grants from The Hong Kong Polytechnic University. X. Zhou was supported by the Nie Center for Intelligent Asset Management at Columbia University. This work was also part of a Columbia-CityU/HK collaborative project that was supported by the InnoHK Initiative, the Government of the HKSAR, and the AIFT Lab. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.07614 .",
+            "url": "https://doi.org/10.1287/mnsc.2024.06184",
+            "authors": "Seungju Choi, Fabrizio Ferri, Daniele Macciocchi",
+            "date": "2026-10-01",
+            "abstract_en": "Using a quasi-experimental setting, we study whether mutual fund investors respond to a purely mechanical change in environmental, social, and governance (ESG) ratings—that is, a change independent of concurrent changes in firms’ actual ESG activities. We find that when a firm experiences a mechanical increase in ESG ratings, the probability of being selected by an ESG fund increases (extensive margin). In contrast, if the firm is already in the fund’s portfolio, its holdings do not change (intensive margin), consistent with portfolio weighting being based on market capitalization. The selection effect is observable not only among funds that follow an ESG index but also among active ESG funds, which presumably should have the resources and ability to identify and filter out the mechanical increase in ESG ratings. Among active ESG funds, the selection effect is stronger for funds with less assets under management, larger portfolios of firms, and lower expense ratios, consistent with the notion that resource constraints may impede a fund’s screening ability. Our findings imply that passive investing based on commercial ESG ratings—whether due to resource constraints or portfolio indexing—might result in portfolio allocations that do not reflect the actual ESG activities of firms. This paper was accepted by Suraj Srinivasan, accounting. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.06184 .",
             "abstract_zh": "",
             "matched_topics": [
-              "创新",
-              "人工智能"
-            ]
-          },
-          {
-            "title_en": "Gender-Inclusive Language and Economic Decision-Making",
-            "title_zh": "",
-            "url": "https://doi.org/10.1287/mnsc.2024.04342",
-            "authors": "Loukas Balafoutas, Helena Fornwagner, Emily Hauser, Oliver Hauser",
-            "date": "2026-09-01",
-            "abstract_en": "Providing inclusive environments has become a primary tenet of modern societies and organizations. The use of gender-inclusive language (GIL) is often considered an instrument that can promote inclusion, yet little is known about its effects on relevant economic behaviors and on gender gaps in the labor market. GIL avoids the masculine “default” (common to many languages) by either explicitly mentioning both masculine and feminine (pro)nouns, or replacing them with nongendered (pro)nouns. Here we study the causal short-run impact of GIL on competitiveness and leadership in the laboratory, with two different language samples—English and German—which differ, among other things, in the extent to which gender is embedded linguistically. We vary GIL in experimental instructions across three treatments ([Formula: see text]): a masculine baseline condition, a condition with feminine and masculine (pro)nouns, and a condition with nongendered (pro)nouns. We find that participants who identify as female and participants who identify as male compete, stand for leadership, and vote on leader candidates similarly across all treatments, in either language. Furthermore, we find no treatment differences in participants’ feelings of inclusion and perceived entitlement. In sum, there is a lack of support for GIL having short-term causal effects on competitive and leadership behavior and inclusion perceptions. This paper was accepted by Marie-Claire Villeval, behavioral economics and decision analysis. Funding: This work was supported by the Austrian Science Fund [Grant SFB F63], UK Research and Innovation [Grant MR/T020253/1], the University of Exeter, and Regensburger Universitätsstiftung Lucia and Dr. Otfried Eberz. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.04342 .",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新"
-            ]
-          },
-          {
-            "title_en": "Fighting Fire with Fire: Infusing Artificial Intelligence into Peer Review to Sustain Quality Scholarship",
-            "title_zh": "",
-            "url": "https://doi.org/10.1287/mnsc.2026.00184",
-            "authors": "Hemant K. Bhargava, Sarah H. Bana, Zhe Zhang, Laura Brandimarte, Vidyanand Choudhary, J. Frank Li, Pantelis Loupos, Daniel Zantedeschi",
-            "date": "2026-09-01",
-            "abstract_en": "Adoption of artificial intelligence (AI) by authors has accelerated production of academic articles and increased submission rates to journals, thereby straining review capacity and hurting journal outcome metrics, such as turnaround time and decision accuracy. Academic journals face an imperative to improve review quality and productivity by incorporating generative AI tools in the review workflow. As a concrete first step toward this idea, we outline a particular workflow that deploys large language models as a structured, trained, frontline reviewer. The workflow underlines that AI-produced evaluations must be transparent and contestable by authors. We emphasize the need for AI-infused peer review to be journal specific, designed for efficiency, accuracy, and accountability, within a human-in-the-loop oversight framework. We build a mathematical model of journal operations to compare outcomes under a status quo no-AI workflow and the proposed AI-infused workflow. The model captures how governed AI reconfigures human reviewer effort and illuminates conditions under which the AI-infused workflow can improve vital metrics, such as turnaround time and decision accuracy. Our essential point is that journals need to adopt a deliberate and institutionally governed approach for using AI in the review process. We recognize that identifying an “optimal” AI-infused peer review workflow or even definitively projecting the consequences of one will require substantial experimentation to calibrate and configure the workflow across multiple alternative designs. This discussion was accepted by Christoph Loch. Funding: D. Zantedeschi acknowledges support for this research from the Muma College of Business Dean’s Research Fund. Supplemental Material: The online appendix is available at https://doi.org/10.1287/mnsc.2026.00184 .",
-            "abstract_zh": "",
-            "matched_topics": [
-              "人工智能"
-            ]
-          },
-          {
-            "title_en": "The Sound We Haven’t Heard Before: A Commentary on “Fighting Fire with Fire: Infusing AI into Peer Review to Sustain Quality Scholarship”",
-            "title_zh": "",
-            "url": "https://doi.org/10.1287/mnsc.2026.02441",
-            "authors": "Tinglong Dai",
-            "date": "2026-09-01",
-            "abstract_en": "This commentary responds to “Fighting Fire with Fire: Infusing AI into Peer Review to Sustain Quality Scholarship” [Bhargava HK, Bana S, Zhang Z, Brandimarte L, Choudary V, Li F, Loupos P, Zantedeschi D (2026) Fighting fire with fire: Infusing AI into peer review to sustain quality scholarship. Management Sci. Forthcoming.]. It shares the paper’s core position, that journals should govern artificial intelligence openly rather than leave it to the shadows, but it questions the premise that rising submission volume poses an existential threat. The safeguard is human judgment. Our shared fatigue with derivative, repetitive work is a sensor more discerning than any AI detector, because a model trained on what we have already rewarded cannot produce the novelty that our community prizes. The threat to a journal like Management Science is thus more contained than the original alarm implies, provided AI remains a non-final input and humans retain ownership of novelty and contribution. One test should govern any AI workflow: does it ask more of human judgment, or less? This commentary was accepted by Christoph Loch.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "人工智能"
-            ]
-          },
-          {
-            "title_en": "Correlation of Rankings in Matching Markets",
-            "title_zh": "",
-            "url": "https://doi.org/10.1287/mnsc.2024.06067",
-            "authors": "Rémi Castera, Patrick Loiseau, Bary S. R. Pradelski",
-            "date": "2026-09-01",
-            "abstract_en": "We study the role of correlation in matching markets, where multiple decision makers simultaneously face selection problems from the same pool of candidates. We propose a model in which a candidate’s priority scores across different decision makers exhibit varying levels of correlation dependent on the candidate’s sociodemographic group. Such differential correlation can arise in school choice because of the varying prevalence of selection criteria, in college admissions because of test-optional policies, or because of algorithmic monoculture, that is, when decision makers rely on the same algorithms and data sets to evaluate candidates. We show that higher correlation for one of the groups generally improves the outcome for all groups, leading to higher efficiency. However, students from a given group are more likely to remain unmatched as their own correlation level increases. This implies that it is advantageous to belong to a low-correlation group. Finally, we extend the tie-breaking literature to multiple priority classes and intermediate levels of correlation. Overall, our results point to differential correlation as a previously overlooked systemic source of group inequalities in school, university, and job admissions. This paper was accepted by Itai Ashlagi, revenue management and market analytics. Funding: This work was partially supported by MIAI @ Grenoble Alpes [Grants ANR-19-P3IA-0003 and ANR-23-PEIA-0003], by the French National Research Agency (ANR) [Grants ANR-19-CE48-0018 and ANR-20-CE23-0007], and by the National Science Foundation [Grant DMS-1928930] and by the Alfred P. Sloan Foundation [Grant G-2021-16778], which funded B. Pradelski’s residency at the Simons Laufer Mathematical Sciences Institute (formerly MSRI) in Berkeley, CA, during the Fall 2023 semester. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.06067 .",
-            "abstract_zh": "",
-            "matched_topics": [
-              "人工智能"
-            ]
-          },
-          {
-            "title_en": "How and When Are High-Frequency Stock Returns Predictable?",
-            "title_zh": "",
-            "url": "https://doi.org/10.1287/mnsc.2022.02435",
-            "authors": "Yacine Ait-Sahalia, Jianqing Fan, Lirong Xue, Xiaonan Zhu",
-            "date": "2026-09-01",
-            "abstract_en": "This paper studies the predictability of ultrahigh-frequency stock returns and durations to relevant price, volume, and transaction events using machine learning methods. We find that contrary to low-frequency and long-horizon returns, where predictability is rare and inconsistent, predictability in high-frequency returns and durations is large, systematic, and pervasive over short horizons. We identify the relevant predictors constructed from trades and quotes data, and we examine what determines the variation in predictability across the stock’s own characteristics and market environments. Next, we compute how the predictability improves with the timeliness of the data on a scale of milliseconds and conversely degrades with delays, providing a valuation of each millisecond gained. Finally, we simulate the impact of getting an (imperfect) peek at the incoming order flow, a look-ahead ability that is often attributed to the fastest high-frequency traders, in terms of improving the predictability of the returns and durations. This paper was accepted by Will Cong, finance. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2022.02435 .",
-            "abstract_zh": "",
-            "matched_topics": [
-              "人工智能"
-            ]
-          },
-          {
-            "title_en": "The Changing Nature of Firm Innovation: Short-Termism and Influential Innovation in U.S. Public Firms",
-            "title_zh": "",
-            "url": "https://doi.org/10.1287/mnsc.2022.00857",
-            "authors": "Yuan Shi, Rachelle C. Sampson, Brent Goldfarb, Rafael A. Corredoira",
-            "date": "2026-09-01",
-            "abstract_en": "We examine the link between short-term pressures and technologically significant innovation in U.S. public firms in 1997–2015. Using a market-based measure of short-term pressure, we estimate its relationship with influential and novel patents. We find that firms facing more intense short-term pressures are less likely to patent highly influential or novel innovations. To evaluate whether this relationship is causal, we use changes in ownership styles following financial institution mergers as instruments. Our analysis suggests that changing short-term pressures from investors had a causal impact on firm innovative outcomes; this finding is robust to a wide variety of empirical specifications. While public firms as a whole retained a constant share of highly influential patents, this activity has become more concentrated in fewer firms. This shift does not appear to be fully compensated by an increase in technologically significant patents by nonpublic firms such as venture-capital (VC)-backed start-ups. These findings raise questions about capital markets’ impact on firm R&D strategy and the nature of innovative activities in public firms. This paper was accepted by Ashish Arora, entrepreneurship and innovation. Funding: The authors gratefully acknowledge financial support from the inaugural Panmure House Prize for Long-term Thinking and Radical Innovation for this research, as well as Matt Marx for facilitating institutional support at Cornell for this research. B. Goldfarb and R. Corredoira received partial financial support from the National Science Foundation [Grant 1565553]. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2022.00857 .",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新"
-            ]
-          },
-          {
-            "title_en": "Deep Learning Statistical Arbitrage",
-            "title_zh": "",
-            "url": "https://doi.org/10.1287/mnsc.2022.03132",
-            "authors": "Jorge Guijarro-Ordonez, Markus Pelger, Greg Zanotti",
-            "date": "2026-09-01",
-            "abstract_en": "Statistical arbitrage exploits temporal price differences between similar assets. We develop a comprehensive conceptual framework for statistical arbitrage and a novel data-driven solution. First, we construct arbitrage portfolios of similar assets as residual portfolios from conditional latent asset pricing factors. Second, we extract their time-series signals with a powerful machine learning time-series solution, a convolutional transformer. Lastly, we use these signals to form an optimal trading policy, which maximizes risk-adjusted returns under constraints. Our comprehensive empirical study on daily U.S. equities shows a high compensation for arbitrageurs to enforce the law of one price. Our arbitrage strategies obtain considerable out-of-sample mean returns and Sharpe ratios, and outperform all benchmark approaches. This paper was accepted by Agostino Capponi, finance. Funding: The authors thank MSCI for generous research support.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "人工智能"
-            ]
-          },
-          {
-            "title_en": "Data-Pooling Reinforcement Learning for Preventative Healthcare Intervention",
-            "title_zh": "",
-            "url": "https://doi.org/10.1287/mnsc.2023.03880",
-            "authors": "Xinyun Chen, Pengyi Shi, Shanwen Pu",
-            "date": "2026-09-01",
-            "abstract_en": "Motivated by the emerging needs of tailored intervention for heterogeneous populations in preventative healthcare applications, we consider a multistage, dynamic decision-making problem in the online setting with unknown model parameters. To deal with the pervasive issue of small sample size in parameter estimation, we develop a novel data-pooling reinforcement learning (RL) algorithm that adaptively pools historical data, with three main innovations: (i) the weight of pooling is directly tied to the performance of the decision (measured by regret) as opposed to estimation accuracy in conventional methods; (ii) no parametric assumptions are needed between historical and current data; and (iii) requiring data-sharing only via aggregate statistics, as opposed to patient-level data. Our data-pooling algorithm framework unifies a variety of RL algorithms, and we establish a theoretical performance guarantee that quantifies the regret bound reduction from our adaptive pooling design compared with benchmarks. We substantiate the theoretical development with extensive empirical experiments via a case study in the context of postdischarge intervention to prevent unplanned readmissions, generating practical insights into healthcare management. Our algorithm enables organizations to leverage public data or published studies for patient management and supports policymakers in promoting aggregate data sharing to enhance population health outcomes. This paper was accepted by Carri Chan, healthcare management. Funding: X. Chen was supported by National Natural Science Foundation of China [Grants NSFC-72171205 and NSFC-72394361] and Shenzhen Science and Technology Innovations Committee [Grant RCXY 20210609103124047]. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.03880 .",
-            "abstract_zh": "",
-            "matched_topics": [
-              "人工智能"
-            ]
-          },
-          {
-            "title_en": "The ESG-Innovation Disconnect: Evidence from Green Patenting",
-            "title_zh": "",
-            "url": "https://doi.org/10.1287/mnsc.2024.09124",
-            "authors": "Lauren H. Cohen, Umit G. Gurun, Quoc H. Nguyen",
-            "date": "2026-09-01",
-            "abstract_en": "We document that traditional energy firms are key innovators in the United States’ green patent landscape. These firms produce more, and significantly higher-quality, green innovation. In many green technology spaces, they appear to be influential first movers and to produce ongoing foundational aspects of innovation and commercialization on which other alternative energy producers build. They additionally invest significantly in labor and capital to complement these green innovations. These traditional energy firms, however, receive significantly lower environmental, social, and governance (ESG) scores and fund flows and are not rewarded for incremental green innovation. This behavior is consistent with a competitive response by traditional energy firms to preempt obsolescence of current technology by investing in future replacement technologies. This paper was accepted by Bo Becker, finance. Funding: Funding was provided by the National Science Foundation [Grant SciSIP 1535813] and the Fordham University Gabelli School of Business—PVH Corp. Global Thought Leadership Grant on Corporate Social Responsibility. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.09124 .",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新",
               "绿色发展"
             ]
           },
           {
-            "title_en": "On the Expansion of Risk Pooling",
+            "title_en": "Joint Assortment and Inventory Planning Under the Markov Chain Choice Model",
             "title_zh": "",
-            "url": "https://doi.org/10.1287/mnsc.2024.06863",
-            "authors": "Michail Anthropelos, Runhuan Feng, Seongyoon Kim",
-            "date": "2026-09-01",
-            "abstract_en": "Risk pooling has become an increasingly critical tool for managing risks among corporations, institutions, states, and nations, with examples including multinational pooling, decentralized insurance schemes, catastrophe risk pooling, and burden sharing for nuclear accidents. Although there has been a rich literature on such practices, little is known from a theoretical viewpoint regarding the operational strategies of risk pools and, in particular, on issues about the effect of a pool’s expansion on each existing member’s welfare. This paper is the first to explore these issues by establishing different notions of consensus for the expansion of a risk pool: strong consensus, where both existing members and new candidates improve their risk measures due to the pool’s expansion, and weak consensus, which refers to the willingness of existing members to remain in the pool. Under optimal risk sharing for each pool, we show that its properties regarding expansion’s effects depend strongly on the underlying pricing rule. For instance, only with risk-adjusted equilibrium pricing are existing members willing to accept highly risky new members, whereas simple linear pricing excludes such members from the pool. Additionally, the impact of exogenous reinsurance on consensus is analyzed under both pricing rules. The established framework offers valuable managerial insights and policy implications, which we illustrate through two indicative case studies based on real data. This paper was accepted by Agostino Capponi, finance. Funding: Financial support from the Tsinghua University School of Economics and Management [Research Grant 2023051001], the National Social Sciences Foundation of China [Major Grant 23&ZD178] is gratefully acknowledged, and the Tsinghua University Independent Research Grant [2024THZWYY02]. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.06863 .",
+            "url": "https://doi.org/10.1287/mnsc.2023.01322",
+            "authors": "Omar Mouchtaki, Omar El Housni, Guillermo Gallego, Vineet Goyal, Salal Humair, Sangjo Kim, Ali Sadighian, Jingchen Wu",
+            "date": "2026-10-01",
+            "abstract_en": "We address the joint assortment and inventory optimization problem for an online retailer facing a set of N substitutable products. The retailer must determine both the assortment and inventories of these products before the start of the selling season to maximize the expected profit. We consider a setting with dynamic SOBS, where consumers’ choices follow the Markov chain choice model. This is a challenging problem, and even computing the expected profit for a given assortment and inventory solution requires solving an intractable dynamic program. We present a sample average approximation-based algorithm for the problem that achieves a regret of [Formula: see text] with respect to an linear program (LP) upper bound. Our algorithm first selects an assortment by balancing the expected revenue (from a single consumer) and the inventory cost. We do this by identifying a subset of products that can pool demand from the universe of substitutable products without significantly cannibalizing the revenue in the presence of dynamic substitution behavior of consumers. We then use a sample average approximation-based LP to decide on the inventory level for each item in the selected assortment. We numerically show that our algorithm considerably improves the performance over standard approaches from the literature on a wide range of instances of the Markov chain choice model and demonstrate that it carefully handles the inventory of products in the long tail (i.e., products with small mean total demand). This paper was accepted by Chung Piaw Teo, optimization. Funding: This work was supported by Amazon [Research Award (V. Goyal and O. El Housni)] and the National Science Foundation [Grants CMMI 1636046 (V. Goyal) and 2226900 (O. El Housni)]. The research was partially supported by RGC from Hong Kong [Grant 16215820 (G. Gallego)]. Supplemental Material: The online appendices and data files are available at https://doi.org/10.1287/mnsc.2023.01322 .",
+            "abstract_zh": "",
+            "matched_topics": [
+              "人工智能"
+            ]
+          },
+          {
+            "title_en": "Start-Up Firms and Corporate Culture: Evidence from Advertised Corporate Culture",
+            "title_zh": "",
+            "url": "https://doi.org/10.1287/mnsc.2023.00254",
+            "authors": "Jungho Lee",
+            "date": "2026-10-01",
+            "abstract_en": "I document the advertised corporate culture among start-up firms from an online job board. Two corporate culture types emerge: one that concerns the well-being of employees (worker-centered culture) and another that emphasizes other values, such as customers, firms, and markets (firm-centered culture). The worker-centered culture attracts 20% more applications than the other culture type. Firms advertising the worker-centered culture pay 5% lower salaries than measurably similar jobs. Outcomes do not significantly differ among firms that promote different types of corporate culture. To assess whether a worker-centered culture is adopted to reduce labor costs or enhance productivity, I develop an equilibrium model. The model implies that many firms adopt a worker-centered culture primarily for cost savings. This paper was accepted by Ashish Arora, entrepreneurship and innovation. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.00254 .",
             "abstract_zh": "",
             "matched_topics": [
               "创新"
             ]
           },
           {
-            "title_en": "Stripping the Discount Curve—A Robust Machine Learning Approach",
+            "title_en": "Simple and (Approximately) Optimal Mechanism in Efficiency and Equality Tradeoff",
             "title_zh": "",
-            "url": "https://doi.org/10.1287/mnsc.2023.01401",
-            "authors": "Damir Filipović, Markus Pelger, Ye Ye",
-            "date": "2026-09-01",
-            "abstract_en": "We introduce a robust, flexible, and easy-to-implement method for estimating the yield curve from treasury securities. Our nonparametric method learns the discount curve in a function space that we motivate by economic principles. We show in an extensive empirical study on U.S. Treasury securities that our method strongly dominates all parametric and nonparametric benchmarks. It achieves substantially smaller out-of-sample yield and pricing errors while being robust to outliers and data selection choices. We attribute the superior performance to the optimal trade-off between flexibility and smoothness, which positions our method as the new standard for yield curve estimation. This paper was accepted by Agostino Capponi, finance. Supplemental Material: The data files are available at https://doi.org/10.1287/mnsc.2023.01401 .",
+            "url": "https://doi.org/10.1287/mnsc.2022.02785",
+            "authors": "Zhou Chen, Qi Qi, Changjun Wang, Zhen Wang",
+            "date": "2026-10-01",
+            "abstract_en": "Many large cities have adopted a policy of restricting the number of new vehicle licenses in order to address the challenges of traffic and air pollution problems. An important question that then arises is how to allocate these limited new license quotas among a large set of demanders while taking both social efficiency and equality into consideration. Inspired by this practical problem, we study the problem of designing simple and optimal mechanisms to tradeoff between efficiency and equality in a similar public goods allocation problem. We first propose a truthful two-group mechanism framework that is both general and simple and then use it to compute the optimal solution that maximizes social efficiency while guaranteeing a certain level of equality. Interestingly and surprisingly, under some natural conditions regarding the players’ private values, we show that the optimal mechanisms within the proposed framework are always the mechanisms that first run an auction and then run a lottery (ATL for short). In addition, beyond the framework and those conditions, we prove that the ATL mechanism can always guarantee at least [Formula: see text] ([Formula: see text] is the minimum equality level) of the optimal solution efficiency. This approximation ratio can in practice be further improved to near-optimal when resources are scarce and the natural conditions hold. We further establish a theoretical connection between these natural conditions and common value distributions, demonstrating that these conditions are widely satisfied in practice. Finally, we implement several experiments to verify the ATL mechanism’s optimality and robustness. This paper was accepted by Chung Piaw Teo, optimization. Funding: This work was supported by the National Natural Science Foundation of China [Grants 72401252, 72192830, 72192832, 62472428, 72192804, 72301235, 72394360 and 72394363]; the Public Computing Cloud, Renmin University of China, the fund for building world-class universities (disciplines) of Renmin University of China; the Beijing Natural Science Foundation [Grant Z220001]. Supplemental Material: The online appendices are available at https://doi.org/10.1287/mnsc.2022.02785 .",
+            "abstract_zh": "",
+            "matched_topics": [
+              "绿色发展"
+            ]
+          },
+          {
+            "title_en": "Does Agglomeration Enhance Property Value?",
+            "title_zh": "",
+            "url": "https://doi.org/10.1287/mnsc.2023.02773",
+            "authors": "Crocker H. Liu, Chen Zheng, Bing Zhu",
+            "date": "2026-10-01",
+            "abstract_en": "Does agglomeration within a building and/or neighborhood enhance or weaken property value? The valuation impact is unclear ex ante, given that agglomeration tradesoff enhanced productivity at the expense of a more concentrated tenant base. We find that a value premium exists only when agglomeration at both the building and neighborhood levels consists of firms in the same industry. This premium represents capitalized knowledge spillover externalities. Additionally, we show the stock market rewards real estate investment trusts that transact specialized buildings. The valuation consequences arising from agglomeration in the underlying real estate market are thus consistent with the public real estate market. This paper was accepted by Tomasz Piskorski, finance. Funding: This work was supported by the Real Estate Research Institute. Supplemental Material: The online appendix is available at https://doi.org/10.1287/mnsc.2023.02773 .",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新"
+            ]
+          },
+          {
+            "title_en": "The Rapid Adoption of Generative AI",
+            "title_zh": "",
+            "url": "https://doi.org/10.1287/mnsc.2025.02523",
+            "authors": "Alexander Bick, Adam Blandin, David J. Deming",
+            "date": "2026-10-01",
+            "abstract_en": "Generative artificial intelligence (genAI) is a potentially important new technology, but its impact on the economy depends on the speed and intensity of adoption. This paper reports results from a series of nationally representative U.S. surveys of genAI use at work and at home. As of late 2024, 45% of the U.S. population age 18–64 uses genAI. Among employed respondents, 27% used genAI for work at least once in the previous week: 10% used it every workday and 17% on some but not all workdays. Relative to each technology’s first mass-market product launch, work adoption of genAI has been faster than the personal computer (PC), and overall adoption has outpaced both PCs and the internet by an even wider margin. Between 1% and 7% of all work hours are currently assisted by genAI, and respondents report time savings equivalent to 1.4% of total work hours. Potential productivity gains vary widely by industry, and firm climate and policies play an important role in adoption patterns. This paper was accepted by Alfonso Gambardella, business strategy. Funding: This work was supported by the Walmart Foundation [Grant 252882]. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2025.02523 .",
             "abstract_zh": "",
             "matched_topics": [
               "人工智能"
+            ]
+          },
+          {
+            "title_en": "Searching for Rewards",
+            "title_zh": "",
+            "url": "https://doi.org/10.1287/mnsc.2024.05203",
+            "authors": "T. Tony Ke, Jiwoong Shin, Xu Zhu",
+            "date": "2026-10-01",
+            "abstract_en": "Loyalty programs are widespread across various markets, offering members rewards based on their past purchases for future benefits. This study offers new insights into the strategic use of loyalty programs and their impact on market competition by exploring the dynamics of loyalty programs within a repeated ordered search framework, in which consumers sequentially search for the optimal product across multiple firms over two periods. Our findings highlight distinct roles for price discounts and rewards in influencing consumer decisions. Price discounts discourage further search in the current shopping period, whereas rewards encourage consumer loyalty by inducing prominence in subsequent visits. As search costs increase, firms tend to offer lower price discounts but higher rewards, and this results in a higher industry profit but lower consumer surplus. Compared with their absence, loyalty programs decrease both industry profit and consumer welfare, leading to a lose–lose outcome. Moreover, we demonstrate that, when the firms are heterogeneous in terms of their network sizes, those with larger networks tend to offer lower rewards yet achieve greater consumer loyalty in contrast to the firms with smaller networks, which compensate with higher rewards. This paper was accepted by Dmitri Kuksov, marketing. Funding: T.T. Ke acknowledges financial support from the National Natural Science Foundation of China [Grants 72422003 and 72394395] and the Hong Kong Research Grants Council [Grant 14503122]. X. Zhu acknowledges support from INFORMS Society for Marketing Science Doctoral Early Stage Research Grant (awarded in 2023). Supplemental Material: The online appendix is available at https://doi.org/10.1287/mnsc.2024.05203 .",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新"
+            ]
+          },
+          {
+            "title_en": "Matchmaking Strategies for Maximizing Player Engagement in Video Games",
+            "title_zh": "",
+            "url": "https://doi.org/10.1287/mnsc.2023.02957",
+            "authors": "Mingliu Chen, Adam N. Elmachtoub, Xiao Lei",
+            "date": "2026-10-01",
+            "abstract_en": "Managing player engagement is vital to the online gaming industry, given that many games generate revenue through subscription models and microtransactions. We scrutinize engagement management in the prevalent category of competitive video games, where players are frequently matched against one another, and matchmaking systems substantially impact engagement. We propose a dynamic model to analyze player dynamics and optimize matchmaking policies for maximum engagement. Our model takes into account two essential factors in competitive games: heterogeneous skill levels and players’ aversion to losing. Additionally, the model enables us to consider pay-to-win strategies and AI-powered bots, which are contentious methods of influencing player engagement and endogenously affect the optimal matchmaking policy. To provide sharp insights, we analyze a specific case where there are two skill levels, and players churn only after experiencing a losing streak. The optimal matchmaking policy considers both short-term rewards by matching players myopically and long-term rewards by adjusting skill distribution. The pay-to-win system can positively impact player engagement when the majority of players are low-skilled, because adopting pay-to-win also affects skill distribution. This result challenges the conventional wisdom that typically regards pay-to-win as trading player experience for revenue. When incorporating AI-powered bots, we demonstrate that optimizing the matchmaking policy can significantly reduce the number of required bots. We then extend our model and conduct a case study with real data from an online chess platform. The optimal policy can improve engagement by 4%–6% or reduce the percentage of bots by 3% in comparison with skill-based matchmaking. This paper was accepted by Jeannette Song, operations management. Funding: A. N. Elmachtoub is partially supported by NSF [Grant CMMI-1944428]. X. Lei is partially supported by the Hong Kong Research Grants Council [Early Career Scheme 27503123]. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.02957 .",
+            "abstract_zh": "",
+            "matched_topics": [
+              "人工智能"
+            ]
+          },
+          {
+            "title_en": "Expectations Matter: When (Not) to Use Machine Learning Earnings Forecasts",
+            "title_zh": "",
+            "url": "https://doi.org/10.1287/mnsc.2024.05808",
+            "authors": "John L. Campbell, Harrison Ham, Zhongjin (Gene) Lu, Katherine Wood",
+            "date": "2026-10-01",
+            "abstract_en": "We comprehensively examine the usefulness of machine learning technology to predict a firm’s earnings and offer three main findings. First, although prior literature suggests machine learning can offer better earnings forecasts than analysts, we show that this result is highly sensitive to machine learning model specification choices (i.e., 80% of evaluated machine forecasts fail to beat analysts). Second, we examine why the most accurate machine learning forecast consistently beats analysts, finding that they correct for predictable analyst biases that are both linear and nonlinear and largely relate to analysts’ prior forecast errors, forecasted earnings levels, and the firm’s stock price. Finally, we find that investors’ earnings expectations, as revealed through stock prices, largely—but do not fully—correct for these predictable analyst biases, with delayed price realization up to nine months. In additional analysis, we find that optimal machine learning specification choices remain stable over time and that, although the machine’s outperformance narrows in recent periods, it remains substantial among small-cap stocks. Overall, our study moves beyond the question of whether machine forecasts are superior to human forecasts and instead focuses on which machine forecast specifications matter, as well as when and why machine forecasts are most superior. In so doing, we provide code and estimates for the most accurate machine forecast specification and demonstrate that investors’ expectations appear to largely (but not fully) align with them. This paper was accepted by Suraj Srinivasan, accounting. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.05808 .",
+            "abstract_zh": "",
+            "matched_topics": [
+              "人工智能"
+            ]
+          },
+          {
+            "title_en": "Forecasting Earnings from Home",
+            "title_zh": "",
+            "url": "https://doi.org/10.1287/mnsc.2024.04637",
+            "authors": "Michael Durney, Hoyoun Kyung, Stanimir Markov, Jihwon Park",
+            "date": "2026-10-01",
+            "abstract_en": "We examine the impact of working from home (WFH) practices on the financial services industry, focusing on sell-side equity analysts. We find that analysts who previously benefited from access to in-person interactions with other informed parties experience a greater decline in earnings forecast accuracy following the COVID lockdown and the shift to WFH. Notably, the informational advantage associated with the in-person access disappears during the lockdown and returns once restrictions are lifted. Our results are stronger for all-star analysts and analysts with shorter coverage periods, suggesting that all-star analysts rely relatively more on access to in-person interactions prelockdown and that accumulated firm-specific knowledge mitigates the loss of in-person interactions. Our results remain robust across alternative analyst performance measures. We conclude that, despite recent advances in communications technology, AI, and machine learning, in-person interactions remain a unique and difficult to substitute information channel for sell-side research providers and that WFH impedes information flows between market participants in capital markets. This paper was accepted by Suraj Srinivasan, accounting. Supplemental Material: The data files are available at https://doi.org/10.1287/mnsc.2024.04637 .",
+            "abstract_zh": "",
+            "matched_topics": [
+              "人工智能"
+            ]
+          },
+          {
+            "title_en": "An Integer Programming Approach for Quick-Commerce Assortment Planning",
+            "title_zh": "",
+            "url": "https://doi.org/10.1287/mnsc.2023.02996",
+            "authors": "Yajing Chen, Taotao He, Ying Rong, Yunlong Wang",
+            "date": "2026-10-01",
+            "abstract_en": "In this paper, we explore the challenge of assortment planning in the context of quick commerce, a rapidly growing business model that aims to deliver time-sensitive products. In order to achieve quick delivery to satisfy the immediate demands of online customers in close proximity, personalized online assortments need to be included in brick-and-mortar store offerings. With the presence of this physical linkage requirement and distinct multinomial logit choice models for online consumer segments, the firm seeks to maximize overall revenue by selecting an optimal assortment of products for local stores and by tailoring a personalized assortment for each online consumer segment. We employ an integer programming approach to solve this NP-hard problem to global optimality. In particular, we derive convex hull results to represent the consumer choice of each online segment under a general class of operational constraints, and to characterize the relation between assortment decisions and choice probabilities of products. Our convex hull results, coupled with a modified choice probability–ordered separation algorithm, yield formulations that provide a significant computational advantage over existing methods. Finally, we illustrate how our convex hull results can be used to address other assortment optimization problems. This paper was accepted by Chung Piaw Teo, optimization. Funding: Y. Rong’s work was supported by the National Natural Science Foundation of China [Grants 72025201 and 72221001]. T. He’s work was supported by the National Natural Science Foundation of China [Grants 72101146 and 72231003], and Y. Wang’s work was supported by the National Natural Science Foundation of China [Grants 72331006]. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.02996 .",
+            "abstract_zh": "",
+            "matched_topics": [
+              "人工智能"
+            ]
+          },
+          {
+            "title_en": "The Value of Flexibility from Opaque Selling",
+            "title_zh": "",
+            "url": "https://doi.org/10.1287/mnsc.2019.02983",
+            "authors": "Adam N. Elmachtoub, David D. Yao, Yeqing Zhou",
+            "date": "2026-10-01",
+            "abstract_en": "An opaque product refers to a subset of products that only differ in some secondary attribute (such as color or style). After a customer purchases an opaque product, one of the products in the subset is then allocated to the customer. Selling opaque products has become popular on e-commerce platforms, because it is a source of flexibility that reduces demand variability and hence inventory cost. In this paper, we seek to understand how the design of opaque product configurations and the fraction of customers choosing opaque products impact the value of flexibility arising from opaque selling. The key finding from our study is the following insight: A modest opaque selling strategy where (i) the opaque options contain small subsets and (ii) only a small fraction of customers buy opaque products achieves substantial cost savings (compared with nonopaque traditional selling). Moreover, the cost savings of this modest opaque strategy is on the same order as a fully flexible scenario where all customers buy an opaque product. Our analysis relies on exploring a novel connection of multiproduct inventory management to the balls-into-bins framework along with a simple balancing policy for opaque selling. As a byproduct of our analysis, we show that the simple balancing policy is asymptotically optimal. For extensions outside of our theoretical analysis, we conduct extensive numerical experiments to show that our core insights continue to hold. This paper was accepted by Jayashankar Swaminathan, operations management. Funding: This work was supported by the Division of Civil, Mechanical and Manufacturing Innovation [Grant 1944428]. Supplemental Material: The online appendices and data files are available at https://doi.org/10.1287/mnsc.2019.02983 .",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新"
             ]
           }
         ],
@@ -1178,7 +1214,7 @@
         "issue_title": "Published 2027-01",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-environmental-economics-and-management",
         "matched_count": 3,
-        "total_in_issue": 10,
+        "total_in_issue": 12,
         "papers": [
           {
             "title_en": "Window-dressing in environmental regulation: Short-term incentives and temporary abatement",
@@ -1255,9 +1291,21 @@
         "resolved_name": "Energy Economics",
         "issue_title": "Published 2026-11",
         "issue_url": "https://www.sciencedirect.com/journal/energy-economics",
-        "matched_count": 3,
-        "total_in_issue": 10,
+        "matched_count": 12,
+        "total_in_issue": 23,
         "papers": [
+          {
+            "title_en": "Corrigendum to “Equity markets and ESG dynamics: Assessing spillovers and portfolio strategies through time-varying parameters” [Energy Econ., 134 (2024), 107548]",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.eneco.2026.109622",
+            "authors": "Yi Wang, Shoaib Ali, Muhammad Ayaz",
+            "date": "2026-11-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "绿色发展"
+            ]
+          },
           {
             "title_en": "Economy-wide and international spillovers of the economic impacts of climate change",
             "title_zh": "",
@@ -1275,6 +1323,103 @@
             "title_zh": "",
             "url": "https://doi.org/10.1016/j.eneco.2026.109599",
             "authors": "Ushmeet Kaur, Wasim Ahmad",
+            "date": "2026-11-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "绿色发展"
+            ]
+          },
+          {
+            "title_en": "The empirical impact of energy transition on developing economies: Sectoral analysis and predictive insights",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.eneco.2026.109601",
+            "authors": "Alain Soliman, Ilyes Abid, Khaled Guesmi, Christian Urom",
+            "date": "2026-11-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "绿色发展"
+            ]
+          },
+          {
+            "title_en": "Conflict or synergy: exploring the interaction between carbon pricing policy and capacity mechanism",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.eneco.2026.109612",
+            "authors": "Yilun Luo, Esmaeil Ahmadi, Benjamin Craig McLellan, Tetsuo Tezuka",
+            "date": "2026-11-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "绿色发展"
+            ]
+          },
+          {
+            "title_en": "Deconstructing energy inefficiency in China's manufacturing enterprises: Evidence from a machine learning evaluation method",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.eneco.2026.109611",
+            "authors": "Jiasen Sun, Yuchen Jiang, Jie Wu",
+            "date": "2026-11-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "人工智能"
+            ]
+          },
+          {
+            "title_en": "Assessing determinants of CO2 emissions trajectory under technology uncertainty: A probabilistic approach to index decomposition analysis",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.eneco.2026.109630",
+            "authors": "Hui Wang, Yupeng Wang, Yong Yang, Peng Zhou",
+            "date": "2026-11-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "绿色发展"
+            ]
+          },
+          {
+            "title_en": "Does the Low-Carbon City Pilot policy promote green innovation collaboration? Evidence from knowledge embeddedness and complexity",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.eneco.2026.109623",
+            "authors": "Qijun Xie, Dengjie Yuan, Xiangyang Li",
+            "date": "2026-11-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新",
+              "绿色发展"
+            ]
+          },
+          {
+            "title_en": "Cost-effectiveness assessment for China's emission reduction in steel, cement, and electrolytic aluminum industries",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.eneco.2026.109628",
+            "authors": "Zhaohua Wang, Yukun Wang, Hongzhi Zhang, Hao Li, Zhijie Jia, Yuli Shan",
+            "date": "2026-11-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "绿色发展"
+            ]
+          },
+          {
+            "title_en": "Green credit under carbon price risk: financing frictions, banking market power, and firm emissions",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.eneco.2026.109629",
+            "authors": "Lin Zigan, Lei Yihu",
+            "date": "2026-11-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "绿色发展"
+            ]
+          },
+          {
+            "title_en": "Carbon-price-equivalent signals in multilateral energy reforms: Evidence from developing and transition economies",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.eneco.2026.109637",
+            "authors": "Di Wang, Youwei Zhao",
             "date": "2026-11-01",
             "abstract_en": "",
             "abstract_zh": "",
@@ -1307,7 +1452,7 @@
         "issue_title": "Published 2026-12",
         "issue_url": "https://www.sciencedirect.com/journal/resource-and-energy-economics",
         "matched_count": 3,
-        "total_in_issue": 6,
+        "total_in_issue": 7,
         "papers": [
           {
             "title_en": "Does renewable energy policy reduce recycling? Considering the conflicts between environmental targets",
@@ -1368,45 +1513,33 @@
         "category": "Top 5",
         "issn": "0002-8282",
         "resolved_name": "American Economic Review",
-        "issue_title": "Volume 116, Issue 9",
+        "issue_title": "Volume 116, Issue 10",
         "issue_url": "https://www.aeaweb.org/journals/aer",
-        "matched_count": 3,
-        "total_in_issue": 12,
+        "matched_count": 2,
+        "total_in_issue": 10,
         "papers": [
           {
-            "title_en": "Manipulation-Robust Prediction",
+            "title_en": "Racial Promotion Gaps",
             "title_zh": "",
-            "url": "https://doi.org/10.1257/aer.20241087",
-            "authors": "Daniel Björkegren, Joshua E. Blumenstock, Samsun Knight",
-            "date": "2026-09-01",
-            "abstract_en": "An increasing number of decisions are guided by machine learning algorithms. But when consequential decisions are encoded in algorithms, individuals may strategically alter their behavior to achieve desired outcomes. This paper develops an empirical approach that adjusts decision algorithms to anticipate manipulation. By explicitly modeling incentives to manipulate, our approach produces decision rules that are stable under manipulation, even when the rules are fully transparent. We stress-test this approach through a large field experiment in Kenya. When implemented, linear strategy-robust decision rules outperform standard linear models such as LASSO. (JEL C45, C93, D12, D91, G51, O12, O16)",
+            "url": "https://doi.org/10.1257/aer.20231368",
+            "authors": "Deepak Hegde, Alexander Ljungqvist, Manav Raj",
+            "date": "2026-10-01",
+            "abstract_en": "We study racial disparities in promotions in a setting in which promotions are formulaic: the US patent office. Using detailed administrative data that allow us to observe who is eligible for promotion when, we document that Black patent examiners experience delays in promotions they are entitled to, slowing their climb to the top of the career ladder by a year and reducing career earnings by 2.5 percent. Institutional features rule out statistical discrimination with accurate priors. Slow promotions even under Black supervisors argue against taste-based animus. Instead, the patterns fit models of belief-based discrimination. (JEL J15, J41, J71, M12, M51, O34)",
             "abstract_zh": "",
             "matched_topics": [
-              "人工智能"
+              "创新"
             ]
           },
           {
-            "title_en": "Intergenerational Impacts of Secondary Education: Experimental Evidence from Ghana",
+            "title_en": "Social Push and the Direction of Innovation",
             "title_zh": "",
-            "url": "https://doi.org/10.1257/aer.20241001",
-            "authors": "Esther Duflo, Pascaline Dupas, Elizabeth Spelke, Mark Walsh",
-            "date": "2026-09-01",
-            "abstract_en": "We provide experimental evidence on the intergenerational impacts of secondary education subsidies in a low-income context, leveraging a randomized controlled trial and 15-year longitudinal follow-up. Secondary school scholarships delay fertility, reduce unwanted pregnancies, and change partner selection. Under-one mortality is reduced by half. We also document cognitive development gains of 0.24 standard deviations of test scores by age five among children of female scholarship recipients. Means-tested secondary school scholarships are a high-return investment, with a conservatively estimated US$4.1 in benefits for each US$1 the policy would cost the government in the long run. (JEL H52, I12, I21, I26, J13, J16, O15)",
+            "url": "https://doi.org/10.1257/aer.20231417",
+            "authors": "Elias Einiö, Josh Feng, Xavier Jaravel",
+            "date": "2026-10-01",
+            "abstract_en": "What are the implications of unequal access to innovation careers for the direction of innovation and inequality? Leveraging novel linked datasets in the United States and Finland, we document that innovators create products more likely to be purchased by consumers like them in terms of gender, socioeconomic status, and age. Homophily exists both within narrow product categories and across industries and has been stable in recent decades. Incorporating this “social push” channel into a growth model, we estimate that unequal access to innovation careers has a large effect on cost of living inequality and long-run growth. (JEL D63, J16, L26, M13, O31, O33, O47)",
             "abstract_zh": "",
             "matched_topics": [
-              "产业政策"
-            ]
-          },
-          {
-            "title_en": "The Environmental Bias of Corporate Income Taxation",
-            "title_zh": "",
-            "url": "https://doi.org/10.1257/aer.20241765",
-            "authors": "Luigi Iovino, Thorsten Martin, Julien Sauvagnat",
-            "date": "2026-09-01",
-            "abstract_en": "We study the relationship between corporate income taxation and carbon dioxide (CO 2 ) emissions in the United States. We show CO 2 -intensive firms benefit more from the tax advantage of debt and pay lower income taxes on their capital income. Building on these new facts, we provide evidence that a cut in the corporate income tax rate leads to a larger expansion of clean firms. We develop a multisector general equilibrium model that accounts for our evidence and quantify the impact of corporate tax reforms on aggregate emissions. A policy that eliminates the tax advantage of debt could reduce aggregate emissions without affecting GDP. (JEL D22, G32, H25, H32, Q52, Q54, Q58)",
-            "abstract_zh": "",
-            "matched_topics": [
-              "绿色发展"
+              "创新"
             ]
           }
         ],
@@ -1757,14 +1890,26 @@
         "resolved_name": "Journal of Public Economics",
         "issue_title": "Published 2026-11",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-public-economics",
-        "matched_count": 1,
-        "total_in_issue": 8,
+        "matched_count": 2,
+        "total_in_issue": 10,
         "papers": [
           {
             "title_en": "The cost of job loss in carbon-intensive sectors: Evidence from Germany",
             "title_zh": "",
             "url": "https://doi.org/10.1016/j.jpubeco.2026.105779",
             "authors": "César Barreto, Robert Grundke, Ze’ev Krill",
+            "date": "2026-11-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "绿色发展"
+            ]
+          },
+          {
+            "title_en": "Emissions abatement under a rate-based emissions trading system: facility-level evidence from China",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jpubeco.2026.105797",
+            "authors": "Yifei Quan, Jie-Sheng Tan-Soo, Maosheng Duan, Bofeng Cai",
             "date": "2026-11-01",
             "abstract_en": "",
             "abstract_zh": "",
@@ -1784,9 +1929,22 @@
         "resolved_name": "Journal of Development Economics",
         "issue_title": "Published 2027-02",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-development-economics",
-        "matched_count": 0,
-        "total_in_issue": 15,
-        "papers": [],
+        "matched_count": 1,
+        "total_in_issue": 22,
+        "papers": [
+          {
+            "title_en": "Economic consequences of climate change: Evidence from the Philippines",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jdeveco.2026.103916",
+            "authors": "Radine Rafols",
+            "date": "2027-02-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "绿色发展"
+            ]
+          }
+        ],
         "error": null
       },
       {
@@ -1798,8 +1956,8 @@
         "resolved_name": "Journal of International Economics",
         "issue_title": "Published 2026-12",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-international-economics",
-        "matched_count": 2,
-        "total_in_issue": 21,
+        "matched_count": 3,
+        "total_in_issue": 24,
         "papers": [
           {
             "title_en": "Transportation networks, technology adoption, and structural transformation",
@@ -1811,6 +1969,18 @@
             "abstract_zh": "",
             "matched_topics": [
               "创新"
+            ]
+          },
+          {
+            "title_en": "Keeping up with the Joneses: FDI, supply chain linkages, and industrial emissions",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jinteco.2026.104343",
+            "authors": "Jiawei Mo, Ye Yuan, Zhe Zhang",
+            "date": "2026-12-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "绿色发展"
             ]
           },
           {
@@ -1890,9 +2060,22 @@
         "resolved_name": "International Journal of Industrial Organization",
         "issue_title": "Published 2026-12",
         "issue_url": "https://www.sciencedirect.com/journal/international-journal-of-industrial-organization",
-        "matched_count": 0,
-        "total_in_issue": 10,
-        "papers": [],
+        "matched_count": 1,
+        "total_in_issue": 11,
+        "papers": [
+          {
+            "title_en": "Convergence to collusion in algorithmic pricing",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.ijindorg.2026.103339",
+            "authors": "Kevin Michael Frick",
+            "date": "2026-12-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "人工智能"
+            ]
+          }
+        ],
         "error": null
       },
       {
@@ -1905,7 +2088,7 @@
         "issue_title": "Volume 55, Issue 10",
         "issue_url": "https://www.sciencedirect.com/journal/research-policy",
         "matched_count": 12,
-        "total_in_issue": 20,
+        "total_in_issue": 23,
         "papers": [
           {
             "title_en": "Can artificial intelligence accelerate technological progress? Researchers' perspectives on AI in manufacturing and materials science",
@@ -1924,6 +2107,18 @@
             "title_zh": "",
             "url": "https://doi.org/10.1016/j.respol.2026.105603",
             "authors": "Terhi Maczulskij",
+            "date": "2026-12-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新"
+            ]
+          },
+          {
+            "title_en": "Research grant effects across funding modes and industry collaboration",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.respol.2026.105623",
+            "authors": "Stefano Baruffaldi, Felicia Jorzick, Cornelia Lawson",
             "date": "2026-12-01",
             "abstract_en": "",
             "abstract_zh": "",
@@ -2038,18 +2233,6 @@
             "abstract_zh": "",
             "matched_topics": [
               "人工智能"
-            ]
-          },
-          {
-            "title_en": "How to craft a mission? A Theory of Action for the strategic public management of mission-oriented innovation policy",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.respol.2026.105631",
-            "authors": "Iacopo Gronchi",
-            "date": "2026-12-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新"
             ]
           }
         ],
@@ -2213,155 +2396,153 @@
         "category": "Innovation / AI",
         "issn": "0025-1909",
         "resolved_name": "Management Science",
-        "issue_title": "Volume 72, Issue 9",
+        "issue_title": "Volume 72, Issue 10",
         "issue_url": "https://pubsonline.informs.org/journal/mnsc",
         "matched_count": 12,
-        "total_in_issue": 19,
+        "total_in_issue": 21,
         "papers": [
           {
-            "title_en": "Learning to Optimally Stop Diffusion Processes, with Financial Applications",
+            "title_en": "Do Mutual Funds Respond to Mechanical Changes in ESG Ratings?",
             "title_zh": "",
-            "url": "https://doi.org/10.1287/mnsc.2024.07614",
-            "authors": "Min Dai, Yu Sun, Zuo Quan Xu, Xun Yu Zhou",
-            "date": "2026-09-01",
-            "abstract_en": "We study optimal stopping for diffusion processes with unknown model primitives within the continuous-time reinforcement learning (RL) framework Wang, Zariphopoulou and Zhou [Wang H, Zariphopoulou T, Zhou XY (2020), J. Machine Learn. Res. 21(198):1-34], and present applications to option pricing and portfolio choice. By penalizing the corresponding variational inequality formulation, we transform the stopping problem into a stochastic optimal control problem with two actions. We then randomize controls into Bernoulli distributions and add an entropy regularizer to encourage exploration. We derive a semianalytical optimal Bernoulli distribution, based on which we devise RL algorithms using the martingale approach Jia and Zhou [Jia Y, Zhou XY (2022a) J. Machine Learn. Res. 23(154):1–55]. We establish a policy improvement theorem and prove the fast convergence of the resulting policy iterations. We demonstrate the effectiveness of the algorithms in pricing finite-horizon American put options, solving Merton’s problem with transaction costs, and scaling to high-dimensional optimal stopping problems. In particular, we show that both the offline and online algorithms achieve high accuracy in learning the value functions and characterizing the associated free boundaries. This paper has been accepted by Kay Giesecke for the Special Issue on AI for Finance and Business Decisions. Funding: M. Dai was supported by the Hong Kong Research Grants Council [15212324, 15217123, 15213422, and T32-615/24-R], the Hong Kong Polytechnic University [P0042708, P0042456, and P0039114], and the Key Project of National Natural Science Foundation of China [72432005]. Y. Sun acknowledges financial support from a start-up fund at Peking University HSBC Business School. Z. Xu acknowledges financial support from The Hong Kong RGC [GRF 15204622, 15203423], NSFC 12571517, the PolyU-SDU Joint Research Center on Financial Mathematics, the CAS AMSS-PolyU Joint Laboratory of Applied Mathematics, the Research Centre for Quantitative Finance (1-CE03), and internal grants from The Hong Kong Polytechnic University. X. Zhou was supported by the Nie Center for Intelligent Asset Management at Columbia University. This work was also part of a Columbia-CityU/HK collaborative project that was supported by the InnoHK Initiative, the Government of the HKSAR, and the AIFT Lab. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.07614 .",
+            "url": "https://doi.org/10.1287/mnsc.2024.06184",
+            "authors": "Seungju Choi, Fabrizio Ferri, Daniele Macciocchi",
+            "date": "2026-10-01",
+            "abstract_en": "Using a quasi-experimental setting, we study whether mutual fund investors respond to a purely mechanical change in environmental, social, and governance (ESG) ratings—that is, a change independent of concurrent changes in firms’ actual ESG activities. We find that when a firm experiences a mechanical increase in ESG ratings, the probability of being selected by an ESG fund increases (extensive margin). In contrast, if the firm is already in the fund’s portfolio, its holdings do not change (intensive margin), consistent with portfolio weighting being based on market capitalization. The selection effect is observable not only among funds that follow an ESG index but also among active ESG funds, which presumably should have the resources and ability to identify and filter out the mechanical increase in ESG ratings. Among active ESG funds, the selection effect is stronger for funds with less assets under management, larger portfolios of firms, and lower expense ratios, consistent with the notion that resource constraints may impede a fund’s screening ability. Our findings imply that passive investing based on commercial ESG ratings—whether due to resource constraints or portfolio indexing—might result in portfolio allocations that do not reflect the actual ESG activities of firms. This paper was accepted by Suraj Srinivasan, accounting. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.06184 .",
             "abstract_zh": "",
             "matched_topics": [
-              "创新",
-              "人工智能"
-            ]
-          },
-          {
-            "title_en": "Gender-Inclusive Language and Economic Decision-Making",
-            "title_zh": "",
-            "url": "https://doi.org/10.1287/mnsc.2024.04342",
-            "authors": "Loukas Balafoutas, Helena Fornwagner, Emily Hauser, Oliver Hauser",
-            "date": "2026-09-01",
-            "abstract_en": "Providing inclusive environments has become a primary tenet of modern societies and organizations. The use of gender-inclusive language (GIL) is often considered an instrument that can promote inclusion, yet little is known about its effects on relevant economic behaviors and on gender gaps in the labor market. GIL avoids the masculine “default” (common to many languages) by either explicitly mentioning both masculine and feminine (pro)nouns, or replacing them with nongendered (pro)nouns. Here we study the causal short-run impact of GIL on competitiveness and leadership in the laboratory, with two different language samples—English and German—which differ, among other things, in the extent to which gender is embedded linguistically. We vary GIL in experimental instructions across three treatments ([Formula: see text]): a masculine baseline condition, a condition with feminine and masculine (pro)nouns, and a condition with nongendered (pro)nouns. We find that participants who identify as female and participants who identify as male compete, stand for leadership, and vote on leader candidates similarly across all treatments, in either language. Furthermore, we find no treatment differences in participants’ feelings of inclusion and perceived entitlement. In sum, there is a lack of support for GIL having short-term causal effects on competitive and leadership behavior and inclusion perceptions. This paper was accepted by Marie-Claire Villeval, behavioral economics and decision analysis. Funding: This work was supported by the Austrian Science Fund [Grant SFB F63], UK Research and Innovation [Grant MR/T020253/1], the University of Exeter, and Regensburger Universitätsstiftung Lucia and Dr. Otfried Eberz. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.04342 .",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新"
-            ]
-          },
-          {
-            "title_en": "Fighting Fire with Fire: Infusing Artificial Intelligence into Peer Review to Sustain Quality Scholarship",
-            "title_zh": "",
-            "url": "https://doi.org/10.1287/mnsc.2026.00184",
-            "authors": "Hemant K. Bhargava, Sarah H. Bana, Zhe Zhang, Laura Brandimarte, Vidyanand Choudhary, J. Frank Li, Pantelis Loupos, Daniel Zantedeschi",
-            "date": "2026-09-01",
-            "abstract_en": "Adoption of artificial intelligence (AI) by authors has accelerated production of academic articles and increased submission rates to journals, thereby straining review capacity and hurting journal outcome metrics, such as turnaround time and decision accuracy. Academic journals face an imperative to improve review quality and productivity by incorporating generative AI tools in the review workflow. As a concrete first step toward this idea, we outline a particular workflow that deploys large language models as a structured, trained, frontline reviewer. The workflow underlines that AI-produced evaluations must be transparent and contestable by authors. We emphasize the need for AI-infused peer review to be journal specific, designed for efficiency, accuracy, and accountability, within a human-in-the-loop oversight framework. We build a mathematical model of journal operations to compare outcomes under a status quo no-AI workflow and the proposed AI-infused workflow. The model captures how governed AI reconfigures human reviewer effort and illuminates conditions under which the AI-infused workflow can improve vital metrics, such as turnaround time and decision accuracy. Our essential point is that journals need to adopt a deliberate and institutionally governed approach for using AI in the review process. We recognize that identifying an “optimal” AI-infused peer review workflow or even definitively projecting the consequences of one will require substantial experimentation to calibrate and configure the workflow across multiple alternative designs. This discussion was accepted by Christoph Loch. Funding: D. Zantedeschi acknowledges support for this research from the Muma College of Business Dean’s Research Fund. Supplemental Material: The online appendix is available at https://doi.org/10.1287/mnsc.2026.00184 .",
-            "abstract_zh": "",
-            "matched_topics": [
-              "人工智能"
-            ]
-          },
-          {
-            "title_en": "The Sound We Haven’t Heard Before: A Commentary on “Fighting Fire with Fire: Infusing AI into Peer Review to Sustain Quality Scholarship”",
-            "title_zh": "",
-            "url": "https://doi.org/10.1287/mnsc.2026.02441",
-            "authors": "Tinglong Dai",
-            "date": "2026-09-01",
-            "abstract_en": "This commentary responds to “Fighting Fire with Fire: Infusing AI into Peer Review to Sustain Quality Scholarship” [Bhargava HK, Bana S, Zhang Z, Brandimarte L, Choudary V, Li F, Loupos P, Zantedeschi D (2026) Fighting fire with fire: Infusing AI into peer review to sustain quality scholarship. Management Sci. Forthcoming.]. It shares the paper’s core position, that journals should govern artificial intelligence openly rather than leave it to the shadows, but it questions the premise that rising submission volume poses an existential threat. The safeguard is human judgment. Our shared fatigue with derivative, repetitive work is a sensor more discerning than any AI detector, because a model trained on what we have already rewarded cannot produce the novelty that our community prizes. The threat to a journal like Management Science is thus more contained than the original alarm implies, provided AI remains a non-final input and humans retain ownership of novelty and contribution. One test should govern any AI workflow: does it ask more of human judgment, or less? This commentary was accepted by Christoph Loch.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "人工智能"
-            ]
-          },
-          {
-            "title_en": "Correlation of Rankings in Matching Markets",
-            "title_zh": "",
-            "url": "https://doi.org/10.1287/mnsc.2024.06067",
-            "authors": "Rémi Castera, Patrick Loiseau, Bary S. R. Pradelski",
-            "date": "2026-09-01",
-            "abstract_en": "We study the role of correlation in matching markets, where multiple decision makers simultaneously face selection problems from the same pool of candidates. We propose a model in which a candidate’s priority scores across different decision makers exhibit varying levels of correlation dependent on the candidate’s sociodemographic group. Such differential correlation can arise in school choice because of the varying prevalence of selection criteria, in college admissions because of test-optional policies, or because of algorithmic monoculture, that is, when decision makers rely on the same algorithms and data sets to evaluate candidates. We show that higher correlation for one of the groups generally improves the outcome for all groups, leading to higher efficiency. However, students from a given group are more likely to remain unmatched as their own correlation level increases. This implies that it is advantageous to belong to a low-correlation group. Finally, we extend the tie-breaking literature to multiple priority classes and intermediate levels of correlation. Overall, our results point to differential correlation as a previously overlooked systemic source of group inequalities in school, university, and job admissions. This paper was accepted by Itai Ashlagi, revenue management and market analytics. Funding: This work was partially supported by MIAI @ Grenoble Alpes [Grants ANR-19-P3IA-0003 and ANR-23-PEIA-0003], by the French National Research Agency (ANR) [Grants ANR-19-CE48-0018 and ANR-20-CE23-0007], and by the National Science Foundation [Grant DMS-1928930] and by the Alfred P. Sloan Foundation [Grant G-2021-16778], which funded B. Pradelski’s residency at the Simons Laufer Mathematical Sciences Institute (formerly MSRI) in Berkeley, CA, during the Fall 2023 semester. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.06067 .",
-            "abstract_zh": "",
-            "matched_topics": [
-              "人工智能"
-            ]
-          },
-          {
-            "title_en": "How and When Are High-Frequency Stock Returns Predictable?",
-            "title_zh": "",
-            "url": "https://doi.org/10.1287/mnsc.2022.02435",
-            "authors": "Yacine Ait-Sahalia, Jianqing Fan, Lirong Xue, Xiaonan Zhu",
-            "date": "2026-09-01",
-            "abstract_en": "This paper studies the predictability of ultrahigh-frequency stock returns and durations to relevant price, volume, and transaction events using machine learning methods. We find that contrary to low-frequency and long-horizon returns, where predictability is rare and inconsistent, predictability in high-frequency returns and durations is large, systematic, and pervasive over short horizons. We identify the relevant predictors constructed from trades and quotes data, and we examine what determines the variation in predictability across the stock’s own characteristics and market environments. Next, we compute how the predictability improves with the timeliness of the data on a scale of milliseconds and conversely degrades with delays, providing a valuation of each millisecond gained. Finally, we simulate the impact of getting an (imperfect) peek at the incoming order flow, a look-ahead ability that is often attributed to the fastest high-frequency traders, in terms of improving the predictability of the returns and durations. This paper was accepted by Will Cong, finance. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2022.02435 .",
-            "abstract_zh": "",
-            "matched_topics": [
-              "人工智能"
-            ]
-          },
-          {
-            "title_en": "The Changing Nature of Firm Innovation: Short-Termism and Influential Innovation in U.S. Public Firms",
-            "title_zh": "",
-            "url": "https://doi.org/10.1287/mnsc.2022.00857",
-            "authors": "Yuan Shi, Rachelle C. Sampson, Brent Goldfarb, Rafael A. Corredoira",
-            "date": "2026-09-01",
-            "abstract_en": "We examine the link between short-term pressures and technologically significant innovation in U.S. public firms in 1997–2015. Using a market-based measure of short-term pressure, we estimate its relationship with influential and novel patents. We find that firms facing more intense short-term pressures are less likely to patent highly influential or novel innovations. To evaluate whether this relationship is causal, we use changes in ownership styles following financial institution mergers as instruments. Our analysis suggests that changing short-term pressures from investors had a causal impact on firm innovative outcomes; this finding is robust to a wide variety of empirical specifications. While public firms as a whole retained a constant share of highly influential patents, this activity has become more concentrated in fewer firms. This shift does not appear to be fully compensated by an increase in technologically significant patents by nonpublic firms such as venture-capital (VC)-backed start-ups. These findings raise questions about capital markets’ impact on firm R&D strategy and the nature of innovative activities in public firms. This paper was accepted by Ashish Arora, entrepreneurship and innovation. Funding: The authors gratefully acknowledge financial support from the inaugural Panmure House Prize for Long-term Thinking and Radical Innovation for this research, as well as Matt Marx for facilitating institutional support at Cornell for this research. B. Goldfarb and R. Corredoira received partial financial support from the National Science Foundation [Grant 1565553]. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2022.00857 .",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新"
-            ]
-          },
-          {
-            "title_en": "Deep Learning Statistical Arbitrage",
-            "title_zh": "",
-            "url": "https://doi.org/10.1287/mnsc.2022.03132",
-            "authors": "Jorge Guijarro-Ordonez, Markus Pelger, Greg Zanotti",
-            "date": "2026-09-01",
-            "abstract_en": "Statistical arbitrage exploits temporal price differences between similar assets. We develop a comprehensive conceptual framework for statistical arbitrage and a novel data-driven solution. First, we construct arbitrage portfolios of similar assets as residual portfolios from conditional latent asset pricing factors. Second, we extract their time-series signals with a powerful machine learning time-series solution, a convolutional transformer. Lastly, we use these signals to form an optimal trading policy, which maximizes risk-adjusted returns under constraints. Our comprehensive empirical study on daily U.S. equities shows a high compensation for arbitrageurs to enforce the law of one price. Our arbitrage strategies obtain considerable out-of-sample mean returns and Sharpe ratios, and outperform all benchmark approaches. This paper was accepted by Agostino Capponi, finance. Funding: The authors thank MSCI for generous research support.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "人工智能"
-            ]
-          },
-          {
-            "title_en": "Data-Pooling Reinforcement Learning for Preventative Healthcare Intervention",
-            "title_zh": "",
-            "url": "https://doi.org/10.1287/mnsc.2023.03880",
-            "authors": "Xinyun Chen, Pengyi Shi, Shanwen Pu",
-            "date": "2026-09-01",
-            "abstract_en": "Motivated by the emerging needs of tailored intervention for heterogeneous populations in preventative healthcare applications, we consider a multistage, dynamic decision-making problem in the online setting with unknown model parameters. To deal with the pervasive issue of small sample size in parameter estimation, we develop a novel data-pooling reinforcement learning (RL) algorithm that adaptively pools historical data, with three main innovations: (i) the weight of pooling is directly tied to the performance of the decision (measured by regret) as opposed to estimation accuracy in conventional methods; (ii) no parametric assumptions are needed between historical and current data; and (iii) requiring data-sharing only via aggregate statistics, as opposed to patient-level data. Our data-pooling algorithm framework unifies a variety of RL algorithms, and we establish a theoretical performance guarantee that quantifies the regret bound reduction from our adaptive pooling design compared with benchmarks. We substantiate the theoretical development with extensive empirical experiments via a case study in the context of postdischarge intervention to prevent unplanned readmissions, generating practical insights into healthcare management. Our algorithm enables organizations to leverage public data or published studies for patient management and supports policymakers in promoting aggregate data sharing to enhance population health outcomes. This paper was accepted by Carri Chan, healthcare management. Funding: X. Chen was supported by National Natural Science Foundation of China [Grants NSFC-72171205 and NSFC-72394361] and Shenzhen Science and Technology Innovations Committee [Grant RCXY 20210609103124047]. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.03880 .",
-            "abstract_zh": "",
-            "matched_topics": [
-              "人工智能"
-            ]
-          },
-          {
-            "title_en": "The ESG-Innovation Disconnect: Evidence from Green Patenting",
-            "title_zh": "",
-            "url": "https://doi.org/10.1287/mnsc.2024.09124",
-            "authors": "Lauren H. Cohen, Umit G. Gurun, Quoc H. Nguyen",
-            "date": "2026-09-01",
-            "abstract_en": "We document that traditional energy firms are key innovators in the United States’ green patent landscape. These firms produce more, and significantly higher-quality, green innovation. In many green technology spaces, they appear to be influential first movers and to produce ongoing foundational aspects of innovation and commercialization on which other alternative energy producers build. They additionally invest significantly in labor and capital to complement these green innovations. These traditional energy firms, however, receive significantly lower environmental, social, and governance (ESG) scores and fund flows and are not rewarded for incremental green innovation. This behavior is consistent with a competitive response by traditional energy firms to preempt obsolescence of current technology by investing in future replacement technologies. This paper was accepted by Bo Becker, finance. Funding: Funding was provided by the National Science Foundation [Grant SciSIP 1535813] and the Fordham University Gabelli School of Business—PVH Corp. Global Thought Leadership Grant on Corporate Social Responsibility. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.09124 .",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新",
               "绿色发展"
             ]
           },
           {
-            "title_en": "On the Expansion of Risk Pooling",
+            "title_en": "Joint Assortment and Inventory Planning Under the Markov Chain Choice Model",
             "title_zh": "",
-            "url": "https://doi.org/10.1287/mnsc.2024.06863",
-            "authors": "Michail Anthropelos, Runhuan Feng, Seongyoon Kim",
-            "date": "2026-09-01",
-            "abstract_en": "Risk pooling has become an increasingly critical tool for managing risks among corporations, institutions, states, and nations, with examples including multinational pooling, decentralized insurance schemes, catastrophe risk pooling, and burden sharing for nuclear accidents. Although there has been a rich literature on such practices, little is known from a theoretical viewpoint regarding the operational strategies of risk pools and, in particular, on issues about the effect of a pool’s expansion on each existing member’s welfare. This paper is the first to explore these issues by establishing different notions of consensus for the expansion of a risk pool: strong consensus, where both existing members and new candidates improve their risk measures due to the pool’s expansion, and weak consensus, which refers to the willingness of existing members to remain in the pool. Under optimal risk sharing for each pool, we show that its properties regarding expansion’s effects depend strongly on the underlying pricing rule. For instance, only with risk-adjusted equilibrium pricing are existing members willing to accept highly risky new members, whereas simple linear pricing excludes such members from the pool. Additionally, the impact of exogenous reinsurance on consensus is analyzed under both pricing rules. The established framework offers valuable managerial insights and policy implications, which we illustrate through two indicative case studies based on real data. This paper was accepted by Agostino Capponi, finance. Funding: Financial support from the Tsinghua University School of Economics and Management [Research Grant 2023051001], the National Social Sciences Foundation of China [Major Grant 23&ZD178] is gratefully acknowledged, and the Tsinghua University Independent Research Grant [2024THZWYY02]. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.06863 .",
+            "url": "https://doi.org/10.1287/mnsc.2023.01322",
+            "authors": "Omar Mouchtaki, Omar El Housni, Guillermo Gallego, Vineet Goyal, Salal Humair, Sangjo Kim, Ali Sadighian, Jingchen Wu",
+            "date": "2026-10-01",
+            "abstract_en": "We address the joint assortment and inventory optimization problem for an online retailer facing a set of N substitutable products. The retailer must determine both the assortment and inventories of these products before the start of the selling season to maximize the expected profit. We consider a setting with dynamic SOBS, where consumers’ choices follow the Markov chain choice model. This is a challenging problem, and even computing the expected profit for a given assortment and inventory solution requires solving an intractable dynamic program. We present a sample average approximation-based algorithm for the problem that achieves a regret of [Formula: see text] with respect to an linear program (LP) upper bound. Our algorithm first selects an assortment by balancing the expected revenue (from a single consumer) and the inventory cost. We do this by identifying a subset of products that can pool demand from the universe of substitutable products without significantly cannibalizing the revenue in the presence of dynamic substitution behavior of consumers. We then use a sample average approximation-based LP to decide on the inventory level for each item in the selected assortment. We numerically show that our algorithm considerably improves the performance over standard approaches from the literature on a wide range of instances of the Markov chain choice model and demonstrate that it carefully handles the inventory of products in the long tail (i.e., products with small mean total demand). This paper was accepted by Chung Piaw Teo, optimization. Funding: This work was supported by Amazon [Research Award (V. Goyal and O. El Housni)] and the National Science Foundation [Grants CMMI 1636046 (V. Goyal) and 2226900 (O. El Housni)]. The research was partially supported by RGC from Hong Kong [Grant 16215820 (G. Gallego)]. Supplemental Material: The online appendices and data files are available at https://doi.org/10.1287/mnsc.2023.01322 .",
+            "abstract_zh": "",
+            "matched_topics": [
+              "人工智能"
+            ]
+          },
+          {
+            "title_en": "Start-Up Firms and Corporate Culture: Evidence from Advertised Corporate Culture",
+            "title_zh": "",
+            "url": "https://doi.org/10.1287/mnsc.2023.00254",
+            "authors": "Jungho Lee",
+            "date": "2026-10-01",
+            "abstract_en": "I document the advertised corporate culture among start-up firms from an online job board. Two corporate culture types emerge: one that concerns the well-being of employees (worker-centered culture) and another that emphasizes other values, such as customers, firms, and markets (firm-centered culture). The worker-centered culture attracts 20% more applications than the other culture type. Firms advertising the worker-centered culture pay 5% lower salaries than measurably similar jobs. Outcomes do not significantly differ among firms that promote different types of corporate culture. To assess whether a worker-centered culture is adopted to reduce labor costs or enhance productivity, I develop an equilibrium model. The model implies that many firms adopt a worker-centered culture primarily for cost savings. This paper was accepted by Ashish Arora, entrepreneurship and innovation. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.00254 .",
             "abstract_zh": "",
             "matched_topics": [
               "创新"
             ]
           },
           {
-            "title_en": "Stripping the Discount Curve—A Robust Machine Learning Approach",
+            "title_en": "Simple and (Approximately) Optimal Mechanism in Efficiency and Equality Tradeoff",
             "title_zh": "",
-            "url": "https://doi.org/10.1287/mnsc.2023.01401",
-            "authors": "Damir Filipović, Markus Pelger, Ye Ye",
-            "date": "2026-09-01",
-            "abstract_en": "We introduce a robust, flexible, and easy-to-implement method for estimating the yield curve from treasury securities. Our nonparametric method learns the discount curve in a function space that we motivate by economic principles. We show in an extensive empirical study on U.S. Treasury securities that our method strongly dominates all parametric and nonparametric benchmarks. It achieves substantially smaller out-of-sample yield and pricing errors while being robust to outliers and data selection choices. We attribute the superior performance to the optimal trade-off between flexibility and smoothness, which positions our method as the new standard for yield curve estimation. This paper was accepted by Agostino Capponi, finance. Supplemental Material: The data files are available at https://doi.org/10.1287/mnsc.2023.01401 .",
+            "url": "https://doi.org/10.1287/mnsc.2022.02785",
+            "authors": "Zhou Chen, Qi Qi, Changjun Wang, Zhen Wang",
+            "date": "2026-10-01",
+            "abstract_en": "Many large cities have adopted a policy of restricting the number of new vehicle licenses in order to address the challenges of traffic and air pollution problems. An important question that then arises is how to allocate these limited new license quotas among a large set of demanders while taking both social efficiency and equality into consideration. Inspired by this practical problem, we study the problem of designing simple and optimal mechanisms to tradeoff between efficiency and equality in a similar public goods allocation problem. We first propose a truthful two-group mechanism framework that is both general and simple and then use it to compute the optimal solution that maximizes social efficiency while guaranteeing a certain level of equality. Interestingly and surprisingly, under some natural conditions regarding the players’ private values, we show that the optimal mechanisms within the proposed framework are always the mechanisms that first run an auction and then run a lottery (ATL for short). In addition, beyond the framework and those conditions, we prove that the ATL mechanism can always guarantee at least [Formula: see text] ([Formula: see text] is the minimum equality level) of the optimal solution efficiency. This approximation ratio can in practice be further improved to near-optimal when resources are scarce and the natural conditions hold. We further establish a theoretical connection between these natural conditions and common value distributions, demonstrating that these conditions are widely satisfied in practice. Finally, we implement several experiments to verify the ATL mechanism’s optimality and robustness. This paper was accepted by Chung Piaw Teo, optimization. Funding: This work was supported by the National Natural Science Foundation of China [Grants 72401252, 72192830, 72192832, 62472428, 72192804, 72301235, 72394360 and 72394363]; the Public Computing Cloud, Renmin University of China, the fund for building world-class universities (disciplines) of Renmin University of China; the Beijing Natural Science Foundation [Grant Z220001]. Supplemental Material: The online appendices are available at https://doi.org/10.1287/mnsc.2022.02785 .",
+            "abstract_zh": "",
+            "matched_topics": [
+              "绿色发展"
+            ]
+          },
+          {
+            "title_en": "Does Agglomeration Enhance Property Value?",
+            "title_zh": "",
+            "url": "https://doi.org/10.1287/mnsc.2023.02773",
+            "authors": "Crocker H. Liu, Chen Zheng, Bing Zhu",
+            "date": "2026-10-01",
+            "abstract_en": "Does agglomeration within a building and/or neighborhood enhance or weaken property value? The valuation impact is unclear ex ante, given that agglomeration tradesoff enhanced productivity at the expense of a more concentrated tenant base. We find that a value premium exists only when agglomeration at both the building and neighborhood levels consists of firms in the same industry. This premium represents capitalized knowledge spillover externalities. Additionally, we show the stock market rewards real estate investment trusts that transact specialized buildings. The valuation consequences arising from agglomeration in the underlying real estate market are thus consistent with the public real estate market. This paper was accepted by Tomasz Piskorski, finance. Funding: This work was supported by the Real Estate Research Institute. Supplemental Material: The online appendix is available at https://doi.org/10.1287/mnsc.2023.02773 .",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新"
+            ]
+          },
+          {
+            "title_en": "The Rapid Adoption of Generative AI",
+            "title_zh": "",
+            "url": "https://doi.org/10.1287/mnsc.2025.02523",
+            "authors": "Alexander Bick, Adam Blandin, David J. Deming",
+            "date": "2026-10-01",
+            "abstract_en": "Generative artificial intelligence (genAI) is a potentially important new technology, but its impact on the economy depends on the speed and intensity of adoption. This paper reports results from a series of nationally representative U.S. surveys of genAI use at work and at home. As of late 2024, 45% of the U.S. population age 18–64 uses genAI. Among employed respondents, 27% used genAI for work at least once in the previous week: 10% used it every workday and 17% on some but not all workdays. Relative to each technology’s first mass-market product launch, work adoption of genAI has been faster than the personal computer (PC), and overall adoption has outpaced both PCs and the internet by an even wider margin. Between 1% and 7% of all work hours are currently assisted by genAI, and respondents report time savings equivalent to 1.4% of total work hours. Potential productivity gains vary widely by industry, and firm climate and policies play an important role in adoption patterns. This paper was accepted by Alfonso Gambardella, business strategy. Funding: This work was supported by the Walmart Foundation [Grant 252882]. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2025.02523 .",
             "abstract_zh": "",
             "matched_topics": [
               "人工智能"
+            ]
+          },
+          {
+            "title_en": "Searching for Rewards",
+            "title_zh": "",
+            "url": "https://doi.org/10.1287/mnsc.2024.05203",
+            "authors": "T. Tony Ke, Jiwoong Shin, Xu Zhu",
+            "date": "2026-10-01",
+            "abstract_en": "Loyalty programs are widespread across various markets, offering members rewards based on their past purchases for future benefits. This study offers new insights into the strategic use of loyalty programs and their impact on market competition by exploring the dynamics of loyalty programs within a repeated ordered search framework, in which consumers sequentially search for the optimal product across multiple firms over two periods. Our findings highlight distinct roles for price discounts and rewards in influencing consumer decisions. Price discounts discourage further search in the current shopping period, whereas rewards encourage consumer loyalty by inducing prominence in subsequent visits. As search costs increase, firms tend to offer lower price discounts but higher rewards, and this results in a higher industry profit but lower consumer surplus. Compared with their absence, loyalty programs decrease both industry profit and consumer welfare, leading to a lose–lose outcome. Moreover, we demonstrate that, when the firms are heterogeneous in terms of their network sizes, those with larger networks tend to offer lower rewards yet achieve greater consumer loyalty in contrast to the firms with smaller networks, which compensate with higher rewards. This paper was accepted by Dmitri Kuksov, marketing. Funding: T.T. Ke acknowledges financial support from the National Natural Science Foundation of China [Grants 72422003 and 72394395] and the Hong Kong Research Grants Council [Grant 14503122]. X. Zhu acknowledges support from INFORMS Society for Marketing Science Doctoral Early Stage Research Grant (awarded in 2023). Supplemental Material: The online appendix is available at https://doi.org/10.1287/mnsc.2024.05203 .",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新"
+            ]
+          },
+          {
+            "title_en": "Matchmaking Strategies for Maximizing Player Engagement in Video Games",
+            "title_zh": "",
+            "url": "https://doi.org/10.1287/mnsc.2023.02957",
+            "authors": "Mingliu Chen, Adam N. Elmachtoub, Xiao Lei",
+            "date": "2026-10-01",
+            "abstract_en": "Managing player engagement is vital to the online gaming industry, given that many games generate revenue through subscription models and microtransactions. We scrutinize engagement management in the prevalent category of competitive video games, where players are frequently matched against one another, and matchmaking systems substantially impact engagement. We propose a dynamic model to analyze player dynamics and optimize matchmaking policies for maximum engagement. Our model takes into account two essential factors in competitive games: heterogeneous skill levels and players’ aversion to losing. Additionally, the model enables us to consider pay-to-win strategies and AI-powered bots, which are contentious methods of influencing player engagement and endogenously affect the optimal matchmaking policy. To provide sharp insights, we analyze a specific case where there are two skill levels, and players churn only after experiencing a losing streak. The optimal matchmaking policy considers both short-term rewards by matching players myopically and long-term rewards by adjusting skill distribution. The pay-to-win system can positively impact player engagement when the majority of players are low-skilled, because adopting pay-to-win also affects skill distribution. This result challenges the conventional wisdom that typically regards pay-to-win as trading player experience for revenue. When incorporating AI-powered bots, we demonstrate that optimizing the matchmaking policy can significantly reduce the number of required bots. We then extend our model and conduct a case study with real data from an online chess platform. The optimal policy can improve engagement by 4%–6% or reduce the percentage of bots by 3% in comparison with skill-based matchmaking. This paper was accepted by Jeannette Song, operations management. Funding: A. N. Elmachtoub is partially supported by NSF [Grant CMMI-1944428]. X. Lei is partially supported by the Hong Kong Research Grants Council [Early Career Scheme 27503123]. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.02957 .",
+            "abstract_zh": "",
+            "matched_topics": [
+              "人工智能"
+            ]
+          },
+          {
+            "title_en": "Expectations Matter: When (Not) to Use Machine Learning Earnings Forecasts",
+            "title_zh": "",
+            "url": "https://doi.org/10.1287/mnsc.2024.05808",
+            "authors": "John L. Campbell, Harrison Ham, Zhongjin (Gene) Lu, Katherine Wood",
+            "date": "2026-10-01",
+            "abstract_en": "We comprehensively examine the usefulness of machine learning technology to predict a firm’s earnings and offer three main findings. First, although prior literature suggests machine learning can offer better earnings forecasts than analysts, we show that this result is highly sensitive to machine learning model specification choices (i.e., 80% of evaluated machine forecasts fail to beat analysts). Second, we examine why the most accurate machine learning forecast consistently beats analysts, finding that they correct for predictable analyst biases that are both linear and nonlinear and largely relate to analysts’ prior forecast errors, forecasted earnings levels, and the firm’s stock price. Finally, we find that investors’ earnings expectations, as revealed through stock prices, largely—but do not fully—correct for these predictable analyst biases, with delayed price realization up to nine months. In additional analysis, we find that optimal machine learning specification choices remain stable over time and that, although the machine’s outperformance narrows in recent periods, it remains substantial among small-cap stocks. Overall, our study moves beyond the question of whether machine forecasts are superior to human forecasts and instead focuses on which machine forecast specifications matter, as well as when and why machine forecasts are most superior. In so doing, we provide code and estimates for the most accurate machine forecast specification and demonstrate that investors’ expectations appear to largely (but not fully) align with them. This paper was accepted by Suraj Srinivasan, accounting. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.05808 .",
+            "abstract_zh": "",
+            "matched_topics": [
+              "人工智能"
+            ]
+          },
+          {
+            "title_en": "Forecasting Earnings from Home",
+            "title_zh": "",
+            "url": "https://doi.org/10.1287/mnsc.2024.04637",
+            "authors": "Michael Durney, Hoyoun Kyung, Stanimir Markov, Jihwon Park",
+            "date": "2026-10-01",
+            "abstract_en": "We examine the impact of working from home (WFH) practices on the financial services industry, focusing on sell-side equity analysts. We find that analysts who previously benefited from access to in-person interactions with other informed parties experience a greater decline in earnings forecast accuracy following the COVID lockdown and the shift to WFH. Notably, the informational advantage associated with the in-person access disappears during the lockdown and returns once restrictions are lifted. Our results are stronger for all-star analysts and analysts with shorter coverage periods, suggesting that all-star analysts rely relatively more on access to in-person interactions prelockdown and that accumulated firm-specific knowledge mitigates the loss of in-person interactions. Our results remain robust across alternative analyst performance measures. We conclude that, despite recent advances in communications technology, AI, and machine learning, in-person interactions remain a unique and difficult to substitute information channel for sell-side research providers and that WFH impedes information flows between market participants in capital markets. This paper was accepted by Suraj Srinivasan, accounting. Supplemental Material: The data files are available at https://doi.org/10.1287/mnsc.2024.04637 .",
+            "abstract_zh": "",
+            "matched_topics": [
+              "人工智能"
+            ]
+          },
+          {
+            "title_en": "An Integer Programming Approach for Quick-Commerce Assortment Planning",
+            "title_zh": "",
+            "url": "https://doi.org/10.1287/mnsc.2023.02996",
+            "authors": "Yajing Chen, Taotao He, Ying Rong, Yunlong Wang",
+            "date": "2026-10-01",
+            "abstract_en": "In this paper, we explore the challenge of assortment planning in the context of quick commerce, a rapidly growing business model that aims to deliver time-sensitive products. In order to achieve quick delivery to satisfy the immediate demands of online customers in close proximity, personalized online assortments need to be included in brick-and-mortar store offerings. With the presence of this physical linkage requirement and distinct multinomial logit choice models for online consumer segments, the firm seeks to maximize overall revenue by selecting an optimal assortment of products for local stores and by tailoring a personalized assortment for each online consumer segment. We employ an integer programming approach to solve this NP-hard problem to global optimality. In particular, we derive convex hull results to represent the consumer choice of each online segment under a general class of operational constraints, and to characterize the relation between assortment decisions and choice probabilities of products. Our convex hull results, coupled with a modified choice probability–ordered separation algorithm, yield formulations that provide a significant computational advantage over existing methods. Finally, we illustrate how our convex hull results can be used to address other assortment optimization problems. This paper was accepted by Chung Piaw Teo, optimization. Funding: Y. Rong’s work was supported by the National Natural Science Foundation of China [Grants 72025201 and 72221001]. T. He’s work was supported by the National Natural Science Foundation of China [Grants 72101146 and 72231003], and Y. Wang’s work was supported by the National Natural Science Foundation of China [Grants 72331006]. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.02996 .",
+            "abstract_zh": "",
+            "matched_topics": [
+              "人工智能"
+            ]
+          },
+          {
+            "title_en": "The Value of Flexibility from Opaque Selling",
+            "title_zh": "",
+            "url": "https://doi.org/10.1287/mnsc.2019.02983",
+            "authors": "Adam N. Elmachtoub, David D. Yao, Yeqing Zhou",
+            "date": "2026-10-01",
+            "abstract_en": "An opaque product refers to a subset of products that only differ in some secondary attribute (such as color or style). After a customer purchases an opaque product, one of the products in the subset is then allocated to the customer. Selling opaque products has become popular on e-commerce platforms, because it is a source of flexibility that reduces demand variability and hence inventory cost. In this paper, we seek to understand how the design of opaque product configurations and the fraction of customers choosing opaque products impact the value of flexibility arising from opaque selling. The key finding from our study is the following insight: A modest opaque selling strategy where (i) the opaque options contain small subsets and (ii) only a small fraction of customers buy opaque products achieves substantial cost savings (compared with nonopaque traditional selling). Moreover, the cost savings of this modest opaque strategy is on the same order as a fully flexible scenario where all customers buy an opaque product. Our analysis relies on exploring a novel connection of multiproduct inventory management to the balls-into-bins framework along with a simple balancing policy for opaque selling. As a byproduct of our analysis, we show that the simple balancing policy is asymptotically optimal. For extensions outside of our theoretical analysis, we conduct extensive numerical experiments to show that our core insights continue to hold. This paper was accepted by Jayashankar Swaminathan, operations management. Funding: This work was supported by the Division of Civil, Mechanical and Manufacturing Innovation [Grant 1944428]. Supplemental Material: The online appendices and data files are available at https://doi.org/10.1287/mnsc.2019.02983 .",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新"
             ]
           }
         ],
@@ -2377,7 +2558,7 @@
         "issue_title": "Published 2027-01",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-environmental-economics-and-management",
         "matched_count": 3,
-        "total_in_issue": 10,
+        "total_in_issue": 12,
         "papers": [
           {
             "title_en": "Window-dressing in environmental regulation: Short-term incentives and temporary abatement",
@@ -2454,9 +2635,21 @@
         "resolved_name": "Energy Economics",
         "issue_title": "Published 2026-11",
         "issue_url": "https://www.sciencedirect.com/journal/energy-economics",
-        "matched_count": 3,
-        "total_in_issue": 10,
+        "matched_count": 12,
+        "total_in_issue": 23,
         "papers": [
+          {
+            "title_en": "Corrigendum to “Equity markets and ESG dynamics: Assessing spillovers and portfolio strategies through time-varying parameters” [Energy Econ., 134 (2024), 107548]",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.eneco.2026.109622",
+            "authors": "Yi Wang, Shoaib Ali, Muhammad Ayaz",
+            "date": "2026-11-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "绿色发展"
+            ]
+          },
           {
             "title_en": "Economy-wide and international spillovers of the economic impacts of climate change",
             "title_zh": "",
@@ -2474,6 +2667,103 @@
             "title_zh": "",
             "url": "https://doi.org/10.1016/j.eneco.2026.109599",
             "authors": "Ushmeet Kaur, Wasim Ahmad",
+            "date": "2026-11-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "绿色发展"
+            ]
+          },
+          {
+            "title_en": "The empirical impact of energy transition on developing economies: Sectoral analysis and predictive insights",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.eneco.2026.109601",
+            "authors": "Alain Soliman, Ilyes Abid, Khaled Guesmi, Christian Urom",
+            "date": "2026-11-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "绿色发展"
+            ]
+          },
+          {
+            "title_en": "Conflict or synergy: exploring the interaction between carbon pricing policy and capacity mechanism",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.eneco.2026.109612",
+            "authors": "Yilun Luo, Esmaeil Ahmadi, Benjamin Craig McLellan, Tetsuo Tezuka",
+            "date": "2026-11-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "绿色发展"
+            ]
+          },
+          {
+            "title_en": "Deconstructing energy inefficiency in China's manufacturing enterprises: Evidence from a machine learning evaluation method",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.eneco.2026.109611",
+            "authors": "Jiasen Sun, Yuchen Jiang, Jie Wu",
+            "date": "2026-11-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "人工智能"
+            ]
+          },
+          {
+            "title_en": "Assessing determinants of CO2 emissions trajectory under technology uncertainty: A probabilistic approach to index decomposition analysis",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.eneco.2026.109630",
+            "authors": "Hui Wang, Yupeng Wang, Yong Yang, Peng Zhou",
+            "date": "2026-11-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "绿色发展"
+            ]
+          },
+          {
+            "title_en": "Does the Low-Carbon City Pilot policy promote green innovation collaboration? Evidence from knowledge embeddedness and complexity",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.eneco.2026.109623",
+            "authors": "Qijun Xie, Dengjie Yuan, Xiangyang Li",
+            "date": "2026-11-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新",
+              "绿色发展"
+            ]
+          },
+          {
+            "title_en": "Cost-effectiveness assessment for China's emission reduction in steel, cement, and electrolytic aluminum industries",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.eneco.2026.109628",
+            "authors": "Zhaohua Wang, Yukun Wang, Hongzhi Zhang, Hao Li, Zhijie Jia, Yuli Shan",
+            "date": "2026-11-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "绿色发展"
+            ]
+          },
+          {
+            "title_en": "Green credit under carbon price risk: financing frictions, banking market power, and firm emissions",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.eneco.2026.109629",
+            "authors": "Lin Zigan, Lei Yihu",
+            "date": "2026-11-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "绿色发展"
+            ]
+          },
+          {
+            "title_en": "Carbon-price-equivalent signals in multilateral energy reforms: Evidence from developing and transition economies",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.eneco.2026.109637",
+            "authors": "Di Wang, Youwei Zhao",
             "date": "2026-11-01",
             "abstract_en": "",
             "abstract_zh": "",
@@ -2506,7 +2796,7 @@
         "issue_title": "Published 2026-12",
         "issue_url": "https://www.sciencedirect.com/journal/resource-and-energy-economics",
         "matched_count": 3,
-        "total_in_issue": 6,
+        "total_in_issue": 7,
         "papers": [
           {
             "title_en": "Does renewable energy policy reduce recycling? Considering the conflicts between environmental targets",
@@ -2559,7 +2849,7 @@
       "papers": [],
       "error": "GET failed for https://data.nber.org/nber_paper_chapter_metadata/tsv/ref.tsv: 403 Client Error: Forbidden for url: https://data.nber.org/nber_paper_chapter_metadata/tsv/ref.tsv"
     },
-    "total_matches": 71,
+    "total_matches": 83,
     "note": "Latest issue TOCs from economics top journals and field-top journals plus recent NBER Working Papers, filtered by title/abstract keywords for industrial policy, innovation, green development, and artificial intelligence."
   }
 }
