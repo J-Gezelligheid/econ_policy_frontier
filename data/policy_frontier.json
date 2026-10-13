@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-06 00:42:08",
+  "updated_at": "2026-10-13 01:17:49",
   "schema_version": 1,
   "translation": {
     "engine": "kimi",
@@ -12,10 +12,10 @@
       "We study racial disparities in promotions in a setting in which promotions are formulaic:  :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, please recharge your ",
       "Social Push and the Direction of Innovation :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, please recharge your ",
       "What are the implications of unequal access to innovation careers for the direction of inn :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, please recharge your ",
-      "Collusion with Optimal Information Disclosure :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, please recharge your ",
-      "Abstract Motivated by recent concerns surrounding the use of third-party pricing algorithm :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, please recharge your ",
       "Screening Property Rights for Innovation :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, please recharge your ",
-      "We develop a dynamic structural model of patent screening incorporating incentives, intrin :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, please recharge your "
+      "We develop a dynamic structural model of patent screening incorporating incentives, intrin :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, please recharge your ",
+      "Causal Inference for Spatial Treatments :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, please recharge your ",
+      "Many events and policies (treatments) occur at specific spatial locations, with researcher :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, please recharge your "
     ],
     "note": "Set KIMI_API_KEY to enable Chinese translation."
   },
@@ -208,24 +208,11 @@
         "category": "Top 5",
         "issn": "0033-5533",
         "resolved_name": "The Quarterly Journal of Economics",
-        "issue_title": "Volume 141, Issue 3",
+        "issue_title": "Volume 141, Issue 4",
         "issue_url": "https://academic.oup.com/qje",
-        "matched_count": 1,
+        "matched_count": 0,
         "total_in_issue": 15,
-        "papers": [
-          {
-            "title_en": "Collusion with Optimal Information Disclosure",
-            "title_zh": "",
-            "url": "https://doi.org/10.1093/qje/qjag020",
-            "authors": "Takuo Sugaya, Alexander Wolitzky",
-            "date": "2026-07-11",
-            "abstract_en": "Abstract Motivated by recent concerns surrounding the use of third-party pricing algorithms by competing firms, we study repeated Bertrand competition where market demand or the cost of serving the market is observed by an intermediary (or “algorithm”) that selectively discloses demand or cost information to maximize firms’ collusive profit. We show that an upper censorship disclosure policy is optimal, which leads to price rigidity and supra-monopoly prices in some states. Improving the algorithm’s accuracy reduces expected consumer surplus whenever it does so under monopoly pricing. When the state is positively correlated over time, the algorithm discloses more information when recent demand was lower or costs were higher. The analysis extends to a generalized model that accommodates product differentiation and capacity constraints. We relate our findings to recent antitrust cases.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "人工智能"
-            ]
-          }
-        ],
+        "papers": [],
         "error": null
       },
       {
@@ -546,8 +533,8 @@
         "resolved_name": "Journal of Public Economics",
         "issue_title": "Published 2026-11",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-public-economics",
-        "matched_count": 2,
-        "total_in_issue": 10,
+        "matched_count": 4,
+        "total_in_issue": 15,
         "papers": [
           {
             "title_en": "The cost of job loss in carbon-intensive sectors: Evidence from Germany",
@@ -562,10 +549,34 @@
             ]
           },
           {
+            "title_en": "Too little too late? Nationwide carbon trading in China",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jpubeco.2026.105798",
+            "authors": "Shuang Zhang, Douglas Almond",
+            "date": "2026-11-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "绿色发展"
+            ]
+          },
+          {
             "title_en": "Emissions abatement under a rate-based emissions trading system: facility-level evidence from China",
             "title_zh": "",
             "url": "https://doi.org/10.1016/j.jpubeco.2026.105797",
             "authors": "Yifei Quan, Jie-Sheng Tan-Soo, Maosheng Duan, Bofeng Cai",
+            "date": "2026-11-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "绿色发展"
+            ]
+          },
+          {
+            "title_en": "Morality and climate policy attitudes",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jpubeco.2026.105801",
+            "authors": "Lasse S. Stötzer, Florian Zimmermann",
             "date": "2026-11-01",
             "abstract_en": "",
             "abstract_zh": "",
@@ -586,7 +597,7 @@
         "issue_title": "Published 2027-02",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-development-economics",
         "matched_count": 1,
-        "total_in_issue": 22,
+        "total_in_issue": 24,
         "papers": [
           {
             "title_en": "Economic consequences of climate change: Evidence from the Philippines",
@@ -613,7 +624,7 @@
         "issue_title": "Published 2026-12",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-international-economics",
         "matched_count": 3,
-        "total_in_issue": 24,
+        "total_in_issue": 25,
         "papers": [
           {
             "title_en": "Transportation networks, technology adoption, and structural transformation",
@@ -716,14 +727,26 @@
         "resolved_name": "International Journal of Industrial Organization",
         "issue_title": "Published 2026-12",
         "issue_url": "https://www.sciencedirect.com/journal/international-journal-of-industrial-organization",
-        "matched_count": 1,
-        "total_in_issue": 11,
+        "matched_count": 2,
+        "total_in_issue": 12,
         "papers": [
           {
             "title_en": "Convergence to collusion in algorithmic pricing",
             "title_zh": "",
             "url": "https://doi.org/10.1016/j.ijindorg.2026.103339",
             "authors": "Kevin Michael Frick",
+            "date": "2026-12-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "人工智能"
+            ]
+          },
+          {
+            "title_en": "Dynamics and determinants of exporter survival: A machine learning approach",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.ijindorg.2026.103340",
+            "authors": "Abyaya Neopane",
             "date": "2026-12-01",
             "abstract_en": "",
             "abstract_zh": "",
@@ -744,7 +767,7 @@
         "issue_title": "Volume 55, Issue 10",
         "issue_url": "https://www.sciencedirect.com/journal/research-policy",
         "matched_count": 12,
-        "total_in_issue": 23,
+        "total_in_issue": 24,
         "papers": [
           {
             "title_en": "Can artificial intelligence accelerate technological progress? Researchers' perspectives on AI in manufacturing and materials science",
@@ -901,80 +924,42 @@
         "category": "Innovation",
         "issn": "0960-6491",
         "resolved_name": "Industrial and Corporate Change",
-        "issue_title": "Volume 35, Issue 4",
+        "issue_title": "Volume 35, Issue 5",
         "issue_url": "https://academic.oup.com/icc",
-        "matched_count": 11,
+        "matched_count": 10,
         "total_in_issue": 14,
         "papers": [
           {
-            "title_en": "If the state is incompetent, do it yourself: private alliance as an institutional architect in the catch-up process",
+            "title_en": "Integrated management for long-term performance improvement in complex systems",
             "title_zh": "",
-            "url": "https://doi.org/10.1093/icc/dtag011",
-            "authors": "Mirva Peltoniemi, Juha-Antti Lamberg, Mikko Ketokivi",
-            "date": "2026-07-31",
-            "abstract_en": "Abstract We examine the Finnish pulp and paper industry’s century-long catch-up journey, focusing on the intertwined development of technical and institutional capabilities. Using historical methods, we highlight how a private, self-organized R&D alliance evolved into an institutional architect, ultimately shaping not only governance but also regulation and entire innovation systems. Our findings demonstrate that sectoral systems of innovation emerge from both technological advancements and from private actors crafting adaptive institutions. The role of private actors is critical when governments are incapable of formulating and enforcing industrial policy. Overall, we propose that substantive experts contribute not only to technical but also to institutional capability.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "产业政策",
-              "创新"
-            ]
-          },
-          {
-            "title_en": "Factors enhancing AI adoption by firms. Evidence from France",
-            "title_zh": "",
-            "url": "https://doi.org/10.1093/icc/dtag006",
-            "authors": "Alessia Lo Turco, Alessandro Sterlacchini",
-            "date": "2026-07-31",
-            "abstract_en": "Abstract In this paper, we analyze firms that participated in two waves of the French ICT survey to identify key antecedents, measured in 2018, associated with the first-time adoption of artificial intelligence (AI) technologies in 2020. The analysis shows that the presence of data security systems, ICT training for employees, and the use of websites to collect customer information are all positively associated with the likelihood of starting to use AI. The relevance of these factors varies across business functions, with notable associations observed in administrative and marketing activities. In the case of marketing, AI adoption is also linked to prior use of e-commerce and customer relationship management applications. These patterns are consistent with existing evidence suggesting that AI adoption tends to follow a hierarchical trajectory, typically preceded by the digitization of business information.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "人工智能"
-            ]
-          },
-          {
-            "title_en": "Which discoveries are paradigm shifting?",
-            "title_zh": "",
-            "url": "https://doi.org/10.1093/icc/dtag002",
-            "authors": "Sajad Ashouri, Arash Hajikhani, Ari Hyytinen, Petri Rouvinen, Arho Suominen",
-            "date": "2026-07-31",
-            "abstract_en": "Abstract To more closely align theories of paradigm-shifting discoveries and their empirical quantification, we propose a novel measure that incorporates a discovery’s impact, novelty, and tendency to break with the past into a single, coherent measure. Calibration using the National Inventor Hall of Fame data reveals that the three dimensions are strict complements, meaning, for example, that greater impact cannot substitute for moderate novelty. We illustrate how the measure works and validate it in several complementary ways using data on the United States Patent and Trademark Office patents from 1982 to 2015. High values of the measure are strongly predictive of discoveries that are simultaneously exceptional in terms of their impact, novelty, and disruptiveness.",
+            "url": "https://doi.org/10.1093/icc/dtag039",
+            "authors": "Robert Chapman Wood, Joel West",
+            "date": "2026-10-08",
+            "abstract_en": "Abstract Considerable research has emphasized the difficulty of achieving large-scale change and performance improvement in complex systems. Neither of two standard theoretical approaches—modularity theory and complex products and systems theory—have explained how management can drive sustained progress. We address this gap by examining how Varian Medical internalized a previously decentralized cancer radiation therapy ecosystem and over multiple decades upgraded patient outcomes and financial performance dramatically. From Varian’s experience, we derive a new innovation-driven hierarchical approach and contrast it with other approaches to complex systems integration.",
             "abstract_zh": "",
             "matched_topics": [
               "创新"
             ]
           },
           {
-            "title_en": "Does manufacturing still matter? The revival of industrial policy and manufacturing’s contribution to development in high- and middle-income countries",
+            "title_en": "Government financial support and innovation in firms: additionality or crowding-out?",
             "title_zh": "",
-            "url": "https://doi.org/10.1093/icc/dtaf065",
-            "authors": "Antônio Carlos Diegues, Qiuyi Yang, José Eduardo Roselino, Marcos José Barbieri Ferreira, Renato Garcia",
-            "date": "2026-07-31",
-            "abstract_en": "Abstract This paper aims to analyze manufacturing’s contribution to development in high-income (HIC) and middle-income countries (MIC) from 2000 to 2019, revisiting the link between manufacturing and economic development by testing the inverted-U curve hypothesis (Rowthorn (1994); Palma (2005, Beyond Reforms: Structural Dynamics and Macroeconomic Vulnerability); Rodrik (2016, Journal of Economic Growth, 21, 1–33)) from an intra-manufacturing perspective. The original contribution of the analysis presented in this paper is to test the validity of this relationship for MIC and HIC by examining not the share of manufacturing in GDP (measured by value added), but the contribution of the manufacturing sector to development measured by the structural decomposition of productivity and wage growth. The paper’s main findings are: (i) the results do not indicate a decline in the contribution of manufacturing to development among middle- and high-income countries (MICs and HICs) as they attain higher levels of per capita income. In fact, across nearly all econometric specifications, no evidence of an inverted-U-shaped curve was observed between the manufacturing’s contribution to development and per capita income levels; (ii) in MIC, the empirical evidence reveals a broadly consistent pattern whereby rising per capita income is associated with an increasing contribution of manufacturing to development, whether measured in terms of productivity growth or wage growth, and (iii) For HIC, contrary to what can be inferred from the interpretations of normal or positive deindustrialization, no inverted-U curve is observed regarding the behavior of productivity. Regarding the wage variable, there is an almost generalized tendency for its contribution to development to decline as per capita income rises, except within the structural change component for high-technology sectors. Although counterintuitive, this pattern may reflect intensified international competition—mainly via global value chains—pushing down manufacturing costs in high-income economies. These findings challenge the notion of “natural” deindustrialization and highlight the persistent relevance of manufacturing, especially in technologically intensive sectors. They underscore the need for industrial and innovation policies tailored to sectoral heterogeneity and national contexts, particularly in light of digital and green transitions that are reshaping global production systems.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "产业政策",
-              "创新"
-            ]
-          },
-          {
-            "title_en": "Killers on the road of emerging start-ups—implications for market entry and venture capital financing",
-            "title_zh": "",
-            "url": "https://doi.org/10.1093/icc/dtaf061",
-            "authors": "Heli Koski, Otto Kässi, Fabian Braesemann",
-            "date": "2026-07-31",
-            "abstract_en": "Abstract The competitive effects of acquisitions made by large US-based technology companies have come under increased regulatory scrutiny over recent years because their acquisition patterns have been viewed as potentially harming competition. This paper studies the impact of acquisitions by large US-based technology companies on the entry dynamics and venture capital financing in their target product markets. We use data from Crunchbase, a global database of start-up companies, from 742 product markets globally, distinguishing the United States and European markets for 2003–2021. Using state-of-the-art econometric developments, we estimate the dynamic treatment effects model in the staggered, dynamic event study setting. Our estimation results suggest that the technology giants’ buyouts subsequently reduced market entry rates and decreased the available venture capital funding in the product markets of the acquired companies. The acquisition of technology giants seems to generate a so-called “kill zone,” which dissuades the market entry of new companies. Our findings highlight the long-term consequences that technology giants’ acquisitions may have, including a decline in venture capital financing and the creation of entry barriers in technology-intensive markets.",
+            "url": "https://doi.org/10.1093/icc/dtag036",
+            "authors": "Jihye Yeo, Alex Eapen, Rekha Krishnan",
+            "date": "2026-10-08",
+            "abstract_en": "Abstract A positive effect of government financial support on firm innovation can emerge through two different mechanisms: “additionality,” which is desirable, and “crowding-out,” which is inefficient. We attempt to disentangle these two mechanisms to understand which one likely drives empirical observations of a positive effect of government funding on firm innovation in a sample of Australian small and medium enterprises (SMEs). We use firms’ financial constraints as a moderator variable to assess which mechanism is likely to dominate on average. Our empirical analysis uses a 5-year (2011–2016) firm-level panel dataset from the Business Longitudinal Database (BLD) compiled by the Australian Bureau of Statistics (ABS), and an econometric approach that corrects for the endogeneity of both government funding and financial constraints, as well as unobserved firm heterogeneity and selection effects. Our analyses show a positive effect of government financial support on innovation. However, this effect is stronger among financially unconstrained firms than among their constrained counterparts, suggesting evidence more consistent, on average, with crowding-out or partial additionality than with full additionality.",
             "abstract_zh": "",
             "matched_topics": [
               "创新"
             ]
           },
           {
-            "title_en": "Measuring artificial intelligence: a systematic assessment and implications for governance",
+            "title_en": "The direction of digital transformation: labor-saving versus time-saving trajectories in industrial dynamics",
             "title_zh": "",
-            "url": "https://doi.org/10.1093/icc/dtaf047",
-            "authors": "Kerstin Hötte, Taheya Tarannum, Vilhelm Verendel, Lauren Bennett",
-            "date": "2026-07-31",
-            "abstract_en": "Abstract Governing artificial intelligence (AI) inventions is a major policy concern. Yet, definitions and measurement approaches remain contested. We compare four patent-based definitions reflecting distinct understandings of AI. Using US patents (1990–2019), we assess the degree to which each approach describes AI as a general-purpose technology (GPT) and examine patent concentration by a few dominant firms. We find that between 3% and 17% of all US patents in 2019 are classified by at least one of the approaches as AI patents. Yet, only 1.4% of all AI patents are simultaneously identified by all four approaches. All approaches are consistent with AI having GPT characteristics, with the Keyword-based patents exhibiting the highest growth and generality. GPT indicates public good characteristics, which could be used to justify public support. Across methods, AI patents are concentrated among a few firms, highlighting market power and regulatory challenges. The wide variation in the subsets and characteristics of AI patents identified by these approaches suggests that currently multiple classification methods should be considered to formulate robust, inclusive, and effective analyses for AI governance.",
+            "url": "https://doi.org/10.1093/icc/dtag034",
+            "authors": "Andrea Borsato, Elena Cefis",
+            "date": "2026-10-08",
+            "abstract_en": "Abstract The paper develops a theoretical framework with some skill heterogeneity to investigate the way the direction of process innovation, labor-saving versus time-saving, shapes the evolution of the industrial structure, firm dynamics, and macroeconomic performance in a digitally transforming economy. We find that labor-saving innovations deliver higher capital deepening but engender structural fragility. Conversely, when firms focus on time-saving innovations, the economy grows more slowly but exhibits greater resilience: lower downtime supports higher firm survival, reduces volatility, and sustains a more competitive and inclusive market structure. These dynamics are emphasized when labor shortage constrains production capacity. We also discuss the design of more targeted and effective innovation policies, capable of steering digital transformation in directions that are economically robust and socially inclusive.",
             "abstract_zh": "",
             "matched_topics": [
               "创新",
@@ -982,61 +967,87 @@
             ]
           },
           {
-            "title_en": "Experimentally organized innovation systems: lessons from DARPA, Apple, Amazon, Google, and Operation Warp Speed",
+            "title_en": "Temporal dynamic effects of public innovation subsidies on firms’ significant innovation outcomes",
             "title_zh": "",
-            "url": "https://doi.org/10.1093/icc/dtaf054",
-            "authors": "Bo Carlsson",
-            "date": "2026-07-31",
-            "abstract_en": "Abstract This article examines the experimental organization in some of the world’s most successful innovation systems: DARPA (The Defense Advanced Research Projects Agency), Apple, Amazon, and Operation Warp Speed (OWS). All these ventures are essentially experimentally organized innovation systems. The most important common feature is their infrastructure for innovation that enables them to experiment and pursue multiple approaches simultaneously, bear the cost of many failures, absorb new technology, rapidly commercialize innovations through marketing and new business formation, and scale up economic activity.",
+            "url": "https://doi.org/10.1093/icc/dtag027",
+            "authors": "Robert van der Have, Matthias Deschryvere",
+            "date": "2026-10-08",
+            "abstract_en": "Abstract Longitudinal studies examining dynamic effects of research, development, and innovation (RDI) subsidies on firm-level outcomes—particularly their role in promoting significant innovations—remain limited. This has left policymakers at a disadvantage in coordinating complementary innovation policy instruments. Using a literature-based innovation output measure, we address these shortcomings by means of a nationally representative panel study of Finnish enterprises’ significant innovation outcomes observed over 22 years. Relative to confounding factors, we find that the average dynamic effects of RDI grant subsidies on companies’ probability to commercialize a significant innovation are modest but mostly positive, persisting, and dynamically increasing, peaking around five to eight years after first receiving a grant. Robustness tests, including results based on counts of granted patents, generally support the main findings of the study. Based on our empirical insights, we provide an economic interpretation of our results, suggesting that a consistent long-term innovation subsidy policy plays a meaningful role in advancing innovation output.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "产业政策",
+              "创新"
+            ]
+          },
+          {
+            "title_en": "The evolution of the nuclear industry in Korea: A dynamic model of sectoral innovation system perspective",
+            "title_zh": "",
+            "url": "https://doi.org/10.1093/icc/dtag030",
+            "authors": "Jongyoun Lim, Sunyang Chung",
+            "date": "2026-10-08",
+            "abstract_en": "Abstract This article examines the evolution of the Korean nuclear industry from the dynamic sectoral innovation system perspective, which integrates the sectoral innovation system (SIS) perspective and industrial dynamics. We analyze the Korean nuclear sector and conclude that it has developed dynamically in three stages: Imitation, Specialization, and Stabilization. During the Imitation stage, key public innovation actors emerged to absorb imported technologies, although interactive learning among them remained limited. In the Specialization stage, enough actors emerged to facilitate close collaboration and begin accumulating technological capabilities. In the Stabilization stage, Korea implemented a competent nuclear SIS, producing sufficient interactive learning among actors and attaining world-level technological capabilities.",
             "abstract_zh": "",
             "matched_topics": [
               "创新"
             ]
           },
           {
-            "title_en": "Unraveling the impacts of green knowledge spillovers on SMEs’ green innovation, economic performance, and exporting: evidence from Germany",
+            "title_en": "Varieties of regional innovation systems around the world and catch-up by latecomers",
             "title_zh": "",
-            "url": "https://doi.org/10.1093/icc/dtaf053",
-            "authors": "John R Bryson, Geoffrey J D Hewings, Meng Song",
-            "date": "2026-07-31",
-            "abstract_en": "Abstract Green innovation is critical for the green transition, yet little is known about green knowledge spillovers across industries. Based on the knowledge-spillovers literature and using empirical evidence from German manufacturing small- and medium-sized enterprises (SMEs) during 2009–2019, this analysis reveals that SMEs benefit from horizontal green knowledge spillovers to boost green innovation and from backward spillovers to enhance productivity and profitability. SMEs can leverage these green innovations to expand into international markets through exporting. These effects vary across industries and sub-national locations.",
+            "url": "https://doi.org/10.1093/icc/dtag029",
+            "authors": "Jinhee Kim, Keun Lee",
+            "date": "2026-10-08",
+            "abstract_en": "Abstract This study represents one of the first attempts to develop a global typology of regional innovation systems (RIS) across both advanced and catching-up economies, identifying distinct pathways for regional technological catch-up. Utilizing United States Patent and Trademark Office (USPTO) patent citation data from 33 regions worldwide over the period 2000–2017, we construct several RIS indicators, including intra-regional, inter-regional, and international knowledge sourcing, alongside domestic ownership of innovation. Through cluster analysis, we identify four primary RIS configurations and examine their relationship with economic performance: Group 1: large and mature RIS, characterized by long-cycle technology specialization and high domestic ownership; Group 2: mixed RIS, featuring long-cycle specialization but low domestic ownership; Group 3: strong catch-up RIS, defined by short-cycle technology specialization and high domestic ownership; Group 4: weak catch-up RIS, involving short-cycle specialization with low domestic ownership. While Groups 3 and 4 consist exclusively of emerging economies specializing in similar short-cycle technology sectors, they exhibit divergent levels of economic performance. Ultimately, the analysis identifies two empirically distinct catch-up trajectories: a “stronger” pathway driven by increasing domestic ownership and the localization of knowledge creation and a “weaker” pathway characterized by persistent dependence on foreign knowledge sources. Our findings suggest that domestic ownership and the emergence of large-scale enterprises are critical drivers of localized knowledge sourcing and sustained catch-up.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新"
+            ]
+          },
+          {
+            "title_en": "Product and process innovation in the United States from 1980 to 2015 and over the firm’s life cycle",
+            "title_zh": "",
+            "url": "https://doi.org/10.1093/icc/dtag024",
+            "authors": "Colin Davison",
+            "date": "2026-10-08",
+            "abstract_en": "Abstract This paper uses machine learning techniques to classify patent claims as product or process innovations and documents that the overall process share of innovation in the United States was on a secular decline from 1980 to 2015. The reallocation of patenting activity from the chemical to the computer & communication category explains much of the declining process share from 1980 to 2000. This paper rules out the rise of China as an explanation for the declining process share from 2000 to 2015. Instead, this paper finds evidence that a large contributor to the decline in the process share from 2000 to 2015 is patents in the semiconductor and electrical circuit topics becoming less process focused. This paper finds that the process share is low at the beginning of a firm’s product life cycle, peaks in the middle, before plateauing at an intermediate level at the end of the life cycle. Firm size is positively associated with the process share of innovation. These relationships between life cycle, size, and the process share of innovation are not present for alternative classifications of product and process patents.",
             "abstract_zh": "",
             "matched_topics": [
               "创新",
-              "绿色发展"
-            ]
-          },
-          {
-            "title_en": "Entrepreneurial orientation and innovation performance: do breadth and depth of external knowledge search matter?",
-            "title_zh": "",
-            "url": "https://doi.org/10.1093/icc/dtaf055",
-            "authors": "Jungho Kim, Chiara Marzocchi",
-            "date": "2026-07-31",
-            "abstract_en": "Abstract This study explores how a firm’s entrepreneurial orientation (EO) influences innovation performance. Specifically, by extending theoretical connections among EO, external knowledge search, and the attention-based view framework, it examines how the breadth and depth of external knowledge search moderate the U-shaped effect of EO on innovation performance. By analyzing unique firm-level data on EO and innovation from Korean manufacturing industries, it finds that the breadth of external knowledge search weakens the U-shaped effect of EO, but the depth of external knowledge search strengthens its effect. This work sheds light on the combination of EO and search strategies (breadth and depth) required to enhance innovation performance, while addressing constraints of managerial attention for internal EO implementation and external knowledge search.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新"
-            ]
-          },
-          {
-            "title_en": "Restructuring and layoffs in the Industry 4.0 era: the role of exposure to advanced manufacturing technologies",
-            "title_zh": "",
-            "url": "https://doi.org/10.1093/icc/dtaf052",
-            "authors": "Fabio Lamperti, Katiuscia Lavoratori, Davide Castellani",
-            "date": "2026-07-31",
-            "abstract_en": "Abstract This study examines how Industry 4.0 advanced manufacturing technologies (AMTs) influence restructuring decisions. Analyzing data from European manufacturing firms (2013–2020), we find that greater AMT exposure correlates with a lower overall likelihood of restructuring. When restructuring occurs, AMTs reduce closure probabilities while increasing downsizing likelihood and minimizing layoffs. AMT exposure is measured through industry-level adoption and firm-level capital intensity. This study emphasizes the need to consider both the benefits and disruptions of automation in shaping strategies.",
-            "abstract_zh": "",
-            "matched_topics": [
               "人工智能"
             ]
           },
           {
-            "title_en": "International evidence on investor rewards to firms generating environmental innovation",
+            "title_en": "Positioning firms along the capabilities ladder",
             "title_zh": "",
-            "url": "https://doi.org/10.1093/icc/dtaf048",
-            "authors": "Houdou Basse Mama, Julien Fouquau",
-            "date": "2026-07-31",
-            "abstract_en": "Abstract Using firm patents across 38 countries, we explore whether, and if so, how investors value environmental innovations (EIs). We integrate the natural-resource-based view and innovation literature not only to predict a nonlinear link between EI and market valuation but also to hypothesize that firms with stronger absorptive capacity (AC) and those with higher stakeholder influence capacity (SIC) stand to benefit the most from EI. We provide evidence in support of these predictions. Our main analysis reveals a nonlinear valuation effect of EI, but the marginal effect is positive only for firms in the top 11% of EI distribution. However, the shape of the relation varies with firm characteristics, across jurisdictions, and over time. Investors discount EI in lower AC firms, while the shares of higher AC firms trade at a premium. The differential median valuation between higher and lower SIC firms is €564.2 million. Finally, the median European firm trades at a premium, but its North American and Japanese peers trade at a discount. Our results bear implications for the modest propensity of firms to generate EI and for the observed large cross-regional variations in EI.",
+            "url": "https://doi.org/10.1093/icc/dtag021",
+            "authors": "Alex Coad, Nanditha Mathew, Emanuele Pugliese",
+            "date": "2026-10-08",
+            "abstract_en": "Abstract A major challenge for innovation scholars is the measurement of capabilities. We develop and apply a novel methodology for quantifying the capability development of firms, where capabilities are measured in terms of expenditures on specific activities. These activities can be sorted in a hierarchy of increasing difficulty, and firms can be sorted according to their positions on the capabilities ladder. Our nestedness algorithm, inspired by biology and network science, defines an activity as complex if it is performed by only a few firms at the upper rungs of the ladder. We analyze company annual reports of almost 45,000 Indian firms for the time period 2000–2020, and observe significant nestedness. Lower rungs of the capabilities ladder correspond to basic managerial and production activities. Mid-level rungs correspond to internationalization and acquiring absorptive capacity. Higher-level rungs are more related to Mergers & Acquisitions (M&A) and innovation. Information and Communication Technology (ICT) capabilities seem to have become more fundamental lower-level rungs on the capabilities ladder in recent years. There is a close relationship between size and capabilities for small firms, but this weakens for larger firms. Some heterogeneity is observed across industrial sectors and across regions. We find that capability ranking can explain future growth patterns and survival probability of firms, summing up in one number their future potential trajectories.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新",
+              "人工智能"
+            ]
+          },
+          {
+            "title_en": "Uncovering collaborative patterns and transition dynamics in R&amp;D projects: a longitudinal analysis of EU Framework Programmes",
+            "title_zh": "",
+            "url": "https://doi.org/10.1093/icc/dtag016",
+            "authors": "Andrea Ancona, Roy Cerqueti, Gianluca Vagnani",
+            "date": "2026-10-08",
+            "abstract_en": "Abstract Policymakers have increasingly supported collaborative R&D, recognizing its role in enhancing the innovation performance and scientific reputation of organizations. This paper proposes a three-step procedure to examine collaborative patterns and participation dynamics over consecutive research programs by integrating Social Network Analysis and statistical methods. First, participants in R&D projects are ranked based on their centrality in the collaborative network. Second, transition probabilities between classes of centrality across consecutive programs are estimated. Third, the Markovian nature of collaborative patterns, which is controversial across methodological, theoretical, and empirical contributions, is tested. Using data from the first eight European Union Framework Programmes (EU FPs), we analyze the relationship between EU funding mechanisms and the micro-level behaviors of participants. Our findings provide an integrated understanding of co-evolving micro- and macro-level dynamics, reflected in the emergence of core–periphery structures, and emphasize the role of EU-funded projects in strengthening organizations’ popularity. However, these dynamics also highlight the risk of “oligopolistic” behaviors that may limit the European Research Area. Exogenous mechanisms, such as R&D policies and funding, emerge as crucial mechanisms in shaping participation dynamics and organizational positions, emphasizing the need to promote openness and democratization in research funding.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新"
+            ]
+          },
+          {
+            "title_en": "Entrepreneurial dynamism and entrepreneurial ecosystem in emerging economies: the role of infrastructure",
+            "title_zh": "",
+            "url": "https://doi.org/10.1093/icc/dtag014",
+            "authors": "Krishna Chandra Balodi, Paul Kattuman, Christina Theodoraki, Ravi Roshan",
+            "date": "2026-10-08",
+            "abstract_en": "Abstract Although prior research has extensively examined the relationships between entrepreneurship and economic growth, as well as between infrastructure and development, the influence of infrastructure on entrepreneurial dynamism (ED) in emerging economies remains insufficiently understood. This paper addresses this gap by investigating how both the quantity and quality of infrastructure shape productive entrepreneurship in emerging economies. Grounded in the entrepreneurial ecosystem framework, we employ state-level data for India from 2000 to 2019 to empirically examine these relationships. Using the dynamic-panel system generalized method of moments estimator to address the dynamic nature of infrastructure and ED variables and their potential endogeneity, we find that significant infrastructure-ED relationships emerge when infrastructure quality is higher.",
             "abstract_zh": "",
             "matched_topics": [
               "创新"
@@ -1213,8 +1224,8 @@
         "resolved_name": "Journal of Environmental Economics and Management",
         "issue_title": "Published 2027-01",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-environmental-economics-and-management",
-        "matched_count": 3,
-        "total_in_issue": 12,
+        "matched_count": 4,
+        "total_in_issue": 14,
         "papers": [
           {
             "title_en": "Window-dressing in environmental regulation: Short-term incentives and temporary abatement",
@@ -1226,6 +1237,18 @@
             "abstract_zh": "",
             "matched_topics": [
               "绿色发展"
+            ]
+          },
+          {
+            "title_en": "Standards and technology innovation with search",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jeem.2026.103431",
+            "authors": "Lluís M. Granero, Santiago J. Rubio",
+            "date": "2027-01-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新"
             ]
           },
           {
@@ -1292,7 +1315,7 @@
         "issue_title": "Published 2026-11",
         "issue_url": "https://www.sciencedirect.com/journal/energy-economics",
         "matched_count": 12,
-        "total_in_issue": 23,
+        "total_in_issue": 24,
         "papers": [
           {
             "title_en": "Corrigendum to “Equity markets and ESG dynamics: Assessing spillovers and portfolio strategies through time-varying parameters” [Energy Econ., 134 (2024), 107548]",
@@ -1319,10 +1342,46 @@
             ]
           },
           {
+            "title_en": "Understanding heterogeneous green transitions: An evolutionary approach to policy, innovation, and technological change",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.eneco.2026.109633",
+            "authors": "Fausto Cavalli, Alessandra Mainini, Enrico Moretto, Ahmad Naimzada",
+            "date": "2026-11-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新"
+            ]
+          },
+          {
             "title_en": "Carbon emissions intensity and idiosyncratic volatility: Evidence from Indian firms",
             "title_zh": "",
             "url": "https://doi.org/10.1016/j.eneco.2026.109599",
             "authors": "Ushmeet Kaur, Wasim Ahmad",
+            "date": "2026-11-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "绿色发展"
+            ]
+          },
+          {
+            "title_en": "Cross-border risk co-movement and multidimensional network resilience in global clean energy markets: Evidence from a higher-order downside co-movement network",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.eneco.2026.109626",
+            "authors": "Yaoxun Deng, Yongzeng Lai, Tianlei Zhu, Zisheng Ouyang",
+            "date": "2026-11-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "绿色发展"
+            ]
+          },
+          {
+            "title_en": "Being collaborative or collusive? The role of common institutional investors in corporate carbon emissions",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.eneco.2026.109639",
+            "authors": "Jing Zhou, Kaiwen Wu, Xiang Zhang, Yanmei Fan",
             "date": "2026-11-01",
             "abstract_en": "",
             "abstract_zh": "",
@@ -1402,42 +1461,6 @@
             "matched_topics": [
               "绿色发展"
             ]
-          },
-          {
-            "title_en": "Green credit under carbon price risk: financing frictions, banking market power, and firm emissions",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.eneco.2026.109629",
-            "authors": "Lin Zigan, Lei Yihu",
-            "date": "2026-11-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "绿色发展"
-            ]
-          },
-          {
-            "title_en": "Carbon-price-equivalent signals in multilateral energy reforms: Evidence from developing and transition economies",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.eneco.2026.109637",
-            "authors": "Di Wang, Youwei Zhao",
-            "date": "2026-11-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "绿色发展"
-            ]
-          },
-          {
-            "title_en": "Container shipping disruptions and the economics of decarbonization",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.eneco.2026.109589",
-            "authors": "Hugo Morão",
-            "date": "2026-11-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "绿色发展"
-            ]
           }
         ],
         "error": null
@@ -1452,7 +1475,7 @@
         "issue_title": "Published 2026-12",
         "issue_url": "https://www.sciencedirect.com/journal/resource-and-energy-economics",
         "matched_count": 3,
-        "total_in_issue": 7,
+        "total_in_issue": 8,
         "papers": [
           {
             "title_en": "Does renewable energy policy reduce recycling? Considering the conflicts between environmental targets",
@@ -1552,24 +1575,11 @@
         "category": "Top 5",
         "issn": "0033-5533",
         "resolved_name": "The Quarterly Journal of Economics",
-        "issue_title": "Volume 141, Issue 3",
+        "issue_title": "Volume 141, Issue 4",
         "issue_url": "https://academic.oup.com/qje",
-        "matched_count": 1,
+        "matched_count": 0,
         "total_in_issue": 15,
-        "papers": [
-          {
-            "title_en": "Collusion with Optimal Information Disclosure",
-            "title_zh": "",
-            "url": "https://doi.org/10.1093/qje/qjag020",
-            "authors": "Takuo Sugaya, Alexander Wolitzky",
-            "date": "2026-07-11",
-            "abstract_en": "Abstract Motivated by recent concerns surrounding the use of third-party pricing algorithms by competing firms, we study repeated Bertrand competition where market demand or the cost of serving the market is observed by an intermediary (or “algorithm”) that selectively discloses demand or cost information to maximize firms’ collusive profit. We show that an upper censorship disclosure policy is optimal, which leads to price rigidity and supra-monopoly prices in some states. Improving the algorithm’s accuracy reduces expected consumer surplus whenever it does so under monopoly pricing. When the state is positively correlated over time, the algorithm discloses more information when recent demand was lower or costs were higher. The analysis extends to a generalized model that accommodates product differentiation and capacity constraints. We relate our findings to recent antitrust cases.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "人工智能"
-            ]
-          }
-        ],
+        "papers": [],
         "error": null
       },
       {
@@ -1890,8 +1900,8 @@
         "resolved_name": "Journal of Public Economics",
         "issue_title": "Published 2026-11",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-public-economics",
-        "matched_count": 2,
-        "total_in_issue": 10,
+        "matched_count": 4,
+        "total_in_issue": 15,
         "papers": [
           {
             "title_en": "The cost of job loss in carbon-intensive sectors: Evidence from Germany",
@@ -1906,10 +1916,34 @@
             ]
           },
           {
+            "title_en": "Too little too late? Nationwide carbon trading in China",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jpubeco.2026.105798",
+            "authors": "Shuang Zhang, Douglas Almond",
+            "date": "2026-11-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "绿色发展"
+            ]
+          },
+          {
             "title_en": "Emissions abatement under a rate-based emissions trading system: facility-level evidence from China",
             "title_zh": "",
             "url": "https://doi.org/10.1016/j.jpubeco.2026.105797",
             "authors": "Yifei Quan, Jie-Sheng Tan-Soo, Maosheng Duan, Bofeng Cai",
+            "date": "2026-11-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "绿色发展"
+            ]
+          },
+          {
+            "title_en": "Morality and climate policy attitudes",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jpubeco.2026.105801",
+            "authors": "Lasse S. Stötzer, Florian Zimmermann",
             "date": "2026-11-01",
             "abstract_en": "",
             "abstract_zh": "",
@@ -1930,7 +1964,7 @@
         "issue_title": "Published 2027-02",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-development-economics",
         "matched_count": 1,
-        "total_in_issue": 22,
+        "total_in_issue": 24,
         "papers": [
           {
             "title_en": "Economic consequences of climate change: Evidence from the Philippines",
@@ -1957,7 +1991,7 @@
         "issue_title": "Published 2026-12",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-international-economics",
         "matched_count": 3,
-        "total_in_issue": 24,
+        "total_in_issue": 25,
         "papers": [
           {
             "title_en": "Transportation networks, technology adoption, and structural transformation",
@@ -2060,14 +2094,26 @@
         "resolved_name": "International Journal of Industrial Organization",
         "issue_title": "Published 2026-12",
         "issue_url": "https://www.sciencedirect.com/journal/international-journal-of-industrial-organization",
-        "matched_count": 1,
-        "total_in_issue": 11,
+        "matched_count": 2,
+        "total_in_issue": 12,
         "papers": [
           {
             "title_en": "Convergence to collusion in algorithmic pricing",
             "title_zh": "",
             "url": "https://doi.org/10.1016/j.ijindorg.2026.103339",
             "authors": "Kevin Michael Frick",
+            "date": "2026-12-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "人工智能"
+            ]
+          },
+          {
+            "title_en": "Dynamics and determinants of exporter survival: A machine learning approach",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.ijindorg.2026.103340",
+            "authors": "Abyaya Neopane",
             "date": "2026-12-01",
             "abstract_en": "",
             "abstract_zh": "",
@@ -2088,7 +2134,7 @@
         "issue_title": "Volume 55, Issue 10",
         "issue_url": "https://www.sciencedirect.com/journal/research-policy",
         "matched_count": 12,
-        "total_in_issue": 23,
+        "total_in_issue": 24,
         "papers": [
           {
             "title_en": "Can artificial intelligence accelerate technological progress? Researchers' perspectives on AI in manufacturing and materials science",
@@ -2245,80 +2291,42 @@
         "category": "Innovation",
         "issn": "0960-6491",
         "resolved_name": "Industrial and Corporate Change",
-        "issue_title": "Volume 35, Issue 4",
+        "issue_title": "Volume 35, Issue 5",
         "issue_url": "https://academic.oup.com/icc",
-        "matched_count": 11,
+        "matched_count": 10,
         "total_in_issue": 14,
         "papers": [
           {
-            "title_en": "If the state is incompetent, do it yourself: private alliance as an institutional architect in the catch-up process",
+            "title_en": "Integrated management for long-term performance improvement in complex systems",
             "title_zh": "",
-            "url": "https://doi.org/10.1093/icc/dtag011",
-            "authors": "Mirva Peltoniemi, Juha-Antti Lamberg, Mikko Ketokivi",
-            "date": "2026-07-31",
-            "abstract_en": "Abstract We examine the Finnish pulp and paper industry’s century-long catch-up journey, focusing on the intertwined development of technical and institutional capabilities. Using historical methods, we highlight how a private, self-organized R&D alliance evolved into an institutional architect, ultimately shaping not only governance but also regulation and entire innovation systems. Our findings demonstrate that sectoral systems of innovation emerge from both technological advancements and from private actors crafting adaptive institutions. The role of private actors is critical when governments are incapable of formulating and enforcing industrial policy. Overall, we propose that substantive experts contribute not only to technical but also to institutional capability.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "产业政策",
-              "创新"
-            ]
-          },
-          {
-            "title_en": "Factors enhancing AI adoption by firms. Evidence from France",
-            "title_zh": "",
-            "url": "https://doi.org/10.1093/icc/dtag006",
-            "authors": "Alessia Lo Turco, Alessandro Sterlacchini",
-            "date": "2026-07-31",
-            "abstract_en": "Abstract In this paper, we analyze firms that participated in two waves of the French ICT survey to identify key antecedents, measured in 2018, associated with the first-time adoption of artificial intelligence (AI) technologies in 2020. The analysis shows that the presence of data security systems, ICT training for employees, and the use of websites to collect customer information are all positively associated with the likelihood of starting to use AI. The relevance of these factors varies across business functions, with notable associations observed in administrative and marketing activities. In the case of marketing, AI adoption is also linked to prior use of e-commerce and customer relationship management applications. These patterns are consistent with existing evidence suggesting that AI adoption tends to follow a hierarchical trajectory, typically preceded by the digitization of business information.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "人工智能"
-            ]
-          },
-          {
-            "title_en": "Which discoveries are paradigm shifting?",
-            "title_zh": "",
-            "url": "https://doi.org/10.1093/icc/dtag002",
-            "authors": "Sajad Ashouri, Arash Hajikhani, Ari Hyytinen, Petri Rouvinen, Arho Suominen",
-            "date": "2026-07-31",
-            "abstract_en": "Abstract To more closely align theories of paradigm-shifting discoveries and their empirical quantification, we propose a novel measure that incorporates a discovery’s impact, novelty, and tendency to break with the past into a single, coherent measure. Calibration using the National Inventor Hall of Fame data reveals that the three dimensions are strict complements, meaning, for example, that greater impact cannot substitute for moderate novelty. We illustrate how the measure works and validate it in several complementary ways using data on the United States Patent and Trademark Office patents from 1982 to 2015. High values of the measure are strongly predictive of discoveries that are simultaneously exceptional in terms of their impact, novelty, and disruptiveness.",
+            "url": "https://doi.org/10.1093/icc/dtag039",
+            "authors": "Robert Chapman Wood, Joel West",
+            "date": "2026-10-08",
+            "abstract_en": "Abstract Considerable research has emphasized the difficulty of achieving large-scale change and performance improvement in complex systems. Neither of two standard theoretical approaches—modularity theory and complex products and systems theory—have explained how management can drive sustained progress. We address this gap by examining how Varian Medical internalized a previously decentralized cancer radiation therapy ecosystem and over multiple decades upgraded patient outcomes and financial performance dramatically. From Varian’s experience, we derive a new innovation-driven hierarchical approach and contrast it with other approaches to complex systems integration.",
             "abstract_zh": "",
             "matched_topics": [
               "创新"
             ]
           },
           {
-            "title_en": "Does manufacturing still matter? The revival of industrial policy and manufacturing’s contribution to development in high- and middle-income countries",
+            "title_en": "Government financial support and innovation in firms: additionality or crowding-out?",
             "title_zh": "",
-            "url": "https://doi.org/10.1093/icc/dtaf065",
-            "authors": "Antônio Carlos Diegues, Qiuyi Yang, José Eduardo Roselino, Marcos José Barbieri Ferreira, Renato Garcia",
-            "date": "2026-07-31",
-            "abstract_en": "Abstract This paper aims to analyze manufacturing’s contribution to development in high-income (HIC) and middle-income countries (MIC) from 2000 to 2019, revisiting the link between manufacturing and economic development by testing the inverted-U curve hypothesis (Rowthorn (1994); Palma (2005, Beyond Reforms: Structural Dynamics and Macroeconomic Vulnerability); Rodrik (2016, Journal of Economic Growth, 21, 1–33)) from an intra-manufacturing perspective. The original contribution of the analysis presented in this paper is to test the validity of this relationship for MIC and HIC by examining not the share of manufacturing in GDP (measured by value added), but the contribution of the manufacturing sector to development measured by the structural decomposition of productivity and wage growth. The paper’s main findings are: (i) the results do not indicate a decline in the contribution of manufacturing to development among middle- and high-income countries (MICs and HICs) as they attain higher levels of per capita income. In fact, across nearly all econometric specifications, no evidence of an inverted-U-shaped curve was observed between the manufacturing’s contribution to development and per capita income levels; (ii) in MIC, the empirical evidence reveals a broadly consistent pattern whereby rising per capita income is associated with an increasing contribution of manufacturing to development, whether measured in terms of productivity growth or wage growth, and (iii) For HIC, contrary to what can be inferred from the interpretations of normal or positive deindustrialization, no inverted-U curve is observed regarding the behavior of productivity. Regarding the wage variable, there is an almost generalized tendency for its contribution to development to decline as per capita income rises, except within the structural change component for high-technology sectors. Although counterintuitive, this pattern may reflect intensified international competition—mainly via global value chains—pushing down manufacturing costs in high-income economies. These findings challenge the notion of “natural” deindustrialization and highlight the persistent relevance of manufacturing, especially in technologically intensive sectors. They underscore the need for industrial and innovation policies tailored to sectoral heterogeneity and national contexts, particularly in light of digital and green transitions that are reshaping global production systems.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "产业政策",
-              "创新"
-            ]
-          },
-          {
-            "title_en": "Killers on the road of emerging start-ups—implications for market entry and venture capital financing",
-            "title_zh": "",
-            "url": "https://doi.org/10.1093/icc/dtaf061",
-            "authors": "Heli Koski, Otto Kässi, Fabian Braesemann",
-            "date": "2026-07-31",
-            "abstract_en": "Abstract The competitive effects of acquisitions made by large US-based technology companies have come under increased regulatory scrutiny over recent years because their acquisition patterns have been viewed as potentially harming competition. This paper studies the impact of acquisitions by large US-based technology companies on the entry dynamics and venture capital financing in their target product markets. We use data from Crunchbase, a global database of start-up companies, from 742 product markets globally, distinguishing the United States and European markets for 2003–2021. Using state-of-the-art econometric developments, we estimate the dynamic treatment effects model in the staggered, dynamic event study setting. Our estimation results suggest that the technology giants’ buyouts subsequently reduced market entry rates and decreased the available venture capital funding in the product markets of the acquired companies. The acquisition of technology giants seems to generate a so-called “kill zone,” which dissuades the market entry of new companies. Our findings highlight the long-term consequences that technology giants’ acquisitions may have, including a decline in venture capital financing and the creation of entry barriers in technology-intensive markets.",
+            "url": "https://doi.org/10.1093/icc/dtag036",
+            "authors": "Jihye Yeo, Alex Eapen, Rekha Krishnan",
+            "date": "2026-10-08",
+            "abstract_en": "Abstract A positive effect of government financial support on firm innovation can emerge through two different mechanisms: “additionality,” which is desirable, and “crowding-out,” which is inefficient. We attempt to disentangle these two mechanisms to understand which one likely drives empirical observations of a positive effect of government funding on firm innovation in a sample of Australian small and medium enterprises (SMEs). We use firms’ financial constraints as a moderator variable to assess which mechanism is likely to dominate on average. Our empirical analysis uses a 5-year (2011–2016) firm-level panel dataset from the Business Longitudinal Database (BLD) compiled by the Australian Bureau of Statistics (ABS), and an econometric approach that corrects for the endogeneity of both government funding and financial constraints, as well as unobserved firm heterogeneity and selection effects. Our analyses show a positive effect of government financial support on innovation. However, this effect is stronger among financially unconstrained firms than among their constrained counterparts, suggesting evidence more consistent, on average, with crowding-out or partial additionality than with full additionality.",
             "abstract_zh": "",
             "matched_topics": [
               "创新"
             ]
           },
           {
-            "title_en": "Measuring artificial intelligence: a systematic assessment and implications for governance",
+            "title_en": "The direction of digital transformation: labor-saving versus time-saving trajectories in industrial dynamics",
             "title_zh": "",
-            "url": "https://doi.org/10.1093/icc/dtaf047",
-            "authors": "Kerstin Hötte, Taheya Tarannum, Vilhelm Verendel, Lauren Bennett",
-            "date": "2026-07-31",
-            "abstract_en": "Abstract Governing artificial intelligence (AI) inventions is a major policy concern. Yet, definitions and measurement approaches remain contested. We compare four patent-based definitions reflecting distinct understandings of AI. Using US patents (1990–2019), we assess the degree to which each approach describes AI as a general-purpose technology (GPT) and examine patent concentration by a few dominant firms. We find that between 3% and 17% of all US patents in 2019 are classified by at least one of the approaches as AI patents. Yet, only 1.4% of all AI patents are simultaneously identified by all four approaches. All approaches are consistent with AI having GPT characteristics, with the Keyword-based patents exhibiting the highest growth and generality. GPT indicates public good characteristics, which could be used to justify public support. Across methods, AI patents are concentrated among a few firms, highlighting market power and regulatory challenges. The wide variation in the subsets and characteristics of AI patents identified by these approaches suggests that currently multiple classification methods should be considered to formulate robust, inclusive, and effective analyses for AI governance.",
+            "url": "https://doi.org/10.1093/icc/dtag034",
+            "authors": "Andrea Borsato, Elena Cefis",
+            "date": "2026-10-08",
+            "abstract_en": "Abstract The paper develops a theoretical framework with some skill heterogeneity to investigate the way the direction of process innovation, labor-saving versus time-saving, shapes the evolution of the industrial structure, firm dynamics, and macroeconomic performance in a digitally transforming economy. We find that labor-saving innovations deliver higher capital deepening but engender structural fragility. Conversely, when firms focus on time-saving innovations, the economy grows more slowly but exhibits greater resilience: lower downtime supports higher firm survival, reduces volatility, and sustains a more competitive and inclusive market structure. These dynamics are emphasized when labor shortage constrains production capacity. We also discuss the design of more targeted and effective innovation policies, capable of steering digital transformation in directions that are economically robust and socially inclusive.",
             "abstract_zh": "",
             "matched_topics": [
               "创新",
@@ -2326,61 +2334,87 @@
             ]
           },
           {
-            "title_en": "Experimentally organized innovation systems: lessons from DARPA, Apple, Amazon, Google, and Operation Warp Speed",
+            "title_en": "Temporal dynamic effects of public innovation subsidies on firms’ significant innovation outcomes",
             "title_zh": "",
-            "url": "https://doi.org/10.1093/icc/dtaf054",
-            "authors": "Bo Carlsson",
-            "date": "2026-07-31",
-            "abstract_en": "Abstract This article examines the experimental organization in some of the world’s most successful innovation systems: DARPA (The Defense Advanced Research Projects Agency), Apple, Amazon, and Operation Warp Speed (OWS). All these ventures are essentially experimentally organized innovation systems. The most important common feature is their infrastructure for innovation that enables them to experiment and pursue multiple approaches simultaneously, bear the cost of many failures, absorb new technology, rapidly commercialize innovations through marketing and new business formation, and scale up economic activity.",
+            "url": "https://doi.org/10.1093/icc/dtag027",
+            "authors": "Robert van der Have, Matthias Deschryvere",
+            "date": "2026-10-08",
+            "abstract_en": "Abstract Longitudinal studies examining dynamic effects of research, development, and innovation (RDI) subsidies on firm-level outcomes—particularly their role in promoting significant innovations—remain limited. This has left policymakers at a disadvantage in coordinating complementary innovation policy instruments. Using a literature-based innovation output measure, we address these shortcomings by means of a nationally representative panel study of Finnish enterprises’ significant innovation outcomes observed over 22 years. Relative to confounding factors, we find that the average dynamic effects of RDI grant subsidies on companies’ probability to commercialize a significant innovation are modest but mostly positive, persisting, and dynamically increasing, peaking around five to eight years after first receiving a grant. Robustness tests, including results based on counts of granted patents, generally support the main findings of the study. Based on our empirical insights, we provide an economic interpretation of our results, suggesting that a consistent long-term innovation subsidy policy plays a meaningful role in advancing innovation output.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "产业政策",
+              "创新"
+            ]
+          },
+          {
+            "title_en": "The evolution of the nuclear industry in Korea: A dynamic model of sectoral innovation system perspective",
+            "title_zh": "",
+            "url": "https://doi.org/10.1093/icc/dtag030",
+            "authors": "Jongyoun Lim, Sunyang Chung",
+            "date": "2026-10-08",
+            "abstract_en": "Abstract This article examines the evolution of the Korean nuclear industry from the dynamic sectoral innovation system perspective, which integrates the sectoral innovation system (SIS) perspective and industrial dynamics. We analyze the Korean nuclear sector and conclude that it has developed dynamically in three stages: Imitation, Specialization, and Stabilization. During the Imitation stage, key public innovation actors emerged to absorb imported technologies, although interactive learning among them remained limited. In the Specialization stage, enough actors emerged to facilitate close collaboration and begin accumulating technological capabilities. In the Stabilization stage, Korea implemented a competent nuclear SIS, producing sufficient interactive learning among actors and attaining world-level technological capabilities.",
             "abstract_zh": "",
             "matched_topics": [
               "创新"
             ]
           },
           {
-            "title_en": "Unraveling the impacts of green knowledge spillovers on SMEs’ green innovation, economic performance, and exporting: evidence from Germany",
+            "title_en": "Varieties of regional innovation systems around the world and catch-up by latecomers",
             "title_zh": "",
-            "url": "https://doi.org/10.1093/icc/dtaf053",
-            "authors": "John R Bryson, Geoffrey J D Hewings, Meng Song",
-            "date": "2026-07-31",
-            "abstract_en": "Abstract Green innovation is critical for the green transition, yet little is known about green knowledge spillovers across industries. Based on the knowledge-spillovers literature and using empirical evidence from German manufacturing small- and medium-sized enterprises (SMEs) during 2009–2019, this analysis reveals that SMEs benefit from horizontal green knowledge spillovers to boost green innovation and from backward spillovers to enhance productivity and profitability. SMEs can leverage these green innovations to expand into international markets through exporting. These effects vary across industries and sub-national locations.",
+            "url": "https://doi.org/10.1093/icc/dtag029",
+            "authors": "Jinhee Kim, Keun Lee",
+            "date": "2026-10-08",
+            "abstract_en": "Abstract This study represents one of the first attempts to develop a global typology of regional innovation systems (RIS) across both advanced and catching-up economies, identifying distinct pathways for regional technological catch-up. Utilizing United States Patent and Trademark Office (USPTO) patent citation data from 33 regions worldwide over the period 2000–2017, we construct several RIS indicators, including intra-regional, inter-regional, and international knowledge sourcing, alongside domestic ownership of innovation. Through cluster analysis, we identify four primary RIS configurations and examine their relationship with economic performance: Group 1: large and mature RIS, characterized by long-cycle technology specialization and high domestic ownership; Group 2: mixed RIS, featuring long-cycle specialization but low domestic ownership; Group 3: strong catch-up RIS, defined by short-cycle technology specialization and high domestic ownership; Group 4: weak catch-up RIS, involving short-cycle specialization with low domestic ownership. While Groups 3 and 4 consist exclusively of emerging economies specializing in similar short-cycle technology sectors, they exhibit divergent levels of economic performance. Ultimately, the analysis identifies two empirically distinct catch-up trajectories: a “stronger” pathway driven by increasing domestic ownership and the localization of knowledge creation and a “weaker” pathway characterized by persistent dependence on foreign knowledge sources. Our findings suggest that domestic ownership and the emergence of large-scale enterprises are critical drivers of localized knowledge sourcing and sustained catch-up.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新"
+            ]
+          },
+          {
+            "title_en": "Product and process innovation in the United States from 1980 to 2015 and over the firm’s life cycle",
+            "title_zh": "",
+            "url": "https://doi.org/10.1093/icc/dtag024",
+            "authors": "Colin Davison",
+            "date": "2026-10-08",
+            "abstract_en": "Abstract This paper uses machine learning techniques to classify patent claims as product or process innovations and documents that the overall process share of innovation in the United States was on a secular decline from 1980 to 2015. The reallocation of patenting activity from the chemical to the computer & communication category explains much of the declining process share from 1980 to 2000. This paper rules out the rise of China as an explanation for the declining process share from 2000 to 2015. Instead, this paper finds evidence that a large contributor to the decline in the process share from 2000 to 2015 is patents in the semiconductor and electrical circuit topics becoming less process focused. This paper finds that the process share is low at the beginning of a firm’s product life cycle, peaks in the middle, before plateauing at an intermediate level at the end of the life cycle. Firm size is positively associated with the process share of innovation. These relationships between life cycle, size, and the process share of innovation are not present for alternative classifications of product and process patents.",
             "abstract_zh": "",
             "matched_topics": [
               "创新",
-              "绿色发展"
-            ]
-          },
-          {
-            "title_en": "Entrepreneurial orientation and innovation performance: do breadth and depth of external knowledge search matter?",
-            "title_zh": "",
-            "url": "https://doi.org/10.1093/icc/dtaf055",
-            "authors": "Jungho Kim, Chiara Marzocchi",
-            "date": "2026-07-31",
-            "abstract_en": "Abstract This study explores how a firm’s entrepreneurial orientation (EO) influences innovation performance. Specifically, by extending theoretical connections among EO, external knowledge search, and the attention-based view framework, it examines how the breadth and depth of external knowledge search moderate the U-shaped effect of EO on innovation performance. By analyzing unique firm-level data on EO and innovation from Korean manufacturing industries, it finds that the breadth of external knowledge search weakens the U-shaped effect of EO, but the depth of external knowledge search strengthens its effect. This work sheds light on the combination of EO and search strategies (breadth and depth) required to enhance innovation performance, while addressing constraints of managerial attention for internal EO implementation and external knowledge search.",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新"
-            ]
-          },
-          {
-            "title_en": "Restructuring and layoffs in the Industry 4.0 era: the role of exposure to advanced manufacturing technologies",
-            "title_zh": "",
-            "url": "https://doi.org/10.1093/icc/dtaf052",
-            "authors": "Fabio Lamperti, Katiuscia Lavoratori, Davide Castellani",
-            "date": "2026-07-31",
-            "abstract_en": "Abstract This study examines how Industry 4.0 advanced manufacturing technologies (AMTs) influence restructuring decisions. Analyzing data from European manufacturing firms (2013–2020), we find that greater AMT exposure correlates with a lower overall likelihood of restructuring. When restructuring occurs, AMTs reduce closure probabilities while increasing downsizing likelihood and minimizing layoffs. AMT exposure is measured through industry-level adoption and firm-level capital intensity. This study emphasizes the need to consider both the benefits and disruptions of automation in shaping strategies.",
-            "abstract_zh": "",
-            "matched_topics": [
               "人工智能"
             ]
           },
           {
-            "title_en": "International evidence on investor rewards to firms generating environmental innovation",
+            "title_en": "Positioning firms along the capabilities ladder",
             "title_zh": "",
-            "url": "https://doi.org/10.1093/icc/dtaf048",
-            "authors": "Houdou Basse Mama, Julien Fouquau",
-            "date": "2026-07-31",
-            "abstract_en": "Abstract Using firm patents across 38 countries, we explore whether, and if so, how investors value environmental innovations (EIs). We integrate the natural-resource-based view and innovation literature not only to predict a nonlinear link between EI and market valuation but also to hypothesize that firms with stronger absorptive capacity (AC) and those with higher stakeholder influence capacity (SIC) stand to benefit the most from EI. We provide evidence in support of these predictions. Our main analysis reveals a nonlinear valuation effect of EI, but the marginal effect is positive only for firms in the top 11% of EI distribution. However, the shape of the relation varies with firm characteristics, across jurisdictions, and over time. Investors discount EI in lower AC firms, while the shares of higher AC firms trade at a premium. The differential median valuation between higher and lower SIC firms is €564.2 million. Finally, the median European firm trades at a premium, but its North American and Japanese peers trade at a discount. Our results bear implications for the modest propensity of firms to generate EI and for the observed large cross-regional variations in EI.",
+            "url": "https://doi.org/10.1093/icc/dtag021",
+            "authors": "Alex Coad, Nanditha Mathew, Emanuele Pugliese",
+            "date": "2026-10-08",
+            "abstract_en": "Abstract A major challenge for innovation scholars is the measurement of capabilities. We develop and apply a novel methodology for quantifying the capability development of firms, where capabilities are measured in terms of expenditures on specific activities. These activities can be sorted in a hierarchy of increasing difficulty, and firms can be sorted according to their positions on the capabilities ladder. Our nestedness algorithm, inspired by biology and network science, defines an activity as complex if it is performed by only a few firms at the upper rungs of the ladder. We analyze company annual reports of almost 45,000 Indian firms for the time period 2000–2020, and observe significant nestedness. Lower rungs of the capabilities ladder correspond to basic managerial and production activities. Mid-level rungs correspond to internationalization and acquiring absorptive capacity. Higher-level rungs are more related to Mergers & Acquisitions (M&A) and innovation. Information and Communication Technology (ICT) capabilities seem to have become more fundamental lower-level rungs on the capabilities ladder in recent years. There is a close relationship between size and capabilities for small firms, but this weakens for larger firms. Some heterogeneity is observed across industrial sectors and across regions. We find that capability ranking can explain future growth patterns and survival probability of firms, summing up in one number their future potential trajectories.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新",
+              "人工智能"
+            ]
+          },
+          {
+            "title_en": "Uncovering collaborative patterns and transition dynamics in R&amp;D projects: a longitudinal analysis of EU Framework Programmes",
+            "title_zh": "",
+            "url": "https://doi.org/10.1093/icc/dtag016",
+            "authors": "Andrea Ancona, Roy Cerqueti, Gianluca Vagnani",
+            "date": "2026-10-08",
+            "abstract_en": "Abstract Policymakers have increasingly supported collaborative R&D, recognizing its role in enhancing the innovation performance and scientific reputation of organizations. This paper proposes a three-step procedure to examine collaborative patterns and participation dynamics over consecutive research programs by integrating Social Network Analysis and statistical methods. First, participants in R&D projects are ranked based on their centrality in the collaborative network. Second, transition probabilities between classes of centrality across consecutive programs are estimated. Third, the Markovian nature of collaborative patterns, which is controversial across methodological, theoretical, and empirical contributions, is tested. Using data from the first eight European Union Framework Programmes (EU FPs), we analyze the relationship between EU funding mechanisms and the micro-level behaviors of participants. Our findings provide an integrated understanding of co-evolving micro- and macro-level dynamics, reflected in the emergence of core–periphery structures, and emphasize the role of EU-funded projects in strengthening organizations’ popularity. However, these dynamics also highlight the risk of “oligopolistic” behaviors that may limit the European Research Area. Exogenous mechanisms, such as R&D policies and funding, emerge as crucial mechanisms in shaping participation dynamics and organizational positions, emphasizing the need to promote openness and democratization in research funding.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新"
+            ]
+          },
+          {
+            "title_en": "Entrepreneurial dynamism and entrepreneurial ecosystem in emerging economies: the role of infrastructure",
+            "title_zh": "",
+            "url": "https://doi.org/10.1093/icc/dtag014",
+            "authors": "Krishna Chandra Balodi, Paul Kattuman, Christina Theodoraki, Ravi Roshan",
+            "date": "2026-10-08",
+            "abstract_en": "Abstract Although prior research has extensively examined the relationships between entrepreneurship and economic growth, as well as between infrastructure and development, the influence of infrastructure on entrepreneurial dynamism (ED) in emerging economies remains insufficiently understood. This paper addresses this gap by investigating how both the quantity and quality of infrastructure shape productive entrepreneurship in emerging economies. Grounded in the entrepreneurial ecosystem framework, we employ state-level data for India from 2000 to 2019 to empirically examine these relationships. Using the dynamic-panel system generalized method of moments estimator to address the dynamic nature of infrastructure and ED variables and their potential endogeneity, we find that significant infrastructure-ED relationships emerge when infrastructure quality is higher.",
             "abstract_zh": "",
             "matched_topics": [
               "创新"
@@ -2557,8 +2591,8 @@
         "resolved_name": "Journal of Environmental Economics and Management",
         "issue_title": "Published 2027-01",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-environmental-economics-and-management",
-        "matched_count": 3,
-        "total_in_issue": 12,
+        "matched_count": 4,
+        "total_in_issue": 14,
         "papers": [
           {
             "title_en": "Window-dressing in environmental regulation: Short-term incentives and temporary abatement",
@@ -2570,6 +2604,18 @@
             "abstract_zh": "",
             "matched_topics": [
               "绿色发展"
+            ]
+          },
+          {
+            "title_en": "Standards and technology innovation with search",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jeem.2026.103431",
+            "authors": "Lluís M. Granero, Santiago J. Rubio",
+            "date": "2027-01-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新"
             ]
           },
           {
@@ -2636,7 +2682,7 @@
         "issue_title": "Published 2026-11",
         "issue_url": "https://www.sciencedirect.com/journal/energy-economics",
         "matched_count": 12,
-        "total_in_issue": 23,
+        "total_in_issue": 24,
         "papers": [
           {
             "title_en": "Corrigendum to “Equity markets and ESG dynamics: Assessing spillovers and portfolio strategies through time-varying parameters” [Energy Econ., 134 (2024), 107548]",
@@ -2663,10 +2709,46 @@
             ]
           },
           {
+            "title_en": "Understanding heterogeneous green transitions: An evolutionary approach to policy, innovation, and technological change",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.eneco.2026.109633",
+            "authors": "Fausto Cavalli, Alessandra Mainini, Enrico Moretto, Ahmad Naimzada",
+            "date": "2026-11-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新"
+            ]
+          },
+          {
             "title_en": "Carbon emissions intensity and idiosyncratic volatility: Evidence from Indian firms",
             "title_zh": "",
             "url": "https://doi.org/10.1016/j.eneco.2026.109599",
             "authors": "Ushmeet Kaur, Wasim Ahmad",
+            "date": "2026-11-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "绿色发展"
+            ]
+          },
+          {
+            "title_en": "Cross-border risk co-movement and multidimensional network resilience in global clean energy markets: Evidence from a higher-order downside co-movement network",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.eneco.2026.109626",
+            "authors": "Yaoxun Deng, Yongzeng Lai, Tianlei Zhu, Zisheng Ouyang",
+            "date": "2026-11-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "绿色发展"
+            ]
+          },
+          {
+            "title_en": "Being collaborative or collusive? The role of common institutional investors in corporate carbon emissions",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.eneco.2026.109639",
+            "authors": "Jing Zhou, Kaiwen Wu, Xiang Zhang, Yanmei Fan",
             "date": "2026-11-01",
             "abstract_en": "",
             "abstract_zh": "",
@@ -2746,42 +2828,6 @@
             "matched_topics": [
               "绿色发展"
             ]
-          },
-          {
-            "title_en": "Green credit under carbon price risk: financing frictions, banking market power, and firm emissions",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.eneco.2026.109629",
-            "authors": "Lin Zigan, Lei Yihu",
-            "date": "2026-11-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "绿色发展"
-            ]
-          },
-          {
-            "title_en": "Carbon-price-equivalent signals in multilateral energy reforms: Evidence from developing and transition economies",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.eneco.2026.109637",
-            "authors": "Di Wang, Youwei Zhao",
-            "date": "2026-11-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "绿色发展"
-            ]
-          },
-          {
-            "title_en": "Container shipping disruptions and the economics of decarbonization",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.eneco.2026.109589",
-            "authors": "Hugo Morão",
-            "date": "2026-11-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "绿色发展"
-            ]
           }
         ],
         "error": null
@@ -2796,7 +2842,7 @@
         "issue_title": "Published 2026-12",
         "issue_url": "https://www.sciencedirect.com/journal/resource-and-energy-economics",
         "matched_count": 3,
-        "total_in_issue": 7,
+        "total_in_issue": 8,
         "papers": [
           {
             "title_en": "Does renewable energy policy reduce recycling? Considering the conflicts between environmental targets",
@@ -2849,7 +2895,7 @@
       "papers": [],
       "error": "GET failed for https://data.nber.org/nber_paper_chapter_metadata/tsv/ref.tsv: 403 Client Error: Forbidden for url: https://data.nber.org/nber_paper_chapter_metadata/tsv/ref.tsv"
     },
-    "total_matches": 83,
+    "total_matches": 85,
     "note": "Latest issue TOCs from economics top journals and field-top journals plus recent NBER Working Papers, filtered by title/abstract keywords for industrial policy, innovation, green development, and artificial intelligence."
   }
 }
