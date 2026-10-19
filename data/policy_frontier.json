@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-10-13 01:17:49",
+  "updated_at": "2026-10-19 22:56:19",
   "schema_version": 1,
   "translation": {
     "engine": "kimi",
     "model": "moonshot-v1-8k",
     "enabled": true,
     "success_count": 0,
-    "fail_count": 128,
+    "fail_count": 121,
     "failed_examples": [
       "Racial Promotion Gaps :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, please recharge your ",
       "We study racial disparities in promotions in a setting in which promotions are formulaic:  :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, please recharge your ",
@@ -533,8 +533,8 @@
         "resolved_name": "Journal of Public Economics",
         "issue_title": "Published 2026-11",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-public-economics",
-        "matched_count": 4,
-        "total_in_issue": 15,
+        "matched_count": 5,
+        "total_in_issue": 18,
         "papers": [
           {
             "title_en": "The cost of job loss in carbon-intensive sectors: Evidence from Germany",
@@ -583,6 +583,18 @@
             "matched_topics": [
               "绿色发展"
             ]
+          },
+          {
+            "title_en": "The welfare effects of explicit and implicit subsidies on fossil fuels",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jpubeco.2026.105804",
+            "authors": "Tim Kalmey, Sebastian Rausch, Jan Schneider",
+            "date": "2026-11-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "产业政策"
+            ]
           }
         ],
         "error": null
@@ -597,7 +609,7 @@
         "issue_title": "Published 2027-02",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-development-economics",
         "matched_count": 1,
-        "total_in_issue": 24,
+        "total_in_issue": 27,
         "papers": [
           {
             "title_en": "Economic consequences of climate change: Evidence from the Philippines",
@@ -624,7 +636,7 @@
         "issue_title": "Published 2026-12",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-international-economics",
         "matched_count": 3,
-        "total_in_issue": 25,
+        "total_in_issue": 26,
         "papers": [
           {
             "title_en": "Transportation networks, technology adoption, and structural transformation",
@@ -728,7 +740,7 @@
         "issue_title": "Published 2026-12",
         "issue_url": "https://www.sciencedirect.com/journal/international-journal-of-industrial-organization",
         "matched_count": 2,
-        "total_in_issue": 12,
+        "total_in_issue": 13,
         "papers": [
           {
             "title_en": "Convergence to collusion in algorithmic pricing",
@@ -764,29 +776,17 @@
         "category": "Innovation",
         "issn": "0048-7333",
         "resolved_name": "Research Policy",
-        "issue_title": "Volume 55, Issue 10",
+        "issue_title": "Volume 56, Issue 1",
         "issue_url": "https://www.sciencedirect.com/journal/research-policy",
-        "matched_count": 12,
-        "total_in_issue": 24,
+        "matched_count": 3,
+        "total_in_issue": 4,
         "papers": [
           {
-            "title_en": "Can artificial intelligence accelerate technological progress? Researchers' perspectives on AI in manufacturing and materials science",
+            "title_en": "Mobilizing ecosystem support for architectural innovation: Broker-mediated expectation formation",
             "title_zh": "",
-            "url": "https://doi.org/10.1016/j.respol.2026.105598",
-            "authors": "John P. Nelson, Olajide E. Olugbade, Philip Shapira, Justin B. Biddle",
-            "date": "2026-12-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "人工智能"
-            ]
-          },
-          {
-            "title_en": "Immigration and firm innovation: Evidence from Finnish manufacturing",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.respol.2026.105603",
-            "authors": "Terhi Maczulskij",
-            "date": "2026-12-01",
+            "url": "https://doi.org/10.1016/j.respol.2026.105633",
+            "authors": "Sean (Tsuhsiang) Hsu, Susan K. Cohen, Yaoyi Jing",
+            "date": "2027-01-01",
             "abstract_en": "",
             "abstract_zh": "",
             "matched_topics": [
@@ -794,11 +794,11 @@
             ]
           },
           {
-            "title_en": "Research grant effects across funding modes and industry collaboration",
+            "title_en": "Innovation adoption across regions: psychological openness and the early diffusion of digital platforms",
             "title_zh": "",
-            "url": "https://doi.org/10.1016/j.respol.2026.105623",
-            "authors": "Stefano Baruffaldi, Felicia Jorzick, Cornelia Lawson",
-            "date": "2026-12-01",
+            "url": "https://doi.org/10.1016/j.respol.2026.105610",
+            "authors": "Tobias Ebert, Martin Obschonka, Luca M. Aiello, Jeff Potter, P. Jason Rentfrow, Samuel D. Gosling",
+            "date": "2027-01-01",
             "abstract_en": "",
             "abstract_zh": "",
             "matched_topics": [
@@ -806,112 +806,15 @@
             ]
           },
           {
-            "title_en": "Bridging the gap: A scalable approach to measuring social innovation capacity",
+            "title_en": "Who Gains from creative destruction? Evidence from high-quality entrepreneurship in the United States",
             "title_zh": "",
-            "url": "https://doi.org/10.1016/j.respol.2026.105629",
-            "authors": "Johannes Carl, Nils Grashof, Matthias Menter",
-            "date": "2026-12-01",
+            "url": "https://doi.org/10.1016/j.respol.2026.105642",
+            "authors": "Astrid Marinoni, John Voorheis",
+            "date": "2027-01-01",
             "abstract_en": "",
             "abstract_zh": "",
             "matched_topics": [
               "创新"
-            ]
-          },
-          {
-            "title_en": "Public views on the use of AI in scientific research",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.respol.2026.105632",
-            "authors": "Christian Bretter, Boryana Todorova, Caitlin Curtis, Matthew J. Hornsey",
-            "date": "2026-12-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "人工智能"
-            ]
-          },
-          {
-            "title_en": "Firms' board diversity and radical innovation: mediation mechanism of firms' attention to digital transformation",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.respol.2026.105627",
-            "authors": "Wan Cheng, Jingyu Li, Li Liu",
-            "date": "2026-12-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新",
-              "人工智能"
-            ]
-          },
-          {
-            "title_en": "A note on the changing appropriability conditions and technological opportunities for innovation in Japan; 1994–2020",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.respol.2026.105608",
-            "authors": "Akiya Nagata, Akira Goto",
-            "date": "2026-12-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新"
-            ]
-          },
-          {
-            "title_en": "Stronger patent law increases the allocation of resources to external relative to internal R&amp;D: Empirical evidence",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.respol.2026.105601",
-            "authors": "Yun Hou, Xi Xiong, I.P.L. Png",
-            "date": "2026-12-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新"
-            ]
-          },
-          {
-            "title_en": "A cord of three strands: Industry-university-research collaboration and corporate ESG performance",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.respol.2026.105607",
-            "authors": "Wanyi Chen, Ying Wang, Hao Ren",
-            "date": "2026-12-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "绿色发展"
-            ]
-          },
-          {
-            "title_en": "Automation and employment over the technology life cycle: Evidence from European regions",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.respol.2026.105611",
-            "authors": "Florencia Jaccoud, Fabien Petit, Tommaso Ciarli, Maria Savona",
-            "date": "2026-12-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "人工智能"
-            ]
-          },
-          {
-            "title_en": "Local implementation of transformative innovation policies: Ambiguities, strategic responses, and intertemporal conflicts",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.respol.2026.105624",
-            "authors": "Brittney (Britt) Regal, Damian Grimshaw, Marcela Miozzo, Jonatan Pinkse",
-            "date": "2026-12-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新"
-            ]
-          },
-          {
-            "title_en": "Adoption survival frontiers: Artificial intelligence, financing frictions, and market structure",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.respol.2026.105621",
-            "authors": "Dávid Zoltán Szabó, Péter Juhász",
-            "date": "2026-12-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "人工智能"
             ]
           }
         ],
@@ -1105,18 +1008,6 @@
             ]
           },
           {
-            "title_en": "Simple and (Approximately) Optimal Mechanism in Efficiency and Equality Tradeoff",
-            "title_zh": "",
-            "url": "https://doi.org/10.1287/mnsc.2022.02785",
-            "authors": "Zhou Chen, Qi Qi, Changjun Wang, Zhen Wang",
-            "date": "2026-10-01",
-            "abstract_en": "Many large cities have adopted a policy of restricting the number of new vehicle licenses in order to address the challenges of traffic and air pollution problems. An important question that then arises is how to allocate these limited new license quotas among a large set of demanders while taking both social efficiency and equality into consideration. Inspired by this practical problem, we study the problem of designing simple and optimal mechanisms to tradeoff between efficiency and equality in a similar public goods allocation problem. We first propose a truthful two-group mechanism framework that is both general and simple and then use it to compute the optimal solution that maximizes social efficiency while guaranteeing a certain level of equality. Interestingly and surprisingly, under some natural conditions regarding the players’ private values, we show that the optimal mechanisms within the proposed framework are always the mechanisms that first run an auction and then run a lottery (ATL for short). In addition, beyond the framework and those conditions, we prove that the ATL mechanism can always guarantee at least [Formula: see text] ([Formula: see text] is the minimum equality level) of the optimal solution efficiency. This approximation ratio can in practice be further improved to near-optimal when resources are scarce and the natural conditions hold. We further establish a theoretical connection between these natural conditions and common value distributions, demonstrating that these conditions are widely satisfied in practice. Finally, we implement several experiments to verify the ATL mechanism’s optimality and robustness. This paper was accepted by Chung Piaw Teo, optimization. Funding: This work was supported by the National Natural Science Foundation of China [Grants 72401252, 72192830, 72192832, 62472428, 72192804, 72301235, 72394360 and 72394363]; the Public Computing Cloud, Renmin University of China, the fund for building world-class universities (disciplines) of Renmin University of China; the Beijing Natural Science Foundation [Grant Z220001]. Supplemental Material: The online appendices are available at https://doi.org/10.1287/mnsc.2022.02785 .",
-            "abstract_zh": "",
-            "matched_topics": [
-              "绿色发展"
-            ]
-          },
-          {
             "title_en": "Does Agglomeration Enhance Property Value?",
             "title_zh": "",
             "url": "https://doi.org/10.1287/mnsc.2023.02773",
@@ -1126,6 +1017,18 @@
             "abstract_zh": "",
             "matched_topics": [
               "创新"
+            ]
+          },
+          {
+            "title_en": "Simple and (Approximately) Optimal Mechanism in Efficiency and Equality Tradeoff",
+            "title_zh": "",
+            "url": "https://doi.org/10.1287/mnsc.2022.02785",
+            "authors": "Zhou Chen, Qi Qi, Changjun Wang, Zhen Wang",
+            "date": "2026-10-01",
+            "abstract_en": "Many large cities have adopted a policy of restricting the number of new vehicle licenses in order to address the challenges of traffic and air pollution problems. An important question that then arises is how to allocate these limited new license quotas among a large set of demanders while taking both social efficiency and equality into consideration. Inspired by this practical problem, we study the problem of designing simple and optimal mechanisms to tradeoff between efficiency and equality in a similar public goods allocation problem. We first propose a truthful two-group mechanism framework that is both general and simple and then use it to compute the optimal solution that maximizes social efficiency while guaranteeing a certain level of equality. Interestingly and surprisingly, under some natural conditions regarding the players’ private values, we show that the optimal mechanisms within the proposed framework are always the mechanisms that first run an auction and then run a lottery (ATL for short). In addition, beyond the framework and those conditions, we prove that the ATL mechanism can always guarantee at least [Formula: see text] ([Formula: see text] is the minimum equality level) of the optimal solution efficiency. This approximation ratio can in practice be further improved to near-optimal when resources are scarce and the natural conditions hold. We further establish a theoretical connection between these natural conditions and common value distributions, demonstrating that these conditions are widely satisfied in practice. Finally, we implement several experiments to verify the ATL mechanism’s optimality and robustness. This paper was accepted by Chung Piaw Teo, optimization. Funding: This work was supported by the National Natural Science Foundation of China [Grants 72401252, 72192830, 72192832, 62472428, 72192804, 72301235, 72394360 and 72394363]; the Public Computing Cloud, Renmin University of China, the fund for building world-class universities (disciplines) of Renmin University of China; the Beijing Natural Science Foundation [Grant Z220001]. Supplemental Material: The online appendices are available at https://doi.org/10.1287/mnsc.2022.02785 .",
+            "abstract_zh": "",
+            "matched_topics": [
+              "绿色发展"
             ]
           },
           {
@@ -1224,8 +1127,8 @@
         "resolved_name": "Journal of Environmental Economics and Management",
         "issue_title": "Published 2027-01",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-environmental-economics-and-management",
-        "matched_count": 4,
-        "total_in_issue": 14,
+        "matched_count": 5,
+        "total_in_issue": 15,
         "papers": [
           {
             "title_en": "Window-dressing in environmental regulation: Short-term incentives and temporary abatement",
@@ -1261,6 +1164,18 @@
             "abstract_zh": "",
             "matched_topics": [
               "绿色发展"
+            ]
+          },
+          {
+            "title_en": "Agricultural input subsidy reform and water quality: Evidence from Zambia",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jeem.2026.103433",
+            "authors": "Jiale Yan",
+            "date": "2027-01-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "产业政策"
             ]
           },
           {
@@ -1315,7 +1230,7 @@
         "issue_title": "Published 2026-11",
         "issue_url": "https://www.sciencedirect.com/journal/energy-economics",
         "matched_count": 12,
-        "total_in_issue": 24,
+        "total_in_issue": 25,
         "papers": [
           {
             "title_en": "Corrigendum to “Equity markets and ESG dynamics: Assessing spillovers and portfolio strategies through time-varying parameters” [Energy Econ., 134 (2024), 107548]",
@@ -1354,6 +1269,18 @@
             ]
           },
           {
+            "title_en": "Cross-border risk co-movement and multidimensional network resilience in global clean energy markets: Evidence from a higher-order downside co-movement network",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.eneco.2026.109626",
+            "authors": "Yaoxun Deng, Yongzeng Lai, Tianlei Zhu, Zisheng Ouyang",
+            "date": "2026-11-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "绿色发展"
+            ]
+          },
+          {
             "title_en": "Carbon emissions intensity and idiosyncratic volatility: Evidence from Indian firms",
             "title_zh": "",
             "url": "https://doi.org/10.1016/j.eneco.2026.109599",
@@ -1366,10 +1293,10 @@
             ]
           },
           {
-            "title_en": "Cross-border risk co-movement and multidimensional network resilience in global clean energy markets: Evidence from a higher-order downside co-movement network",
+            "title_en": "An extended energy system model for renewable energy expansion planning: The net energy perspective",
             "title_zh": "",
-            "url": "https://doi.org/10.1016/j.eneco.2026.109626",
-            "authors": "Yaoxun Deng, Yongzeng Lai, Tianlei Zhu, Zisheng Ouyang",
+            "url": "https://doi.org/10.1016/j.eneco.2026.109642",
+            "authors": "Yong Yang, Hui Wang, Yang Bai",
             "date": "2026-11-01",
             "abstract_en": "",
             "abstract_zh": "",
@@ -1447,18 +1374,6 @@
             "abstract_zh": "",
             "matched_topics": [
               "创新",
-              "绿色发展"
-            ]
-          },
-          {
-            "title_en": "Cost-effectiveness assessment for China's emission reduction in steel, cement, and electrolytic aluminum industries",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.eneco.2026.109628",
-            "authors": "Zhaohua Wang, Yukun Wang, Hongzhi Zhang, Hao Li, Zhijie Jia, Yuli Shan",
-            "date": "2026-11-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
               "绿色发展"
             ]
           }
@@ -1900,8 +1815,8 @@
         "resolved_name": "Journal of Public Economics",
         "issue_title": "Published 2026-11",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-public-economics",
-        "matched_count": 4,
-        "total_in_issue": 15,
+        "matched_count": 5,
+        "total_in_issue": 18,
         "papers": [
           {
             "title_en": "The cost of job loss in carbon-intensive sectors: Evidence from Germany",
@@ -1950,6 +1865,18 @@
             "matched_topics": [
               "绿色发展"
             ]
+          },
+          {
+            "title_en": "The welfare effects of explicit and implicit subsidies on fossil fuels",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jpubeco.2026.105804",
+            "authors": "Tim Kalmey, Sebastian Rausch, Jan Schneider",
+            "date": "2026-11-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "产业政策"
+            ]
           }
         ],
         "error": null
@@ -1964,7 +1891,7 @@
         "issue_title": "Published 2027-02",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-development-economics",
         "matched_count": 1,
-        "total_in_issue": 24,
+        "total_in_issue": 27,
         "papers": [
           {
             "title_en": "Economic consequences of climate change: Evidence from the Philippines",
@@ -1991,7 +1918,7 @@
         "issue_title": "Published 2026-12",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-international-economics",
         "matched_count": 3,
-        "total_in_issue": 25,
+        "total_in_issue": 26,
         "papers": [
           {
             "title_en": "Transportation networks, technology adoption, and structural transformation",
@@ -2095,7 +2022,7 @@
         "issue_title": "Published 2026-12",
         "issue_url": "https://www.sciencedirect.com/journal/international-journal-of-industrial-organization",
         "matched_count": 2,
-        "total_in_issue": 12,
+        "total_in_issue": 13,
         "papers": [
           {
             "title_en": "Convergence to collusion in algorithmic pricing",
@@ -2131,29 +2058,17 @@
         "category": "Innovation",
         "issn": "0048-7333",
         "resolved_name": "Research Policy",
-        "issue_title": "Volume 55, Issue 10",
+        "issue_title": "Volume 56, Issue 1",
         "issue_url": "https://www.sciencedirect.com/journal/research-policy",
-        "matched_count": 12,
-        "total_in_issue": 24,
+        "matched_count": 3,
+        "total_in_issue": 4,
         "papers": [
           {
-            "title_en": "Can artificial intelligence accelerate technological progress? Researchers' perspectives on AI in manufacturing and materials science",
+            "title_en": "Mobilizing ecosystem support for architectural innovation: Broker-mediated expectation formation",
             "title_zh": "",
-            "url": "https://doi.org/10.1016/j.respol.2026.105598",
-            "authors": "John P. Nelson, Olajide E. Olugbade, Philip Shapira, Justin B. Biddle",
-            "date": "2026-12-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "人工智能"
-            ]
-          },
-          {
-            "title_en": "Immigration and firm innovation: Evidence from Finnish manufacturing",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.respol.2026.105603",
-            "authors": "Terhi Maczulskij",
-            "date": "2026-12-01",
+            "url": "https://doi.org/10.1016/j.respol.2026.105633",
+            "authors": "Sean (Tsuhsiang) Hsu, Susan K. Cohen, Yaoyi Jing",
+            "date": "2027-01-01",
             "abstract_en": "",
             "abstract_zh": "",
             "matched_topics": [
@@ -2161,11 +2076,11 @@
             ]
           },
           {
-            "title_en": "Research grant effects across funding modes and industry collaboration",
+            "title_en": "Innovation adoption across regions: psychological openness and the early diffusion of digital platforms",
             "title_zh": "",
-            "url": "https://doi.org/10.1016/j.respol.2026.105623",
-            "authors": "Stefano Baruffaldi, Felicia Jorzick, Cornelia Lawson",
-            "date": "2026-12-01",
+            "url": "https://doi.org/10.1016/j.respol.2026.105610",
+            "authors": "Tobias Ebert, Martin Obschonka, Luca M. Aiello, Jeff Potter, P. Jason Rentfrow, Samuel D. Gosling",
+            "date": "2027-01-01",
             "abstract_en": "",
             "abstract_zh": "",
             "matched_topics": [
@@ -2173,112 +2088,15 @@
             ]
           },
           {
-            "title_en": "Bridging the gap: A scalable approach to measuring social innovation capacity",
+            "title_en": "Who Gains from creative destruction? Evidence from high-quality entrepreneurship in the United States",
             "title_zh": "",
-            "url": "https://doi.org/10.1016/j.respol.2026.105629",
-            "authors": "Johannes Carl, Nils Grashof, Matthias Menter",
-            "date": "2026-12-01",
+            "url": "https://doi.org/10.1016/j.respol.2026.105642",
+            "authors": "Astrid Marinoni, John Voorheis",
+            "date": "2027-01-01",
             "abstract_en": "",
             "abstract_zh": "",
             "matched_topics": [
               "创新"
-            ]
-          },
-          {
-            "title_en": "Public views on the use of AI in scientific research",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.respol.2026.105632",
-            "authors": "Christian Bretter, Boryana Todorova, Caitlin Curtis, Matthew J. Hornsey",
-            "date": "2026-12-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "人工智能"
-            ]
-          },
-          {
-            "title_en": "Firms' board diversity and radical innovation: mediation mechanism of firms' attention to digital transformation",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.respol.2026.105627",
-            "authors": "Wan Cheng, Jingyu Li, Li Liu",
-            "date": "2026-12-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新",
-              "人工智能"
-            ]
-          },
-          {
-            "title_en": "A note on the changing appropriability conditions and technological opportunities for innovation in Japan; 1994–2020",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.respol.2026.105608",
-            "authors": "Akiya Nagata, Akira Goto",
-            "date": "2026-12-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新"
-            ]
-          },
-          {
-            "title_en": "Stronger patent law increases the allocation of resources to external relative to internal R&amp;D: Empirical evidence",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.respol.2026.105601",
-            "authors": "Yun Hou, Xi Xiong, I.P.L. Png",
-            "date": "2026-12-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新"
-            ]
-          },
-          {
-            "title_en": "A cord of three strands: Industry-university-research collaboration and corporate ESG performance",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.respol.2026.105607",
-            "authors": "Wanyi Chen, Ying Wang, Hao Ren",
-            "date": "2026-12-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "绿色发展"
-            ]
-          },
-          {
-            "title_en": "Automation and employment over the technology life cycle: Evidence from European regions",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.respol.2026.105611",
-            "authors": "Florencia Jaccoud, Fabien Petit, Tommaso Ciarli, Maria Savona",
-            "date": "2026-12-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "人工智能"
-            ]
-          },
-          {
-            "title_en": "Local implementation of transformative innovation policies: Ambiguities, strategic responses, and intertemporal conflicts",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.respol.2026.105624",
-            "authors": "Brittney (Britt) Regal, Damian Grimshaw, Marcela Miozzo, Jonatan Pinkse",
-            "date": "2026-12-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新"
-            ]
-          },
-          {
-            "title_en": "Adoption survival frontiers: Artificial intelligence, financing frictions, and market structure",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.respol.2026.105621",
-            "authors": "Dávid Zoltán Szabó, Péter Juhász",
-            "date": "2026-12-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "人工智能"
             ]
           }
         ],
@@ -2472,18 +2290,6 @@
             ]
           },
           {
-            "title_en": "Simple and (Approximately) Optimal Mechanism in Efficiency and Equality Tradeoff",
-            "title_zh": "",
-            "url": "https://doi.org/10.1287/mnsc.2022.02785",
-            "authors": "Zhou Chen, Qi Qi, Changjun Wang, Zhen Wang",
-            "date": "2026-10-01",
-            "abstract_en": "Many large cities have adopted a policy of restricting the number of new vehicle licenses in order to address the challenges of traffic and air pollution problems. An important question that then arises is how to allocate these limited new license quotas among a large set of demanders while taking both social efficiency and equality into consideration. Inspired by this practical problem, we study the problem of designing simple and optimal mechanisms to tradeoff between efficiency and equality in a similar public goods allocation problem. We first propose a truthful two-group mechanism framework that is both general and simple and then use it to compute the optimal solution that maximizes social efficiency while guaranteeing a certain level of equality. Interestingly and surprisingly, under some natural conditions regarding the players’ private values, we show that the optimal mechanisms within the proposed framework are always the mechanisms that first run an auction and then run a lottery (ATL for short). In addition, beyond the framework and those conditions, we prove that the ATL mechanism can always guarantee at least [Formula: see text] ([Formula: see text] is the minimum equality level) of the optimal solution efficiency. This approximation ratio can in practice be further improved to near-optimal when resources are scarce and the natural conditions hold. We further establish a theoretical connection between these natural conditions and common value distributions, demonstrating that these conditions are widely satisfied in practice. Finally, we implement several experiments to verify the ATL mechanism’s optimality and robustness. This paper was accepted by Chung Piaw Teo, optimization. Funding: This work was supported by the National Natural Science Foundation of China [Grants 72401252, 72192830, 72192832, 62472428, 72192804, 72301235, 72394360 and 72394363]; the Public Computing Cloud, Renmin University of China, the fund for building world-class universities (disciplines) of Renmin University of China; the Beijing Natural Science Foundation [Grant Z220001]. Supplemental Material: The online appendices are available at https://doi.org/10.1287/mnsc.2022.02785 .",
-            "abstract_zh": "",
-            "matched_topics": [
-              "绿色发展"
-            ]
-          },
-          {
             "title_en": "Does Agglomeration Enhance Property Value?",
             "title_zh": "",
             "url": "https://doi.org/10.1287/mnsc.2023.02773",
@@ -2493,6 +2299,18 @@
             "abstract_zh": "",
             "matched_topics": [
               "创新"
+            ]
+          },
+          {
+            "title_en": "Simple and (Approximately) Optimal Mechanism in Efficiency and Equality Tradeoff",
+            "title_zh": "",
+            "url": "https://doi.org/10.1287/mnsc.2022.02785",
+            "authors": "Zhou Chen, Qi Qi, Changjun Wang, Zhen Wang",
+            "date": "2026-10-01",
+            "abstract_en": "Many large cities have adopted a policy of restricting the number of new vehicle licenses in order to address the challenges of traffic and air pollution problems. An important question that then arises is how to allocate these limited new license quotas among a large set of demanders while taking both social efficiency and equality into consideration. Inspired by this practical problem, we study the problem of designing simple and optimal mechanisms to tradeoff between efficiency and equality in a similar public goods allocation problem. We first propose a truthful two-group mechanism framework that is both general and simple and then use it to compute the optimal solution that maximizes social efficiency while guaranteeing a certain level of equality. Interestingly and surprisingly, under some natural conditions regarding the players’ private values, we show that the optimal mechanisms within the proposed framework are always the mechanisms that first run an auction and then run a lottery (ATL for short). In addition, beyond the framework and those conditions, we prove that the ATL mechanism can always guarantee at least [Formula: see text] ([Formula: see text] is the minimum equality level) of the optimal solution efficiency. This approximation ratio can in practice be further improved to near-optimal when resources are scarce and the natural conditions hold. We further establish a theoretical connection between these natural conditions and common value distributions, demonstrating that these conditions are widely satisfied in practice. Finally, we implement several experiments to verify the ATL mechanism’s optimality and robustness. This paper was accepted by Chung Piaw Teo, optimization. Funding: This work was supported by the National Natural Science Foundation of China [Grants 72401252, 72192830, 72192832, 62472428, 72192804, 72301235, 72394360 and 72394363]; the Public Computing Cloud, Renmin University of China, the fund for building world-class universities (disciplines) of Renmin University of China; the Beijing Natural Science Foundation [Grant Z220001]. Supplemental Material: The online appendices are available at https://doi.org/10.1287/mnsc.2022.02785 .",
+            "abstract_zh": "",
+            "matched_topics": [
+              "绿色发展"
             ]
           },
           {
@@ -2591,8 +2409,8 @@
         "resolved_name": "Journal of Environmental Economics and Management",
         "issue_title": "Published 2027-01",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-environmental-economics-and-management",
-        "matched_count": 4,
-        "total_in_issue": 14,
+        "matched_count": 5,
+        "total_in_issue": 15,
         "papers": [
           {
             "title_en": "Window-dressing in environmental regulation: Short-term incentives and temporary abatement",
@@ -2628,6 +2446,18 @@
             "abstract_zh": "",
             "matched_topics": [
               "绿色发展"
+            ]
+          },
+          {
+            "title_en": "Agricultural input subsidy reform and water quality: Evidence from Zambia",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jeem.2026.103433",
+            "authors": "Jiale Yan",
+            "date": "2027-01-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "产业政策"
             ]
           },
           {
@@ -2682,7 +2512,7 @@
         "issue_title": "Published 2026-11",
         "issue_url": "https://www.sciencedirect.com/journal/energy-economics",
         "matched_count": 12,
-        "total_in_issue": 24,
+        "total_in_issue": 25,
         "papers": [
           {
             "title_en": "Corrigendum to “Equity markets and ESG dynamics: Assessing spillovers and portfolio strategies through time-varying parameters” [Energy Econ., 134 (2024), 107548]",
@@ -2721,6 +2551,18 @@
             ]
           },
           {
+            "title_en": "Cross-border risk co-movement and multidimensional network resilience in global clean energy markets: Evidence from a higher-order downside co-movement network",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.eneco.2026.109626",
+            "authors": "Yaoxun Deng, Yongzeng Lai, Tianlei Zhu, Zisheng Ouyang",
+            "date": "2026-11-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "绿色发展"
+            ]
+          },
+          {
             "title_en": "Carbon emissions intensity and idiosyncratic volatility: Evidence from Indian firms",
             "title_zh": "",
             "url": "https://doi.org/10.1016/j.eneco.2026.109599",
@@ -2733,10 +2575,10 @@
             ]
           },
           {
-            "title_en": "Cross-border risk co-movement and multidimensional network resilience in global clean energy markets: Evidence from a higher-order downside co-movement network",
+            "title_en": "An extended energy system model for renewable energy expansion planning: The net energy perspective",
             "title_zh": "",
-            "url": "https://doi.org/10.1016/j.eneco.2026.109626",
-            "authors": "Yaoxun Deng, Yongzeng Lai, Tianlei Zhu, Zisheng Ouyang",
+            "url": "https://doi.org/10.1016/j.eneco.2026.109642",
+            "authors": "Yong Yang, Hui Wang, Yang Bai",
             "date": "2026-11-01",
             "abstract_en": "",
             "abstract_zh": "",
@@ -2816,18 +2658,6 @@
               "创新",
               "绿色发展"
             ]
-          },
-          {
-            "title_en": "Cost-effectiveness assessment for China's emission reduction in steel, cement, and electrolytic aluminum industries",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.eneco.2026.109628",
-            "authors": "Zhaohua Wang, Yukun Wang, Hongzhi Zhang, Hao Li, Zhijie Jia, Yuli Shan",
-            "date": "2026-11-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "绿色发展"
-            ]
           }
         ],
         "error": null
@@ -2895,7 +2725,7 @@
       "papers": [],
       "error": "GET failed for https://data.nber.org/nber_paper_chapter_metadata/tsv/ref.tsv: 403 Client Error: Forbidden for url: https://data.nber.org/nber_paper_chapter_metadata/tsv/ref.tsv"
     },
-    "total_matches": 85,
+    "total_matches": 78,
     "note": "Latest issue TOCs from economics top journals and field-top journals plus recent NBER Working Papers, filtered by title/abstract keywords for industrial policy, innovation, green development, and artificial intelligence."
   }
 }
