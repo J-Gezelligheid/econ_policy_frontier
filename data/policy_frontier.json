@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-10-19 22:56:19",
+  "updated_at": "2026-10-26 23:12:37",
   "schema_version": 1,
   "translation": {
     "engine": "kimi",
     "model": "moonshot-v1-8k",
     "enabled": true,
     "success_count": 0,
-    "fail_count": 121,
+    "fail_count": 115,
     "failed_examples": [
       "Racial Promotion Gaps :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, please recharge your ",
       "We study racial disparities in promotions in a setting in which promotions are formulaic:  :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, please recharge your ",
@@ -222,7 +222,7 @@
         "category": "Top 5",
         "issn": "0022-3808",
         "resolved_name": "Journal of Political Economy",
-        "issue_title": "Volume 134, Issue 9",
+        "issue_title": "Volume 134, Issue 10",
         "issue_url": "https://www.journals.uchicago.edu/journals/jpe",
         "matched_count": 0,
         "total_in_issue": 11,
@@ -534,7 +534,7 @@
         "issue_title": "Published 2026-11",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-public-economics",
         "matched_count": 5,
-        "total_in_issue": 18,
+        "total_in_issue": 21,
         "papers": [
           {
             "title_en": "The cost of job loss in carbon-intensive sectors: Evidence from Germany",
@@ -609,7 +609,7 @@
         "issue_title": "Published 2027-02",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-development-economics",
         "matched_count": 1,
-        "total_in_issue": 27,
+        "total_in_issue": 29,
         "papers": [
           {
             "title_en": "Economic consequences of climate change: Evidence from the Philippines",
@@ -636,7 +636,7 @@
         "issue_title": "Published 2026-12",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-international-economics",
         "matched_count": 3,
-        "total_in_issue": 26,
+        "total_in_issue": 28,
         "papers": [
           {
             "title_en": "Transportation networks, technology adoption, and structural transformation",
@@ -778,9 +778,21 @@
         "resolved_name": "Research Policy",
         "issue_title": "Volume 56, Issue 1",
         "issue_url": "https://www.sciencedirect.com/journal/research-policy",
-        "matched_count": 3,
-        "total_in_issue": 4,
+        "matched_count": 4,
+        "total_in_issue": 8,
         "papers": [
+          {
+            "title_en": "Industrial policy in times of market power",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.respol.2026.105638",
+            "authors": "Domenico Delli Gatti, Roberta Terranova, Enrico Maria Turco",
+            "date": "2027-01-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "产业政策"
+            ]
+          },
           {
             "title_en": "Mobilizing ecosystem support for architectural innovation: Broker-mediated expectation formation",
             "title_zh": "",
@@ -1008,18 +1020,6 @@
             ]
           },
           {
-            "title_en": "Does Agglomeration Enhance Property Value?",
-            "title_zh": "",
-            "url": "https://doi.org/10.1287/mnsc.2023.02773",
-            "authors": "Crocker H. Liu, Chen Zheng, Bing Zhu",
-            "date": "2026-10-01",
-            "abstract_en": "Does agglomeration within a building and/or neighborhood enhance or weaken property value? The valuation impact is unclear ex ante, given that agglomeration tradesoff enhanced productivity at the expense of a more concentrated tenant base. We find that a value premium exists only when agglomeration at both the building and neighborhood levels consists of firms in the same industry. This premium represents capitalized knowledge spillover externalities. Additionally, we show the stock market rewards real estate investment trusts that transact specialized buildings. The valuation consequences arising from agglomeration in the underlying real estate market are thus consistent with the public real estate market. This paper was accepted by Tomasz Piskorski, finance. Funding: This work was supported by the Real Estate Research Institute. Supplemental Material: The online appendix is available at https://doi.org/10.1287/mnsc.2023.02773 .",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新"
-            ]
-          },
-          {
             "title_en": "Simple and (Approximately) Optimal Mechanism in Efficiency and Equality Tradeoff",
             "title_zh": "",
             "url": "https://doi.org/10.1287/mnsc.2022.02785",
@@ -1029,6 +1029,18 @@
             "abstract_zh": "",
             "matched_topics": [
               "绿色发展"
+            ]
+          },
+          {
+            "title_en": "Does Agglomeration Enhance Property Value?",
+            "title_zh": "",
+            "url": "https://doi.org/10.1287/mnsc.2023.02773",
+            "authors": "Crocker H. Liu, Chen Zheng, Bing Zhu",
+            "date": "2026-10-01",
+            "abstract_en": "Does agglomeration within a building and/or neighborhood enhance or weaken property value? The valuation impact is unclear ex ante, given that agglomeration tradesoff enhanced productivity at the expense of a more concentrated tenant base. We find that a value premium exists only when agglomeration at both the building and neighborhood levels consists of firms in the same industry. This premium represents capitalized knowledge spillover externalities. Additionally, we show the stock market rewards real estate investment trusts that transact specialized buildings. The valuation consequences arising from agglomeration in the underlying real estate market are thus consistent with the public real estate market. This paper was accepted by Tomasz Piskorski, finance. Funding: This work was supported by the Real Estate Research Institute. Supplemental Material: The online appendix is available at https://doi.org/10.1287/mnsc.2023.02773 .",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新"
             ]
           },
           {
@@ -1227,17 +1239,17 @@
         "category": "Environment / energy",
         "issn": "0140-9883",
         "resolved_name": "Energy Economics",
-        "issue_title": "Published 2026-11",
+        "issue_title": "Published 2026-12",
         "issue_url": "https://www.sciencedirect.com/journal/energy-economics",
-        "matched_count": 12,
-        "total_in_issue": 25,
+        "matched_count": 5,
+        "total_in_issue": 7,
         "papers": [
           {
-            "title_en": "Corrigendum to “Equity markets and ESG dynamics: Assessing spillovers and portfolio strategies through time-varying parameters” [Energy Econ., 134 (2024), 107548]",
+            "title_en": "Asymmetric impacts of clean energy investment and Fintech on land degradation: Kernel quantile evidence from Pakistan",
             "title_zh": "",
-            "url": "https://doi.org/10.1016/j.eneco.2026.109622",
-            "authors": "Yi Wang, Shoaib Ali, Muhammad Ayaz",
-            "date": "2026-11-01",
+            "url": "https://doi.org/10.1016/j.eneco.2026.109659",
+            "authors": "Sami Ullah, Zuopeng Justin Zhang, Runqing Zhu",
+            "date": "2026-12-01",
             "abstract_en": "",
             "abstract_zh": "",
             "matched_topics": [
@@ -1245,11 +1257,11 @@
             ]
           },
           {
-            "title_en": "Economy-wide and international spillovers of the economic impacts of climate change",
+            "title_en": "Uncovering household carbon emissions in a lower-fertility, shrinking society",
             "title_zh": "",
-            "url": "https://doi.org/10.1016/j.eneco.2026.109596",
-            "authors": "Maksym Chepeliev, Dominique van der Mensbrugghe, Toon Vandyck",
-            "date": "2026-11-01",
+            "url": "https://doi.org/10.1016/j.eneco.2026.109672",
+            "authors": "Kaitong Yang, Jun Wu, Ling Li, Ling Tang",
+            "date": "2026-12-01",
             "abstract_en": "",
             "abstract_zh": "",
             "matched_topics": [
@@ -1257,23 +1269,11 @@
             ]
           },
           {
-            "title_en": "Understanding heterogeneous green transitions: An evolutionary approach to policy, innovation, and technological change",
+            "title_en": "Electrifying the factory and beyond: The impact of digital proximity on energy transition",
             "title_zh": "",
-            "url": "https://doi.org/10.1016/j.eneco.2026.109633",
-            "authors": "Fausto Cavalli, Alessandra Mainini, Enrico Moretto, Ahmad Naimzada",
-            "date": "2026-11-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新"
-            ]
-          },
-          {
-            "title_en": "Cross-border risk co-movement and multidimensional network resilience in global clean energy markets: Evidence from a higher-order downside co-movement network",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.eneco.2026.109626",
-            "authors": "Yaoxun Deng, Yongzeng Lai, Tianlei Zhu, Zisheng Ouyang",
-            "date": "2026-11-01",
+            "url": "https://doi.org/10.1016/j.eneco.2026.109651",
+            "authors": "Yijia Song, Qinyi Huang, Jiaqi Chen, Xitao Li",
+            "date": "2026-12-01",
             "abstract_en": "",
             "abstract_zh": "",
             "matched_topics": [
@@ -1281,11 +1281,11 @@
             ]
           },
           {
-            "title_en": "Carbon emissions intensity and idiosyncratic volatility: Evidence from Indian firms",
+            "title_en": "Clean steel, higher prices: Ultra-low emission upgrades and local housing markets in China",
             "title_zh": "",
-            "url": "https://doi.org/10.1016/j.eneco.2026.109599",
-            "authors": "Ushmeet Kaur, Wasim Ahmad",
-            "date": "2026-11-01",
+            "url": "https://doi.org/10.1016/j.eneco.2026.109655",
+            "authors": "Huijun Yan, Liang Yin",
+            "date": "2026-12-01",
             "abstract_en": "",
             "abstract_zh": "",
             "matched_topics": [
@@ -1293,87 +1293,14 @@
             ]
           },
           {
-            "title_en": "An extended energy system model for renewable energy expansion planning: The net energy perspective",
+            "title_en": "Unveiling the role of ESG ratings in corporate greenwashing: Impacts on corporate green development and regulatory dynamics",
             "title_zh": "",
-            "url": "https://doi.org/10.1016/j.eneco.2026.109642",
-            "authors": "Yong Yang, Hui Wang, Yang Bai",
-            "date": "2026-11-01",
+            "url": "https://doi.org/10.1016/j.eneco.2026.109631",
+            "authors": "Fangxin Jiang, Ze Yu, Lei Zhang, Xiangxi Tang",
+            "date": "2026-12-01",
             "abstract_en": "",
             "abstract_zh": "",
             "matched_topics": [
-              "绿色发展"
-            ]
-          },
-          {
-            "title_en": "Being collaborative or collusive? The role of common institutional investors in corporate carbon emissions",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.eneco.2026.109639",
-            "authors": "Jing Zhou, Kaiwen Wu, Xiang Zhang, Yanmei Fan",
-            "date": "2026-11-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "绿色发展"
-            ]
-          },
-          {
-            "title_en": "The empirical impact of energy transition on developing economies: Sectoral analysis and predictive insights",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.eneco.2026.109601",
-            "authors": "Alain Soliman, Ilyes Abid, Khaled Guesmi, Christian Urom",
-            "date": "2026-11-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "绿色发展"
-            ]
-          },
-          {
-            "title_en": "Conflict or synergy: exploring the interaction between carbon pricing policy and capacity mechanism",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.eneco.2026.109612",
-            "authors": "Yilun Luo, Esmaeil Ahmadi, Benjamin Craig McLellan, Tetsuo Tezuka",
-            "date": "2026-11-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "绿色发展"
-            ]
-          },
-          {
-            "title_en": "Deconstructing energy inefficiency in China's manufacturing enterprises: Evidence from a machine learning evaluation method",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.eneco.2026.109611",
-            "authors": "Jiasen Sun, Yuchen Jiang, Jie Wu",
-            "date": "2026-11-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "人工智能"
-            ]
-          },
-          {
-            "title_en": "Assessing determinants of CO2 emissions trajectory under technology uncertainty: A probabilistic approach to index decomposition analysis",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.eneco.2026.109630",
-            "authors": "Hui Wang, Yupeng Wang, Yong Yang, Peng Zhou",
-            "date": "2026-11-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "绿色发展"
-            ]
-          },
-          {
-            "title_en": "Does the Low-Carbon City Pilot policy promote green innovation collaboration? Evidence from knowledge embeddedness and complexity",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.eneco.2026.109623",
-            "authors": "Qijun Xie, Dengjie Yuan, Xiangyang Li",
-            "date": "2026-11-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新",
               "绿色发展"
             ]
           }
@@ -1390,7 +1317,7 @@
         "issue_title": "Published 2026-12",
         "issue_url": "https://www.sciencedirect.com/journal/resource-and-energy-economics",
         "matched_count": 3,
-        "total_in_issue": 8,
+        "total_in_issue": 9,
         "papers": [
           {
             "title_en": "Does renewable energy policy reduce recycling? Considering the conflicts between environmental targets",
@@ -1504,7 +1431,7 @@
         "category": "Top 5",
         "issn": "0022-3808",
         "resolved_name": "Journal of Political Economy",
-        "issue_title": "Volume 134, Issue 9",
+        "issue_title": "Volume 134, Issue 10",
         "issue_url": "https://www.journals.uchicago.edu/journals/jpe",
         "matched_count": 0,
         "total_in_issue": 11,
@@ -1816,7 +1743,7 @@
         "issue_title": "Published 2026-11",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-public-economics",
         "matched_count": 5,
-        "total_in_issue": 18,
+        "total_in_issue": 21,
         "papers": [
           {
             "title_en": "The cost of job loss in carbon-intensive sectors: Evidence from Germany",
@@ -1891,7 +1818,7 @@
         "issue_title": "Published 2027-02",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-development-economics",
         "matched_count": 1,
-        "total_in_issue": 27,
+        "total_in_issue": 29,
         "papers": [
           {
             "title_en": "Economic consequences of climate change: Evidence from the Philippines",
@@ -1918,7 +1845,7 @@
         "issue_title": "Published 2026-12",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-international-economics",
         "matched_count": 3,
-        "total_in_issue": 26,
+        "total_in_issue": 28,
         "papers": [
           {
             "title_en": "Transportation networks, technology adoption, and structural transformation",
@@ -2060,9 +1987,21 @@
         "resolved_name": "Research Policy",
         "issue_title": "Volume 56, Issue 1",
         "issue_url": "https://www.sciencedirect.com/journal/research-policy",
-        "matched_count": 3,
-        "total_in_issue": 4,
+        "matched_count": 4,
+        "total_in_issue": 8,
         "papers": [
+          {
+            "title_en": "Industrial policy in times of market power",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.respol.2026.105638",
+            "authors": "Domenico Delli Gatti, Roberta Terranova, Enrico Maria Turco",
+            "date": "2027-01-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "产业政策"
+            ]
+          },
           {
             "title_en": "Mobilizing ecosystem support for architectural innovation: Broker-mediated expectation formation",
             "title_zh": "",
@@ -2290,18 +2229,6 @@
             ]
           },
           {
-            "title_en": "Does Agglomeration Enhance Property Value?",
-            "title_zh": "",
-            "url": "https://doi.org/10.1287/mnsc.2023.02773",
-            "authors": "Crocker H. Liu, Chen Zheng, Bing Zhu",
-            "date": "2026-10-01",
-            "abstract_en": "Does agglomeration within a building and/or neighborhood enhance or weaken property value? The valuation impact is unclear ex ante, given that agglomeration tradesoff enhanced productivity at the expense of a more concentrated tenant base. We find that a value premium exists only when agglomeration at both the building and neighborhood levels consists of firms in the same industry. This premium represents capitalized knowledge spillover externalities. Additionally, we show the stock market rewards real estate investment trusts that transact specialized buildings. The valuation consequences arising from agglomeration in the underlying real estate market are thus consistent with the public real estate market. This paper was accepted by Tomasz Piskorski, finance. Funding: This work was supported by the Real Estate Research Institute. Supplemental Material: The online appendix is available at https://doi.org/10.1287/mnsc.2023.02773 .",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新"
-            ]
-          },
-          {
             "title_en": "Simple and (Approximately) Optimal Mechanism in Efficiency and Equality Tradeoff",
             "title_zh": "",
             "url": "https://doi.org/10.1287/mnsc.2022.02785",
@@ -2311,6 +2238,18 @@
             "abstract_zh": "",
             "matched_topics": [
               "绿色发展"
+            ]
+          },
+          {
+            "title_en": "Does Agglomeration Enhance Property Value?",
+            "title_zh": "",
+            "url": "https://doi.org/10.1287/mnsc.2023.02773",
+            "authors": "Crocker H. Liu, Chen Zheng, Bing Zhu",
+            "date": "2026-10-01",
+            "abstract_en": "Does agglomeration within a building and/or neighborhood enhance or weaken property value? The valuation impact is unclear ex ante, given that agglomeration tradesoff enhanced productivity at the expense of a more concentrated tenant base. We find that a value premium exists only when agglomeration at both the building and neighborhood levels consists of firms in the same industry. This premium represents capitalized knowledge spillover externalities. Additionally, we show the stock market rewards real estate investment trusts that transact specialized buildings. The valuation consequences arising from agglomeration in the underlying real estate market are thus consistent with the public real estate market. This paper was accepted by Tomasz Piskorski, finance. Funding: This work was supported by the Real Estate Research Institute. Supplemental Material: The online appendix is available at https://doi.org/10.1287/mnsc.2023.02773 .",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新"
             ]
           },
           {
@@ -2509,17 +2448,17 @@
         "category": "Environment / energy",
         "issn": "0140-9883",
         "resolved_name": "Energy Economics",
-        "issue_title": "Published 2026-11",
+        "issue_title": "Published 2026-12",
         "issue_url": "https://www.sciencedirect.com/journal/energy-economics",
-        "matched_count": 12,
-        "total_in_issue": 25,
+        "matched_count": 5,
+        "total_in_issue": 7,
         "papers": [
           {
-            "title_en": "Corrigendum to “Equity markets and ESG dynamics: Assessing spillovers and portfolio strategies through time-varying parameters” [Energy Econ., 134 (2024), 107548]",
+            "title_en": "Asymmetric impacts of clean energy investment and Fintech on land degradation: Kernel quantile evidence from Pakistan",
             "title_zh": "",
-            "url": "https://doi.org/10.1016/j.eneco.2026.109622",
-            "authors": "Yi Wang, Shoaib Ali, Muhammad Ayaz",
-            "date": "2026-11-01",
+            "url": "https://doi.org/10.1016/j.eneco.2026.109659",
+            "authors": "Sami Ullah, Zuopeng Justin Zhang, Runqing Zhu",
+            "date": "2026-12-01",
             "abstract_en": "",
             "abstract_zh": "",
             "matched_topics": [
@@ -2527,11 +2466,11 @@
             ]
           },
           {
-            "title_en": "Economy-wide and international spillovers of the economic impacts of climate change",
+            "title_en": "Uncovering household carbon emissions in a lower-fertility, shrinking society",
             "title_zh": "",
-            "url": "https://doi.org/10.1016/j.eneco.2026.109596",
-            "authors": "Maksym Chepeliev, Dominique van der Mensbrugghe, Toon Vandyck",
-            "date": "2026-11-01",
+            "url": "https://doi.org/10.1016/j.eneco.2026.109672",
+            "authors": "Kaitong Yang, Jun Wu, Ling Li, Ling Tang",
+            "date": "2026-12-01",
             "abstract_en": "",
             "abstract_zh": "",
             "matched_topics": [
@@ -2539,23 +2478,11 @@
             ]
           },
           {
-            "title_en": "Understanding heterogeneous green transitions: An evolutionary approach to policy, innovation, and technological change",
+            "title_en": "Electrifying the factory and beyond: The impact of digital proximity on energy transition",
             "title_zh": "",
-            "url": "https://doi.org/10.1016/j.eneco.2026.109633",
-            "authors": "Fausto Cavalli, Alessandra Mainini, Enrico Moretto, Ahmad Naimzada",
-            "date": "2026-11-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新"
-            ]
-          },
-          {
-            "title_en": "Cross-border risk co-movement and multidimensional network resilience in global clean energy markets: Evidence from a higher-order downside co-movement network",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.eneco.2026.109626",
-            "authors": "Yaoxun Deng, Yongzeng Lai, Tianlei Zhu, Zisheng Ouyang",
-            "date": "2026-11-01",
+            "url": "https://doi.org/10.1016/j.eneco.2026.109651",
+            "authors": "Yijia Song, Qinyi Huang, Jiaqi Chen, Xitao Li",
+            "date": "2026-12-01",
             "abstract_en": "",
             "abstract_zh": "",
             "matched_topics": [
@@ -2563,11 +2490,11 @@
             ]
           },
           {
-            "title_en": "Carbon emissions intensity and idiosyncratic volatility: Evidence from Indian firms",
+            "title_en": "Clean steel, higher prices: Ultra-low emission upgrades and local housing markets in China",
             "title_zh": "",
-            "url": "https://doi.org/10.1016/j.eneco.2026.109599",
-            "authors": "Ushmeet Kaur, Wasim Ahmad",
-            "date": "2026-11-01",
+            "url": "https://doi.org/10.1016/j.eneco.2026.109655",
+            "authors": "Huijun Yan, Liang Yin",
+            "date": "2026-12-01",
             "abstract_en": "",
             "abstract_zh": "",
             "matched_topics": [
@@ -2575,87 +2502,14 @@
             ]
           },
           {
-            "title_en": "An extended energy system model for renewable energy expansion planning: The net energy perspective",
+            "title_en": "Unveiling the role of ESG ratings in corporate greenwashing: Impacts on corporate green development and regulatory dynamics",
             "title_zh": "",
-            "url": "https://doi.org/10.1016/j.eneco.2026.109642",
-            "authors": "Yong Yang, Hui Wang, Yang Bai",
-            "date": "2026-11-01",
+            "url": "https://doi.org/10.1016/j.eneco.2026.109631",
+            "authors": "Fangxin Jiang, Ze Yu, Lei Zhang, Xiangxi Tang",
+            "date": "2026-12-01",
             "abstract_en": "",
             "abstract_zh": "",
             "matched_topics": [
-              "绿色发展"
-            ]
-          },
-          {
-            "title_en": "Being collaborative or collusive? The role of common institutional investors in corporate carbon emissions",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.eneco.2026.109639",
-            "authors": "Jing Zhou, Kaiwen Wu, Xiang Zhang, Yanmei Fan",
-            "date": "2026-11-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "绿色发展"
-            ]
-          },
-          {
-            "title_en": "The empirical impact of energy transition on developing economies: Sectoral analysis and predictive insights",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.eneco.2026.109601",
-            "authors": "Alain Soliman, Ilyes Abid, Khaled Guesmi, Christian Urom",
-            "date": "2026-11-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "绿色发展"
-            ]
-          },
-          {
-            "title_en": "Conflict or synergy: exploring the interaction between carbon pricing policy and capacity mechanism",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.eneco.2026.109612",
-            "authors": "Yilun Luo, Esmaeil Ahmadi, Benjamin Craig McLellan, Tetsuo Tezuka",
-            "date": "2026-11-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "绿色发展"
-            ]
-          },
-          {
-            "title_en": "Deconstructing energy inefficiency in China's manufacturing enterprises: Evidence from a machine learning evaluation method",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.eneco.2026.109611",
-            "authors": "Jiasen Sun, Yuchen Jiang, Jie Wu",
-            "date": "2026-11-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "人工智能"
-            ]
-          },
-          {
-            "title_en": "Assessing determinants of CO2 emissions trajectory under technology uncertainty: A probabilistic approach to index decomposition analysis",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.eneco.2026.109630",
-            "authors": "Hui Wang, Yupeng Wang, Yong Yang, Peng Zhou",
-            "date": "2026-11-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "绿色发展"
-            ]
-          },
-          {
-            "title_en": "Does the Low-Carbon City Pilot policy promote green innovation collaboration? Evidence from knowledge embeddedness and complexity",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.eneco.2026.109623",
-            "authors": "Qijun Xie, Dengjie Yuan, Xiangyang Li",
-            "date": "2026-11-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新",
               "绿色发展"
             ]
           }
@@ -2672,7 +2526,7 @@
         "issue_title": "Published 2026-12",
         "issue_url": "https://www.sciencedirect.com/journal/resource-and-energy-economics",
         "matched_count": 3,
-        "total_in_issue": 8,
+        "total_in_issue": 9,
         "papers": [
           {
             "title_en": "Does renewable energy policy reduce recycling? Considering the conflicts between environmental targets",
@@ -2725,7 +2579,7 @@
       "papers": [],
       "error": "GET failed for https://data.nber.org/nber_paper_chapter_metadata/tsv/ref.tsv: 403 Client Error: Forbidden for url: https://data.nber.org/nber_paper_chapter_metadata/tsv/ref.tsv"
     },
-    "total_matches": 78,
+    "total_matches": 72,
     "note": "Latest issue TOCs from economics top journals and field-top journals plus recent NBER Working Papers, filtered by title/abstract keywords for industrial policy, innovation, green development, and artificial intelligence."
   }
 }
