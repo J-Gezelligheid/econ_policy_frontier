@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-10-26 23:12:37",
+  "updated_at": "2026-11-03 01:34:37",
   "schema_version": 1,
   "translation": {
     "engine": "kimi",
     "model": "moonshot-v1-8k",
     "enabled": true,
     "success_count": 0,
-    "fail_count": 115,
+    "fail_count": 126,
     "failed_examples": [
-      "Racial Promotion Gaps :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, please recharge your ",
-      "We study racial disparities in promotions in a setting in which promotions are formulaic:  :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, please recharge your ",
-      "Social Push and the Direction of Innovation :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, please recharge your ",
-      "What are the implications of unequal access to innovation careers for the direction of inn :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, please recharge your ",
+      "The Returns to Government R&amp;D: Evidence from US Appropriations Shocks :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, please recharge your ",
+      "Based on a narrative classification of all significant postwar changes in R&D appropriatio :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, please recharge your ",
+      "The Unequal Economic Consequences of Carbon Pricing :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, please recharge your ",
+      "This paper studies the economic impacts of carbon pricing. Exploiting institutional featur :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, please recharge your ",
+      "The Causal Effects of Global Supply Chain Disruptions on Macroeconomic Outcomes: Evidence  :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, please recharge your ",
+      "We study the causal effects of global supply chain disruptions by constructing a new index :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, please recharge your ",
       "Screening Property Rights for Innovation :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, please recharge your ",
-      "We develop a dynamic structural model of patent screening incorporating incentives, intrin :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, please recharge your ",
-      "Causal Inference for Spatial Treatments :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, please recharge your ",
-      "Many events and policies (treatments) occur at specific spatial locations, with researcher :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, please recharge your "
+      "We develop a dynamic structural model of patent screening incorporating incentives, intrin :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, please recharge your "
     ],
     "note": "Set KIMI_API_KEY to enable Chinese translation."
   },
@@ -169,33 +169,46 @@
         "category": "Top 5",
         "issn": "0002-8282",
         "resolved_name": "American Economic Review",
-        "issue_title": "Volume 116, Issue 10",
+        "issue_title": "Volume 116, Issue 11",
         "issue_url": "https://www.aeaweb.org/journals/aer",
-        "matched_count": 2,
-        "total_in_issue": 10,
+        "matched_count": 3,
+        "total_in_issue": 11,
         "papers": [
           {
-            "title_en": "Racial Promotion Gaps",
+            "title_en": "The Returns to Government R&amp;D: Evidence from US Appropriations Shocks",
             "title_zh": "",
-            "url": "https://doi.org/10.1257/aer.20231368",
-            "authors": "Deepak Hegde, Alexander Ljungqvist, Manav Raj",
-            "date": "2026-10-01",
-            "abstract_en": "We study racial disparities in promotions in a setting in which promotions are formulaic: the US patent office. Using detailed administrative data that allow us to observe who is eligible for promotion when, we document that Black patent examiners experience delays in promotions they are entitled to, slowing their climb to the top of the career ladder by a year and reducing career earnings by 2.5 percent. Institutional features rule out statistical discrimination with accurate priors. Slow promotions even under Black supervisors argue against taste-based animus. Instead, the patterns fit models of belief-based discrimination. (JEL J15, J41, J71, M12, M51, O34)",
+            "url": "https://doi.org/10.1257/aer.20231684",
+            "authors": "Andrew J. Fieldhouse, Karel Mertens",
+            "date": "2026-11-01",
+            "abstract_en": "Based on a narrative classification of all significant postwar changes in R&D appropriations for five major federal agencies, we find that an increase in nondefense R&D appropriations leads to increases in various measures of innovative activity and higher business-sector productivity in the long run. We structurally estimate the production function elasticity of nondefense government R&D capital using the SP-IV methodology of Lewis and Mertens (2024) and obtain implied returns of 140 to 210 percent over the postwar period. The estimates indicate that government-funded R&D accounts for one-fifth of business-sector TFP growth since WWII and imply substantial underfunding of nondefense R&D. (JEL D24, E23, H50, O31, O33, O38)",
             "abstract_zh": "",
             "matched_topics": [
               "创新"
             ]
           },
           {
-            "title_en": "Social Push and the Direction of Innovation",
+            "title_en": "The Unequal Economic Consequences of Carbon Pricing",
             "title_zh": "",
-            "url": "https://doi.org/10.1257/aer.20231417",
-            "authors": "Elias Einiö, Josh Feng, Xavier Jaravel",
-            "date": "2026-10-01",
-            "abstract_en": "What are the implications of unequal access to innovation careers for the direction of innovation and inequality? Leveraging novel linked datasets in the United States and Finland, we document that innovators create products more likely to be purchased by consumers like them in terms of gender, socioeconomic status, and age. Homophily exists both within narrow product categories and across industries and has been stable in recent decades. Incorporating this “social push” channel into a growth model, we estimate that unequal access to innovation careers has a large effect on cost of living inequality and long-run growth. (JEL D63, J16, L26, M13, O31, O33, O47)",
+            "url": "https://doi.org/10.1257/aer.20230448",
+            "authors": "Diego R. Känzig",
+            "date": "2026-11-01",
+            "abstract_en": "This paper studies the economic impacts of carbon pricing. Exploiting institutional features of the European carbon market and high-frequency data, I identify carbon policy shocks and trace their dynamic effects. A restrictive carbon policy shock raises energy prices, reduces emissions, spurs green innovation, but decreases economic activity—disproportionately burdening poorer households. Not only are the poor more affected because of their higher energy spending, but they also experience larger income losses. These indirect, general equilibrium effects via income and employment play an important role in the transmission of carbon pricing policies, accounting for about two-thirds of the aggregate consumption response. (JEL E23, E24, O44, Q41, Q54, Q55, Q58)",
             "abstract_zh": "",
             "matched_topics": [
-              "创新"
+              "创新",
+              "绿色发展"
+            ]
+          },
+          {
+            "title_en": "The Causal Effects of Global Supply Chain Disruptions on Macroeconomic Outcomes: Evidence and Theory",
+            "title_zh": "",
+            "url": "https://doi.org/10.1257/aer.20250081",
+            "authors": "Xiwen Bai, Jesús Fernández-Villaverde, Yiliang Li, Francesco Zanetti",
+            "date": "2026-11-01",
+            "abstract_en": "We study the causal effects of global supply chain disruptions by constructing a new index of real-time port congestion using Automatic Identification System data from container ships and a spatial clustering algorithm. We develop a model with search frictions between producers and retailers that links upstream production slack to downstream supply shortages and captures output and price responses to supply chain shocks. The co-movements of output, prices, spare capacity, and market tightness provide novel identification restrictions. We find that demand and supply shocks drove US disinflation in 2020, while the inflation surge in 2021 was driven mainly by supply chain shocks. (JEL C43, E31, F14, F23, L14, L92)",
+            "abstract_zh": "",
+            "matched_topics": [
+              "人工智能"
             ]
           }
         ],
@@ -390,42 +403,66 @@
         "category": "AEJ / policy",
         "issn": "1945-7731",
         "resolved_name": "American Economic Journal Economic Policy",
-        "issue_title": "Volume 18, Issue 3",
+        "issue_title": "Volume 18, Issue 4",
         "issue_url": "https://www.aeaweb.org/journals/pol",
-        "matched_count": 3,
+        "matched_count": 5,
         "total_in_issue": 17,
         "papers": [
           {
-            "title_en": "Rainfall Inequality, Political Power, and Ethnic Conflict in Africa",
+            "title_en": "Polluted IPOs",
             "title_zh": "",
-            "url": "https://doi.org/10.1257/pol.20210174",
-            "authors": "Andrea Guariso, Thorsten Rogall",
-            "date": "2026-08-01",
-            "abstract_en": "How are ethnic inequality and ethnic violence related? We empirically investigate this question using an innovative measure of resource inequality between ethnic groups, based on rainfall in ethnic homelands during the plant-growing season. Our main dataset covers the period 1950 – 2020 and includes 250 ethnicities located across 43 African countries. Our results indicate that rainfall-based inequality is a strong predictor of ethnic violence and that the link heavily depends on the power relations across ethnic groups. In terms of mechanisms, our results suggest that resource inequality leads to more ethnic conflicts by exacerbating grievances. (JEL D63, D72, D74, J15, O15, O17, Q54)",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新"
-            ]
-          },
-          {
-            "title_en": "Hurricanes, Climate Change Policies, and Electoral Accountability",
-            "title_zh": "",
-            "url": "https://doi.org/10.1257/pol.20230070",
-            "authors": "Stefano Gagliarducci, M. Daniele Paserman, Eleonora Patacchini",
-            "date": "2026-08-01",
-            "abstract_en": "This paper studies the conditions under which legislators promote policies that may be unpopular in the short term but yield long-term benefits. Using data on the universe of federal disaster declarations from 1989 to 2020, we document that representatives from congressional districts impacted by hurricanes are more inclined to support environmental legislation addressing climate change. However, this response depends on political circumstances: Only those in safe seats can change their political agenda toward policies that involve short-term costs for long-term gains. These results highlight the role of electoral incentives in shaping politicians' attitudes toward farsighted policymaking. (JEL D72, Q54, Q58)",
+            "url": "https://doi.org/10.1257/pol.20240900",
+            "authors": "Meng Miao, Wei Wang, Zhengyu Zuo",
+            "date": "2026-11-01",
+            "abstract_en": "Chinese companies must undergo a review by a regulator-appointed committee before proceeding with initial public offerings (IPOs). We find that firms—particularly, politically unconnected ones—are more likely to pass this review on polluted days (i.e., with a high level of PM2.5). The effect appears driven by reduced cognitive capacity among reviewers, reflected in fewer and simpler questions raised during review sessions. Notably, firms approved on polluted days show no significant performance difference from other firms within three years after the IPO. The findings suggest that pollution-induced cognitive fatigue may paradoxically reduce distortions in a politically influenced approval process. (JEL D22, G24, G32, K22, P28, P31, Q52)",
             "abstract_zh": "",
             "matched_topics": [
               "绿色发展"
             ]
           },
           {
-            "title_en": "Are Building Codes an Effective Adaptation to Wind Risk? Evidence from Remotely Detected Blue Tarps",
+            "title_en": "How Effective Are R&amp;D Tax Incentives? Reconciling the Micro and Macro Evidence",
             "title_zh": "",
-            "url": "https://doi.org/10.1257/pol.20240544",
-            "authors": "David Wolf, Kenji Takeuchi",
-            "date": "2026-08-01",
-            "abstract_en": "Hurricanes cause significant wind and water damage, yet economic research primarily focuses on the latter due to data limitations. We overcome this problem by analyzing photographs taken after Hurricane Irma (2017) to locate blue-tarped homes. Using a regression discontinuity framework, we find the 2001 Florida Building Code impacted wind risk for over 500,000 homeowners. Adopters were 22 percent less likely to experience wind damage and saw a 27 percent reduction in damage severity. Unrepaired properties also sold for 13.3 percent ($29,400) less and were harder to sell, underscoring the importance of building codes in mitigating risk and promoting climate change adaptation. (JEL Q54, R31, R38)",
+            "url": "https://doi.org/10.1257/pol.20240883",
+            "authors": "Silvia Appelt, Matěj Bajgar, Chiara Criscuolo, Fernando Galindo-Rueda",
+            "date": "2026-11-01",
+            "abstract_en": "Recent firm-level studies find R&D tax incentives to be much more effective at stimulating firms’ R&D investment than aggregate analyses suggest. Based on a distributed analysis of official R&D survey and administrative tax relief microdata for 19 OECD countries, we show that two factors can reconcile these contrasting results. First, the limited uptake of R&D tax incentives in most countries makes aggregate studies underestimate the effectiveness of R&D tax incentives. Secondly, R&D tax incentives are (much) less effective for large and R&D-intensive firms, which account for a small share of R&D-performing firms but most aggregate R&D tax relief. (JEL D22, H25, H32, L25, O31)",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新"
+            ]
+          },
+          {
+            "title_en": "A Matter of Time? Measuring Effects of Public Schooling Expansions on Families",
+            "title_zh": "",
+            "url": "https://doi.org/10.1257/pol.20240837",
+            "authors": "Chloe R. Gibbs, Jocelyn Wikle, Riley Wilson",
+            "date": "2026-11-01",
+            "abstract_en": "We leverage pronounced changes in the availability of public schooling for young children—through duration expansions to the kindergarten day—to better understand how an implicit childcare subsidy affects mothers and families. Exploiting full-day kindergarten variation across place and time from 1992 through 2022 and novel data on state-level policy changes, combined with a comparison of children of typical kindergarten-age to older children, we measure effects on parental labor supply and family childcare expenses. Full-day kindergarten expansions were responsible for as much as 24 percent of the growth in employment of mothers with kindergarten-age children in this time frame. (JEL H75, I21, J12, J13, J16, J22)",
+            "abstract_zh": "",
+            "matched_topics": [
+              "产业政策"
+            ]
+          },
+          {
+            "title_en": "Prioritizing Benefit? How Low-Income Patients Respond to Prescription Cost Sharing",
+            "title_zh": "",
+            "url": "https://doi.org/10.1257/pol.20240814",
+            "authors": "Christopher Hollrah",
+            "date": "2026-11-01",
+            "abstract_en": "This paper measures how cost sharing impacts older low-income patients, exploiting a discontinuity in eligibility for a prescription drug subsidy for those who lose access to the Medicaid-linked program. Higher drug prices resulting from subsidy loss lead to a 40 percent reduction in prescription expenditures, driven by a 16 percent quantity reduction of prescriptions filled. Patients economize on purchases of higher-priced drugs, irrespective of their health benefits. For example, patients reduce insulin purchases by 35 percent. There is no evidence that cost sharing prompts switching from branded drugs to generics. This behavior suggests that cost sharing reduces prescription accessibility without enhancing cost-effectiveness. (JEL D24, I11, I18, I32, I38, L65)",
+            "abstract_zh": "",
+            "matched_topics": [
+              "产业政策"
+            ]
+          },
+          {
+            "title_en": "China’s Nationwide CO <sub>2</sub> Emissions Trading System: A General Equilibrium Assessment",
+            "title_zh": "",
+            "url": "https://doi.org/10.1257/pol.20240652",
+            "authors": "Lawrence H. Goulder, Xianling Long, Chenfei Qu, Da Zhang",
+            "date": "2026-11-01",
+            "abstract_en": "China’s CO 2 emissions trading system, the world’s largest, aims to significantly reduce CO 2 emissions. The system is a tradable performance standard (TPS), differing from cap and trade (C&T). We provide a dynamic general equilibrium assessment that uniquely considers institutional and fiscal features of China that affect policy costs and distributional impacts. Key findings: The TPS’s environmental benefits exceed its costs by a factor of five or more. Interactions with the fiscal system reduce or eliminate the TPS’s cost disadvantage relative to C&T. Introducing auctioning as a complementary source of allowance supply can reduce costs by 30 percent. (JEL D58, O13, P28, Q54, Q58)",
             "abstract_zh": "",
             "matched_topics": [
               "绿色发展"
@@ -441,33 +478,21 @@
         "category": "AEJ / micro",
         "issn": "1945-7669",
         "resolved_name": "American Economic Journal Microeconomics",
-        "issue_title": "Volume 18, Issue 3",
+        "issue_title": "Volume 18, Issue 4",
         "issue_url": "https://www.aeaweb.org/journals/mic",
-        "matched_count": 2,
-        "total_in_issue": 15,
+        "matched_count": 1,
+        "total_in_issue": 17,
         "papers": [
           {
-            "title_en": "Product Liability Litigation and Innovation: Evidence from Medical Devices",
+            "title_en": "Innovation and Competition on a Rugged Technological Landscape",
             "title_zh": "",
-            "url": "https://doi.org/10.1257/mic.20240255",
-            "authors": "Alberto Galasso, Hong Luo",
-            "date": "2026-08-01",
-            "abstract_en": "We study the impact of product liability litigation on new product introductions by leading medical device firms. We find that the defendant firms, and other firms to a lesser extent, reduce their propensity to introduce new products in the litigated product categories during litigation years. We also show that changes to safety regulation influence the likelihood of litigation. Lastly, we show that the potential welfare loss due to litigation appears relatively contained: The decline in new product introductions is not permanent, it does not spill over beyond the litigated categories, and litigation induces firms to develop safer devices. (JEL D83, K13, L64, O31, O34)",
+            "url": "https://doi.org/10.1257/mic.20230266",
+            "authors": "Steven Callander, Nicolas S. Lambert, Niko Matouschek",
+            "date": "2026-11-01",
+            "abstract_en": "We integrate innovation into Hotelling's classic model of spatial competition. Potential entrants arrive sequentially and choose whether and where to innovate. They can innovate beyond the frontier, expanding the boundary of the market, or within a niche between incumbent products. Product quality is learned only after introduction, and uncertainty increases with novelty. Innovation on a rugged technological landscape is irregular, with frequent changes in direction and cycles between frontier and niche innovation. The ruggedness of the technological landscape itself deters innovation, generating fewer entrants, less product differentiation, narrower markets, and more intense competition than under certainty. (JEL D11, D21, D83, L11, L25, O31)",
             "abstract_zh": "",
             "matched_topics": [
               "创新"
-            ]
-          },
-          {
-            "title_en": "Collusion by Exclusion in Public Procurement",
-            "title_zh": "",
-            "url": "https://doi.org/10.1257/mic.20240308",
-            "authors": "Regina Seibel, Samuel Škoda",
-            "date": "2026-08-01",
-            "abstract_en": "This paper studies bid rigging in auctions with bidder preselection. We develop a theoretical model to analyze the optimal behavior of partial bid-rigging cartels and show how commonly used two-stage auction formats, in which the first stage is used to preselect bidders, may be exploited. Based on our theoretical results, we construct a collusion marker reflecting the optimal cartel strategy and, using administrative data on public procurement auctions in Slovakia, we identify bidders suspected of collusion. We show that bidder preselection allows cartels to exclude competitive rivals and thereby increase procurement costs above what would be possible without preselection. (JEL D43, D44, H57, L12)",
-            "abstract_zh": "",
-            "matched_topics": [
-              "产业政策"
             ]
           }
         ],
@@ -533,9 +558,21 @@
         "resolved_name": "Journal of Public Economics",
         "issue_title": "Published 2026-11",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-public-economics",
-        "matched_count": 5,
-        "total_in_issue": 21,
+        "matched_count": 6,
+        "total_in_issue": 28,
         "papers": [
+          {
+            "title_en": "The impact of preference programs in public procurement: Evidence from veteran set-asides",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jpubeco.2026.105805",
+            "authors": "Rodrigo Carril, Audrey Guo",
+            "date": "2026-11-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "产业政策"
+            ]
+          },
           {
             "title_en": "The cost of job loss in carbon-intensive sectors: Evidence from Germany",
             "title_zh": "",
@@ -609,7 +646,7 @@
         "issue_title": "Published 2027-02",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-development-economics",
         "matched_count": 1,
-        "total_in_issue": 29,
+        "total_in_issue": 31,
         "papers": [
           {
             "title_en": "Economic consequences of climate change: Evidence from the Philippines",
@@ -636,7 +673,7 @@
         "issue_title": "Published 2026-12",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-international-economics",
         "matched_count": 3,
-        "total_in_issue": 28,
+        "total_in_issue": 31,
         "papers": [
           {
             "title_en": "Transportation networks, technology adoption, and structural transformation",
@@ -740,7 +777,7 @@
         "issue_title": "Published 2026-12",
         "issue_url": "https://www.sciencedirect.com/journal/international-journal-of-industrial-organization",
         "matched_count": 2,
-        "total_in_issue": 13,
+        "total_in_issue": 14,
         "papers": [
           {
             "title_en": "Convergence to collusion in algorithmic pricing",
@@ -778,9 +815,22 @@
         "resolved_name": "Research Policy",
         "issue_title": "Volume 56, Issue 1",
         "issue_url": "https://www.sciencedirect.com/journal/research-policy",
-        "matched_count": 4,
-        "total_in_issue": 8,
+        "matched_count": 5,
+        "total_in_issue": 10,
         "papers": [
+          {
+            "title_en": "The effects of national security assessments in public procurement on competition, sustainability, innovation, and critical technology procurement",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.respol.2026.105657",
+            "authors": "Pelle Berkhout, Anne Rainville, Matthijs Janssen, Koen Frenken",
+            "date": "2027-01-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "产业政策",
+              "创新"
+            ]
+          },
           {
             "title_en": "Industrial policy in times of market power",
             "title_zh": "",
@@ -1020,18 +1070,6 @@
             ]
           },
           {
-            "title_en": "Simple and (Approximately) Optimal Mechanism in Efficiency and Equality Tradeoff",
-            "title_zh": "",
-            "url": "https://doi.org/10.1287/mnsc.2022.02785",
-            "authors": "Zhou Chen, Qi Qi, Changjun Wang, Zhen Wang",
-            "date": "2026-10-01",
-            "abstract_en": "Many large cities have adopted a policy of restricting the number of new vehicle licenses in order to address the challenges of traffic and air pollution problems. An important question that then arises is how to allocate these limited new license quotas among a large set of demanders while taking both social efficiency and equality into consideration. Inspired by this practical problem, we study the problem of designing simple and optimal mechanisms to tradeoff between efficiency and equality in a similar public goods allocation problem. We first propose a truthful two-group mechanism framework that is both general and simple and then use it to compute the optimal solution that maximizes social efficiency while guaranteeing a certain level of equality. Interestingly and surprisingly, under some natural conditions regarding the players’ private values, we show that the optimal mechanisms within the proposed framework are always the mechanisms that first run an auction and then run a lottery (ATL for short). In addition, beyond the framework and those conditions, we prove that the ATL mechanism can always guarantee at least [Formula: see text] ([Formula: see text] is the minimum equality level) of the optimal solution efficiency. This approximation ratio can in practice be further improved to near-optimal when resources are scarce and the natural conditions hold. We further establish a theoretical connection between these natural conditions and common value distributions, demonstrating that these conditions are widely satisfied in practice. Finally, we implement several experiments to verify the ATL mechanism’s optimality and robustness. This paper was accepted by Chung Piaw Teo, optimization. Funding: This work was supported by the National Natural Science Foundation of China [Grants 72401252, 72192830, 72192832, 62472428, 72192804, 72301235, 72394360 and 72394363]; the Public Computing Cloud, Renmin University of China, the fund for building world-class universities (disciplines) of Renmin University of China; the Beijing Natural Science Foundation [Grant Z220001]. Supplemental Material: The online appendices are available at https://doi.org/10.1287/mnsc.2022.02785 .",
-            "abstract_zh": "",
-            "matched_topics": [
-              "绿色发展"
-            ]
-          },
-          {
             "title_en": "Does Agglomeration Enhance Property Value?",
             "title_zh": "",
             "url": "https://doi.org/10.1287/mnsc.2023.02773",
@@ -1041,6 +1079,18 @@
             "abstract_zh": "",
             "matched_topics": [
               "创新"
+            ]
+          },
+          {
+            "title_en": "Simple and (Approximately) Optimal Mechanism in Efficiency and Equality Tradeoff",
+            "title_zh": "",
+            "url": "https://doi.org/10.1287/mnsc.2022.02785",
+            "authors": "Zhou Chen, Qi Qi, Changjun Wang, Zhen Wang",
+            "date": "2026-10-01",
+            "abstract_en": "Many large cities have adopted a policy of restricting the number of new vehicle licenses in order to address the challenges of traffic and air pollution problems. An important question that then arises is how to allocate these limited new license quotas among a large set of demanders while taking both social efficiency and equality into consideration. Inspired by this practical problem, we study the problem of designing simple and optimal mechanisms to tradeoff between efficiency and equality in a similar public goods allocation problem. We first propose a truthful two-group mechanism framework that is both general and simple and then use it to compute the optimal solution that maximizes social efficiency while guaranteeing a certain level of equality. Interestingly and surprisingly, under some natural conditions regarding the players’ private values, we show that the optimal mechanisms within the proposed framework are always the mechanisms that first run an auction and then run a lottery (ATL for short). In addition, beyond the framework and those conditions, we prove that the ATL mechanism can always guarantee at least [Formula: see text] ([Formula: see text] is the minimum equality level) of the optimal solution efficiency. This approximation ratio can in practice be further improved to near-optimal when resources are scarce and the natural conditions hold. We further establish a theoretical connection between these natural conditions and common value distributions, demonstrating that these conditions are widely satisfied in practice. Finally, we implement several experiments to verify the ATL mechanism’s optimality and robustness. This paper was accepted by Chung Piaw Teo, optimization. Funding: This work was supported by the National Natural Science Foundation of China [Grants 72401252, 72192830, 72192832, 62472428, 72192804, 72301235, 72394360 and 72394363]; the Public Computing Cloud, Renmin University of China, the fund for building world-class universities (disciplines) of Renmin University of China; the Beijing Natural Science Foundation [Grant Z220001]. Supplemental Material: The online appendices are available at https://doi.org/10.1287/mnsc.2022.02785 .",
+            "abstract_zh": "",
+            "matched_topics": [
+              "绿色发展"
             ]
           },
           {
@@ -1241,9 +1291,33 @@
         "resolved_name": "Energy Economics",
         "issue_title": "Published 2026-12",
         "issue_url": "https://www.sciencedirect.com/journal/energy-economics",
-        "matched_count": 5,
-        "total_in_issue": 7,
+        "matched_count": 9,
+        "total_in_issue": 15,
         "papers": [
+          {
+            "title_en": "Financial contagion of climate risk: evidence from cross-industry complex networks and machine learning",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.eneco.2026.109670",
+            "authors": "Xiao-Li Gong, Xiu-Chao Zhang, Xiong Xiong",
+            "date": "2026-12-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "人工智能"
+            ]
+          },
+          {
+            "title_en": "Patent agglomeration and environmental efficiency: effects and mechanisms in Africa",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.eneco.2026.109647",
+            "authors": "Rockson Sai, Hongping Yuan, Ebenezer Kwabena Takyi, Hermas Abudu, Stephen Duah Agyeman",
+            "date": "2026-12-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新"
+            ]
+          },
           {
             "title_en": "Asymmetric impacts of clean energy investment and Fintech on land degradation: Kernel quantile evidence from Pakistan",
             "title_zh": "",
@@ -1261,6 +1335,30 @@
             "title_zh": "",
             "url": "https://doi.org/10.1016/j.eneco.2026.109672",
             "authors": "Kaitong Yang, Jun Wu, Ling Li, Ling Tang",
+            "date": "2026-12-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "绿色发展"
+            ]
+          },
+          {
+            "title_en": "Beyond GDP: Quantifying heterogeneous impact of climate change on social progress",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.eneco.2026.109660",
+            "authors": "Naveen Kumar",
+            "date": "2026-12-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "绿色发展"
+            ]
+          },
+          {
+            "title_en": "Long-term impacts of climate change on electricity demand and household expenditure in Saudi Arabia",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.eneco.2026.109648",
+            "authors": "Ansir Ilyas, Puneet Kamboj, Fahad Alswaina, Pavithra Kumar Shetty, Mohamad Hejazi, Yoshihide Wada",
             "date": "2026-12-01",
             "abstract_en": "",
             "abstract_zh": "",
@@ -1316,8 +1414,8 @@
         "resolved_name": "Resource and Energy Economics",
         "issue_title": "Published 2026-12",
         "issue_url": "https://www.sciencedirect.com/journal/resource-and-energy-economics",
-        "matched_count": 3,
-        "total_in_issue": 9,
+        "matched_count": 4,
+        "total_in_issue": 10,
         "papers": [
           {
             "title_en": "Does renewable energy policy reduce recycling? Considering the conflicts between environmental targets",
@@ -1348,6 +1446,18 @@
             "title_zh": "",
             "url": "https://doi.org/10.1016/j.reseneeco.2026.101599",
             "authors": "Lucas Bretschger, Evgenij Komarov, Matthias Leuthard",
+            "date": "2026-12-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "绿色发展"
+            ]
+          },
+          {
+            "title_en": "Did China’s pilot emissions trading scheme reduce CO2 emissions? Evidence from a meta-analysis",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.reseneeco.2026.101606",
+            "authors": "Yanxia Yu, Chenfei Qu, Tom Coupé, Mathilda Featherston-Lardeux, Andreas Löschel, Arne R. Weiss, Da Zhang",
             "date": "2026-12-01",
             "abstract_en": "",
             "abstract_zh": "",
@@ -1378,33 +1488,46 @@
         "category": "Top 5",
         "issn": "0002-8282",
         "resolved_name": "American Economic Review",
-        "issue_title": "Volume 116, Issue 10",
+        "issue_title": "Volume 116, Issue 11",
         "issue_url": "https://www.aeaweb.org/journals/aer",
-        "matched_count": 2,
-        "total_in_issue": 10,
+        "matched_count": 3,
+        "total_in_issue": 11,
         "papers": [
           {
-            "title_en": "Racial Promotion Gaps",
+            "title_en": "The Returns to Government R&amp;D: Evidence from US Appropriations Shocks",
             "title_zh": "",
-            "url": "https://doi.org/10.1257/aer.20231368",
-            "authors": "Deepak Hegde, Alexander Ljungqvist, Manav Raj",
-            "date": "2026-10-01",
-            "abstract_en": "We study racial disparities in promotions in a setting in which promotions are formulaic: the US patent office. Using detailed administrative data that allow us to observe who is eligible for promotion when, we document that Black patent examiners experience delays in promotions they are entitled to, slowing their climb to the top of the career ladder by a year and reducing career earnings by 2.5 percent. Institutional features rule out statistical discrimination with accurate priors. Slow promotions even under Black supervisors argue against taste-based animus. Instead, the patterns fit models of belief-based discrimination. (JEL J15, J41, J71, M12, M51, O34)",
+            "url": "https://doi.org/10.1257/aer.20231684",
+            "authors": "Andrew J. Fieldhouse, Karel Mertens",
+            "date": "2026-11-01",
+            "abstract_en": "Based on a narrative classification of all significant postwar changes in R&D appropriations for five major federal agencies, we find that an increase in nondefense R&D appropriations leads to increases in various measures of innovative activity and higher business-sector productivity in the long run. We structurally estimate the production function elasticity of nondefense government R&D capital using the SP-IV methodology of Lewis and Mertens (2024) and obtain implied returns of 140 to 210 percent over the postwar period. The estimates indicate that government-funded R&D accounts for one-fifth of business-sector TFP growth since WWII and imply substantial underfunding of nondefense R&D. (JEL D24, E23, H50, O31, O33, O38)",
             "abstract_zh": "",
             "matched_topics": [
               "创新"
             ]
           },
           {
-            "title_en": "Social Push and the Direction of Innovation",
+            "title_en": "The Unequal Economic Consequences of Carbon Pricing",
             "title_zh": "",
-            "url": "https://doi.org/10.1257/aer.20231417",
-            "authors": "Elias Einiö, Josh Feng, Xavier Jaravel",
-            "date": "2026-10-01",
-            "abstract_en": "What are the implications of unequal access to innovation careers for the direction of innovation and inequality? Leveraging novel linked datasets in the United States and Finland, we document that innovators create products more likely to be purchased by consumers like them in terms of gender, socioeconomic status, and age. Homophily exists both within narrow product categories and across industries and has been stable in recent decades. Incorporating this “social push” channel into a growth model, we estimate that unequal access to innovation careers has a large effect on cost of living inequality and long-run growth. (JEL D63, J16, L26, M13, O31, O33, O47)",
+            "url": "https://doi.org/10.1257/aer.20230448",
+            "authors": "Diego R. Känzig",
+            "date": "2026-11-01",
+            "abstract_en": "This paper studies the economic impacts of carbon pricing. Exploiting institutional features of the European carbon market and high-frequency data, I identify carbon policy shocks and trace their dynamic effects. A restrictive carbon policy shock raises energy prices, reduces emissions, spurs green innovation, but decreases economic activity—disproportionately burdening poorer households. Not only are the poor more affected because of their higher energy spending, but they also experience larger income losses. These indirect, general equilibrium effects via income and employment play an important role in the transmission of carbon pricing policies, accounting for about two-thirds of the aggregate consumption response. (JEL E23, E24, O44, Q41, Q54, Q55, Q58)",
             "abstract_zh": "",
             "matched_topics": [
-              "创新"
+              "创新",
+              "绿色发展"
+            ]
+          },
+          {
+            "title_en": "The Causal Effects of Global Supply Chain Disruptions on Macroeconomic Outcomes: Evidence and Theory",
+            "title_zh": "",
+            "url": "https://doi.org/10.1257/aer.20250081",
+            "authors": "Xiwen Bai, Jesús Fernández-Villaverde, Yiliang Li, Francesco Zanetti",
+            "date": "2026-11-01",
+            "abstract_en": "We study the causal effects of global supply chain disruptions by constructing a new index of real-time port congestion using Automatic Identification System data from container ships and a spatial clustering algorithm. We develop a model with search frictions between producers and retailers that links upstream production slack to downstream supply shortages and captures output and price responses to supply chain shocks. The co-movements of output, prices, spare capacity, and market tightness provide novel identification restrictions. We find that demand and supply shocks drove US disinflation in 2020, while the inflation surge in 2021 was driven mainly by supply chain shocks. (JEL C43, E31, F14, F23, L14, L92)",
+            "abstract_zh": "",
+            "matched_topics": [
+              "人工智能"
             ]
           }
         ],
@@ -1599,42 +1722,66 @@
         "category": "AEJ / policy",
         "issn": "1945-7731",
         "resolved_name": "American Economic Journal Economic Policy",
-        "issue_title": "Volume 18, Issue 3",
+        "issue_title": "Volume 18, Issue 4",
         "issue_url": "https://www.aeaweb.org/journals/pol",
-        "matched_count": 3,
+        "matched_count": 5,
         "total_in_issue": 17,
         "papers": [
           {
-            "title_en": "Rainfall Inequality, Political Power, and Ethnic Conflict in Africa",
+            "title_en": "Polluted IPOs",
             "title_zh": "",
-            "url": "https://doi.org/10.1257/pol.20210174",
-            "authors": "Andrea Guariso, Thorsten Rogall",
-            "date": "2026-08-01",
-            "abstract_en": "How are ethnic inequality and ethnic violence related? We empirically investigate this question using an innovative measure of resource inequality between ethnic groups, based on rainfall in ethnic homelands during the plant-growing season. Our main dataset covers the period 1950 – 2020 and includes 250 ethnicities located across 43 African countries. Our results indicate that rainfall-based inequality is a strong predictor of ethnic violence and that the link heavily depends on the power relations across ethnic groups. In terms of mechanisms, our results suggest that resource inequality leads to more ethnic conflicts by exacerbating grievances. (JEL D63, D72, D74, J15, O15, O17, Q54)",
-            "abstract_zh": "",
-            "matched_topics": [
-              "创新"
-            ]
-          },
-          {
-            "title_en": "Hurricanes, Climate Change Policies, and Electoral Accountability",
-            "title_zh": "",
-            "url": "https://doi.org/10.1257/pol.20230070",
-            "authors": "Stefano Gagliarducci, M. Daniele Paserman, Eleonora Patacchini",
-            "date": "2026-08-01",
-            "abstract_en": "This paper studies the conditions under which legislators promote policies that may be unpopular in the short term but yield long-term benefits. Using data on the universe of federal disaster declarations from 1989 to 2020, we document that representatives from congressional districts impacted by hurricanes are more inclined to support environmental legislation addressing climate change. However, this response depends on political circumstances: Only those in safe seats can change their political agenda toward policies that involve short-term costs for long-term gains. These results highlight the role of electoral incentives in shaping politicians' attitudes toward farsighted policymaking. (JEL D72, Q54, Q58)",
+            "url": "https://doi.org/10.1257/pol.20240900",
+            "authors": "Meng Miao, Wei Wang, Zhengyu Zuo",
+            "date": "2026-11-01",
+            "abstract_en": "Chinese companies must undergo a review by a regulator-appointed committee before proceeding with initial public offerings (IPOs). We find that firms—particularly, politically unconnected ones—are more likely to pass this review on polluted days (i.e., with a high level of PM2.5). The effect appears driven by reduced cognitive capacity among reviewers, reflected in fewer and simpler questions raised during review sessions. Notably, firms approved on polluted days show no significant performance difference from other firms within three years after the IPO. The findings suggest that pollution-induced cognitive fatigue may paradoxically reduce distortions in a politically influenced approval process. (JEL D22, G24, G32, K22, P28, P31, Q52)",
             "abstract_zh": "",
             "matched_topics": [
               "绿色发展"
             ]
           },
           {
-            "title_en": "Are Building Codes an Effective Adaptation to Wind Risk? Evidence from Remotely Detected Blue Tarps",
+            "title_en": "How Effective Are R&amp;D Tax Incentives? Reconciling the Micro and Macro Evidence",
             "title_zh": "",
-            "url": "https://doi.org/10.1257/pol.20240544",
-            "authors": "David Wolf, Kenji Takeuchi",
-            "date": "2026-08-01",
-            "abstract_en": "Hurricanes cause significant wind and water damage, yet economic research primarily focuses on the latter due to data limitations. We overcome this problem by analyzing photographs taken after Hurricane Irma (2017) to locate blue-tarped homes. Using a regression discontinuity framework, we find the 2001 Florida Building Code impacted wind risk for over 500,000 homeowners. Adopters were 22 percent less likely to experience wind damage and saw a 27 percent reduction in damage severity. Unrepaired properties also sold for 13.3 percent ($29,400) less and were harder to sell, underscoring the importance of building codes in mitigating risk and promoting climate change adaptation. (JEL Q54, R31, R38)",
+            "url": "https://doi.org/10.1257/pol.20240883",
+            "authors": "Silvia Appelt, Matěj Bajgar, Chiara Criscuolo, Fernando Galindo-Rueda",
+            "date": "2026-11-01",
+            "abstract_en": "Recent firm-level studies find R&D tax incentives to be much more effective at stimulating firms’ R&D investment than aggregate analyses suggest. Based on a distributed analysis of official R&D survey and administrative tax relief microdata for 19 OECD countries, we show that two factors can reconcile these contrasting results. First, the limited uptake of R&D tax incentives in most countries makes aggregate studies underestimate the effectiveness of R&D tax incentives. Secondly, R&D tax incentives are (much) less effective for large and R&D-intensive firms, which account for a small share of R&D-performing firms but most aggregate R&D tax relief. (JEL D22, H25, H32, L25, O31)",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新"
+            ]
+          },
+          {
+            "title_en": "A Matter of Time? Measuring Effects of Public Schooling Expansions on Families",
+            "title_zh": "",
+            "url": "https://doi.org/10.1257/pol.20240837",
+            "authors": "Chloe R. Gibbs, Jocelyn Wikle, Riley Wilson",
+            "date": "2026-11-01",
+            "abstract_en": "We leverage pronounced changes in the availability of public schooling for young children—through duration expansions to the kindergarten day—to better understand how an implicit childcare subsidy affects mothers and families. Exploiting full-day kindergarten variation across place and time from 1992 through 2022 and novel data on state-level policy changes, combined with a comparison of children of typical kindergarten-age to older children, we measure effects on parental labor supply and family childcare expenses. Full-day kindergarten expansions were responsible for as much as 24 percent of the growth in employment of mothers with kindergarten-age children in this time frame. (JEL H75, I21, J12, J13, J16, J22)",
+            "abstract_zh": "",
+            "matched_topics": [
+              "产业政策"
+            ]
+          },
+          {
+            "title_en": "Prioritizing Benefit? How Low-Income Patients Respond to Prescription Cost Sharing",
+            "title_zh": "",
+            "url": "https://doi.org/10.1257/pol.20240814",
+            "authors": "Christopher Hollrah",
+            "date": "2026-11-01",
+            "abstract_en": "This paper measures how cost sharing impacts older low-income patients, exploiting a discontinuity in eligibility for a prescription drug subsidy for those who lose access to the Medicaid-linked program. Higher drug prices resulting from subsidy loss lead to a 40 percent reduction in prescription expenditures, driven by a 16 percent quantity reduction of prescriptions filled. Patients economize on purchases of higher-priced drugs, irrespective of their health benefits. For example, patients reduce insulin purchases by 35 percent. There is no evidence that cost sharing prompts switching from branded drugs to generics. This behavior suggests that cost sharing reduces prescription accessibility without enhancing cost-effectiveness. (JEL D24, I11, I18, I32, I38, L65)",
+            "abstract_zh": "",
+            "matched_topics": [
+              "产业政策"
+            ]
+          },
+          {
+            "title_en": "China’s Nationwide CO <sub>2</sub> Emissions Trading System: A General Equilibrium Assessment",
+            "title_zh": "",
+            "url": "https://doi.org/10.1257/pol.20240652",
+            "authors": "Lawrence H. Goulder, Xianling Long, Chenfei Qu, Da Zhang",
+            "date": "2026-11-01",
+            "abstract_en": "China’s CO 2 emissions trading system, the world’s largest, aims to significantly reduce CO 2 emissions. The system is a tradable performance standard (TPS), differing from cap and trade (C&T). We provide a dynamic general equilibrium assessment that uniquely considers institutional and fiscal features of China that affect policy costs and distributional impacts. Key findings: The TPS’s environmental benefits exceed its costs by a factor of five or more. Interactions with the fiscal system reduce or eliminate the TPS’s cost disadvantage relative to C&T. Introducing auctioning as a complementary source of allowance supply can reduce costs by 30 percent. (JEL D58, O13, P28, Q54, Q58)",
             "abstract_zh": "",
             "matched_topics": [
               "绿色发展"
@@ -1650,33 +1797,21 @@
         "category": "AEJ / micro",
         "issn": "1945-7669",
         "resolved_name": "American Economic Journal Microeconomics",
-        "issue_title": "Volume 18, Issue 3",
+        "issue_title": "Volume 18, Issue 4",
         "issue_url": "https://www.aeaweb.org/journals/mic",
-        "matched_count": 2,
-        "total_in_issue": 15,
+        "matched_count": 1,
+        "total_in_issue": 17,
         "papers": [
           {
-            "title_en": "Product Liability Litigation and Innovation: Evidence from Medical Devices",
+            "title_en": "Innovation and Competition on a Rugged Technological Landscape",
             "title_zh": "",
-            "url": "https://doi.org/10.1257/mic.20240255",
-            "authors": "Alberto Galasso, Hong Luo",
-            "date": "2026-08-01",
-            "abstract_en": "We study the impact of product liability litigation on new product introductions by leading medical device firms. We find that the defendant firms, and other firms to a lesser extent, reduce their propensity to introduce new products in the litigated product categories during litigation years. We also show that changes to safety regulation influence the likelihood of litigation. Lastly, we show that the potential welfare loss due to litigation appears relatively contained: The decline in new product introductions is not permanent, it does not spill over beyond the litigated categories, and litigation induces firms to develop safer devices. (JEL D83, K13, L64, O31, O34)",
+            "url": "https://doi.org/10.1257/mic.20230266",
+            "authors": "Steven Callander, Nicolas S. Lambert, Niko Matouschek",
+            "date": "2026-11-01",
+            "abstract_en": "We integrate innovation into Hotelling's classic model of spatial competition. Potential entrants arrive sequentially and choose whether and where to innovate. They can innovate beyond the frontier, expanding the boundary of the market, or within a niche between incumbent products. Product quality is learned only after introduction, and uncertainty increases with novelty. Innovation on a rugged technological landscape is irregular, with frequent changes in direction and cycles between frontier and niche innovation. The ruggedness of the technological landscape itself deters innovation, generating fewer entrants, less product differentiation, narrower markets, and more intense competition than under certainty. (JEL D11, D21, D83, L11, L25, O31)",
             "abstract_zh": "",
             "matched_topics": [
               "创新"
-            ]
-          },
-          {
-            "title_en": "Collusion by Exclusion in Public Procurement",
-            "title_zh": "",
-            "url": "https://doi.org/10.1257/mic.20240308",
-            "authors": "Regina Seibel, Samuel Škoda",
-            "date": "2026-08-01",
-            "abstract_en": "This paper studies bid rigging in auctions with bidder preselection. We develop a theoretical model to analyze the optimal behavior of partial bid-rigging cartels and show how commonly used two-stage auction formats, in which the first stage is used to preselect bidders, may be exploited. Based on our theoretical results, we construct a collusion marker reflecting the optimal cartel strategy and, using administrative data on public procurement auctions in Slovakia, we identify bidders suspected of collusion. We show that bidder preselection allows cartels to exclude competitive rivals and thereby increase procurement costs above what would be possible without preselection. (JEL D43, D44, H57, L12)",
-            "abstract_zh": "",
-            "matched_topics": [
-              "产业政策"
             ]
           }
         ],
@@ -1742,9 +1877,21 @@
         "resolved_name": "Journal of Public Economics",
         "issue_title": "Published 2026-11",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-public-economics",
-        "matched_count": 5,
-        "total_in_issue": 21,
+        "matched_count": 6,
+        "total_in_issue": 28,
         "papers": [
+          {
+            "title_en": "The impact of preference programs in public procurement: Evidence from veteran set-asides",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jpubeco.2026.105805",
+            "authors": "Rodrigo Carril, Audrey Guo",
+            "date": "2026-11-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "产业政策"
+            ]
+          },
           {
             "title_en": "The cost of job loss in carbon-intensive sectors: Evidence from Germany",
             "title_zh": "",
@@ -1818,7 +1965,7 @@
         "issue_title": "Published 2027-02",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-development-economics",
         "matched_count": 1,
-        "total_in_issue": 29,
+        "total_in_issue": 31,
         "papers": [
           {
             "title_en": "Economic consequences of climate change: Evidence from the Philippines",
@@ -1845,7 +1992,7 @@
         "issue_title": "Published 2026-12",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-international-economics",
         "matched_count": 3,
-        "total_in_issue": 28,
+        "total_in_issue": 31,
         "papers": [
           {
             "title_en": "Transportation networks, technology adoption, and structural transformation",
@@ -1949,7 +2096,7 @@
         "issue_title": "Published 2026-12",
         "issue_url": "https://www.sciencedirect.com/journal/international-journal-of-industrial-organization",
         "matched_count": 2,
-        "total_in_issue": 13,
+        "total_in_issue": 14,
         "papers": [
           {
             "title_en": "Convergence to collusion in algorithmic pricing",
@@ -1987,9 +2134,22 @@
         "resolved_name": "Research Policy",
         "issue_title": "Volume 56, Issue 1",
         "issue_url": "https://www.sciencedirect.com/journal/research-policy",
-        "matched_count": 4,
-        "total_in_issue": 8,
+        "matched_count": 5,
+        "total_in_issue": 10,
         "papers": [
+          {
+            "title_en": "The effects of national security assessments in public procurement on competition, sustainability, innovation, and critical technology procurement",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.respol.2026.105657",
+            "authors": "Pelle Berkhout, Anne Rainville, Matthijs Janssen, Koen Frenken",
+            "date": "2027-01-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "产业政策",
+              "创新"
+            ]
+          },
           {
             "title_en": "Industrial policy in times of market power",
             "title_zh": "",
@@ -2229,18 +2389,6 @@
             ]
           },
           {
-            "title_en": "Simple and (Approximately) Optimal Mechanism in Efficiency and Equality Tradeoff",
-            "title_zh": "",
-            "url": "https://doi.org/10.1287/mnsc.2022.02785",
-            "authors": "Zhou Chen, Qi Qi, Changjun Wang, Zhen Wang",
-            "date": "2026-10-01",
-            "abstract_en": "Many large cities have adopted a policy of restricting the number of new vehicle licenses in order to address the challenges of traffic and air pollution problems. An important question that then arises is how to allocate these limited new license quotas among a large set of demanders while taking both social efficiency and equality into consideration. Inspired by this practical problem, we study the problem of designing simple and optimal mechanisms to tradeoff between efficiency and equality in a similar public goods allocation problem. We first propose a truthful two-group mechanism framework that is both general and simple and then use it to compute the optimal solution that maximizes social efficiency while guaranteeing a certain level of equality. Interestingly and surprisingly, under some natural conditions regarding the players’ private values, we show that the optimal mechanisms within the proposed framework are always the mechanisms that first run an auction and then run a lottery (ATL for short). In addition, beyond the framework and those conditions, we prove that the ATL mechanism can always guarantee at least [Formula: see text] ([Formula: see text] is the minimum equality level) of the optimal solution efficiency. This approximation ratio can in practice be further improved to near-optimal when resources are scarce and the natural conditions hold. We further establish a theoretical connection between these natural conditions and common value distributions, demonstrating that these conditions are widely satisfied in practice. Finally, we implement several experiments to verify the ATL mechanism’s optimality and robustness. This paper was accepted by Chung Piaw Teo, optimization. Funding: This work was supported by the National Natural Science Foundation of China [Grants 72401252, 72192830, 72192832, 62472428, 72192804, 72301235, 72394360 and 72394363]; the Public Computing Cloud, Renmin University of China, the fund for building world-class universities (disciplines) of Renmin University of China; the Beijing Natural Science Foundation [Grant Z220001]. Supplemental Material: The online appendices are available at https://doi.org/10.1287/mnsc.2022.02785 .",
-            "abstract_zh": "",
-            "matched_topics": [
-              "绿色发展"
-            ]
-          },
-          {
             "title_en": "Does Agglomeration Enhance Property Value?",
             "title_zh": "",
             "url": "https://doi.org/10.1287/mnsc.2023.02773",
@@ -2250,6 +2398,18 @@
             "abstract_zh": "",
             "matched_topics": [
               "创新"
+            ]
+          },
+          {
+            "title_en": "Simple and (Approximately) Optimal Mechanism in Efficiency and Equality Tradeoff",
+            "title_zh": "",
+            "url": "https://doi.org/10.1287/mnsc.2022.02785",
+            "authors": "Zhou Chen, Qi Qi, Changjun Wang, Zhen Wang",
+            "date": "2026-10-01",
+            "abstract_en": "Many large cities have adopted a policy of restricting the number of new vehicle licenses in order to address the challenges of traffic and air pollution problems. An important question that then arises is how to allocate these limited new license quotas among a large set of demanders while taking both social efficiency and equality into consideration. Inspired by this practical problem, we study the problem of designing simple and optimal mechanisms to tradeoff between efficiency and equality in a similar public goods allocation problem. We first propose a truthful two-group mechanism framework that is both general and simple and then use it to compute the optimal solution that maximizes social efficiency while guaranteeing a certain level of equality. Interestingly and surprisingly, under some natural conditions regarding the players’ private values, we show that the optimal mechanisms within the proposed framework are always the mechanisms that first run an auction and then run a lottery (ATL for short). In addition, beyond the framework and those conditions, we prove that the ATL mechanism can always guarantee at least [Formula: see text] ([Formula: see text] is the minimum equality level) of the optimal solution efficiency. This approximation ratio can in practice be further improved to near-optimal when resources are scarce and the natural conditions hold. We further establish a theoretical connection between these natural conditions and common value distributions, demonstrating that these conditions are widely satisfied in practice. Finally, we implement several experiments to verify the ATL mechanism’s optimality and robustness. This paper was accepted by Chung Piaw Teo, optimization. Funding: This work was supported by the National Natural Science Foundation of China [Grants 72401252, 72192830, 72192832, 62472428, 72192804, 72301235, 72394360 and 72394363]; the Public Computing Cloud, Renmin University of China, the fund for building world-class universities (disciplines) of Renmin University of China; the Beijing Natural Science Foundation [Grant Z220001]. Supplemental Material: The online appendices are available at https://doi.org/10.1287/mnsc.2022.02785 .",
+            "abstract_zh": "",
+            "matched_topics": [
+              "绿色发展"
             ]
           },
           {
@@ -2450,9 +2610,33 @@
         "resolved_name": "Energy Economics",
         "issue_title": "Published 2026-12",
         "issue_url": "https://www.sciencedirect.com/journal/energy-economics",
-        "matched_count": 5,
-        "total_in_issue": 7,
+        "matched_count": 9,
+        "total_in_issue": 15,
         "papers": [
+          {
+            "title_en": "Financial contagion of climate risk: evidence from cross-industry complex networks and machine learning",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.eneco.2026.109670",
+            "authors": "Xiao-Li Gong, Xiu-Chao Zhang, Xiong Xiong",
+            "date": "2026-12-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "人工智能"
+            ]
+          },
+          {
+            "title_en": "Patent agglomeration and environmental efficiency: effects and mechanisms in Africa",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.eneco.2026.109647",
+            "authors": "Rockson Sai, Hongping Yuan, Ebenezer Kwabena Takyi, Hermas Abudu, Stephen Duah Agyeman",
+            "date": "2026-12-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "创新"
+            ]
+          },
           {
             "title_en": "Asymmetric impacts of clean energy investment and Fintech on land degradation: Kernel quantile evidence from Pakistan",
             "title_zh": "",
@@ -2470,6 +2654,30 @@
             "title_zh": "",
             "url": "https://doi.org/10.1016/j.eneco.2026.109672",
             "authors": "Kaitong Yang, Jun Wu, Ling Li, Ling Tang",
+            "date": "2026-12-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "绿色发展"
+            ]
+          },
+          {
+            "title_en": "Beyond GDP: Quantifying heterogeneous impact of climate change on social progress",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.eneco.2026.109660",
+            "authors": "Naveen Kumar",
+            "date": "2026-12-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "绿色发展"
+            ]
+          },
+          {
+            "title_en": "Long-term impacts of climate change on electricity demand and household expenditure in Saudi Arabia",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.eneco.2026.109648",
+            "authors": "Ansir Ilyas, Puneet Kamboj, Fahad Alswaina, Pavithra Kumar Shetty, Mohamad Hejazi, Yoshihide Wada",
             "date": "2026-12-01",
             "abstract_en": "",
             "abstract_zh": "",
@@ -2525,8 +2733,8 @@
         "resolved_name": "Resource and Energy Economics",
         "issue_title": "Published 2026-12",
         "issue_url": "https://www.sciencedirect.com/journal/resource-and-energy-economics",
-        "matched_count": 3,
-        "total_in_issue": 9,
+        "matched_count": 4,
+        "total_in_issue": 10,
         "papers": [
           {
             "title_en": "Does renewable energy policy reduce recycling? Considering the conflicts between environmental targets",
@@ -2563,6 +2771,18 @@
             "matched_topics": [
               "绿色发展"
             ]
+          },
+          {
+            "title_en": "Did China’s pilot emissions trading scheme reduce CO2 emissions? Evidence from a meta-analysis",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.reseneeco.2026.101606",
+            "authors": "Yanxia Yu, Chenfei Qu, Tom Coupé, Mathilda Featherston-Lardeux, Andreas Löschel, Arne R. Weiss, Da Zhang",
+            "date": "2026-12-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "绿色发展"
+            ]
           }
         ],
         "error": null
@@ -2579,7 +2799,7 @@
       "papers": [],
       "error": "GET failed for https://data.nber.org/nber_paper_chapter_metadata/tsv/ref.tsv: 403 Client Error: Forbidden for url: https://data.nber.org/nber_paper_chapter_metadata/tsv/ref.tsv"
     },
-    "total_matches": 72,
+    "total_matches": 81,
     "note": "Latest issue TOCs from economics top journals and field-top journals plus recent NBER Working Papers, filtered by title/abstract keywords for industrial policy, innovation, green development, and artificial intelligence."
   }
 }
