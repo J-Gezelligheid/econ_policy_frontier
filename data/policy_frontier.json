@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-11-10 02:08:43",
+  "updated_at": "2026-11-17 02:30:51",
   "schema_version": 1,
   "translation": {
     "engine": "kimi",
     "model": "moonshot-v1-8k",
     "enabled": true,
     "success_count": 0,
-    "fail_count": 128,
+    "fail_count": 138,
     "failed_examples": [
       "The Returns to Government R&amp;D: Evidence from US Appropriations Shocks :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, please recharge your ",
       "Based on a narrative classification of all significant postwar changes in R&D appropriatio :: HTTP 429: {\"error\":{\"message\":\"Your account org-f5cb2249a1e745759f8188d8670859b4 \\u003cak-f8nrxz4yo6ti11ajt86i\\u003e is suspended due to insufficient balance, please recharge your ",
@@ -300,21 +300,57 @@
         "category": "Top 5",
         "issn": "0034-6527",
         "resolved_name": "The Review of Economic Studies",
-        "issue_title": "Volume 93, Issue 5",
+        "issue_title": "Volume 93, Issue 6",
         "issue_url": "https://academic.oup.com/restud",
-        "matched_count": 1,
+        "matched_count": 4,
         "total_in_issue": 18,
         "papers": [
           {
-            "title_en": "Patent Term, Innovation, and the Role of Technology Disclosure Externalities",
+            "title_en": "Quantifying Supply-Side Climate Policies",
             "title_zh": "",
-            "url": "https://doi.org/10.1093/restud/rdag005",
-            "authors": "Fabio Bertolotti",
-            "date": "2026-09-08",
-            "abstract_en": "Abstract I examine the impact of patent term on R&D and innovation in the presence of policy anticipation, common in real-world settings. Using a difference-in-difference design, I exploit quasi-experimental variation in US patent term across technological fields due to the ratification of TRIPs agreements in 1995. Despite a general increase in average patent term, in most fields innovators faced a considerable probability of patent term reduction for future innovations. Three key findings emerge: (1) R&D and innovation accelerate more in fields with a higher probability of patent term reduction, i.e. a shorter average patent term extension, before implementation. (2) This heightened activity persists for at least 5 years postimplementation, driven by indirect effects where the news-related acceleration fosters further innovation through technological externalities linked to cumulative knowledge creation. (3) Conversely, the direct effect of a shorter extension in patent term would stimulate relatively less innovation, absent the indirect effects of anticipation.",
+            "url": "https://doi.org/10.1093/restud/rdag024",
+            "authors": "Lassi Ahlvik, Jørgen Juel Andersen, Jonas Hveding Hamang, Torfinn Harding",
+            "date": "2026-11-10",
+            "abstract_en": "Abstract What are the effects of supply-side climate policies in the oil market? We use global company-level data to estimate the impact of 84 reforms of production taxes between 2000 and 2019 on oil production, exploration, and discoveries. We find that higher taxes primarily reduce companies’ exploration expenditures and oil discoveries, and also reduce short-term production of unconventional oil. We then quantify the implications for the oil market using a short- and medium-term dynamic model extending until the end of the century. Imposing a global climate royalty surcharge of 20 percentage points on oil producers reduces average annual emissions from oil by 5–7% in the first 5 years, and 9–20% in the medium term. If only OECD countries adopt this policy, 47–73% of the total emission reductions would be offset by increased production in non-OECD countries in the medium term.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "绿色发展"
+            ]
+          },
+          {
+            "title_en": "Do The Effects of Nudges Persist? Theory and Evidence from 38 Natural Field Experiments",
+            "title_zh": "",
+            "url": "https://doi.org/10.1093/restud/rdag012",
+            "authors": "Alec Brandon, Paul J Ferraro, John A List, Robert D Metcalfe, Michael K Price, Florian Rundhammer",
+            "date": "2026-11-10",
+            "abstract_en": "Abstract We formalize a research design to uncover the mechanisms underlying long-term reductions in energy consumption caused by a widely implemented nudge. We consider two channels: technology adoption and habit formation. Using data from 38 natural field experiments, we isolate the role of technology adoption by comparing treatment and control homes after the initial resident moves, which discontinues the treatment for a home. We find that fully half of energy reductions persist in the home after treatment ends and show this persistence is consonant with a technology adoption channel. The role of technology in creating persistent behaviour change has important implications for designing behavioural interventions and evaluating their long-term social impacts.",
             "abstract_zh": "",
             "matched_topics": [
               "创新"
+            ]
+          },
+          {
+            "title_en": "Dynamic Regulation with Firm Linkages: Evidence from Texas",
+            "title_zh": "",
+            "url": "https://doi.org/10.1093/restud/rdag013",
+            "authors": "Matthew Leisten, Nicholas Vreugdenhil",
+            "date": "2026-11-10",
+            "abstract_en": "Abstract We evaluate the efficiency of dynamic linked environmental regulation. Linked regulation allows inspectors who uncover violations at one plant to increase future enforcement at other plants that share a common owner. When compliance costs are correlated, regulators can then target scarce enforcement resources towards bad actors without inspecting everyone. We develop an empirical framework of dynamic moral hazard under linked regulation that allows for large portfolios of plants and for choices to be interdependent within the portfolio of plants and across time. Using the framework we evaluate a linked regulation scheme in Texas and find that linked regulation performs substantially better than both unlinked regulation and untargeted regulation. We test two alternative theoretical mechanisms that underpin the benefit—a “firm-wide moral hazard mechanism” and a “correlated targeting mechanism”—and find that a large share of the value of linked regulation is due to the former.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "绿色发展"
+            ]
+          },
+          {
+            "title_en": "Inference Based on Time-Varying SVARs Identified with Sign Restrictions",
+            "title_zh": "",
+            "url": "https://doi.org/10.1093/restud/rdag008",
+            "authors": "Jonas E Arias, Juan F Rubio-Ramírez, Minchul Shin, Daniel F Waggoner",
+            "date": "2026-11-10",
+            "abstract_en": "Abstract We propose an approach for Bayesian inference in time-varying structural vector autoregressions (SVARs) identified with sign restrictions. The linchpin of our approach is a class of rotation-invariant time-varying SVARs in which the prior and posterior densities of any sequence of structural parameters belonging to the class are invariant to orthogonal transformations of the sequence. Our methodology is new to the literature. In contrast to existing algorithms for inference based on sign restrictions, our algorithm is the first to draw from a uniform distribution over the sequences of orthogonal matrices given the reduced-form parameters. We illustrate our procedure for inference by analyzing the role played by monetary policy during the latest inflation surge.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "人工智能"
             ]
           }
         ],
@@ -559,7 +595,7 @@
         "issue_title": "Published 2026-12",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-public-economics",
         "matched_count": 0,
-        "total_in_issue": 1,
+        "total_in_issue": 4,
         "papers": [],
         "error": null
       },
@@ -572,9 +608,21 @@
         "resolved_name": "Journal of Development Economics",
         "issue_title": "Published 2027-02",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-development-economics",
-        "matched_count": 1,
-        "total_in_issue": 33,
+        "matched_count": 3,
+        "total_in_issue": 38,
         "papers": [
+          {
+            "title_en": "Can pollution monitors work where they do not measure? Evidence from China",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jdeveco.2026.103963",
+            "authors": "Dongmei Guo, Runzhe Hu, Tingting Xie",
+            "date": "2027-02-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "绿色发展"
+            ]
+          },
           {
             "title_en": "Economic consequences of climate change: Evidence from the Philippines",
             "title_zh": "",
@@ -585,6 +633,18 @@
             "abstract_zh": "",
             "matched_topics": [
               "绿色发展"
+            ]
+          },
+          {
+            "title_en": "Machine learning and heterogeneity in food aid impacts: Foundations for improved targeting",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jdeveco.2026.103926",
+            "authors": "Mai Mahmoud, Sikandra Kurdi",
+            "date": "2027-02-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "人工智能"
             ]
           }
         ],
@@ -600,7 +660,7 @@
         "issue_title": "Published 2026-12",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-international-economics",
         "matched_count": 3,
-        "total_in_issue": 31,
+        "total_in_issue": 33,
         "papers": [
           {
             "title_en": "Transportation networks, technology adoption, and structural transformation",
@@ -742,8 +802,8 @@
         "resolved_name": "Research Policy",
         "issue_title": "Volume 56, Issue 1",
         "issue_url": "https://www.sciencedirect.com/journal/research-policy",
-        "matched_count": 8,
-        "total_in_issue": 15,
+        "matched_count": 9,
+        "total_in_issue": 18,
         "papers": [
           {
             "title_en": "The effects of national security assessments in public procurement on competition, sustainability, innovation, and critical technology procurement",
@@ -780,6 +840,18 @@
             "abstract_zh": "",
             "matched_topics": [
               "创新"
+            ]
+          },
+          {
+            "title_en": "The cost of the buzz? A sufficiency threshold perspective on digital transformation disclosure and cost of equity capital",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.respol.2026.105661",
+            "authors": "Lane Matthews, Julian M. Müller, Nikolai Kazantsev, Mariano L.M. Heyden",
+            "date": "2027-01-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "人工智能"
             ]
           },
           {
@@ -820,10 +892,10 @@
             ]
           },
           {
-            "title_en": "Who Gains from creative destruction? Evidence from high-quality entrepreneurship in the United States",
+            "title_en": "When the music changes, so must your dance: Technology-forcing regulation and the shifting geography of automotive invention",
             "title_zh": "",
-            "url": "https://doi.org/10.1016/j.respol.2026.105642",
-            "authors": "Astrid Marinoni, John Voorheis",
+            "url": "https://doi.org/10.1016/j.respol.2026.105655",
+            "authors": "Seyyed Milad Shirvani, Ari Van Assche, Ekaterina Turkina",
             "date": "2027-01-01",
             "abstract_en": "",
             "abstract_zh": "",
@@ -832,10 +904,10 @@
             ]
           },
           {
-            "title_en": "When the music changes, so must your dance: Technology-forcing regulation and the shifting geography of automotive invention",
+            "title_en": "Who Gains from creative destruction? Evidence from high-quality entrepreneurship in the United States",
             "title_zh": "",
-            "url": "https://doi.org/10.1016/j.respol.2026.105655",
-            "authors": "Seyyed Milad Shirvani, Ari Van Assche, Ekaterina Turkina",
+            "url": "https://doi.org/10.1016/j.respol.2026.105642",
+            "authors": "Astrid Marinoni, John Voorheis",
             "date": "2027-01-01",
             "abstract_en": "",
             "abstract_zh": "",
@@ -1157,8 +1229,8 @@
         "resolved_name": "Journal of Environmental Economics and Management",
         "issue_title": "Published 2027-01",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-environmental-economics-and-management",
-        "matched_count": 6,
-        "total_in_issue": 17,
+        "matched_count": 7,
+        "total_in_issue": 19,
         "papers": [
           {
             "title_en": "The environmental cost of place-based industrial policy: Evidence from industrial zones in Vietnam",
@@ -1177,6 +1249,18 @@
             "title_zh": "",
             "url": "https://doi.org/10.1016/j.jeem.2026.103415",
             "authors": "Zhengwen Liu, Hong Ma, Fangrui Zhang",
+            "date": "2027-01-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "绿色发展"
+            ]
+          },
+          {
+            "title_en": "Environmental regulation, markup, and price: Evidence from China's paper industry",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jeem.2026.103435",
+            "authors": "Chunhua Wang, Zhiyun Wang, Weisi Xie, Haitao Yin",
             "date": "2027-01-01",
             "abstract_en": "",
             "abstract_zh": "",
@@ -1272,8 +1356,20 @@
         "issue_title": "Published 2026-12",
         "issue_url": "https://www.sciencedirect.com/journal/energy-economics",
         "matched_count": 12,
-        "total_in_issue": 23,
+        "total_in_issue": 24,
         "papers": [
+          {
+            "title_en": "Strategies to minimize energy vulnerability: A machine learning assessment of the roles of artificial intelligence innovations, green investments, and energy balance",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.eneco.2026.109697",
+            "authors": "Emmanuel Uche, Ali Shadady, Mamdouh Abdulaziz Saleh AL-Faryan",
+            "date": "2026-12-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "人工智能"
+            ]
+          },
           {
             "title_en": "(Un)intended consequences of extreme heatwaves for air pollution and its social cost: Evidence from the power sector in China",
             "title_zh": "",
@@ -1315,6 +1411,18 @@
             "title_zh": "",
             "url": "https://doi.org/10.1016/j.eneco.2026.109659",
             "authors": "Sami Ullah, Zuopeng Justin Zhang, Runqing Zhu",
+            "date": "2026-12-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "绿色发展"
+            ]
+          },
+          {
+            "title_en": "Climate policy spillovers through global value chains: Directional asymmetry and supply-chain heterogeneity in manufacturing",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.eneco.2026.109691",
+            "authors": "Minji Kim, Eunnyeong Heo",
             "date": "2026-12-01",
             "abstract_en": "",
             "abstract_zh": "",
@@ -1371,46 +1479,22 @@
             ]
           },
           {
+            "title_en": "Does cross-regional electricity transfer reduce carbon inequality? Evidence from ultra-high voltage transmission in China",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.eneco.2026.109686",
+            "authors": "Fan Zhang, Shujie Yao, Xiyi Chen, Feng Wang",
+            "date": "2026-12-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "绿色发展"
+            ]
+          },
+          {
             "title_en": "Long-term impacts of climate change on electricity demand and household expenditure in Saudi Arabia",
             "title_zh": "",
             "url": "https://doi.org/10.1016/j.eneco.2026.109648",
             "authors": "Ansir Ilyas, Puneet Kamboj, Fahad Alswaina, Pavithra Kumar Shetty, Mohamad Hejazi, Yoshihide Wada",
-            "date": "2026-12-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "绿色发展"
-            ]
-          },
-          {
-            "title_en": "Electrifying the factory and beyond: The impact of digital proximity on energy transition",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.eneco.2026.109651",
-            "authors": "Yijia Song, Qinyi Huang, Jiaqi Chen, Xitao Li",
-            "date": "2026-12-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "绿色发展"
-            ]
-          },
-          {
-            "title_en": "Clean steel, higher prices: Ultra-low emission upgrades and local housing markets in China",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.eneco.2026.109655",
-            "authors": "Huijun Yan, Liang Yin",
-            "date": "2026-12-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "绿色发展"
-            ]
-          },
-          {
-            "title_en": "Unveiling the role of ESG ratings in corporate greenwashing: Impacts on corporate green development and regulatory dynamics",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.eneco.2026.109631",
-            "authors": "Fangxin Jiang, Ze Yu, Lei Zhang, Xiangxi Tang",
             "date": "2026-12-01",
             "abstract_en": "",
             "abstract_zh": "",
@@ -1647,21 +1731,57 @@
         "category": "Top 5",
         "issn": "0034-6527",
         "resolved_name": "The Review of Economic Studies",
-        "issue_title": "Volume 93, Issue 5",
+        "issue_title": "Volume 93, Issue 6",
         "issue_url": "https://academic.oup.com/restud",
-        "matched_count": 1,
+        "matched_count": 4,
         "total_in_issue": 18,
         "papers": [
           {
-            "title_en": "Patent Term, Innovation, and the Role of Technology Disclosure Externalities",
+            "title_en": "Quantifying Supply-Side Climate Policies",
             "title_zh": "",
-            "url": "https://doi.org/10.1093/restud/rdag005",
-            "authors": "Fabio Bertolotti",
-            "date": "2026-09-08",
-            "abstract_en": "Abstract I examine the impact of patent term on R&D and innovation in the presence of policy anticipation, common in real-world settings. Using a difference-in-difference design, I exploit quasi-experimental variation in US patent term across technological fields due to the ratification of TRIPs agreements in 1995. Despite a general increase in average patent term, in most fields innovators faced a considerable probability of patent term reduction for future innovations. Three key findings emerge: (1) R&D and innovation accelerate more in fields with a higher probability of patent term reduction, i.e. a shorter average patent term extension, before implementation. (2) This heightened activity persists for at least 5 years postimplementation, driven by indirect effects where the news-related acceleration fosters further innovation through technological externalities linked to cumulative knowledge creation. (3) Conversely, the direct effect of a shorter extension in patent term would stimulate relatively less innovation, absent the indirect effects of anticipation.",
+            "url": "https://doi.org/10.1093/restud/rdag024",
+            "authors": "Lassi Ahlvik, Jørgen Juel Andersen, Jonas Hveding Hamang, Torfinn Harding",
+            "date": "2026-11-10",
+            "abstract_en": "Abstract What are the effects of supply-side climate policies in the oil market? We use global company-level data to estimate the impact of 84 reforms of production taxes between 2000 and 2019 on oil production, exploration, and discoveries. We find that higher taxes primarily reduce companies’ exploration expenditures and oil discoveries, and also reduce short-term production of unconventional oil. We then quantify the implications for the oil market using a short- and medium-term dynamic model extending until the end of the century. Imposing a global climate royalty surcharge of 20 percentage points on oil producers reduces average annual emissions from oil by 5–7% in the first 5 years, and 9–20% in the medium term. If only OECD countries adopt this policy, 47–73% of the total emission reductions would be offset by increased production in non-OECD countries in the medium term.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "绿色发展"
+            ]
+          },
+          {
+            "title_en": "Do The Effects of Nudges Persist? Theory and Evidence from 38 Natural Field Experiments",
+            "title_zh": "",
+            "url": "https://doi.org/10.1093/restud/rdag012",
+            "authors": "Alec Brandon, Paul J Ferraro, John A List, Robert D Metcalfe, Michael K Price, Florian Rundhammer",
+            "date": "2026-11-10",
+            "abstract_en": "Abstract We formalize a research design to uncover the mechanisms underlying long-term reductions in energy consumption caused by a widely implemented nudge. We consider two channels: technology adoption and habit formation. Using data from 38 natural field experiments, we isolate the role of technology adoption by comparing treatment and control homes after the initial resident moves, which discontinues the treatment for a home. We find that fully half of energy reductions persist in the home after treatment ends and show this persistence is consonant with a technology adoption channel. The role of technology in creating persistent behaviour change has important implications for designing behavioural interventions and evaluating their long-term social impacts.",
             "abstract_zh": "",
             "matched_topics": [
               "创新"
+            ]
+          },
+          {
+            "title_en": "Dynamic Regulation with Firm Linkages: Evidence from Texas",
+            "title_zh": "",
+            "url": "https://doi.org/10.1093/restud/rdag013",
+            "authors": "Matthew Leisten, Nicholas Vreugdenhil",
+            "date": "2026-11-10",
+            "abstract_en": "Abstract We evaluate the efficiency of dynamic linked environmental regulation. Linked regulation allows inspectors who uncover violations at one plant to increase future enforcement at other plants that share a common owner. When compliance costs are correlated, regulators can then target scarce enforcement resources towards bad actors without inspecting everyone. We develop an empirical framework of dynamic moral hazard under linked regulation that allows for large portfolios of plants and for choices to be interdependent within the portfolio of plants and across time. Using the framework we evaluate a linked regulation scheme in Texas and find that linked regulation performs substantially better than both unlinked regulation and untargeted regulation. We test two alternative theoretical mechanisms that underpin the benefit—a “firm-wide moral hazard mechanism” and a “correlated targeting mechanism”—and find that a large share of the value of linked regulation is due to the former.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "绿色发展"
+            ]
+          },
+          {
+            "title_en": "Inference Based on Time-Varying SVARs Identified with Sign Restrictions",
+            "title_zh": "",
+            "url": "https://doi.org/10.1093/restud/rdag008",
+            "authors": "Jonas E Arias, Juan F Rubio-Ramírez, Minchul Shin, Daniel F Waggoner",
+            "date": "2026-11-10",
+            "abstract_en": "Abstract We propose an approach for Bayesian inference in time-varying structural vector autoregressions (SVARs) identified with sign restrictions. The linchpin of our approach is a class of rotation-invariant time-varying SVARs in which the prior and posterior densities of any sequence of structural parameters belonging to the class are invariant to orthogonal transformations of the sequence. Our methodology is new to the literature. In contrast to existing algorithms for inference based on sign restrictions, our algorithm is the first to draw from a uniform distribution over the sequences of orthogonal matrices given the reduced-form parameters. We illustrate our procedure for inference by analyzing the role played by monetary policy during the latest inflation surge.",
+            "abstract_zh": "",
+            "matched_topics": [
+              "人工智能"
             ]
           }
         ],
@@ -1906,7 +2026,7 @@
         "issue_title": "Published 2026-12",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-public-economics",
         "matched_count": 0,
-        "total_in_issue": 1,
+        "total_in_issue": 4,
         "papers": [],
         "error": null
       },
@@ -1919,9 +2039,21 @@
         "resolved_name": "Journal of Development Economics",
         "issue_title": "Published 2027-02",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-development-economics",
-        "matched_count": 1,
-        "total_in_issue": 33,
+        "matched_count": 3,
+        "total_in_issue": 38,
         "papers": [
+          {
+            "title_en": "Can pollution monitors work where they do not measure? Evidence from China",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jdeveco.2026.103963",
+            "authors": "Dongmei Guo, Runzhe Hu, Tingting Xie",
+            "date": "2027-02-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "绿色发展"
+            ]
+          },
           {
             "title_en": "Economic consequences of climate change: Evidence from the Philippines",
             "title_zh": "",
@@ -1932,6 +2064,18 @@
             "abstract_zh": "",
             "matched_topics": [
               "绿色发展"
+            ]
+          },
+          {
+            "title_en": "Machine learning and heterogeneity in food aid impacts: Foundations for improved targeting",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jdeveco.2026.103926",
+            "authors": "Mai Mahmoud, Sikandra Kurdi",
+            "date": "2027-02-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "人工智能"
             ]
           }
         ],
@@ -1947,7 +2091,7 @@
         "issue_title": "Published 2026-12",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-international-economics",
         "matched_count": 3,
-        "total_in_issue": 31,
+        "total_in_issue": 33,
         "papers": [
           {
             "title_en": "Transportation networks, technology adoption, and structural transformation",
@@ -2089,8 +2233,8 @@
         "resolved_name": "Research Policy",
         "issue_title": "Volume 56, Issue 1",
         "issue_url": "https://www.sciencedirect.com/journal/research-policy",
-        "matched_count": 8,
-        "total_in_issue": 15,
+        "matched_count": 9,
+        "total_in_issue": 18,
         "papers": [
           {
             "title_en": "The effects of national security assessments in public procurement on competition, sustainability, innovation, and critical technology procurement",
@@ -2127,6 +2271,18 @@
             "abstract_zh": "",
             "matched_topics": [
               "创新"
+            ]
+          },
+          {
+            "title_en": "The cost of the buzz? A sufficiency threshold perspective on digital transformation disclosure and cost of equity capital",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.respol.2026.105661",
+            "authors": "Lane Matthews, Julian M. Müller, Nikolai Kazantsev, Mariano L.M. Heyden",
+            "date": "2027-01-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "人工智能"
             ]
           },
           {
@@ -2167,10 +2323,10 @@
             ]
           },
           {
-            "title_en": "Who Gains from creative destruction? Evidence from high-quality entrepreneurship in the United States",
+            "title_en": "When the music changes, so must your dance: Technology-forcing regulation and the shifting geography of automotive invention",
             "title_zh": "",
-            "url": "https://doi.org/10.1016/j.respol.2026.105642",
-            "authors": "Astrid Marinoni, John Voorheis",
+            "url": "https://doi.org/10.1016/j.respol.2026.105655",
+            "authors": "Seyyed Milad Shirvani, Ari Van Assche, Ekaterina Turkina",
             "date": "2027-01-01",
             "abstract_en": "",
             "abstract_zh": "",
@@ -2179,10 +2335,10 @@
             ]
           },
           {
-            "title_en": "When the music changes, so must your dance: Technology-forcing regulation and the shifting geography of automotive invention",
+            "title_en": "Who Gains from creative destruction? Evidence from high-quality entrepreneurship in the United States",
             "title_zh": "",
-            "url": "https://doi.org/10.1016/j.respol.2026.105655",
-            "authors": "Seyyed Milad Shirvani, Ari Van Assche, Ekaterina Turkina",
+            "url": "https://doi.org/10.1016/j.respol.2026.105642",
+            "authors": "Astrid Marinoni, John Voorheis",
             "date": "2027-01-01",
             "abstract_en": "",
             "abstract_zh": "",
@@ -2504,8 +2660,8 @@
         "resolved_name": "Journal of Environmental Economics and Management",
         "issue_title": "Published 2027-01",
         "issue_url": "https://www.sciencedirect.com/journal/journal-of-environmental-economics-and-management",
-        "matched_count": 6,
-        "total_in_issue": 17,
+        "matched_count": 7,
+        "total_in_issue": 19,
         "papers": [
           {
             "title_en": "The environmental cost of place-based industrial policy: Evidence from industrial zones in Vietnam",
@@ -2524,6 +2680,18 @@
             "title_zh": "",
             "url": "https://doi.org/10.1016/j.jeem.2026.103415",
             "authors": "Zhengwen Liu, Hong Ma, Fangrui Zhang",
+            "date": "2027-01-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "绿色发展"
+            ]
+          },
+          {
+            "title_en": "Environmental regulation, markup, and price: Evidence from China's paper industry",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.jeem.2026.103435",
+            "authors": "Chunhua Wang, Zhiyun Wang, Weisi Xie, Haitao Yin",
             "date": "2027-01-01",
             "abstract_en": "",
             "abstract_zh": "",
@@ -2619,8 +2787,20 @@
         "issue_title": "Published 2026-12",
         "issue_url": "https://www.sciencedirect.com/journal/energy-economics",
         "matched_count": 12,
-        "total_in_issue": 23,
+        "total_in_issue": 24,
         "papers": [
+          {
+            "title_en": "Strategies to minimize energy vulnerability: A machine learning assessment of the roles of artificial intelligence innovations, green investments, and energy balance",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.eneco.2026.109697",
+            "authors": "Emmanuel Uche, Ali Shadady, Mamdouh Abdulaziz Saleh AL-Faryan",
+            "date": "2026-12-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "人工智能"
+            ]
+          },
           {
             "title_en": "(Un)intended consequences of extreme heatwaves for air pollution and its social cost: Evidence from the power sector in China",
             "title_zh": "",
@@ -2662,6 +2842,18 @@
             "title_zh": "",
             "url": "https://doi.org/10.1016/j.eneco.2026.109659",
             "authors": "Sami Ullah, Zuopeng Justin Zhang, Runqing Zhu",
+            "date": "2026-12-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "绿色发展"
+            ]
+          },
+          {
+            "title_en": "Climate policy spillovers through global value chains: Directional asymmetry and supply-chain heterogeneity in manufacturing",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.eneco.2026.109691",
+            "authors": "Minji Kim, Eunnyeong Heo",
             "date": "2026-12-01",
             "abstract_en": "",
             "abstract_zh": "",
@@ -2718,46 +2910,22 @@
             ]
           },
           {
+            "title_en": "Does cross-regional electricity transfer reduce carbon inequality? Evidence from ultra-high voltage transmission in China",
+            "title_zh": "",
+            "url": "https://doi.org/10.1016/j.eneco.2026.109686",
+            "authors": "Fan Zhang, Shujie Yao, Xiyi Chen, Feng Wang",
+            "date": "2026-12-01",
+            "abstract_en": "",
+            "abstract_zh": "",
+            "matched_topics": [
+              "绿色发展"
+            ]
+          },
+          {
             "title_en": "Long-term impacts of climate change on electricity demand and household expenditure in Saudi Arabia",
             "title_zh": "",
             "url": "https://doi.org/10.1016/j.eneco.2026.109648",
             "authors": "Ansir Ilyas, Puneet Kamboj, Fahad Alswaina, Pavithra Kumar Shetty, Mohamad Hejazi, Yoshihide Wada",
-            "date": "2026-12-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "绿色发展"
-            ]
-          },
-          {
-            "title_en": "Electrifying the factory and beyond: The impact of digital proximity on energy transition",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.eneco.2026.109651",
-            "authors": "Yijia Song, Qinyi Huang, Jiaqi Chen, Xitao Li",
-            "date": "2026-12-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "绿色发展"
-            ]
-          },
-          {
-            "title_en": "Clean steel, higher prices: Ultra-low emission upgrades and local housing markets in China",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.eneco.2026.109655",
-            "authors": "Huijun Yan, Liang Yin",
-            "date": "2026-12-01",
-            "abstract_en": "",
-            "abstract_zh": "",
-            "matched_topics": [
-              "绿色发展"
-            ]
-          },
-          {
-            "title_en": "Unveiling the role of ESG ratings in corporate greenwashing: Impacts on corporate green development and regulatory dynamics",
-            "title_zh": "",
-            "url": "https://doi.org/10.1016/j.eneco.2026.109631",
-            "authors": "Fangxin Jiang, Ze Yu, Lei Zhang, Xiangxi Tang",
             "date": "2026-12-01",
             "abstract_en": "",
             "abstract_zh": "",
@@ -2855,7 +3023,7 @@
       "papers": [],
       "error": "GET failed for https://data.nber.org/nber_paper_chapter_metadata/tsv/ref.tsv: 403 Client Error: Forbidden for url: https://data.nber.org/nber_paper_chapter_metadata/tsv/ref.tsv"
     },
-    "total_matches": 83,
+    "total_matches": 90,
     "note": "Latest issue TOCs from economics top journals and field-top journals plus recent NBER Working Papers, filtered by title/abstract keywords for industrial policy, innovation, green development, and artificial intelligence."
   }
 }
